@@ -317,7 +317,34 @@
   const vbody = document.getElementById("vendor-body");
   const vmore = document.getElementById("vendor-more");
   const vq = document.getElementById("vq");
-  let vShown = 50, vList = vendorsRanked;
+  const vfy = document.getElementById("v-fy");
+  const fyList = Object.keys(fyTotals).sort();
+  vfy.innerHTML += fyList.map(fy => `<option value="${fy}">FY ${fy}</option>`).join("");
+  let vShown = 50, vYear = "";
+  let vAggView = vAgg, vRankedView = vendorsRanked, vList = vendorsRanked;
+
+  // rebuild vendor aggregates scoped to the selected fiscal year (all-time when blank)
+  function rebuildVendorsView() {
+    if (!vYear) { vAggView = vAgg; vRankedView = vendorsRanked; }
+    else {
+      vAggView = new Map();
+      ROWS.forEach((r, i) => {
+        if (r.fy !== +vYear) return;
+        let v = vAggView.get(r.group);
+        if (!v) vAggView.set(r.group, v = { name: r.group, total: 0, n: 0, first: r.date, last: r.date, rows: [] });
+        v.total += r.amount; v.n++; v.rows.push(i);
+        if (r.date < v.first) v.first = r.date;
+        if (r.date > v.last) v.last = r.date;
+      });
+      vRankedView = [...vAggView.values()].sort((a, b) => b.total - a.total);
+    }
+    applyVendorSearch();
+  }
+  function applyVendorSearch() {
+    const t = vq.value.trim().toLowerCase();
+    vList = t ? vRankedView.filter(v => v.name.toLowerCase().includes(t)) : vRankedView;
+    vShown = 50; renderVendors();
+  }
 
   function renderVendors() {
     vbody.innerHTML = vList.slice(0, vShown).map((v, i) => `
@@ -334,16 +361,14 @@
     vbody.querySelectorAll("tr").forEach(tr =>
       tr.addEventListener("click", () => showVendorDetail(tr.dataset.name)));
   }
-  vq.addEventListener("input", () => {
-    const t = vq.value.trim().toLowerCase();
-    vList = t ? vendorsRanked.filter(v => v.name.toLowerCase().includes(t)) : vendorsRanked;
-    vShown = 50; renderVendors();
-  });
+  vq.addEventListener("input", applyVendorSearch);
+  vfy.addEventListener("change", () => { vYear = vfy.value; rebuildVendorsView(); });
   vmore.addEventListener("click", () => { vShown += 100; renderVendors(); });
 
   function showVendorDetail(name) {
-    const v = vAgg.get(name);
+    const v = vAggView.get(name);
     if (!v) return;
+    const yrLabel = vYear ? ` · FY ${vYear}` : "";
     const byMonth = {};
     const byAcct = {};
     for (const i of v.rows) {
@@ -355,36 +380,42 @@
     const el = document.getElementById("vendor-detail");
     el.innerHTML = `<div class="vendor-card">
       <button class="vc-close" title="close">×</button>
-      <h3>${esc(titleCase(name))}</h3>
+      <h3>${esc(titleCase(name))}${yrLabel ? `<span class="mono small" style="font-weight:400;color:var(--ink-faint)">${yrLabel}</span>` : ""}</h3>
       <div class="vc-stats">
-        <div class="vc-stat"><div class="lab">Total received</div><div class="val">${money(v.total)}</div></div>
+        <div class="vc-stat"><div class="lab">Total received${yrLabel}</div><div class="val">${money(v.total)}</div></div>
         <div class="vc-stat"><div class="lab">Payments</div><div class="val">${fmtNum.format(v.n)}</div></div>
         <div class="vc-stat"><div class="lab">First seen</div><div class="val">${v.first}</div></div>
         <div class="vc-stat"><div class="lab">Last seen</div><div class="val">${v.last}</div></div>
       </div>
       ${sparkline(months, byMonth)}
       ${topAccts.length ? `<div class="vc-accounts">Spending areas: ${topAccts.map(([f, amt]) => `<span>${esc(f)} · ${moneyShort(amt)}</span>`).join("")}</div>` : ""}
-      <a class="more-link" href="#explore" data-q="${esc(name)}">See all ${fmtNum.format(v.n)} transactions &rarr;</a>
+      <a class="more-link" href="#explore" data-q="${esc(name)}">See all ${fmtNum.format(v.n)} transactions${yrLabel} &rarr;</a>
     </div>`;
     el.querySelector(".vc-close").addEventListener("click", () => el.innerHTML = "");
-    el.querySelector(".more-link").addEventListener("click", e => { e.preventDefault(); gotoExplore({ q: name }); });
+    el.querySelector(".more-link").addEventListener("click", e => { e.preventDefault(); gotoExplore({ q: name, fy: vYear }); });
     el.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   // ---------------- cards view ----------------
   const CARD_EV = raw.cards || {};   // last4 -> [modal coded location, n at modal, total coded]
-  const cAgg = new Map();
-  for (const r of ROWS) {
-    if (r.src !== "c" || !r.ref) continue;
-    let c = cAgg.get(r.ref);
-    if (!c) cAgg.set(r.ref, c = { card: r.ref, total: 0, n: 0, first: r.date, last: r.date, byMonth: {}, merchants: {} });
-    c.total += r.amount; c.n++;
-    if (r.date < c.first) c.first = r.date;
-    if (r.date > c.last) c.last = r.date;
-    c.byMonth[r.month] = (c.byMonth[r.month] || 0) + r.amount;
-    c.merchants[r.group] = (c.merchants[r.group] || 0) + r.amount;
+  let cAgg = new Map(), cardsRanked = [], cYear = "";
+
+  function rebuildCardsView() {
+    cAgg = new Map();
+    for (const r of ROWS) {
+      if (r.src !== "c" || !r.ref) continue;
+      if (cYear && r.fy !== +cYear) continue;
+      let c = cAgg.get(r.ref);
+      if (!c) cAgg.set(r.ref, c = { card: r.ref, total: 0, n: 0, first: r.date, last: r.date, byMonth: {}, merchants: {} });
+      c.total += r.amount; c.n++;
+      if (r.date < c.first) c.first = r.date;
+      if (r.date > c.last) c.last = r.date;
+      c.byMonth[r.month] = (c.byMonth[r.month] || 0) + r.amount;
+      c.merchants[r.group] = (c.merchants[r.group] || 0) + r.amount;
+    }
+    cardsRanked = [...cAgg.values()].sort((a, b) => b.total - a.total);
+    cShown = 50; renderCards();
   }
-  const cardsRanked = [...cAgg.values()].sort((a, b) => b.total - a.total);
 
   function cardEvidence(card) {
     const ev = CARD_EV[card];
@@ -397,6 +428,9 @@
 
   const cbody = document.getElementById("cards-body");
   const cmore = document.getElementById("cards-more");
+  const cfy = document.getElementById("c-fy");
+  cfy.innerHTML += fyList.map(fy => `<option value="${fy}">FY ${fy}</option>`).join("");
+  cfy.addEventListener("change", () => { cYear = cfy.value; rebuildCardsView(); });
   let cShown = 50;
 
   function renderCards() {
@@ -420,6 +454,7 @@
   function showCardDetail(card) {
     const c = cAgg.get(card);
     if (!c) return;
+    const yrLabel = cYear ? ` · FY ${cYear}` : "";
     const ev = cardEvidence(card);
     const topMerch = Object.entries(c.merchants).sort((a, b) => b[1] - a[1]).slice(0, 6);
     const evLine = ev.kind === "strong"
@@ -430,9 +465,9 @@
     const el = document.getElementById("card-detail");
     el.innerHTML = `<div class="vendor-card">
       <button class="vc-close" title="close">×</button>
-      <h3 class="mono">Card ····${esc(card)}</h3>
+      <h3 class="mono">Card ····${esc(card)}${yrLabel ? `<span class="small" style="font-weight:400;color:var(--ink-faint)">${yrLabel}</span>` : ""}</h3>
       <div class="vc-stats">
-        <div class="vc-stat"><div class="lab">Total spent</div><div class="val">${money(c.total)}</div></div>
+        <div class="vc-stat"><div class="lab">Total spent${yrLabel}</div><div class="val">${money(c.total)}</div></div>
         <div class="vc-stat"><div class="lab">Swipes</div><div class="val">${fmtNum.format(c.n)}</div></div>
         <div class="vc-stat"><div class="lab">First seen</div><div class="val">${c.first}</div></div>
         <div class="vc-stat"><div class="lab">Last seen</div><div class="val">${c.last}</div></div>
@@ -440,10 +475,10 @@
       ${sparkline(months, c.byMonth)}
       <p class="small" style="margin-top:8px">${evLine}</p>
       <div class="vc-accounts">Top merchants: ${topMerch.map(([m, amt]) => `<span>${esc(titleCase(m))} · ${moneyShort(amt)}</span>`).join("")}</div>
-      <a class="more-link" href="#explore" data-card="${esc(card)}">See all ${fmtNum.format(c.n)} swipes &rarr;</a>
+      <a class="more-link" href="#explore" data-card="${esc(card)}">See all ${fmtNum.format(c.n)} swipes${yrLabel} &rarr;</a>
     </div>`;
     el.querySelector(".vc-close").addEventListener("click", () => el.innerHTML = "");
-    el.querySelector(".more-link").addEventListener("click", e => { e.preventDefault(); gotoExplore({ q: card, src: "c" }); });
+    el.querySelector(".more-link").addEventListener("click", e => { e.preventDefault(); gotoExplore({ q: card, src: "c", fy: cYear }); });
     el.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
@@ -559,7 +594,7 @@
   // initial explore render + vendors (skip if route() already applied a shared link)
   if ((location.hash || "").split("?")[0] !== "#explore" || !location.hash.includes("?")) applyFilters();
   renderVendors();
-  renderCards();
+  rebuildCardsView();
 
   // dismiss loader
   setTimeout(() => document.getElementById("loader").classList.add("done"), 350);
