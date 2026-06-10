@@ -11,6 +11,7 @@ Sources:
 
 Outputs site/data/*.json
 """
+import csv
 import hashlib
 import json
 import os
@@ -21,6 +22,7 @@ from datetime import datetime
 
 EXTRACTED = os.path.join(os.path.dirname(__file__), "..", "extracted")
 OUTDIR = os.path.join(os.path.dirname(__file__), "..", "site", "data")
+MANIFEST = os.path.join(os.path.dirname(__file__), "..", "ICCSD_AP_Documents_manifest.csv")
 
 KNOWN_FUNDS = {
     "10": "General Operating",
@@ -629,9 +631,19 @@ def main():
         if not os.path.exists(os.path.join(pdfdir, pdf)):
             print(f"  WARNING: referenced source PDF missing: {pdf}")
 
+    # Simbli (eboardsolutions) meeting ids, keyed by meeting date — the app links
+    # each document to the board-meeting agenda it was published with
+    meetings = {}
+    with open(MANIFEST, newline="") as fh:
+        for row in csv.DictReader(fh):
+            meetings[row["meeting_date"]] = int(row["meeting_id"])
+    no_meeting = sorted({d[:10] for d in docs} - set(meetings))
+    if no_meeting:
+        print(f"  WARNING: docs with no meeting id in manifest: {no_meeting}")
+
     groups = [canon_merchant(v) for v in vendors]
     data = {"fields": ["src", "date", "vendor", "desc", "acct", "amount", "ref", "po", "doc", "page"],
-            "vendors": vendors, "groups": groups, "docs": docs, "rows": rows}
+            "vendors": vendors, "groups": groups, "docs": docs, "meetings": meetings, "rows": rows}
     with open(os.path.join(OUTDIR, "transactions.json"), "w") as fh:
         json.dump(data, fh, separators=(",", ":"), ensure_ascii=False)
     sz = os.path.getsize(os.path.join(OUTDIR, "transactions.json"))

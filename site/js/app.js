@@ -38,6 +38,11 @@
     };
   });
   const docHref = r => r.doc == null ? "" : "docs/" + encodeURIComponent(DOCS[r.doc]) + "#page=" + r.page;
+  const MEETINGS = raw.meetings || {};   // meeting date -> Simbli meeting id
+  const agendaHref = file => {
+    const mid = MEETINGS[(file || "").slice(0, 10)];
+    return mid ? `https://simbli.eboardsolutions.com/SB_Meetings/ViewMeeting.aspx?S=36031992&MID=${mid}&Tab=Agenda` : "";
+  };
   // search blob per row (lazy-built lowercase)
   const SEARCH = ROWS.map(r => (VENDORS[r.vi] + " " + r.group + " " + r.desc + " " + r.ref + " " + r.po).toLowerCase());
   fill.style.width = "100%";
@@ -213,7 +218,7 @@
         <td class="td-tag">${esc(fundInfo.name)}</td>
         <td class="td-tag">${r.loc ? esc(locName(r.loc)) : ""}</td>
         <td class="td-amt">${money(r.amount, true)}</td>
-        <td class="td-doc">${r.doc != null ? `<a class="doc-link" href="${docHref(r)}" target="_blank" rel="noopener" title="Open the district's source document — ${esc(DOCS[r.doc])}, page ${r.page}">PDF<span class="doc-pg"> p.${r.page}</span></a>` : ""}</td>
+        <td class="td-doc">${r.doc != null ? `<a class="doc-link" href="${docHref(r)}" target="_blank" rel="noopener" title="Open the district's source document — ${esc(DOCS[r.doc])}, page ${r.page}">PDF<span class="doc-pg"> p.${r.page}</span></a>${agendaHref(DOCS[r.doc]) ? ` <a class="doc-link" href="${agendaHref(DOCS[r.doc])}" target="_blank" rel="noopener" title="ICCSD board meeting agenda of ${fmtDate(DOCS[r.doc].slice(0, 10))}, where this document was published">agenda</a>` : ""}` : ""}</td>
       </tr>`;
     }).join("");
     els.more.style.display = filtered.length > state.shown ? "block" : "none";
@@ -244,12 +249,13 @@
   });
 
   document.getElementById("export-csv").addEventListener("click", () => {
-    const head = "date,source,vendor,description,account,fund,location,amount,ref,po,source_document,source_page\n";
+    const head = "date,source,vendor,description,account,fund,location,amount,ref,po,source_document,source_page,meeting_agenda\n";
     const csv = head + filtered.map(r => [
       r.date, r.src === "a" ? "check" : "card", q(VENDORS[r.vi]), q(r.desc), r.acct || "",
       r.fund ? (FUNDS[r.fund] || {}).name || r.fund : "card-uncoded",
       r.loc ? locName(r.loc) : "", r.amount.toFixed(2), q(r.ref), q(r.po),
       q(r.doc != null ? DOCS[r.doc] : ""), r.doc != null ? r.page : "",
+      q(r.doc != null ? agendaHref(DOCS[r.doc]) : ""),
     ].join(",")).join("\n");
     function q(s) { s = String(s || ""); return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; }
     const a = document.createElement("a");
@@ -408,7 +414,8 @@
         : ok ? `<span class="val-ok">match ✓</span>`
         : `<span class="val-bad">differs ${moneyShort(b.parsed - b.official)}</span>`;
       const f = fileByBatch[b.batch_date];
-      const cell = f ? `<a class="doc-link" href="docs/${encodeURIComponent(f)}" target="_blank" rel="noopener" title="Open the board report PDF — ${esc(f)}">${b.batch_date}</a>` : b.batch_date;
+      const ag = f && agendaHref(f);
+      const cell = f ? `<a class="doc-link" href="docs/${encodeURIComponent(f)}" target="_blank" rel="noopener" title="Open the board report PDF — ${esc(f)}">${b.batch_date}</a>${ag ? ` <a class="doc-link val-agenda" href="${ag}" target="_blank" rel="noopener" title="ICCSD board meeting agenda of ${fmtDate(f.slice(0, 10))}">agenda</a>` : ""}` : b.batch_date;
       return `<tr><td>${cell}</td><td class="num">${b.official != null ? fmtUSD.format(b.official) : "—"}</td><td class="num">${b.parsed != null ? fmtUSD.format(b.parsed) : "—"}</td><td>${status}</td></tr>`;
     }).join("");
     document.getElementById("validation-table").innerHTML = `
