@@ -203,6 +203,7 @@
       if (state.obj && (!r.obj || objFamily(r.obj) !== state.obj)) continue;
       if (state.month && r.month !== state.month) continue;
       if (state.amt === "neg") { if (r.amount >= 0) continue; }
+      else if (state.amt === "pos") { if (r.amount < 0) continue; }
       else if (state.amt && Math.abs(r.amount) < +state.amt) continue;
       if (terms.length) {
         const s = SEARCH[i];
