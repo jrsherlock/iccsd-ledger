@@ -391,7 +391,7 @@
     const [loc, n, of] = ev;
     if (of >= 5 && n / of >= 0.8)
       return { kind: "strong", loc, n, of, html: `<strong>${esc(locName(loc))}</strong> <span class="small mono">${n}/${of} coded</span>` };
-    return { kind: "weak", loc, n, of, html: `<span class="small">mixed coding · ${of} coded purchase${of === 1 ? "" : "s"}</span>` };
+    return { kind: "weak", loc, n, of, html: `<span class="small">inconclusive · ${of} coded purchase${of === 1 ? "" : "s"}</span>` };
   }
 
   const cbody = document.getElementById("cards-body");
@@ -424,7 +424,7 @@
     const evLine = ev.kind === "strong"
       ? `The district's coded P-Card reports tie <strong>${ev.n} of ${ev.of}</strong> of this card's coded purchases to <strong>${esc(locName(ev.loc))}</strong>.`
       : ev.kind === "weak"
-        ? `This card's ${ev.of} coded purchase${ev.of === 1 ? "" : "s"} spread across buildings — no single assignment is supported.`
+        ? `This card has ${ev.of} coded purchase${ev.of === 1 ? "" : "s"} — too few or too inconsistent to support a building assignment.`
         : `None of this card's purchases appear in the district's coded P-Card reports (published only for spring 2026), so no assignment can be supported.`;
     const el = document.getElementById("card-detail");
     el.innerHTML = `<div class="vendor-card">
