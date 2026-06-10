@@ -33,6 +33,7 @@
     <p class="masthead-sub">An independent, line-by-line account of how the Iowa City Community School District spends public money &mdash; rebuilt from <span class="hl">280 board documents</span> into one searchable ledger.</p>
     <nav class="tabs" id="tabs">
       <a href="#overview" data-tab="overview" class="tab active">Overview</a>
+      <a href="#insights" data-tab="insights" class="tab">The Paper Trail<span class="tab-hint mono">new</span></a>
       <a href="#explore" data-tab="explore" class="tab">Explore<span class="tab-hint mono">86k rows</span></a>
       <a href="#vendors" data-tab="vendors" class="tab">Vendors</a>
       <a href="#schools" data-tab="schools" class="tab">Schools</a>
@@ -103,6 +104,26 @@
         <div id="fy-compare" class="barlist"></div>
       </div>
     </div>
+  </section>
+
+  <!-- ============ THE PAPER TRAIL (insights) ============ -->
+  <section id="view-insights" class="view">
+    <div class="pt-head">
+      <div class="pt-kicker mono">SPECIAL SECTION &middot; READING THE CRISIS IN THE CHECKBOOK</div>
+      <h2 class="pt-title">The Paper Trail</h2>
+      <p class="pt-lede">In January 2026 the ICCSD school board learned that the administration had quietly moved
+        <strong>$10&nbsp;million</strong> from the health-insurance fund to the general fund &mdash; without the board approval
+        required by policy and state law. What followed: <strong>$7.5&nbsp;million in budget cuts</strong>, a
+        <strong>$25&nbsp;million loan the district couldn't get</strong>, a paused <strong>$104&nbsp;million construction plan</strong>,
+        and resignations across district leadership
+        <a href="https://wsspaper.com/116027/news/budget-cuts-loans-denied-and-resignations-a-deep-dive-into-the-iccsds-current-financial-state/"
+           target="_blank" rel="noopener">(West Side Story's deep dive&nbsp;&rarr;)</a>.</p>
+      <p class="pt-lede2">The loan itself was a fund transfer &mdash; it never appears in a checkbook. But the spending around the crisis does.
+        The exhibits below are built from the district's own published payment records; <em>every number links to the page of the
+        PDF it came from.</em></p>
+      <div class="pt-timeline mono" id="pt-timeline"></div>
+    </div>
+    <div id="pt-exhibits"></div>
   </section>
 
   <!-- ============ EXPLORE ============ -->
@@ -261,6 +282,7 @@
 
 <script src="js/lookups.js"></script>
 <script src="js/charts.js"></script>
+<script src="js/insights.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>

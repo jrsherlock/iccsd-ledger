@@ -426,14 +426,23 @@
       </table>`;
   }
 
+  // ---------------- the paper trail (insights) ----------------
+  let insightsDone = false;
+  function renderInsightsOnce() {
+    if (insightsDone) return;
+    insightsDone = true;
+    renderInsights({ ROWS, VENDORS, DOCS, gotoExplore, docHref });
+  }
+
   // ---------------- routing ----------------
   function route() {
     const h = (location.hash || "#overview").slice(1);
-    const tab = ["overview", "explore", "vendors", "schools", "categories", "about"].includes(h) ? h : "overview";
+    const tab = ["overview", "insights", "explore", "vendors", "schools", "categories", "about"].includes(h) ? h : "overview";
     document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
     document.getElementById("view-" + tab).classList.add("active");
     document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.tab === tab));
     if (tab === "categories") renderCategories();
+    if (tab === "insights") renderInsightsOnce();
     window.scrollTo({ top: 0 });
   }
   window.addEventListener("hashchange", route);
