@@ -236,6 +236,23 @@
         <p>Every dollar carries a code like <span class="mono acct-demo">10&nbsp;0109&nbsp;1100&nbsp;100&nbsp;0000&nbsp;612</span>. It unpacks left to right:</p>
         <div id="coa-decoder" class="coa-decoder"></div>
 
+        <h3>How purchasing cards get their building labels</h3>
+        <p>The card statements identify each card only by its <strong>last four digits</strong> &mdash; the published records
+          include no roster of who holds which card or what it's for. The building assignments shown on the
+          <a href="#cards">Cards</a> page are derived entirely from the district's own bookkeeping:</p>
+        <ul>
+          <li>The <strong>coded P-Card reports</strong> (published for spring&nbsp;2026 only) list card transactions with full
+            account codes. Matching those lines back to the raw statements by date, amount, and merchant ties account codes
+            to <strong>579 transactions across 65 of the 168 cards</strong>.</li>
+          <li>The <strong>location segment</strong> of those codes names the building each purchase was charged to. A card is
+            labeled only when at least <strong>5 coded purchases</strong> agree on one building at least <strong>80%</strong>
+            of the time &mdash; and the evidence is always shown (&ldquo;West High School &middot; 38/38 coded&rdquo;).</li>
+          <li>Cards that fail that test read <em>inconclusive</em>; the 103 cards with no coded purchases stay unlabeled.
+            Nothing is guessed from the card number, the merchants, or anywhere else.</li>
+        </ul>
+        <p>Two limits: the label is a <em>building</em>, never a purpose or a person, and the evidence window is one
+          spring &mdash; a card's use may differ in other periods.</p>
+
         <h3>How trustworthy is this?</h3>
         <p>Every transaction in the <a href="#explore">explorer</a> carries a <strong>PDF link straight to the page of the district document it was parsed from</strong>, so any line item can be checked against the original in one click. The documents served here are byte-for-byte copies of the PDFs published with ICCSD board agendas.</p>
         <p>Every one of the <strong>102 check batches</strong> parsed from the board reports sums <em>exactly</em> &mdash; to the penny &mdash; to the total printed on the district's own report. The table below also compares each batch against the one-page summary sheets the board sees. Where they disagree, the detailed reports are usually right: the summary sheets are assembled by hand and contain occasional copy-paste slips (the Jan&nbsp;28,&nbsp;2025 sheet, for instance, omits a $1.45M General-Fund line for the Jan&nbsp;21 run and lists a stray October date instead).</p>
