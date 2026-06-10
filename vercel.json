@@ -2,5 +2,11 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
   "buildCommand": "mkdir -p site/docs && cp ICCSD_AP_Documents/*.pdf site/docs/",
-  "outputDirectory": "site"
+  "outputDirectory": "site",
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [{ "key": "Access-Control-Allow-Origin", "value": "*" }]
+    }
+  ]
 }
