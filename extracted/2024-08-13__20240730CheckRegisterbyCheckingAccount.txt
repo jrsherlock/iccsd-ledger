@@ -1,0 +1,37 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT       Check Register by Checking Account                                                   Page: 1
+07/30/2024 12:35 PM                 Unposted; Batch Description 20240730 Check Printing                                 User ID: 12031
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+407833          07/30/2024                               000461          CITY OF CORALVILLE                                  1,667.49
+407834          07/30/2024                               006265          CLUB WEST                                           8,950.00
+407835          07/30/2024                               005199          MIDAMERICAN ENERGY                                    480.09
+                Check Type Total:      Check                         Void Total:         0.00    Total without Voids:       11,097.58
+                Checking Account Total: 1                            Void Total:          0.00   Total without Voids:       11,097.58
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200017          07/30/2024                               006637          AMERICAN BOTTLING CO., INC.                           236.16
+200018          07/30/2024                               107289          VICTOR YODER                                        1,726.70
+200019          07/30/2024                               015494          JEREMY CRONK                                          167.24
+200020          07/30/2024                               012513          DECKER SPORTING GOODS INC                           6,504.00
+200021          07/30/2024                               000031          ELITE SPORTS                                          563.00
+200022          07/30/2024                               105978          WOLFGANG FULLENKAMP                                    67.43
+200023          07/30/2024                               016112          KIM HALL                                              176.80
+200024          07/30/2024                               001058          HARRY'S CUSTOM TROPHIES                                52.60
+200025          07/30/2024                               020374          HOLLYWOOD GRAPHICS                                  1,515.48
+200026          07/30/2024                               017250          HUDL                                               10,700.00
+200027          07/30/2024                               000066          IOWA HIGH SCHOOL MUSIC ASSOCIATION                     25.00
+200028          07/30/2024                               019986          JOSTENS                                                18.20
+200029          07/30/2024                               015065          RAGE GRAFIX LLC                                     1,418.00
+200030          07/30/2024                               103925          ST. AMBROSE UNIVERSITY                                275.00
+200031          07/30/2024                               010880          WINDSTAR LINES INC                                  2,549.25
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         25,994.86
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       25,994.86
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9027532         07/30/2024                               015100          MEDIACOM                                            3,749.99
+9027533         07/30/2024                               015021          VERIZON WIRELESS SERVICES LLC                          80.02
+                Check Type Total:      Check                         Void Total:        0.00  Total without Voids:           3,830.01
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:        3,830.01
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:       40,922.45
+

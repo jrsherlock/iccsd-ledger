@@ -1,0 +1,194 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                            Page: 1
+03/25/2025 2:03 PM                                                                                                                                  User ID: 16976
+Checking Account:      1                  1
+Check Number: 410227           Check Type: Check      Check Date: 03/25/2025    Vendor: 012290    CENTURYLINK COMMUNICATIONS, LLC    Check Total:        2,827.45
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  728735624                04/19/2025                    PHONE SVCS                               10 0000 2511 000 0000 532             2,827.45
+
+Check Number: 410228           Check Type: Check      Check Date: 03/25/2025    Vendor: 008904    CIT CHARTERS INC                   Check Total:       11,432.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  20987                    03/10/2025                    3/10 LIB BTK                             10 0114 2700 920 6740 515             2,099.73
+  20988                    03/13/2025                    3/13 LIB BTK                             10 0114 2700 920 6740 515             2,276.31
+  20989                    03/14/2025                    3/14 LIB GTK                             10 0114 2700 920 6840 515             2,276.31
+  20990                    03/13/2025                    3/13 LIB JAZZ CHOIR WAUKEE               10 0114 2700 950 7208 515             2,680.42
+  21007                    03/11/2025                    3/11 LIB GTK                             10 0114 2700 920 6840 515             2,099.73
+
+Check Number: 410229           Check Type: Check      Check Date: 03/25/2025    Vendor: 000465    CITY OF IOWA CITY                  Check Total:            5.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  031225                   03/12/2025                    CITY HOUSE - WATER                       10 0109 2620 000 0000 411                 5.50
+
+Check Number: 410230           Check Type: Check      Check Date: 03/25/2025    Vendor: 012003    MONIQUE COTTMAN                    Check Total:        2,931.74
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  032425                   03/24/2025                    NABSE CONF NOV 24                        10 0000 1100 100 3376 582             2,931.74
+
+Check Number: 410231           Check Type: Check      Check Date: 03/25/2025    Vendor: 005199    MIDAMERICAN ENERGY                 Check Total:        1,241.98
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  031425                   03/14/2025                    ELEC-DIST WHS STE 1                      10 0050 2620 000 0000 622               755.43
+  031425                   03/14/2025                    ELEC-DIST WHS STE 2                      10 0050 2620 000 0000 622                11.26
+  031425                   03/14/2025                    ELEC-DIST WHS STE 3                      10 0050 2620 000 0000 622                75.55
+  031425                   03/14/2025                    ELEC-DIST WHS STE 4                      10 0050 2620 000 0000 622                13.61
+  031425                   03/14/2025                    ELEC-DIST WHS STE 5                      10 0050 2620 000 0000 622                10.85
+  031425                   03/14/2025                    ELEC-DIST WHS STE 6                      10 0050 2620 000 0000 622                11.58
+  031425                   03/14/2025                    ELEC-DIST WHS STE 7                      10 0050 2620 000 0000 622                14.37
+  031425                   03/14/2025                    ELEC-DIST WHS STE 8                      10 0050 2620 000 0000 622                27.59
+  031425                   03/14/2025                    ELEC-DIST WHS STE 9                      10 0050 2620 000 0000 622                10.59
+  031425                   03/14/2025                    ELEC-DIST WHS STE 10                     10 0050 2620 000 0000 622                33.26
+  031425                   03/14/2025                    ELEC-DIST WHS STE 11                     10 0050 2620 000 0000 622                23.71
+  031425                   03/14/2025                    ELEC-DIST WHS STE 12                     10 0050 2620 000 0000 622                11.49
+  031425                   03/14/2025                    ELEC-DIST WHS STE 13                     10 0050 2620 000 0000 622                11.09
+  031425                   03/14/2025                    ELEC-DIST WHS STE 14                     10 0050 2620 000 0000 622                18.48
+  031425                   03/14/2025                    ELEC-DIST WHS HOUSE                      10 0050 2620 000 0000 622               213.12
+
+Check Number: 410232           Check Type: Check      Check Date: 03/25/2025    Vendor: 010880    WINDSTAR LINES INC                 Check Total:        8,020.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  161174                   03/13/2025                    3/13 CITY BTK                            10 0109 2700 920 6740 515             1,670.00
+  161175                   03/10/2025                    3/10 WEST BTK                            10 0118 2700 920 6740 515             1,525.00
+  161176                   03/11/2025                    3/11 WEST GTK                            10 0118 2700 920 6840 515             1,475.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                        Detail Check Register                                                                      Page: 2
+03/25/2025 2:03 PM                                                                                                                             User ID: 16976
+Checking Account:     1                1
+  161177                  03/13/2025       3/13 WEST BTK                                    10 0118 2700 920 6740 515               1,675.00
+  161178                  03/14/2025       3/14 WEST GTK                                    10 0118 2700 920 6840 515               1,675.00
+
+  *Denotes Expensed Invoice Item                                     Checking Account ID:   1                           Total without Voids:       26,459.17
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                             Page: 3
+03/25/2025 2:03 PM                                                                                                                                   User ID: 16976
+Checking Account:      3                  3
+Check Number: 202022           Check Type: Check      Check Date: 03/25/2025    Vendor: 016820      AD MARKET PRODUCTIONS INC         Check Total:          700.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  2598                     03/17/2025                    2025 SPRING SHOW SOUND SYS                 21 0109 1900 950 7210 611              700.00
+
+Check Number: 202023           Check Type: Check      Check Date: 03/25/2025    Vendor: 103904      ADCRAFT PRINTWEAR CO              Check Total:        2,597.80
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  347132                   03/21/2025                    BB SHORT SLEEVE SHIRTS                     21 0118 1900 921 6730 611            1,560.00
+  353372                   03/21/2025                    BB APPAREL                                 21 0118 1900 921 6730 611            1,037.80
+
+Check Number: 202024           Check Type: Check      Check Date: 03/25/2025    Vendor: 020187      ALPHAGRAPHICS OF NORTH LIBERTY    Check Total:          214.32
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  67566                    03/18/2025                    UNITED FINANCIAL BANNER                    21 0118 1900 921 6835 611              107.16
+  67587                    03/20/2025                    JAGUAR BANNER                              21 0118 1900 921 6835 611              107.16
+
+Check Number: 202025           Check Type: Check      Check Date: 03/25/2025    Vendor: 015057      BSN SPORTS LLC                    Check Total:        2,323.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  929054388                03/06/2025     2500847        Dash Mens 1/2 Split Track Short 15 S, 10   21 0118 1900 921 6740 611            1,080.00
+  929054388                03/06/2025     2500847        Vision Mens Compression Short 15 S, 10 M   21 0118 1900 921 6740 611            1,000.00
+  929054388                03/06/2025     2500847        Shipping                                   21 0118 1900 921 6740 611               95.00
+  929221297                03/19/2025     2501036        010 - BLK/WHT-CLUB TEAM BALL BAG           21 0114 1900 921 6825 611              136.00
+  929221297                03/19/2025     2501036        Freight                                    21 0114 1900 921 6825 611               12.00
+
+Check Number: 202026           Check Type: Check      Check Date: 03/25/2025    Vendor: 010917      COLONIAL BOWLING LANES            Check Total:        2,992.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  113                      03/23/2024                    24-25 CITY LINEAGE RENTAL                  21 0109 1900 920 6785 811            1,250.00
+  113                      03/23/2024                    24-25 CITY LINEAGE RENTAL                  21 0109 1900 920 6885 811            1,250.00
+  114                      03/23/2025                    BBWL FEB LINEAGE                           21 0118 1900 920 6785 811              492.50
+
+Check Number: 202027           Check Type: Check      Check Date: 03/25/2025    Vendor: 013793      ESTELA'S FRESH MEX                Check Total:        2,950.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  000890                   03/17/2025                    3/24 CITY BTK MEAL                         21 0109 1900 920 6785 811            2,950.00
+
+Check Number: 202028           Check Type: Check      Check Date: 03/25/2025    Vendor: 014417      HILLYARD/DES MOINES SANITARY      Check Total:          378.60
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  605773413                03/20/2025     2501003        QT2 Disinfecting Wipe (non-food safe)      21 0118 1900 923 6601 611              378.60
+
+Check Number: 202029           Check Type: Check      Check Date: 03/25/2025    Vendor: 017250      HUDL                              Check Total:          419.41
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  H00126216                03/17/2025                    FOCUS POINT HDWR/SOFTWARE                  21 0114 1900 921 6815 611              419.41
+  H00126216                03/17/2025                    3/14/25 - 8/14/25                          21 0114 1900 921 6815 611                0.00
+
+Check Number: 202030           Check Type: Check      Check Date: 03/25/2025    Vendor: 017329      IOWA HIGH SCHOOL GOLF COACHES     Check Total:           45.00
+                                                                                                    ASSOC
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  032425                   03/24/2025                    WEST HS MEMBERSHIP                         21 0118 1900 920 6760 811               22.50
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                               Page: 4
+03/25/2025 2:03 PM                                                                                                                                     User ID: 16976
+Checking Account:      3                  3
+  032425                   03/24/2025                    WEST HS MEMBERSHIP                         21 0118 1900 920 6860 811                 22.50
+
+Check Number: 202031           Check Type: Check      Check Date: 03/25/2025    Vendor: 017325      IOWA HIGH SCHOOL SPEECH             Check Total:           39.00
+                                                                                                    ASSOCIATION
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  031825                   03/18/2025                    3/31 LIBERTY HS ALL STATE IND REG          21 0114 1900 950 7325 611                 13.00
+  031825A                  03/18/2025                    3/31 LIBERTY HS ALL STATE IND REG          21 0114 1900 950 7325 611                 26.00
+
+Check Number: 202032           Check Type: Check      Check Date: 03/25/2025    Vendor: 012509      IRONSIDE APPAREL & PROMOTIONS INC Check Total:            485.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  31353                    01/31/2025                    BWR HOODIES                                21 0118 1900 921 6790 611                485.00
+
+Check Number: 202033           Check Type: Check      Check Date: 03/25/2025    Vendor: 001834      J.W. PEPPER & SON, INC.             Check Total:           69.60
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  367356319                03/04/2025                    APPALACHIAN MORNING                        21 0109 1900 950 7220 612                 69.60
+
+Check Number: 202034           Check Type: Check      Check Date: 03/25/2025    Vendor: 001864      JOHNSTON COMM SCHOOL DIST           Check Total:          200.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  032725                   03/24/2025                    3/27 LIBERTY BTK                           21 0114 1900 920 6740 811                200.00
+
+Check Number: 202035           Check Type: Check      Check Date: 03/25/2025    Vendor: 014135      RICHARD KUNC                        Check Total:          133.46
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  030625                   03/25/2025                    3/6 NW BWR                                 21 0218 1900 920 6890 345                133.46
+
+Check Number: 202036           Check Type: Check      Check Date: 03/25/2025    Vendor: 106293      MIDWAY VAN RENTAL                   Check Total:          219.16
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  021525                   02/15/2025                    BWR VAN RENTAL                             21 0114 1900 920 6790 582                219.16
+
+Check Number: 202037           Check Type: Check      Check Date: 03/25/2025    Vendor: 000194      PETER NOTHNAGLE                     Check Total:           75.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  032025                   03/20/2025                    3/15 CITY DESSERT CONCERT RECORDING        21 0109 1900 950 7222 611                 75.00
+
+Check Number: 202038           Check Type: Check      Check Date: 03/25/2025    Vendor: 106427      OSL PRODUCTIONS                     Check Total:          550.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  032425                   03/24/2025                    FB SENIOR VIDEO FILMING                    21 0109 1900 923 6720 611                550.00
+
+Check Number: 202039           Check Type: Check      Check Date: 03/25/2025    Vendor: 013560      MATTHEW SHANNON                     Check Total:          125.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  142486420                03/21/2025                    REILAND MEMORIAL GRECO/FREE WR             21 0118 1900 921 6790 611                125.00
+                                                         TOURNEY
+
+Check Number: 202040           Check Type: Check      Check Date: 03/25/2025    Vendor: 015930      SPORTS IMPORTS                      Check Total:        2,820.10
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  INV29006                 03/13/2025     2500938        Customized FP1 Pole Padding Custom Pad B   21 0118 1900 923 6601 611              1,980.00
+  INV29006                 03/13/2025     2500938        Shipping                                   21 0118 1900 923 6601 611                109.80
+  INV29048                 03/18/2025     2500938        Set of customizes PSP-1 Wraps for PS1 Of   21 0118 1900 923 6601 611                670.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                         Page: 5
+03/25/2025 2:03 PM                                                                                                                                               User ID: 16976
+Checking Account:      3                  3
+  INV29048                 03/18/2025     2500938        Shipping                                          21 0118 1900 923 6601 611                    60.30
+
+Check Number: 202041           Check Type: Check      Check Date: 03/25/2025    Vendor: 107587             STATE HISTORICAL SOCIETY OF IOWA      Check Total:         1,200.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  02502-12970              03/10/2025                    LIBERTY HS RENTAL FEE                             21 0114 1900 950 7213 611                 1,200.00
+
+Check Number: 202042           Check Type: Check      Check Date: 03/25/2025    Vendor: 107592             UNIVERSITY OF IA FOUNDATION           Check Total:         2,975.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  031425                   03/24/2025                    LIBERTY HS DONATION                               21 0114 1900 950 7213 611                 2,975.00
+  031425                   03/24/2025                    DRAGONFLY TRANSPLANT FUND                         21 0114 1900 950 7213 611                      0.00
+
+Check Number: 202043           Check Type: Check      Check Date: 03/25/2025    Vendor: 016222             DEL WAGNER                            Check Total:           377.80
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  032525                   03/25/2025                    3/25 CITY BTK                                     21 0109 1900 920 6740 345                   188.90
+  032925                   03/25/2025                    3/29 CITY GTK                                     21 0109 1900 920 6840 345                   188.90
+
+Check Number: 202044           Check Type: Check      Check Date: 03/25/2025    Vendor: 016222             DEL WAGNER                            Check Total:           188.90
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  040125                   03/25/2025                    4/1 CITY BTK                                      21 0109 1900 920 6740 345                   188.90
+
+Check Number: 202045           Check Type: Check      Check Date: 03/25/2025    Vendor: 013875             WASHINGTON HIGH SCHOOL                Check Total:           250.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  032725A                  03/24/2025                    3/27 CITY BTK - 2 TEAMS                           21 0118 1900 921 6740 611                   250.00
+
+Check Number: 202046           Check Type: Check      Check Date: 03/25/2025    Vendor: 020121             XAVIER HIGH SCHOOL                    Check Total:           300.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  032425                   03/24/2025                    CITY HS XTRAVAGANZA SH CHOIR REG                  21 0109 1900 950 7152 611                   300.00
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   3                             Total without Voids:        22,628.65
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                                      Page: 6
+03/25/2025 2:03 PM                                                                                                                                           User ID: 16976
+Checking Account:     5                  5
+Check Number: 9028419         Check Type: Check      Check Date: 03/25/2025    Vendor: 105197             ADVANCED BUSINESS SYSTEMS INC       Check Total:        2,794.00
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  38805922                03/19/2025     2300577        SHARP BP-70C31 CITY MUSIC COPIER LEASE            33 0000 4500 000 8999 733                 167.00
+  38805923                03/19/2025     2300862        Sharp MX-7081 ESC COPIER LEASE                    33 0000 4500 000 8999 733                 281.00
+  38811160                03/20/2025                    SHARP COPIER LEASES                               33 0000 4500 000 8999 733               1,978.00
+  38816629                03/21/2025                    SHARP BP-70M90 ESC COPIER LEASE                   33 0000 4500 000 8999 733                 368.00
+
+  *Denotes Expensed Invoice Item                                                   Checking Account ID:   5                           Total without Voids:        2,794.00
+

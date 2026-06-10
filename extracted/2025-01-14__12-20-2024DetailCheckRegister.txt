@@ -1,0 +1,9 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                      Page: 1
+12/20/2024 11:15 AM                                                                                                                                           User ID: 16976
+Checking Account:      1                  1
+Check Number: 409417           Check Type: Check      Check Date: 12/20/2024    Vendor: 011467             UNITED STATE TREASURY               Check Total:      390,646.16
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  1000972682-DEC24         12/20/2024                    TAX FILING PENALITES                              10 0000 1100 100 0000 320             390,646.16
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   1                           Total without Voids:      390,646.16
+

@@ -1,0 +1,63 @@
+{
+ "generated": "2026-06-10",
+ "n_ap": 44280,
+ "n_card": 40594,
+ "ap_range": [
+  "2024-05-28",
+  "2026-06-02"
+ ],
+ "card_range": [
+  "2023-07-06",
+  "2026-06-04"
+ ],
+ "meetings": 41,
+ "batches": 102,
+ "funds": {
+  "10": "General Operating",
+  "21": "Student Activity",
+  "22": "Management Levy",
+  "31": "Capital Projects — GO Bond",
+  "33": "Capital Projects — SAVE (sales tax)",
+  "36": "Physical Plant & Equipment Levy",
+  "40": "Debt Service",
+  "61": "School Nutrition",
+  "71": "Health Self-Insurance",
+  "74": "Dental Self-Insurance",
+  "82": "School Children's Aid (trust)",
+  "84": "School-Based Health Clinics"
+ },
+ "locations": {
+  "0213": "NW",
+  "0406": "KIRKWOOD",
+  "0493": "WICKHAM",
+  "0403": "CORV CNTL",
+  "0432": "BORLAUG",
+  "0025": "SPEC ED",
+  "0114": "LIBERTY",
+  "0463": "HOOVER",
+  "0418": "LINCOLN",
+  "0415": "HORN",
+  "0468": "SHIMEK",
+  "0109": "CITY",
+  "0136": "TATE",
+  "0497": "VAN ALLEN",
+  "0209": "NC",
+  "0475": "GRANT",
+  "0445": "MANN",
+  "0417": "LEMME",
+  "0118": "WEST",
+  "0050": "DIST WHS STE 1",
+  "0436": "LUCAS",
+  "0447": "PENN",
+  "0488": "WEBER",
+  "0472": "TWAIN",
+  "0481": "WOOD",
+  "0218": "SE",
+  "0442": "ALEXANDER",
+  "0427": "LONGFELLOW",
+  "0020": "ESC",
+  "0080": "CFI",
+  "0411": "HILLS",
+  "0401": "GARNER"
+ }
+}

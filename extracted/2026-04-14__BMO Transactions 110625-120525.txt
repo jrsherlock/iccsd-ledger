@@ -1,0 +1,1384 @@
+Transaction Search - Company
+BMO - Mastercard, Statement Period 11/06/2025 to 12/05/2025
+
+Posting Date   Tran Date         Account                     Supplier        Amount USD
+  11/6/2025     11/4/2025 XXXX-XXXX-XXXX-5110   Menards Iowa City Ia     $         41.63
+  11/6/2025     11/4/2025 XXXX-XXXX-XXXX-1797   Menards Iowa City Ia     $         79.76
+  11/6/2025     11/4/2025 XXXX-XXXX-XXXX-0134   Menards Iowa City Ia     $         11.98
+  11/6/2025     11/4/2025 XXXX-XXXX-XXXX-0134   White Cap #105           $        205.44
+  11/6/2025     11/4/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $        640.00
+  11/6/2025     11/4/2025 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $        142.88
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-6555   Office Express           $         79.10
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-5173   Walmart.Com 8009256278   $          9.22
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $         15.72
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-5173   Amzn Digital Nk1m588z2   $         30.00
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $         35.52
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-5173   Walmart.Com 8009256278   $         43.42
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-5173   Sp Shawnee Scientifi     $        420.00
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-2938   Walmart.Com 8009256278   $         25.34
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-0980   Wal-Mart #1721           $        391.79
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-0980   Wm Supercenter #1721     $        573.04
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-2093   Wm Supercenter #2827     $        183.18
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt3nm0fu1     $          5.62
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9946   Aero Rental And Party    $        447.54
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-4783   Acmetools.Com            $        210.94
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt1w74441   $         10.98
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt7dg94g1   $         24.25
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk0yd26m2   $         53.99
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Nk5pz86p2     $         71.99
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt9ff8n60   $         95.18
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt7k254d1     $        113.26
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk1s23qw2   $        125.40
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt2p964c0   $        216.04
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-2076   Wal-Mart #2827           $         66.04
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-6261   Hy-Vee Coralville 1080   $         34.13
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-1808   Wm Supercenter #2827     $        155.93
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $        123.25
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-3897   Undergroundshirts.Com    $        456.80
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-1199   Global-E Logitech        $        113.49
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $        140.79
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-3050   Mathworksheets4kids      $         24.95
+  11/6/2025     11/5/2025 XXXX-XXXX-XXXX-3050   Alphagraphics N Libert   $        201.05
+11/6/2025   11/5/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $      56.42
+11/6/2025   11/5/2025 XXXX-XXXX-XXXX-0735   Wm Supercenter #1721     $      90.36
+11/6/2025   11/5/2025 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1285    $      31.54
+11/6/2025   11/5/2025 XXXX-XXXX-XXXX-7350   Tamarack Materials Inc   $      57.16
+11/6/2025   11/5/2025 XXXX-XXXX-XXXX-9041   Lenoch & Cilek Ace #1    $      31.98
+11/6/2025   11/5/2025 XXXX-XXXX-XXXX-6054   Bt Revrobotics           $      31.57
+11/6/2025   11/5/2025 XXXX-XXXX-XXXX-6054   Hy-Vee Aisles Online 4   $      71.90
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-6555   Uline Ship Supplies      $      61.68
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Nk9zl8s62     $      15.19
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt17c3nf1   $      15.99
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Nk1274dh2     $      23.38
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt8181zp1     $      49.35
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Nk1ct0212   $      69.28
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt8mn5zh1   $     124.02
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Nk6be62g2     $     208.92
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt1fo63d0     $      14.33
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt49493z0   $      17.29
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt3hq5nc1   $      20.99
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk8rn1d52   $      25.56
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt4293jp0   $      27.99
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk9ji0d82   $      38.04
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt7kd53z0   $      69.34
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk6xp2d02   $      77.98
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk5tp6d02   $      89.04
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk3sj9sf2   $      95.98
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt4b393u0     $     159.57
+11/6/2025   11/6/2025 XXXX-XXXX-XXXX-5372   Amazon.Com Nk3fl8se2     $      59.79
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $      99.50
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-5585   Menards Iowa City Ia     $      99.05
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $      62.26
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     253.16
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-5273   Menards Iowa City Ia     $      55.55
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     440.74
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-0735   Stuff Etc - Iowa City    $      38.43
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-2934   Iowa Chop House          $   1,420.00
+11/7/2025   11/5/2025 XXXX-XXXX-XXXX-6054   Hy-Vee Aisles Online 4   $     107.11
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-5166   Sq Renees Ceramic Ca     $     334.78
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-6555   Office Express           $       5.34
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-6555   Office Express           $      12.93
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-6555   Office Express           $      42.79
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-6555   Office Express           $     130.85
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-6555   Niaaa                    $     410.00
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Nk31j6k92   $      56.98
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-5173   Sp Eazyhold              $      74.98
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-7754   Sq Prevent Child Abus    $    144.40
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-2938   Paypal Cookiesmore       $    506.25
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-0980   Dominos 6399             $    337.95
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt0tq8tt0   $      9.99
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt4914e71     $     17.24
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Nk9dx3ka2   $     48.42
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Nk7t88kn2   $     48.51
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-7615   Hawkeye Weld Repair In   $    100.00
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-7858   Hy-Vee Iowa City 1288    $     87.50
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt1v39080   $     15.89
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $    (20.99)
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt4nb6j21     $     28.00
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt9nt60z0   $    111.28
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt3o63010   $    265.66
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt2fh2a21     $    494.99
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-4656   Etsy.Com Homeartsticke   $    223.53
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-5203   Hy-Vee Coralville 1085   $    101.64
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-2619   Paypal Customwinds       $    262.75
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-7092   Good Guys Auto Care Ll   $    170.69
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $    140.79
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $    752.76
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-3050   Teacherspayteachers.Co   $     23.70
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-3050   Renaissance Learning I   $    265.00
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $     91.82
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703280   $   (304.65)
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-0312   School Outfitters Llc    $     76.48
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1285    $     11.93
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-2934   Iowabca                  $     95.15
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-6054   Sq Mike Conrad, All A    $     60.00
+11/7/2025   11/6/2025 XXXX-XXXX-XXXX-6054   Bio Rad Laboratories     $    328.57
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Nk6dh7ii2   $     18.77
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bt4eu7e31   $     29.09
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bt8pz3021   $     32.66
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bt0vy30d1   $     59.96
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt2fq11i0     $     15.37
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt2uj4111     $     46.58
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt56d9pe0     $     49.62
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt8om9pa0   $      6.99
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt0b361s0   $     20.96
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk9a54ih2   $     21.99
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt8y32et1   $     29.89
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt17q70j1   $     38.86
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt2ai7ez1   $     59.98
+11/7/2025   11/7/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt7o13pt0     $     76.44
+ 11/7/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt0gz4el1   $      85.09
+ 11/7/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk8704i52   $     122.99
+ 11/7/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk9g93ip2   $     125.22
+11/10/2025   10/25/2025 XXXX-XXXX-XXXX-6253   Country Inn & Suites (   $   2,377.05
+11/10/2025    11/3/2025 XXXX-XXXX-XXXX-0312   Klingspor`s Woodworkin   $     193.98
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $     106.44
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-0883   Menards Iowa City Ia     $      35.88
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $     130.39
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $       4.64
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-9041   Menards Iowa City Ia     $     206.42
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-2934   Iowa Chop House          $   1,475.00
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-2934   Iowa Chop House          $   1,475.00
+11/10/2025    11/6/2025 XXXX-XXXX-XXXX-6938   Caseys #1441             $      40.41
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-1805   Staples 00106260         $      37.98
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-6555   Office Express           $      16.46
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-6555   Allianz Travel Ins       $      65.74
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-6555   American 0012288918621   $     787.36
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-6555   Bambu Lab Store          $   2,210.03
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-5173   Hy-Vee Iowa City 7042    $      17.96
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-2938   Band Shoppe              $     (42.00)
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-0980   Decker Spo City High     $      40.28
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt5c06mx0     $      60.12
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-2590   Hy-Vee Iowa City 1288    $     127.75
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk69h0y22   $      64.99
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt5900xe1   $     157.17
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt7fb0ch2   $     177.62
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt4d02vm0   $     203.09
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk6c51yc2   $     239.88
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nk2dg3yq2   $     480.94
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt39y2xe1   $     563.20
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $      92.97
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-7262   The Depot Express #1     $     182.00
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-1199   Global-E Logitech        $     142.49
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-3309   Sp Vego Garden Wholesa   $   3,119.41
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $      92.99
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $     449.46
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $     499.40
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-0007   Sp Locksmith Keyless     $     763.95
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-3556   Usps.Com Postal Store    $      26.40
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-0312   Ereplacementparts.Com    $      28.74
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-0891   Wm Supercenter #2827     $      35.25
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-7350   Knebel Windows           $      51.00
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-7670   Aldi 68067               $       1.46
+11/10/2025    11/7/2025 XXXX-XXXX-XXXX-4001   Alphagraphics N Libert   $     200.00
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-2934   Papa Johns #2170         $     453.75
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $     286.85
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-0021   Decker Spo Iowa City     $     535.30
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-6253   Bt Revrobotics           $      57.20
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-6253   Paypal Mathleague        $     100.00
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-6253   Adidas US Online Stor    $     106.00
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $     109.20
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-5669   Kfc G160018              $      14.54
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-6054   Dominos 1733             $      31.48
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-6054   Madepants Apparel        $      92.97
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-6054   Gaylord Opry Resort      $   5,882.73
+11/10/2025   11/7/2025 XXXX-XXXX-XXXX-0671   Technology Associates    $      63.60
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-6555   Walmart.Com              $     325.92
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-5173   Amazon.Com Bt0m90b80     $      19.99
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-0980   Panera Bread #202409 O   $       9.51
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-2002   Casey S #4367            $      81.67
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $     212.48
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $     232.48
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $     232.48
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $     232.48
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $     232.48
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt7jz8vq1   $     148.28
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt3nn5qx0   $     152.01
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $     375.95
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt4ge2lm2   $       9.49
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt89m1b50   $       9.95
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt6oe9b00     $      16.68
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt98n3lo2   $      29.97
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt9g62mx1   $      37.99
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt96f74e2   $      59.97
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt5843fn2   $     514.67
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-1199   /Logitech                $     174.03
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-1199   /Logitech                $     224.38
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-1199   /Logitech                $     302.68
+11/10/2025   11/8/2025 XXXX-XXXX-XXXX-6253   Adidas US Online Stor    $     106.00
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bt2au1kd0   $      33.95
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-2002   Enterprise Rent-A-Car    $     354.82
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt0v26sw0   $      42.96
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt6xm5200     $      55.76
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-4783   Microsoft-G123113566     $      22.04
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt8ra42w1     $       6.77
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt8s69kk1     $      15.99
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt3c276b0   $      17.99
+11/10/2025   11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt3zt4052   $      21.29
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt0705kk0   $      37.97
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt7bs0s30     $      40.99
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt94t6270   $      44.89
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt5bv5k70     $      67.84
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt5i112b1   $     124.55
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt4am12p1   $     180.98
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt6xo8ko0   $     262.00
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt5x85a52   $     318.33
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt1b73650   $     562.23
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl Bt5bu1al2   $      18.99
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6938   Brueggers Catering       $      48.01
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654139      $    (288.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654142      $    (288.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654140      $    (288.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654141      $    (288.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654144      $    (288.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654143      $    (288.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654147      $    (323.36)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654145      $    (323.36)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654146      $    (323.36)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654157      $    (348.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654155      $    (348.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654154      $    (348.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654153      $    (348.37)
+11/10/2025    11/9/2025 XXXX-XXXX-XXXX-6054   Delta 0067310654156      $    (348.37)
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt1oz6781   $     233.20
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt57269o0     $       9.52
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt7q34132     $      12.10
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt7od7uo1   $      13.29
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt2ha5921   $      14.95
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt7dr9pd2     $      15.67
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt2sp3931     $      19.31
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt97j8980   $      25.00
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt3hn4971   $      30.88
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt9sc7991   $      44.24
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt2k56102   $     238.84
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt4kh07t1   $     279.11
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt01827p0   $   1,091.96
+11/10/2025   11/10/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl Bt5l92112   $      19.86
+11/11/2025    11/2/2025 XXXX-XXXX-XXXX-2002   La Quinta Motor Inns     $    (100.00)
+11/11/2025    11/2/2025 XXXX-XXXX-XXXX-2002   La Quinta Motor Inns     $    (100.00)
+11/11/2025    11/9/2025 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $     167.74
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-4138   Sherwin-Williams703783   $     212.45
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-6555   Ahlerscooney             $      25.00
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $    17.90
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $    78.21
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $   195.56
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-0980   Mailboxes Of Iowa City   $    25.59
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt5wl6rf1     $    25.99
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt7mm0wd0     $   289.61
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-0883   Plumb Supply - Ioc - 0   $   774.69
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-2590   Hy-Vee Iowa City 1288    $     9.85
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt84k3rq1   $    91.50
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt0dj1y01     $   134.46
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt2dz0wz1   $   481.15
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-5019   Pyramid Services         $   558.00
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-7634   Psc Distribution, Inc.   $    98.45
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-6261   Cerebellum Corporation   $   105.90
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-9219   Tst Rayo                 $   295.41
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    40.47
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-3556   Openai Chatgpt Subscr    $    21.20
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-5923   Pods                     $   192.88
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-0312   J.W. Pepper              $    89.99
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-0312   School Outfitters Llc    $   264.56
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-0021   Full Compass Sys Vt      $    28.03
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-6938   Act Hyt Hy-Tek 2205500   $    50.00
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Pirate Ship Postage      $     7.27
+11/11/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Strp.Midwestclinic.Org   $   230.00
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bt7gf8h62   $    79.52
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-5173   Imse                     $   125.00
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B88506or0     $     4.99
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt9321m82   $    11.98
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88d05fr1   $    27.93
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt2ci6hr2     $    41.99
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88g79f51   $   123.23
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-4706   Sherwin-Williams703110   $    25.40
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-1199   Nintendo Ca1499665561    $    66.03
+11/11/2025   11/11/2025 XXXX-XXXX-XXXX-6253   Chewy.Com                $    14.41
+11/12/2025   11/10/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    85.61
+11/12/2025   11/10/2025 XXXX-XXXX-XXXX-5108   Menards Iowa City Ia     $    31.32
+11/12/2025   11/10/2025 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $     4.27
+11/12/2025   11/10/2025 XXXX-XXXX-XXXX-5320   Menards Iowa City Ia     $    79.99
+11/12/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Pti Joyridenash          $   (66.92)
+11/12/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Pti Joyridenash          $   (95.12)
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-6555   Office Express           $    26.44
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-6555   Office Express           $   462.19
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bt6k49bd2   $    16.99
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5173   Amazon Mktplace Pmts     $   (17.99)
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B84b13lz0     $      19.92
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5173   Walmart.Com 8009256278   $     119.52
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B861j9ln0     $     167.76
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $      46.11
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-1797   Etsy.Com Cbcornhole      $     219.93
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B86mz7480     $      10.97
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B86sw64z0     $      75.86
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B89le1zk0   $     126.65
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt28s58s2     $     310.29
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9923   The Ceramic Shop         $      60.33
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-4783   Sillworks Ltd            $   7,583.80
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81d12f30   $      18.00
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83m32z40   $      19.94
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt4on88v2   $      26.99
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B82ng74h0   $      28.86
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85zd2ny1   $      31.44
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88k45lx1   $      74.97
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88lc3zu0   $      78.86
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B80s34lt1   $      83.97
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (96.94)
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B89pk6zp1   $      97.44
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B80dc1z80     $     257.35
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B86gx0lb1   $     347.21
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-4656   Lenoch & Cilek Ace #6    $      19.69
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $     106.27
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-3897   Iandeterling.Com         $      12.00
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-9410   Alphagraphics N Libert   $      37.60
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-3556   Usps.Com Postal Store    $     910.05
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5923   Pods                     $     209.00
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl B86bv6n91   $      64.58
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-0312   West Music               $     189.75
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-0312   Lowes #00907             $     491.94
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-0891   Wm Supercenter #2827     $       9.72
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-6253   Food Service Direct Lo   $     200.11
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5669   Bound Tickets            $     233.73
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-5669   Bound Tickets            $     484.16
+11/12/2025   11/11/2025 XXXX-XXXX-XXXX-4270   Hangsafehooks.Com        $     639.26
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B86gd43u0     $      17.94
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B889r13f0     $      19.00
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B80589380     $      19.20
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bt8dy76i2   $      19.99
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B82wd33q0   $      20.95
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B89ny23k1     $      23.88
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B81cm7jl1     $      33.23
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B861m6nt0   $      41.88
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Imse                     $     125.00
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B84bd4nn0   $       5.39
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt9ls36y2     $      15.99
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt7ya3d52     $      21.94
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B884k8nx0     $      28.97
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B805f83k0     $      32.91
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt85n8d52   $      36.98
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B82k63jl1     $      39.22
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B886h4ju1     $      54.85
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt4cc46t2     $       6.11
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88e51j21   $       7.59
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B86kk1j91   $       9.99
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B89586360     $      12.82
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt75h6ds2     $      14.00
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84ep93t0   $      19.75
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B89g903v0   $      20.88
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83bx0ni0   $      21.99
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B824l7321   $      22.59
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B81iq5j71     $      23.43
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B816k0jz1     $      25.47
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81ll23u1   $      27.70
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt4h246j2   $      32.89
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt1gt46r2   $      41.40
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt6ya56b2   $      48.27
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B80vp0341   $      48.66
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B85nn23d1     $      48.70
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B84xv5jr1     $      49.90
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt8sw16l2   $      55.33
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt8s386i2   $      58.09
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt1lo1db2   $      94.29
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84f243s1   $     108.48
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B89ds43s1   $     356.38
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B833p63r1   $     911.76
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-0007   Easykeys.Com             $     177.40
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl B87bi5nb0   $     470.08
+11/12/2025   11/12/2025 XXXX-XXXX-XXXX-6054   Tst Estelas Fresh Mex    $   2,080.00
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-5773   Menards Iowa City Ia     $      44.99
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-0980   Campus Supply            $     425.00
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $      64.01
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     156.67
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-3050   Menards Iowa City Ia     $       5.22
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-3050   Woodcraft 586            $      99.00
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $      37.54
+11/13/2025   11/11/2025 XXXX-XXXX-XXXX-0021   Norcostco Online Bc      $    62.75
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-6555   Office Express           $    83.68
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-6555   Rev.Com                  $   544.32
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-6384   Social Thinking          $    94.28
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B82ka6j00   $     8.99
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-5110   Johnstone Supply - 614   $   752.56
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-2938   Light This Productions   $   820.00
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-0980   Lenoch & Cilek Ace #1    $    71.95
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-0980   Twinkl 2201088           $    89.88
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-0980   Sheet Music Plus         $    97.24
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B85g03ao0   $    11.18
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt5a89s82   $    49.57
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B87yw20z1   $    55.99
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B81o190r1   $    63.25
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B88j24aj0   $   138.00
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B85e310p1   $   171.34
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9535   Southwest Strings        $    22.94
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B89az6001   $    28.49
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B822z3ef0   $    31.98
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt3al5kg2   $    33.98
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88y25el1   $    56.96
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt0011su2   $    58.78
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83mz7a20   $    67.85
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B879v8a81   $    75.90
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B88cp7040     $    86.97
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81xs5ea1   $   129.78
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B87jz10f1     $   377.99
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $   200.47
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-9774   Walmart.Com              $    68.67
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-3050   Renaissance Learning I   $   265.00
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-3050   Coe College              $   348.50
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-0891   Wm Supercenter #2827     $    40.69
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-7350   Grainger                 $    66.80
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-7350   Aero Rental And Party    $    90.64
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-6253   Adidas US Online Stor    $   106.00
+11/13/2025   11/12/2025 XXXX-XXXX-XXXX-6253   Adidas US Online Stor    $   106.00
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B80iu2pz0     $    19.53
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-2938   Afp Science National H   $    75.00
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B80lh8gc0   $     5.90
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B83ir81x0   $     9.98
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B85cj8pa0     $   132.88
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9535   Sp Apronwarehouse        $   369.20
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt4p44i02     $     9.98
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt7b22uk2   $    11.30
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84ui8p31   $    23.95
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81uz8gw1   $    24.86
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B806j3160   $    24.98
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B87cl8110   $    28.99
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B88us2gd1     $    31.79
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B848j3p51   $    39.96
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt2t94ig2   $    42.76
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B89c21pr0   $    56.32
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B86ud9gs1   $    58.62
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt1tk2ii2     $    70.89
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bt12r4uf2   $    79.96
+11/13/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88xe41t0   $   299.70
+11/14/2025   11/11/2025 XXXX-XXXX-XXXX-0021   Norcostco Online Bc      $   (24.38)
+11/14/2025   11/12/2025 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $   279.65
+11/14/2025   11/12/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $    38.97
+11/14/2025   11/12/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $   133.47
+11/14/2025   11/12/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $   115.32
+11/14/2025   11/12/2025 XXXX-XXXX-XXXX-9041   White Cap #105           $   119.50
+11/14/2025   11/12/2025 XXXX-XXXX-XXXX-6061   Olive Garden 0021559     $   456.72
+11/14/2025   11/12/2025 XXXX-XXXX-XXXX-6253   Hy-Vee Aisles Online 4   $    81.20
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-4138   Sherwin-Williams703783   $    64.95
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B85ut45r1   $    13.96
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B86oi6mq0     $    35.98
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B83fl1vk1     $    42.96
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-5420   City Of Iowa City        $    12.00
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-2938   Lowes #01688             $   381.86
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-8046   Target.Com               $    84.79
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-8046   Heggerty.Org             $   101.00
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt7el8ry2   $     5.52
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B895e0mn1   $     6.45
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B83xu7xp1   $    12.18
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B83a88cz2   $    16.49
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B874t6vy1     $    19.99
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktplace Pmts     $   (55.99)
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktplace Pmts     $   (55.99)
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bt7rk0rf2     $   205.99
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bt2e18yv2   $   308.10
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B86o80cm2     $   424.51
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-7858   Wm Supercenter #2827     $    36.21
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B82tr35s1     $    10.12
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bt0j19wa2     $    14.99
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B807445k1   $    19.98
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84n03fc2   $    30.36
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B869e7vl0   $    31.14
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81fu4mr0   $      39.49
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83084vf1   $      56.95
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B80vy1g00   $      65.91
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B891c35n1     $      74.11
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (84.40)
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B86rq9mc1   $     105.98
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B83392xc0     $     118.44
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $     159.96
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-5203   Unitix Web               $      13.50
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-2619   Gobilda                  $     206.95
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $      58.86
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-3556   Voyager Sopris Learng    $   1,881.00
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $      56.42
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-0312   Amer String Teach Assn   $     125.00
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1285    $      22.90
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-9659   Hy-Vee Coralville 1080   $     118.10
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-6061   Pancheros Mexican Gril   $     138.38
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-6253   Gobilda                  $      49.65
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-6054   Target.Com               $      37.91
+11/14/2025   11/13/2025 XXXX-XXXX-XXXX-4270   Liberty Doors            $     103.50
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B86kq0mk0   $      27.99
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B84an8lv2   $      33.99
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B88z41ll2   $      52.43
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B82sj2h81   $       5.99
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B82i054j2   $      14.52
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B83i214z2     $      15.80
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B853p65p0   $      18.99
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B88sf0h71   $      24.20
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B84t07hd1   $      40.50
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B84486mt0     $      48.03
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B89vt3la2     $      12.72
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81y95z02   $      13.95
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B85y73f92     $      19.89
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B86yw35f0   $      32.47
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B87fe9hu1   $      38.19
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B846x45w0     $      45.74
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B86r52ha1   $      99.30
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88aw9l12   $     227.97
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-6061   Tst Everbowl - Iowa C    $      12.18
+11/14/2025   11/14/2025 XXXX-XXXX-XXXX-6061   Tst Everbowl - Iowa C    $      35.48
+11/17/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Delta 00673106541490     $    (348.37)
+11/17/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Delta 00673106541523     $    (348.37)
+11/17/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Delta 00673106541512     $    (348.37)
+11/17/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Delta 00673106541501     $    (348.37)
+11/17/2025   11/10/2025 XXXX-XXXX-XXXX-6054   Delta 00673106541792     $    (348.37)
+11/17/2025   11/12/2025 XXXX-XXXX-XXXX-6054   Comfort Suites Tn547     $     319.22
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-5420   Dollamur Sport Surface   $   1,127.73
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-1797   Menards Iowa City Ia     $      83.12
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-4815   Menards Iowa City Ia     $      39.14
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4   $      54.09
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-0883   Menards Iowa City Ia     $      35.88
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $      96.12
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-0312   Buffalo Wild Ecom 0056   $     121.02
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $      89.24
+11/17/2025   11/13/2025 XXXX-XXXX-XXXX-6253   Hy-Vee Aisles Online 4   $     230.69
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6555   Office Express           $     132.11
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6555   Walmart.Com              $     197.94
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6555   Sp Abernethy Beck Inc    $     395.99
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $      14.17
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-5173   Walmart.Com 8009256278   $      18.54
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-5173   Amzn Digital B89061b41   $      30.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $      37.16
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-7128   In Imperial Privacy S    $     205.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-5420   Los Agaves Mexican Gri   $     345.21
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-2938   Dennisllinasmusic.Com    $     300.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-0980   Gobilda                  $      65.93
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-0980   Harbor Freight Tools30   $     130.24
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B83ds0bl0   $       9.57
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B80k19851   $      10.26
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B86uc1qp1   $      10.41
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B84ob5q11     $      12.15
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $      50.98
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-2096   Hy-Vee Iowa City 1281    $      27.98
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $      (8.99)
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85o088f1   $      16.30
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (16.99)
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (19.99)
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (19.99)
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83wv5q41   $      34.47
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (39.98)
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (59.97)
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (60.49)
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B848t6hg0   $      65.96
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85s46q41   $      89.97
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B87v08nc2   $     116.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85s908o1   $     233.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B870h8z72   $     410.95
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-3818   Harbor Freight Tools30   $      18.97
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $     468.52
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-5203   Alphagraphics N Libert   $     163.63
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9219   Chick-Fil-A #03679       $   1,008.77
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9410   Lowes #01688             $     111.40
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9410   Liberty Doors            $     207.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     395.08
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-0007   Sp Locksmith Keyless     $      82.01
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-3050   Sp Wipebook Corp.        $     498.41
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-0312   Thrift Books Global, L   $     253.77
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-0891   Wal-Mart #2827           $      21.35
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-7670   Aldi 68067               $      32.24
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-9041   North Liberty Ace Hard   $      24.99
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6061   Coldstone 20991          $      67.88
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6061   Cke Tavern Blue Coralv   $     357.14
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $     168.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6253   Qr.Io Generator          $      35.00
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6253   Pancheros                $     134.20
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6054   Pirate Ship Postage      $       4.46
+11/17/2025   11/14/2025 XXXX-XXXX-XXXX-6054   Paula Deens Family Kit   $     714.98
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-6555   Stapls7668737566000002   $     291.58
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B801z32h1   $      25.46
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-2938   Jimmy Johns - 2490       $     122.69
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B83rl70k2   $       7.26
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9167   Amazon Mktplace Pmts     $      (7.43)
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B83kg4p72   $      11.23
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B89wq8d41   $       7.98
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88p31gv2   $      14.86
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (19.99)
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (19.99)
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B892p4qc0   $      29.99
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B880d9e02   $     125.38
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B82n50e62   $     460.66
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $     110.38
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-5203   Etsy.Com Modishmartcre   $     (11.91)
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-6938   Aldi 68056               $      12.92
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-6938   Wm Supercenter #2827     $      83.64
+11/17/2025   11/15/2025 XXXX-XXXX-XXXX-6938   Jimmy Johns - 2674 - E   $     237.13
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B80v21kc0   $      33.99
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B80en2r71     $       7.34
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B87b60b42   $      11.44
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B86hs0910   $      30.98
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B88d05un0     $     128.93
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B89dh3w91     $     158.58
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B81kr8id1   $     277.97
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B84oy1u00     $   339.60
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85sm57i1   $     4.45
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B879942r0   $     8.83
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81lb7dr2   $     9.98
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84aj0542   $    19.60
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83by2rh1   $    50.07
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B87d39qv2   $   150.29
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B898v6rg1   $   175.00
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88t409o0   $   185.58
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84o42ww1   $   233.35
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B81e70v12   $   421.83
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83ec6q82   $   493.15
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B83z90u80   $   499.94
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85kg4682   $   599.40
+11/17/2025   11/16/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl B87za6ux0   $    18.99
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B89967r40     $   308.36
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-4783   Atlassian                $   688.84
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B87lm4kz2   $    14.99
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $   (14.99)
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B80rc12f2     $    15.40
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88et3su2   $    17.81
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $   (42.78)
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B80rt8sx2     $    65.20
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B82so5u60   $   105.99
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B814j0u80   $   159.26
+11/17/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85vu92f2   $   300.87
+11/18/2025    11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $   (20.00)
+11/18/2025    11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $   (20.00)
+11/18/2025    11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $   (20.00)
+11/18/2025    11/8/2025 XXXX-XXXX-XXXX-2002   Super 8 Motels           $   (20.00)
+11/18/2025   11/16/2025 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $    93.97
+11/18/2025   11/16/2025 XXXX-XXXX-XXXX-3897   Caseys #1025             $    65.35
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1012   $    25.35
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-6555   Office Express           $    75.68
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $    80.56
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-6555   Office Express           $   145.70
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-6384   Social Thinking          $   118.27
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9828   Midway Van Rental        $   169.41
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-8046   Jotform Inc              $   656.35
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-0134   Psc Distribution, Inc.   $    14.97
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B84ir09t2   $    13.82
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B09c05ci0   $    25.80
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B816f87t2   $    94.60
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B841u0yq0     $   286.05
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B00e44o91   $       9.99
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B85pg67t2   $      10.33
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B87sz1ux2   $      16.14
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B817e8ry2   $      19.83
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (23.48)
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B82cx9i12     $      24.19
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B012964m1   $      24.99
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B05ka5ow1   $      36.90
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B83ep69m2     $      39.72
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84nm6rs0   $      47.03
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88rr4re0   $      54.90
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88ji4k22   $      54.90
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B864f9ix2   $      68.00
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B853d0wp0   $      69.87
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B88wm5if2   $     150.22
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B08cv4cy0   $   1,739.54
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9199   Hy-Vee Iowa City 1288    $   3,000.00
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-5273   Auto Toys                $     100.00
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $     (24.00)
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-3871   Wal-Mart #2827           $      36.78
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $      86.02
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-1199   Hy-Vee Cedar Rapids 70   $      36.55
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-4892   Www.Subitomusic.Com      $     521.00
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-3556   Ba@cornell C Qps         $     290.98
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-5923   Pods                     $     175.38
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-0312   Carolina Biologic Supp   $      11.14
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-0312   Carolina Biologic Supp   $     976.25
+11/18/2025   11/17/2025 XXXX-XXXX-XXXX-9659   Sq Kidsounds             $     150.00
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B08z26zh1   $      15.49
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B069f0420   $      24.98
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B00s21cb0     $      27.24
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B81kv3yb2   $      69.63
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B82nf6wo2     $      19.95
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B065v5zj1     $      51.02
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B04db6zi1     $      77.97
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B09ww2o40   $     420.26
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B07lt6z11   $       5.00
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B04lo8za1   $       5.89
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B82931wu2   $      18.96
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B03el1cb0   $      20.17
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B02p52z91   $      32.99
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B832l0w22   $      33.12
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B866x7yq2     $      45.44
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B08lt8zn1   $      64.61
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B019q9ne1   $      71.98
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B075n6oi0   $     109.99
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B063p9oe0   $     120.45
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B07ww9oh0   $     173.48
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B07aq5z71   $     185.08
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B84r23yw2   $     198.91
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B86df2ym2   $     317.44
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B01wp0z41     $   1,507.66
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $     106.46
+11/18/2025   11/18/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $     106.46
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-4138   Menards Iowa City Ia     $     347.00
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1010   $       8.07
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     652.40
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $     117.99
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-0134   Foster Appliance         $     109.95
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-9167   Innovative Label Techn   $     649.07
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4   $      89.30
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $      31.51
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     383.08
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     429.89
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     526.31
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-5273   Van Meter Inc - Iowa C   $     309.71
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-3309   Demco Inc                $    (130.38)
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $     124.06
+11/19/2025   11/17/2025 XXXX-XXXX-XXXX-5108   Van Meter Inc - Iowa C   $      22.61
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5166   Play It Again #11298     $     229.45
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5166   Crackens Grill N Chil    $     255.00
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     230.32
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-6555   School Specialty Ecomm   $     292.81
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Wal-Mart #2827           $       3.97
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $       5.00
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B06ph1zr2   $      14.28
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B07u62n40   $      19.80
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B00ny1nh0     $      29.44
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B08ce3jc1   $      70.93
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5173   Hy-Vee Iowa City 1288    $      83.92
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-3697   Hy-Vee Iowa City 1285    $       7.98
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-3697   Dominos 1750             $     103.87
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-1797   Harbor Freight Tools30   $      17.98
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B01of7l82   $       6.43
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B00p86ei1     $      54.85
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1285    $       4.44
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B058u5tl1   $      13.98
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B07071e71   $      19.79
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B04ez5z72   $    20.99
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B02hj3en1   $    21.84
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B02xz5l52   $    23.48
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B01jo3fu2   $    41.36
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B02987aw1   $    51.47
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B00771zi0   $    63.87
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B01dl3n22   $   114.76
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B070324i2   $   116.21
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B02xb6nw0   $   116.43
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B00dk9nr0     $   143.98
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B05216ek1   $   169.95
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B076d9ni2     $   299.00
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-3818   Pyramid Services         $    79.90
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $    21.78
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-5203   Tst Rayo                 $   386.57
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-9219   Sp Takedownshop.Com      $   298.00
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-3897   Sp Guardian Proline      $    61.99
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-3897   Revrobotics.Com          $   202.21
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-3556   Paypal Mathleague        $   120.00
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $    25.40
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-0021   Sp Embellishfx           $   144.00
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-6253   Gobilda                  $    12.60
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-6253   Gobilda                  $    30.55
+11/19/2025   11/18/2025 XXXX-XXXX-XXXX-6054   Target.Com               $    72.64
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B025441a1     $     8.74
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B025a51a1   $    15.29
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B07aw33v2     $    19.84
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B06o93jq0   $     4.84
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B00o870p1   $     8.54
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B03vb33r0   $    38.19
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B09ty20h1   $    38.19
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B02lk61y1     $    44.95
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B02mp93f0     $    98.22
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B08p31382     $   154.26
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B05c31jk2   $   418.55
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-5019   Hi-Line Electric Co.,    $   211.25
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $   106.46
+11/19/2025   11/19/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $   319.38
+11/20/2025   11/18/2025 XXXX-XXXX-XXXX-7128   Homedepot.Com            $   834.00
+11/20/2025   11/18/2025 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $   120.83
+11/20/2025   11/18/2025 XXXX-XXXX-XXXX-4815   Menards Iowa City Ia     $    35.72
+11/20/2025   11/18/2025 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $   369.84
+11/20/2025   11/18/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $   173.12
+11/20/2025   11/18/2025 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $   100.73
+11/20/2025   11/18/2025 XXXX-XXXX-XXXX-9041   Menards Iowa City Ia     $    250.88
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-6555   Target.Com               $    499.99
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-6384   Usps Po 1843920240       $     17.50
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $     39.95
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $     47.70
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-5110   Nichols Controls &supp   $     80.73
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-8046   Iowa Valley Habitat Fo   $     20.00
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-8046   Lenoch & Cilek Ace #1    $     21.48
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-0980   Staples 00106260         $     18.01
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-4815   Earl May 150             $    259.87
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-0134   Psc Distribution, Inc.   $     82.88
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B06lx0x21     $     78.26
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B06g39e60     $    126.12
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B00i93ar2   $    142.96
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-2590   Hy-Vee Iowa City 1288    $     13.42
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-4783   Ups 1z05t8jm0336465039   $     16.39
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-4783   Ups 1z781lmt0300015618   $     62.01
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-4783   Ups 1z781tgp0300013814   $     66.83
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-4783   Ups 1z78tn5k0307798424   $     73.78
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B01yn61l2     $     23.55
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B04s851g2   $     29.99
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B01pl4ah0   $    109.96
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B043d4a90   $    158.18
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B09zb21w2   $    185.98
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B036v7v81   $    223.84
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B06kk3xx1   $    430.56
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $     96.00
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $   (112.00)
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $    256.81
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-4656   Mixtiles                 $    741.45
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-1808   Trader Joe S #728        $     86.82
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-1808   Staples 00106260         $    155.92
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-2619   Trader Joe S #728        $      3.99
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-2619   Wal-Mart #2827           $     62.28
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-4706   Dollartree               $     17.75
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-5128   Staples 00106260         $     62.86
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-9774   Walmart.Com              $     61.09
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-3556   Brueggers_mobile         $     60.67
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-3556   Tst Barretts Quality E   $    142.57
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-6061   Decker Spo Ic West Bo    $    531.06
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-6253   Center For Excellence    $    133.75
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-2589   Fabermusic.Com           $     26.89
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-2589   Showchoirstock           $    221.25
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-6938   Jersey Mikes 38033       $    226.66
+11/20/2025   11/19/2025 XXXX-XXXX-XXXX-6054   Hy-Vee Coralville 1080   $      46.54
+11/20/2025   11/20/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B03ns9h41     $      21.95
+11/20/2025   11/20/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B02wc2ge2   $       8.58
+11/20/2025   11/20/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B049651n0   $     162.19
+11/20/2025   11/20/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B022r9mx1   $     656.53
+11/20/2025   11/20/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $     745.22
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-3556   Hobby Lobby #172         $       7.45
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-5280   Menards Iowa City Ia     $   1,131.90
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $      47.98
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-1199   Kwik Star #1158          $      38.42
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-9774   Hobby Lobby #172         $      13.85
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-3050   Menards Iowa City Ia     $     296.30
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-1390   Hobby Lobby #172         $     505.19
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-5108   Van Meter Inc - Iowa C   $       3.92
+11/21/2025   11/19/2025 XXXX-XXXX-XXXX-6253   Hy-Vee Aisles Online 4   $      49.93
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     219.75
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     219.75
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     219.75
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-6384   Wal-Mart #1721           $      42.67
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $     137.52
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-0980   Hy-Vee Iowa City 1285    $      15.64
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-0980   Jimmy Johns 011 - E      $     499.66
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B01uy6821     $       9.40
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B01q47m92   $     198.98
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-4858   Social Thinking          $      45.33
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B05ye1v72   $      78.53
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B04yl1h82   $     123.90
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-2076   Target 00011130          $      18.00
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-4656   Dsm Parking Meters       $       3.00
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-2619   Hy-Vee Iowa City 1288    $       4.90
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-4892   Py Pizza Ranch - Ames    $     138.29
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-1375   Wal-Mart #2827           $     253.70
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-0312   J.W. Pepper              $      45.00
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-0735   Hy-Vee Iowa City 1285    $      57.16
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-5774   Lenoch & Cilek Ace #6    $      10.48
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-6061   Decker Spo Ic West Tr    $     696.42
+11/21/2025   11/20/2025 XXXX-XXXX-XXXX-6938   Texas Roadhouse #2028    $     172.94
+11/21/2025   11/21/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B07yg9s11   $      19.99
+11/21/2025   11/21/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B006x4550     $      30.97
+11/21/2025   11/21/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B029l5q42   $     112.99
+11/21/2025   11/21/2025 XXXX-XXXX-XXXX-6253   Dd Doordash Raisingca    $      22.71
+11/21/2025   11/21/2025 XXXX-XXXX-XXXX-6054   Vwr International Inc    $      62.16
+11/21/2025   11/21/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $     106.46
+11/24/2025   11/20/2025 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $     123.30
+11/24/2025   11/20/2025 XXXX-XXXX-XXXX-4706   Menards Marion Ia        $      289.04
+11/24/2025   11/20/2025 XXXX-XXXX-XXXX-1199   Kwik Star #283           $       36.60
+11/24/2025   11/20/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $      642.27
+11/24/2025   11/20/2025 XXXX-XXXX-XXXX-0735   Hobby Lobby #172         $      235.13
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6555   Hilton Hotels            $      941.00
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5173   Hy-Vee Coralville 1080   $        5.99
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B09vx2271     $       18.39
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5173   Walmart.Com 8009256278   $       60.18
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5173   Amazon Mktplace Pmts     $     (275.00)
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5110   Plumb Supply - Ioc - 0   $      471.18
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5110   Johnstone Supply - 614   $    1,109.81
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $       36.06
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-2938   Nassp Product & Servi    $    1,687.83
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0980   Starbucks 11352          $        3.16
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0980   Cabin Coffee Ames Ia     $        3.21
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0980   Sq Cornbred Barbecue     $       24.33
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0980   Tst Wasabi Ames          $       30.24
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0134   Menards Iowa City Ia     $       23.92
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B05fp1bg0     $        9.99
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B06c859t1   $       42.50
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9946   Hy-Vee F&f Iowa City 5   $       68.01
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-7615   Wal-Mart #1721           $       84.46
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B07zv4si2   $       17.08
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B022n4ha0   $       17.43
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $      (22.99)
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B03hg8h10   $      142.45
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B03ps06a2     $      539.99
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $   (1,135.44)
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9219   Chick-Fil-A #03679       $    1,114.44
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-3897   Enterprise Rent-A-Car    $       73.26
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-1199   Springhill Suites Ames   $      133.28
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-1199   Springhill Suites Ames   $      133.28
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-1199   Springhill Suites Ames   $      133.28
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-1199   Papa Johns #2745         $      192.00
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-1199   Springhill Suites Ames   $      211.68
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-1199   Springhill Suites Ames   $      211.68
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-4892   Tst Wasabi Ames          $       20.66
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-4892   The Cafe                 $       30.36
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0007   Grainger                 $       19.68
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-3556   Usps Po 1843930899       $      122.00
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5108   Theisenshomefarmautoco   $      448.99
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0891   Wm Supercenter #2827     $       56.92
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $        6.80
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $       10.08
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-9041   Aero Rental And Party    $     747.78
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6061   Maverik #5021            $      32.44
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6061   Maverik #5021            $      33.85
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6061   Super 8 Motels           $      88.48
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-5320   Panda Express 2052       $      75.05
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $      52.97
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6938   Culvers Of Cedar Falls   $      15.92
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6938   Super 8 Motels           $      88.48
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6054   Jcpenney.Com 0001        $      67.77
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-6054   Oldnavy.Com              $      69.94
+11/24/2025   11/21/2025 XXXX-XXXX-XXXX-4270   Decker Equip School Fi   $     466.24
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B29ld4cb1   $      49.95
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-0980   Sq Morning Bell Coffe    $       5.00
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-0980   Sq Morning Bell Coffe    $       6.00
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-0980   Sq Cornbred Barbecue     $      17.52
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B08qo7rv1     $      21.95
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B01wm72a0     $     195.80
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B02b732m0   $   1,265.41
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-7262   Hy-Vee Coralville 1085   $      13.47
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-3897   Kwik Star #1158          $      10.02
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-3897   Kwik Star #1158          $      43.09
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-1199   Casey S #4367            $      16.70
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-1199   Maverik #5206            $      18.13
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-1199   Hy-Vee F&f Ames 5018     $      20.11
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-1199   Maverik #5119            $      24.10
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-1199   Maverik #5119            $      24.82
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-4892   Py Pizza Ranch - Ames    $      66.30
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-2589   Phillips 66 - Gatewaye   $      57.82
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $     106.46
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-6054   Oldnavy.Com              $     209.82
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $     212.92
+11/24/2025   11/22/2025 XXXX-XXXX-XXXX-6054   Journeys.Com             $   3,187.69
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B25u83no2   $      19.98
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B079m29f0   $      20.99
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B242f0402   $      50.15
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-0980   Cabin Coffee Ames Ia     $       3.64
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-4783   Ups Adj00401790264751    $      79.35
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (19.99)
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B20h424x2   $      58.55
+11/24/2025   11/23/2025 XXXX-XXXX-XXXX-3309   Dollar Tree              $     111.30
+11/24/2025   11/24/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B27us8ce0     $      16.66
+11/24/2025   11/24/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B27t86c40   $      29.99
+11/24/2025   11/24/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B213o83x2   $     119.34
+11/24/2025   11/24/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B25ln5j02     $      39.19
+11/25/2025   11/21/2025 XXXX-XXXX-XXXX-9828   Taco Johns 9517          $      16.76
+11/25/2025   11/21/2025 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $      40.66
+11/25/2025   11/22/2025 XXXX-XXXX-XXXX-6054   Comfort Inn & Suites     $   7,132.16
+11/25/2025   11/23/2025 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4   $      53.33
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $       3.94
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5173   Target.Com               $       8.39
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5173   Amazon.Com B20iz2gw1     $      12.32
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5173   Amzn Digital B27s80022   $      30.00
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-9473   Wm Supercenter #2827     $      25.27
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5110   Electric Motors Of Ic    $     228.81
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-0134   Psc Distribution, Inc.   $      61.70
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B23rl90h1     $       7.99
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-9167   Amazon Mktplace Pmts     $     (20.95)
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-2677   Dowling Catholic High    $      82.50
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1285    $      23.07
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B26x79gx2   $      13.48
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B20ym8z20   $     220.89
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $    (657.36)
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5302   Tamarack Materials Inc   $      22.57
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-6261   Target.Com               $      25.97
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-3897   Enterprise Rent-A-Car    $     219.78
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-1199   Enterprise Rent-A-Car    $     219.78
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-1199   Enterprise Rent-A-Car    $     293.04
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-3050   Tresona Multimedia Llc   $     291.20
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-1390   Hy-Vee Coralville 1080   $      18.14
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703280   $      17.49
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-1375   Hy-Vee Iowa City 1288    $      81.30
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5108   Knebel Windows           $      94.68
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-0735   Staples 00106260         $      66.20
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-0735   Aldi 68067               $     111.71
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-0735   Aldi 68067               $     339.92
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-5774   Linder Tire - Iowa Cit   $      45.00
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-9041   In Big Iron Welding O    $     105.38
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-6054   Midway Van Rental        $     134.31
+11/25/2025   11/24/2025 XXXX-XXXX-XXXX-6054   In Cedar Rapids Curli    $     700.00
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-6555   Sp Make.Do               $     747.00
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B28i77gw2   $       8.73
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B26cq65g1   $      14.33
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B29sl7gf1     $      14.85
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B26b06v21   $      31.99
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (63.87)
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl B23973xt1   $      12.99
+11/25/2025   11/25/2025 XXXX-XXXX-XXXX-0021   Walmart.Com              $     687.97
+11/26/2025   11/24/2025 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $     185.00
+11/26/2025   11/24/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia                $        5.56
+11/26/2025   11/24/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia                $       13.23
+11/26/2025   11/24/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C              $       23.52
+11/26/2025   11/24/2025 XXXX-XXXX-XXXX-4706   Menards Cedar Rapids S              $      272.15
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl B26te8ah0              $        9.45
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288               $       33.42
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9167   Amazon.Com B23q456t2                $       18.63
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-2677   Quality Inns                        $    7,055.58
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1281               $       12.87
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-7615   Partselect.Com                      $       42.53
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9547   J.W. Pepper                         $       56.00
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B26k446v2                $        8.73
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts                $      (13.42)
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B25qt0hk1              $       16.65
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts                $      (21.99)
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B21yt4qd2              $       57.40
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts                $      (81.95)
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-3818   Hillyard Inc Des Moine              $      379.78
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-7634   Psc Distribution, Inc.              $       11.83
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-6261   Target.Com                          $        5.19
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-6261   Target.Com                          $       20.78
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-3897   Ups 1996675612                      $      177.80
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-5372   Cubicle Curtain Factor              $    2,783.20
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-2461   Aero Rental And Party               $      191.25
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-0891   Wal-Mart #2827                      $        7.78
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-2589   Walgreens #5977                     $        4.76
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-6054   Pirate Ship Postage                 $        4.79
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-6054   Science Olympiad, Inc.              $       36.00
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-6054   Papa Johns #2512                    $      139.14
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-6054   Walmart.Com                         $      227.65
+11/26/2025   11/25/2025 XXXX-XXXX-XXXX-6054   J.W. Pepper                         $      260.00
+11/26/2025   11/26/2025 XXXX-XXXX-XXXX-5670   Payment - Automatic Pymt Received   $ (288,669.63)
+11/26/2025   11/26/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B27zg0xi0                $       39.42
+11/26/2025   11/26/2025 XXXX-XXXX-XXXX-9199   Sp Make.Do                          $      378.00
+11/26/2025   11/26/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B266o8gl0              $      454.87
+11/27/2025   11/25/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia                $       82.91
+11/27/2025   11/25/2025 XXXX-XXXX-XXXX-7634   Menards Iowa City Ia                $      749.99
+11/27/2025   11/25/2025 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia                $       32.02
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-9828   Spotify Usa                         $       21.19
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-2938   Stage Accents                       $    2,185.20
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-0134   Plumb Supply - Ioc - 0              $       55.33
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl B28479ko2              $       55.90
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-9199   Amazon.Com B24nb9kx1                $      539.99
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-4656   Mixtiles                            $    1,823.09
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $      53.22
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-0063   Etscompany.Com           $     492.10
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-2589   Papa Johns #2512         $     155.65
+11/27/2025   11/26/2025 XXXX-XXXX-XXXX-6938   Bp#9257809iowa 80 Tqps   $      40.80
+11/27/2025   11/27/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B29mo38z0   $      32.99
+11/28/2025   11/26/2025 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $     147.24
+11/28/2025   11/26/2025 XXXX-XXXX-XXXX-1797   Menards Iowa City Ia     $     200.67
+11/28/2025   11/26/2025 XXXX-XXXX-XXXX-4823   Menards Iowa City Ia     $     165.88
+11/28/2025   11/27/2025 XXXX-XXXX-XXXX-8046   Paypal Murphymusic       $      81.75
+11/28/2025   11/27/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl B24lt76f0   $     104.97
+11/28/2025   11/27/2025 XXXX-XXXX-XXXX-6253   Pro+&courses Lite Muse   $      54.99
+ 12/1/2025   11/26/2025 XXXX-XXXX-XXXX-2938   Social Studies School    $   1,240.20
+ 12/1/2025   11/26/2025 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $      53.95
+ 12/1/2025   11/29/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bb84j7jd1   $      19.98
+ 12/1/2025   11/29/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb6yz4162   $     174.93
+ 12/1/2025   11/29/2025 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (43.08)
+ 12/1/2025   11/29/2025 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (58.39)
+ 12/1/2025   11/29/2025 XXXX-XXXX-XXXX-0007   Sp Locksmith Keyless     $      82.01
+ 12/1/2025   11/29/2025 XXXX-XXXX-XXXX-5923   Pods                     $     306.40
+ 12/1/2025   11/29/2025 XXXX-XXXX-XXXX-5320   Openai Chatgpt Subscr    $      21.20
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-6555   Lakeshore Learning Mat   $     139.66
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-5173   Amazon.Com Bb2k25jl0     $       7.78
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb2ki31q1   $       4.95
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb3758882   $      32.09
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb1yl2my2   $     269.97
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-5816   Hy-Vee F&f Iowa City 5   $      20.02
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-5203   Hy-Vee Coralville 1080   $      88.90
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-0007   Nayax Excel Tire Gau     $       3.00
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-5597   Bright Morning           $     995.00
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-5597   Bright Morning           $   1,495.00
+ 12/1/2025   11/30/2025 XXXX-XXXX-XXXX-0735   Aldi 68056               $      80.13
+ 12/1/2025    12/1/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bb4jk1jo0   $      17.96
+ 12/1/2025    12/1/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bb10w2sk2   $      21.88
+ 12/1/2025    12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb94f1hw1   $      18.90
+ 12/2/2025   11/26/2025 XXXX-XXXX-XXXX-0134   Foster Appliance         $     109.95
+ 12/2/2025   11/30/2025 XXXX-XXXX-XXXX-8046   Menards Iowa City Ia     $      45.04
+ 12/2/2025   11/30/2025 XXXX-XXXX-XXXX-8046   Blick Art 800 447 1892   $     110.84
+ 12/2/2025   11/30/2025 XXXX-XXXX-XXXX-9774   Hy-Vee Aisles Online 4   $     196.76
+ 12/2/2025    12/1/2025 XXXX-XXXX-XXXX-5166   Wave - Creative Canv     $      40.00
+ 12/2/2025    12/1/2025 XXXX-XXXX-XXXX-6555   Office Express           $      30.77
+ 12/2/2025    12/1/2025 XXXX-XXXX-XXXX-6555   Office Express           $      53.71
+ 12/2/2025    12/1/2025 XXXX-XXXX-XXXX-6555   Office Express           $     178.65
+ 12/2/2025    12/1/2025 XXXX-XXXX-XXXX-6555   Office Express           $     255.16
+ 12/2/2025    12/1/2025 XXXX-XXXX-XXXX-6555   Office Express           $     336.84
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5173   Amzn Digital Bb4f08qb1   $    30.00
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bb1gj59t2   $    32.29
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5173   Target.Com               $    40.34
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5420   Google Workspace_littl   $    19.08
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5420   Play It Again #11298     $   127.47
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0980   Paypal Mathleague        $   100.00
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0134   Psc Distribution, Inc.   $    63.33
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bb30m5wy2     $    10.19
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bb3pu1rk2     $    12.95
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bb77e3r32     $    32.57
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-3556   Simplicity Patterns      $    75.00
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-4783   Tritech Corp Of Americ   $    41.66
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-4783   Google Cloud 23twlw      $   898.21
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb4sr7pd0   $    11.73
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb8o239j2   $    17.09
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb9g621a0   $    24.94
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb0xn2gg0   $    29.91
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb13f4q81   $    43.99
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb3wp8yz2   $    48.45
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb92779r2   $    50.98
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb6kl58f1   $    56.85
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb6bo0uq2   $    81.19
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb88b0gi0   $   505.05
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $    15.52
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $   204.80
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    58.57
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-3897   Fareway Stores #993      $    29.26
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-3897   Sweetwater Sound         $   345.60
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9410   North Liberty Ace Hard   $    27.56
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9410   Alphagraphics N Libert   $   325.84
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $    38.00
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0007   Doyle Security Product   $   157.50
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-5597   Solution Tree Inc        $   769.00
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0312   Teacherspayteachers.Co   $    67.84
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0735   Usps.Com Postal Store    $   484.60
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $     3.97
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-4001   Sp The Secret Stories    $   129.00
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-6061   B&h Photo 800-606-696    $   506.68
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0021   Pianotrax.Com            $     5.98
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-0021   Dominos 1733             $   337.72
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $    96.92
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-6054   Boosey & Hawkes Inc.     $   356.50
+12/2/2025   12/1/2025 XXXX-XXXX-XXXX-6054   Savethemusic.Org         $   550.00
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bb1jc0m40     $    10.19
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bb01r8m60     $      21.95
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-4783   Apple.Com/Us             $   2,000.00
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb0vb7sw1   $       7.89
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb9664x10   $      32.09
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb3j59se1   $      38.86
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb6198mr0   $      85.19
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb21n1m90   $     216.48
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb1kq62x1   $     228.00
+12/2/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi4526of2     $     989.00
+12/3/2025   12/1/2025 XXXX-XXXX-XXXX-1805   Van Meter Inc - Iowa C   $      28.61
+12/3/2025   12/1/2025 XXXX-XXXX-XXXX-7894   Menards Iowa City Ia     $     112.34
+12/3/2025   12/1/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $      29.16
+12/3/2025   12/1/2025 XXXX-XXXX-XXXX-9774   Hy-Vee Aisles Online 4   $     161.24
+12/3/2025   12/1/2025 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $      32.63
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6555   Target.Com               $       9.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6555   Ahlerscooney             $      25.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1010   $      25.39
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6555   Office Express           $      85.69
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6555   Office Express           $     112.11
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     117.62
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5173   Hy-Vee Iowa City 1285    $       9.35
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $      30.65
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $     156.41
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9473   Grouper Education        $      62.91
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9473   Grouper Education        $      62.91
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-0980   Technology Student Ass   $     105.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-3697   Sp Q Team Store          $     776.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi72e7jb2   $       7.56
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi35j73a2   $      10.54
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bb4l826r0   $     239.92
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bb4gk8rs1     $       6.69
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi6fy2jc2   $       8.98
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi0995jf2   $       9.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb6kg7i11   $      12.86
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi3sx9l52   $      12.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb9xu6iv1   $      14.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb39k46g0   $      15.50
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi6wh2j32     $      19.29
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi6wn9jp2   $      19.69
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bb6dh9uf1     $      20.92
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi19i63k2     $      23.08
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb2es7he0   $      23.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb4pv0um1   $      26.94
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb0op0u51   $      26.97
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb4mx7q00   $    26.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb0em5bs0   $    29.40
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb59i78v0   $    31.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb6667bx0   $    32.68
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bb2nx39j1     $    34.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi16i0lp2   $    35.98
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi1ce3nh2   $    40.03
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb0gc9rc1   $    40.97
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi9wo0jh2   $    41.90
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb6cz77k1   $    46.98
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi8wm7np2   $    61.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb61v4hi0   $    66.95
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb4my6b60   $    67.05
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb1o45b10   $    79.65
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb5gf9ra1   $    85.02
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb39889u1   $    92.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi6lw7l62   $    94.81
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi0499n52     $   101.30
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi7bt7ji2     $   112.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb2xd38l0   $   140.78
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb1ks98q0   $   424.86
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb5433qo0   $   824.40
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5273   Sinclair Tractor Kalon   $    14.63
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $    21.71
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $    91.42
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $   103.44
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-7634   (Pc) 3325 3e Co          $    69.06
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-1808   Staples 00106260         $    50.87
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-1808   Wal-Mart #2827           $   367.72
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5203   Harrys Custom Trophies   $   127.02
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-3897   B&h Photo 800-606-696    $    52.95
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-3556   Totally Promotional      $   439.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-1390   Hy-Vee Coralville 1080   $   106.98
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-4383   Libraryjournals Llc      $   159.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl Bi3du1n12   $    13.34
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5108   Harbor Freight Tools30   $    10.99
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-5108   Electric Motors Of Ic    $   342.54
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6253   Grammarly Co Htx2izm     $   144.00
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6938   Walgreens #5977          $     2.37
+12/3/2025   12/2/2025 XXXX-XXXX-XXXX-6054   In Sauk Prairie Music    $   300.00
+12/3/2025   12/3/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bb0mw8wq1   $    11.23
+12/3/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb23x6sc0   $    11.99
+12/3/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb5c11yn1   $    17.99
+12/3/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb8l72d10   $    33.76
+12/3/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bb0cd7690     $      94.22
+12/4/2025   12/2/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1059   $      22.64
+12/4/2025   12/2/2025 XXXX-XXXX-XXXX-7894   Menards Iowa City Ia     $      73.40
+12/4/2025   12/2/2025 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $      98.56
+12/4/2025   12/2/2025 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $      61.04
+12/4/2025   12/2/2025 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $      69.91
+12/4/2025   12/2/2025 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $     115.97
+12/4/2025   12/2/2025 XXXX-XXXX-XXXX-3897   Business Professionals   $   2,117.44
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6555   Office Express           $      12.28
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6555   Office Express           $      19.51
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      41.15
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6555   Target.Com               $      45.59
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6555   Target.Com               $      49.51
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6555   Office Express           $      86.37
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6555   Stapls7669738599000001   $     115.16
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $       2.98
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-5173   Walmart.Com              $      40.84
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-0980   Musicnotes.Com           $      19.05
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-0980   Bt Revrobotics           $      83.33
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-0980   Gobilda                  $     555.62
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-3697   Khuck Hitting            $     450.00
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bb11327z0     $       9.84
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi7cu7g82   $       9.99
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $      99.00
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi1sz0ph2     $      14.99
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb0dy6uh0   $      19.45
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb2wd8in0   $      19.99
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi1mi0xa2   $      30.99
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi1ar00p2   $      38.17
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb8zf3up0   $      58.98
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi4r99ow1   $      64.60
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi7g05fk1   $      74.79
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bb8iv4960   $      85.45
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi47n8vz2   $      91.19
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi5xh0c41   $      96.55
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi64y1f31     $     101.30
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi2b371z2   $     110.08
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi9gn8l41   $     144.00
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi7z514z1   $     162.82
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi42x4xi2   $     199.00
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-5273   Aero Rental And Party    $     195.23
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-5273   Aero Rental And Party    $     288.55
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-3818   Hillyard Inc Des Moine   $     379.78
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-7262   Iowa Events Center       $      13.00
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-7262   Iowa Events Center       $    13.00
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-7262   Iowa Events Center       $    13.00
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    63.35
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-3897   Wm Supercenter #2827     $    12.19
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-5128   Staples 00106260         $    22.99
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-3050   J.W. Pepper              $   227.18
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl Bi54764h1   $   559.98
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-7670   Fareway Stores #950      $    13.63
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9161   Hy-Vee Iowa City 1281    $    15.62
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-0021   Dominos                  $   291.12
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $    97.94
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6054   Brueggers_mobile         $    20.55
+12/4/2025   12/3/2025 XXXX-XXXX-XXXX-6054   Target.Com               $    37.43
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-5173   Target.Com               $    40.48
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-5173   Imse                     $   125.00
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi4a83hp2   $    12.76
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi4cj2m92   $    24.00
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi5yp8mb2   $    64.19
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi5wo4zp1   $    69.99
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi2qm7n41   $    71.97
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi53e0hi2     $   539.99
+12/4/2025   12/4/2025 XXXX-XXXX-XXXX-5019   Hi-Line Electric Co.,    $   221.75
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-4815   Menards Iowa City Ia     $    56.89
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-9999   Menards Iowa City Ia     $    99.92
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-9219   Caseys #3955             $   171.89
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-7262   Caseys #2417             $     0.09
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-7262   Caseys #2417             $    25.00
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-7262   Caseys #2417             $    43.16
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-5320   Starbucks                $    30.16
+12/5/2025   12/3/2025 XXXX-XXXX-XXXX-6054   Kelvin Lp                $   150.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5166   Amoco#1054000dodge Qps   $    53.65
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5166   Cheesecake Des Moine     $   300.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bi1sm40j1   $     9.94
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5173   Amazon.Com Bi4xf0l00     $     9.97
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bi7h46dj2   $    16.99
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bi8c74tx1   $    69.02
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5173   Tst Graze Iowa City      $   256.43
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9828   Douglas Industries       $   422.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9828   Bravo Jordan Creek       $   477.64
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-2093   Wm Supercenter #1721     $    98.31
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9506   House Works              $   132.50
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bi8x34e51     $     5.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi54q6qr2   $     6.52
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi11q1j41   $     7.97
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bi7749f60     $      10.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi1eu03s1   $      14.04
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi5un8dz2   $      14.48
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi0jq8t51   $      17.48
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bi7g18qh2   $      17.90
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $     614.19
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-7858   Sq African American H    $     100.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi4rb9tq1     $       8.98
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi8va1fp0     $      14.71
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi81l3872   $      18.46
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi3ki6j71   $      19.79
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi1mr5cc0   $      31.76
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi5333ee1   $      32.17
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi7i83dl2     $      52.04
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (56.85)
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi8z73cv0   $      75.22
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi9un8071   $      91.76
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi5wn7q72     $      99.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi2wl3dz2     $     104.91
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi8a716t2   $     124.45
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi4id8dz2   $     135.96
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon.Com Bi5ug7sr2     $     179.80
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi52o0f30   $     290.36
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi0j418b2   $     379.90
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi52z84w0   $   1,748.69
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (29.99)
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $     704.66
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $      20.89
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-1199   J.W. Pepper              $      50.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-3556   Maa                      $     225.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827     $      75.11
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $       6.97
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703280   $      34.33
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $      41.88
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-0735   Sp Tower Garden          $      14.79
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-9041   Tractor Supply #2823     $      54.99
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-6061   Target 00017715          $      69.66
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-0021   Sheet Music Plus         $       9.14
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-2589   Sp Tidal Tank            $     340.10
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-2589   Sq Iowa High School B    $     652.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-6054   Staples Inc              $      85.80
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-6054   Staples Inc              $     142.99
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-6054   Paypal Ffmodels          $     371.00
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-6054   Carolina Biologic Supp   $   1,370.25
+12/5/2025   12/4/2025 XXXX-XXXX-XXXX-0671   Sq Cpr Cell Phone Rep    $      689.95
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-5173   Amazon.Com Bi5oz0pe1     $        9.22
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bi37o62l2   $       29.97
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-5173   Amazon.Com Bi0az1np0     $       30.12
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-5173   Amazon Mktpl Bi2rw0lh0   $       36.09
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9167   Amazon.Com Bi4fb7z00     $      113.20
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi8zr41q1   $       14.27
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi0bw7kf2   $       19.99
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi2uz9151   $       22.69
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi5bp42q2   $       61.76
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi8cg8n20   $       73.70
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi5fm2pn1   $       97.49
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi75w3nw0   $      149.37
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bi67b72w2   $    3,239.38
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $      (39.00)
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (105.99)
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (105.99)
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-5372   Amazon Mktpl Bi31551b1   $      470.08
+12/5/2025   12/5/2025 XXXX-XXXX-XXXX-6061   Dd Fongspizza            $      164.34
+                                            Debit Total              $ 242,860.01
+                                            Credit Total             $ (299,384.60)
+                                            Total                    $ (56,524.59)
+

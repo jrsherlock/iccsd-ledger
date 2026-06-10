@@ -1,0 +1,57 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                     Page: 1
+02/18/2025 1:02 PM                       Unposted; Batch Description 20250218b                                           User ID: 12031
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+409989          02/18/2025                               008904          CIT CHARTERS INC                                     4,459.62
+409990          02/18/2025                               010880          WINDSTAR LINES INC                                  12,957.40
+                Check Type Total:      Check                         Void Total:         0.00     Total without Voids:       17,417.02
+                Checking Account Total: 1                            Void Total:           0.00   Total without Voids:       17,417.02
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+201803          02/18/2025                               106910          HANA ABOU ALAIWA                                       125.00
+201804          02/18/2025                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                    814.80
+201805          02/18/2025                               106277          ALYSON BALDWIN                                          87.85
+201806          02/18/2025                               107566          BOWLERAMA LANES                                        100.00
+201807          02/18/2025                               015057          BSN SPORTS LLC                                      19,330.77
+201808          02/18/2025                               015057          BSN SPORTS LLC                                         266.95
+201809          02/18/2025                               008904          CIT CHARTERS INC                                     4,301.27
+201810          02/18/2025                               017135          CORY CONNELL                                         1,940.00
+201811          02/18/2025                               008774          COPYWORKS                                               47.98
+201812          02/18/2025                               012513          DECKER SPORTING GOODS INC                               45.00
+201813          02/18/2025                               106272          SARA DOWNES                                             93.16
+201814          02/18/2025                               005647          ECISOA                                                 310.00
+201815          02/18/2025                               000031          ELITE SPORTS                                         4,095.00
+201816          02/18/2025                               106011          RENEE GIBSON                                           366.98
+201817          02/18/2025                               017325          IOWA HIGH SCHOOL SPEECH ASSOCIATION                    310.00
+201818          02/18/2025                               008982          IOWA HS SOCCER COACHES ASSOC                            40.00
+201819          02/18/2025                               001834          J.W. PEPPER & SON, INC.                                959.57
+201820          02/18/2025                               105278          JIMMY JOHN'S                                           363.70
+201821          02/18/2025                               015262          KYLE JOSEPH                                            200.00
+201822          02/18/2025                               013759          MIKE KOWBEL                                             27.96
+201823          02/18/2025                               105631          RYAN LEE                                                25.42
+201824          02/18/2025                               106412          FRED LIMA                                              264.00
+201825          02/18/2025                               106412          FRED LIMA                                              264.00
+201826          02/18/2025                               106412          FRED LIMA                                              264.00
+201827          02/18/2025                               106412          FRED LIMA                                              264.00
+201828          02/18/2025                               106412          FRED LIMA                                              500.00
+201829          02/18/2025                               019833          CANDACE BRUCE                                          516.00
+201830          02/18/2025                               012718          LOWE'S                                                   9.44
+201831          02/18/2025                               011056          MARTIN BROS. DISTRIBUTING CO INC                       340.88
+201832          02/18/2025                               012338          MICHAEL MELLECKER                                       72.21
+201833          02/18/2025                               001991          MENARD INC                                              98.91
+201834          02/18/2025                               106911          WENDY MENG                                             200.00
+201835          02/18/2025                               102812          NATE MOORE                                           1,248.00
+201836          02/18/2025                               107074          VRITI PATEL                                            300.00
+201837          02/18/2025                               106946          RACHEL PETERSEN                                         50.92
+201838          02/18/2025                               105789          CRAIG CARNEY                                           564.96
+201839          02/18/2025                               004941          RIDDELL ALL AMERICAN                                 2,024.75
+201840          02/18/2025                               106200          ANDREW ROBINSON                                        390.00
+201841          02/18/2025                               012914          JILL TEN EYCK                                           60.00
+201842          02/18/2025                               107396          SPENCER THOMAS                                         250.00
+201843          02/18/2025                               019397          UNIVERSITY OF IOWA                                     225.00
+201844          02/18/2025                               107411          WRIGHT HOUSE OF FASHION                                185.00
+                Check Type Total:      Check                         Void Total:         0.00    Total without Voids:        41,943.48
+                Checking Account Total: 3                            Void Total:           0.00   Total without Voids:       41,943.48
+
+                                       Grand Total:                  Void Total:           0.00   Total without Voids:       59,360.50
+

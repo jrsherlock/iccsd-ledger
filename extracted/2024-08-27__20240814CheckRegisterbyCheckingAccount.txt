@@ -1,0 +1,30 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                 Page: 1
+08/14/2024 11:43 AM                                                                                                  User ID: 16345
+Checking Account ID: 3              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                         Amount
+200057         08/14/2024                              008026          ATLANTIC COCA-COLA BOTTLING COMPANY                  813.20
+200058         08/14/2024                              009801          BAND SHOPPE                                        2,835.90
+200059         08/14/2024                              013932          BANKERS ADVERTISING COMPANY                        1,440.50
+200060         08/14/2024                              015057          BSN SPORTS LLC                                     4,374.93
+200061         08/14/2024                              005921          CEDAR RAPIDS WASHINGTON                              140.00
+200062         08/14/2024                              017255          D & K PRODUCTS                                       375.00
+200063         08/14/2024                              005169          FAREWAY STORES                                       114.42
+200064         08/14/2024                              009520          JEFF FRESE                                           173.88
+200065         08/14/2024                              005501          MARY GOODFELLOW                                      895.79
+200066         08/14/2024                              107303          SOPHIE GRABAU                                      2,372.95
+200067         08/14/2024                              017257          HOSPERS & BROTHER PRINTERS                            10.21
+200068         08/14/2024                              007987          HOUCHEN BINDERY LTD                                   89.00
+200069         08/14/2024                              013668          LINN-MAR COMMUNITY SCHOOLS                           150.00
+200070         08/14/2024                              006667          MONTICELLO SPORTS                                  4,309.00
+200071         08/14/2024                              019782          NORTH DODGE ATHLETIC CLUB                          6,890.50
+200072         08/14/2024                              004738          NORTH SCOTT HIGH SCHOOL                              150.00
+200073         08/14/2024                              003627          PETTY CASH - NORTHWEST JH                          1,000.00
+200074         08/14/2024                              010698          SCHEELS ALL SPORTS                                   180.00
+200075         08/14/2024                              105879          RODNEY SCHULTE                                       173.07
+200076         08/14/2024                              000220          BRIAN MILLER                                       1,535.00
+200077         08/14/2024                              107162          VARSITY YEARBOOK                                   5,801.30
+               Check Type Total:      Check                        Void Total:        0.00  Total without Voids:         33,824.65
+               Checking Account Total: 3                           Void Total:         0.00   Total without Voids:       33,824.65
+
+                                      Grand Total:                 Void Total:         0.00   Total without Voids:       33,824.65
+

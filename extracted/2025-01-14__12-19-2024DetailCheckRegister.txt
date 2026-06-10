@@ -1,0 +1,15 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                       Page: 1
+12/19/2024 8:53 AM                                                                                                                                             User ID: 16976
+Checking Account:      3                  3
+Check Number: 201214           Check Type: Check      Check Date: 12/19/2024    Vendor: 017503             THE LINE UP                         Check Total:        13,333.51
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  INV5039                  09/23/2024     2500295        Selah Flora Mesh Dress with Sleeves               21 0114 1900 921 6694 611               6,240.00
+  INV5039                  09/23/2024     2500295        20% TLU Group Discount                            21 0114 1900 921 6694 611              (1,248.00)
+  INV5039                  09/23/2024     2500295        Prepaid Ship-Final Order                          21 0114 1900 921 6694 611                  30.20
+  INV5238                  10/08/2024     2500357        devon-dress Devon Dress                           21 0114 1900 921 6694 611               2,541.00
+  INV5238                  10/08/2024     2500357        Custom Classic: SALES Custom Classic: SA          21 0114 1900 921 6694 611                  15.00
+  INV5238                  10/08/2024     2500357        Prepaid Ship - Final Order Prepaid Ship           21 0114 1900 921 6694 611                  22.23
+  INV5278                  10/09/2024     2500184        Dance Uniforms                                    21 0114 1900 921 6694 611               5,733.08
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   3                           Total without Voids:        13,333.51
+

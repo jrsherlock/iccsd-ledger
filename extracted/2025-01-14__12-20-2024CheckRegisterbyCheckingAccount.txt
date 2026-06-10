@@ -1,0 +1,10 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                  Page: 1
+12/20/2024 11:12 AM                                                                                                   User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                          Amount
+409417         12/20/2024                              011467          UNITED STATE TREASURY                             390,646.16
+               Check Type Total:      Check                        Void Total:        0.00  Total without Voids:         390,646.16
+               Checking Account Total: 1                           Void Total:         0.00    Total without Voids:      390,646.16
+
+                                      Grand Total:                 Void Total:         0.00    Total without Voids:      390,646.16
+

@@ -1,0 +1,117 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+01/14/2025 1:43 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+409597          01/14/2025                               000465          CITY OF IOWA CITY                                       5.50
+409598          01/14/2025                               015256          LEXIA LEARNING SYSTEMS LLC                         14,679.00
+409599          01/14/2025                               007501          LINN COUNTY REC                                    38,317.44
+409600          01/14/2025                               005199          MIDAMERICAN ENERGY                                    596.11
+409601          01/14/2025                               011584          SCHOLASTIC BOOK FAIRS, INC.                           512.00
+409602          01/14/2025                               017023          SYMMETRY ENERGY SOLUTIONS LLC                      23,362.27
+409603          01/14/2025                               015286          UNIVERSITY OF IOWA HEALTH CARE                     28,180.99
+409604          01/14/2025                               107411          WRIGHT HOUSE OF FASHION                             1,500.00
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:        107,153.31
+                Checking Account Total: 1                            Void Total:          0.00   Total without Voids:      107,153.31
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201339          01/14/2025                               107510          ALEXANDER PTO                                         226.34
+201340          01/14/2025                               019368          ANAMOSA MUSIC BOOSTERS                                600.00
+201341          01/14/2025                               004580          BETTENDORF COMM SCH DIST                              200.00
+201342          01/14/2025                               004592          BURLINGTON HIGH SCHOOL                                115.00
+201343          01/14/2025                               013052          CAFE DEL SOL ROASTING                                 130.00
+201344          01/14/2025                               013446          CEDAR RAPIDS KENNEDY HS                               150.00
+201345          01/14/2025                               020192          JOSHUA CHRISTENSEN                                     84.32
+201346          01/14/2025                               019459          CLERMONT PIN DOCTORS, INC.                            318.00
+201347          01/14/2025                               105971          CLIFF KEEN ATHLETIC INC                             3,575.35
+201348          01/14/2025                               017135          CORY CONNELL                                           63.62
+201349          01/14/2025                               014446          DEVIN CONOVER                                         112.86
+201350          01/14/2025                               008774          COPYWORKS                                           2,253.63
+201351          01/14/2025                               008774          COPYWORKS                                           1,575.00
+201352          01/14/2025                               008738          DAVID CUSICK                                          120.00
+201353          01/14/2025                               012513          DECKER SPORTING GOODS INC                             240.00
+201354          01/14/2025                               012127          MATTHEW DICICCO                                        77.78
+201355          01/14/2025                               008694          LORAS DIGMANN                                         120.00
+201356          01/14/2025                               010950          BRADLEY DOERRING                                       90.30
+201357          01/14/2025                               000031          ELITE SPORTS                                        3,054.50
+201358          01/14/2025                               014660          PATRICK ENSMINGER                                     120.00
+201359          01/14/2025                               009745          NATE FRESE                                             19.98
+201360          01/14/2025                               016008          TROY GREENE                                           224.94
+201361          01/14/2025                               008691          VAUGHN GRIMM                                          120.00
+201362          01/14/2025                               001058          HARRY'S CUSTOM TROPHIES                             2,153.00
+201363          01/14/2025                               014717          JEFF HARTL                                            120.00
+201364          01/14/2025                               014718          MARK HEITKAMP                                         120.00
+201365          01/14/2025                               010946          RALPH HENNING                                         132.72
+201366          01/14/2025                               002026          HIGHLAND COMM SCHOOL DIST                             110.00
+201367          01/14/2025                               003771          JAY HONOHAN                                           154.70
+201368          01/14/2025                               008953          INDEPENDENCE HIGH SCHOOL                              100.00
+201369          01/14/2025                               000251          IOWA HIGH SCHOOL ATHLETIC ASSOC                       200.00
+201370          01/14/2025                               017325          IOWA HIGH SCHOOL SPEECH ASSOCIATION                   335.00
+201371          01/14/2025                               009267          IOWA WESTERN COMMUNITY COLLEGE                      2,000.00
+201372          01/14/2025                               001834          J.W. PEPPER & SON, INC.                               259.99
+201373          01/14/2025                               013591          STEPHEN JANSSEN                                       121.66
+201374          01/14/2025                               009404          BLAIR KLINEFELTER                                     110.32
+201375          01/14/2025                               017018          RONALD KNOCHE                                         120.00
+201376          01/14/2025                               013647          MICHELLE KOLLER                                        63.18
+201377          01/14/2025                               013647          MICHELLE KOLLER                                       109.67
+201378          01/14/2025                               012189          JEFF LONGTIN                                          124.25
+201379          01/14/2025                               008813          JOSEPH LORIA                                          326.05
+201380          01/14/2025                               013308          BILL MACH                                             173.78
+201381          01/14/2025                               012696          JASON MARLOW                                          120.00
+201382          01/14/2025                               105650          ADAM MCLAUGHLIN                                       233.48
+201383          01/14/2025                               107501          MIKE METTENBURG                                       241.75
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+01/14/2025 1:43 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201384          01/14/2025                               006770          MID-PRAIRIE COMM SCHOOL DIST                           75.00
+201385          01/14/2025                               106293          MIDWAY VAN RENTAL                                     269.08
+201386          01/14/2025                               107416          MARCUS MILLARD                                         83.23
+201387          01/14/2025                               017019          ANDREW MILTON                                         147.00
+201388          01/14/2025                               107511          ABIGAIL SMITH                                         600.00
+201389          01/14/2025                               000927          MINNTEX CITRUS, INC                                   106.39
+201390          01/14/2025                               014645          BRIAN MOTLEY                                            0.38
+201391          01/14/2025                               105750          MOUNT VERNON HIGH SCHOOL                              300.00
+201392          01/14/2025                               010315          JOHN MURPHY III                                       113.29
+201393          01/14/2025                               014074          NOLTE ACADEMY OF DANCE LLC                             50.00
+201394          01/14/2025                               107112          NORTH LIBERTY ACE HARDWARE                             59.97
+201395          01/14/2025                               011510          WILLIAM (BILL) POCH                                   118.53
+201396          01/14/2025                               013424          JOHN POEHLER                                          132.09
+201397          01/14/2025                               008492          JEFFREY ROEN                                          165.52
+201398          01/14/2025                               008673          ADAM ROY                                              178.05
+201399          01/14/2025                               000749          ROBERT (BOB) SAUNDERS                                 100.86
+201400          01/14/2025                               013212          MATT SCHAEFER                                         114.10
+201401          01/14/2025                               011584          SCHOLASTIC BOOK FAIRS, INC.                         1,610.92
+201402          01/14/2025                               012929          ALEX SCHOTT                                         1,200.00
+201403          01/14/2025                               017065          ROGER SCHUELLER                                       120.00
+201404          01/14/2025                               017711          SEIBA                                                 525.00
+201405          01/14/2025                               017601          STEVEN SHANLEY                                      4,960.00
+201406          01/14/2025                               011576          MATTHEW SHULL                                         120.00
+201407          01/14/2025                               017016          ROBERT SMITH JR.                                      120.00
+201408          01/14/2025                               002241          SOLON COMMUNITY SCHOOL DISTRICT                       100.00
+201409          01/14/2025                               014766          BOB SQUIERS                                           114.54
+201410          01/14/2025                               007320          TRACY STONE                                           420.28
+201411          01/14/2025                               106302          VAUGHN THADA                                          190.16
+201412          01/14/2025                               106298          TRACKMAN INC                                        2,000.00
+201413          01/14/2025                               000220          BRIAN MILLER                                          906.00
+201414          01/14/2025                               105700          CAMARIAN TURNER                                       164.28
+201415          01/14/2025                               019710          UNIVERSITY OF KANSAS                                2,000.00
+201416          01/14/2025                               015859          STACEY VAN ARSDALE                                    120.00
+201417          01/14/2025                               107497          VESTA LLC                                           5,500.00
+201418          01/14/2025                               011713          WARTBURG COLLEGE                                    2,000.00
+201419          01/14/2025                               011575          MARK WARTH                                            155.15
+201420          01/14/2025                               014716          KEN WELTER                                            170.87
+201421          01/14/2025                               012192          CHET WIELAND                                          169.55
+201422          01/14/2025                               010880          WINDSTAR LINES INC                                  9,115.50
+201423          01/14/2025                               103022          WORLDSTRIDES                                        4,997.68
+                Check Type Total:      Check                         Void Total:          0.00 Total without Voids:         60,414.59
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       60,414.59
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9028198         01/14/2025                               010509          CENTURYLINK COMMUNICATIONS, LLC                       211.00
+9028199         01/14/2025                               012004          GREATAMERICA FINANCIAL SVCS CORP                      503.00
+9028200         01/14/2025                               105111          U.S. CELLULAR                                       2,264.04
+                Check Type Total:      Check                         Void Total:       0.00   Total without Voids:           2,978.04
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:        2,978.04
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:      170,545.94
+

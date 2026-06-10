@@ -1,0 +1,107 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                      Page: 1
+08/14/2024 11:47 AM                                                                                                                           User ID: 16345
+Checking Account:      1                  1
+Check Number: 407984           Check Type: Check      Check Date: 08/13/2024    Vendor: 000465    CITY OF IOWA CITY            Check Total:          248.60
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  080724                   08/07/2024                    1084380-325896 - WATER/TYLER             10 0080 2620 000 0000 411          70.77
+  080724                   08/07/2024                    1084381-325896 - WATER/TYLER             10 0080 2620 000 0000 411          59.07
+  080724                   08/07/2024                    1084384-325896 - WATER/TYLER             10 0080 2620 000 0000 411         118.76
+
+Check Number: 407985           Check Type: Check      Check Date: 08/13/2024    Vendor:                                        Check Total:
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+
+
+Check Number: 407986           Check Type: Check      Check Date: 08/13/2024    Vendor:                                        Check Total:
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+
+
+Check Number: 407987           Check Type: Check      Check Date: 08/13/2024    Vendor:                                        Check Total:
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+
+
+Check Number: 407988           Check Type: Check      Check Date: 08/13/2024    Vendor:                                        Check Total:
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+
+
+Check Number: 407989           Check Type: Check      Check Date: 08/13/2024    Vendor:                                        Check Total:
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+
+
+Check Number: 407990           Check Type: Check      Check Date: 08/13/2024    Vendor: 007501    LINN COUNTY REC              Check Total:       23,945.74
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  080224                   08/02/2024                    ELEC - NC                                10 0209 2620 000 0000 622       7,013.26
+  080224                   08/02/2024                    ELEC - NC PORTABLE                       10 0209 2620 000 0000 622         865.67
+  080224                   08/02/2024                    ELEC - GRANT                             10 0475 2620 000 0000 622       6,407.82
+  080224                   08/02/2024                    ELEC - WICKHAM                           10 0493 2620 000 0000 622       4,912.71
+  080224                   08/02/2024                    ELEC - VAN ALLEN                         10 0497 2620 000 0000 622       4,746.28
+
+Check Number: 407991           Check Type: Check      Check Date: 08/13/2024    Vendor: 005199    MIDAMERICAN ENERGY           Check Total:      116,375.04
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  080824                   08/08/2024                    ELEC - ESC                               10 0020 2620 000 0000 622       7,525.32
+  080824                   08/08/2024                    ELEC-SPEC ED                             10 0025 2620 000 0000 622          57.65
+  080824                   08/08/2024                    ELEC-PHYSICAL PLANT                      10 0050 2620 000 0000 622       3,595.23
+  080824                   08/08/2024                    ELEC-CITY                                10 0109 2620 000 0000 622         108.35
+  080824                   08/08/2024                    ELEC-WEST                                10 0118 2620 000 0000 622      37,062.56
+  080824                   08/08/2024                    ELEC-NW                                  10 0213 2620 000 0000 622      10,963.78
+  080824                   08/08/2024                    ELEC-SE                                  10 0218 2620 000 0000 622       8,220.30
+  080824                   08/08/2024                    ELEC-CORV CNTL                           10 0403 2620 000 0000 622       4,192.42
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                      Page: 2
+08/14/2024 11:47 AM                                                                                                                                           User ID: 16345
+Checking Account:      1                  1
+  080824                   08/08/2024                    ELEC-KIRKWOOD                                     10 0406 2620 000 0000 622               3,205.31
+  080824                   08/08/2024                    ELEC-HORN                                         10 0415 2620 000 0000 622               3,222.01
+  080824                   08/08/2024                    ELEC-LEMME                                        10 0417 2620 000 0000 622               2,420.75
+  080824                   08/08/2024                    ELEC-LONGFELLOW                                   10 0427 2620 000 0000 622               4,471.65
+  080824                   08/08/2024                    ELEC-LUCAS                                        10 0436 2620 000 0000 622               1,801.17
+  080824                   08/08/2024                    ELEC - ALEXANDER                                  10 0442 2620 000 0000 622               5,131.49
+  080824                   08/08/2024                    ELEC-MANN                                         10 0445 2620 000 0000 622               5,670.29
+  080824                   08/08/2024                    ELEC-SHIMEK                                       10 0468 2620 000 0000 622               4,039.97
+  080824                   08/08/2024                    ELEC-TWAIN                                        10 0472 2620 000 0000 622               4,789.64
+  080824                   08/08/2024                    ELEC-WOOD                                         10 0481 2620 000 0000 622               5,491.53
+  080824                   08/08/2024                    ELEC-WEBER                                        10 0488 2620 000 0000 622               4,405.62
+
+Check Number: 407992           Check Type: Check      Check Date: 08/13/2024    Vendor: 005199             MIDAMERICAN ENERGY                  Check Total:       10,343.79
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  080824                   08/08/2024                    ELEC- TYLER                                       10 0080 2620 000 0000 622              10,219.71
+  556171012                08/05/2024                    ELEC-DIST WHS STE 7                               10 0050 2620 000 0000 622                  13.40
+  556174247                08/05/2024                    ELEC-DIST WHS STE 2                               10 0050 2620 000 0000 622                  15.23
+  556174611                08/05/2024                    ELEC-DIST WHS STE 14                              10 0050 2620 000 0000 622                  13.86
+  556174769                08/05/2024                    ELEC-DIST WHS STE 13                              10 0050 2620 000 0000 622                  10.79
+  556175144                08/05/2024                    ELEC-DIST WHS STE 11                              10 0050 2620 000 0000 622                  14.66
+  556176087                08/05/2024                    ELEC-DIST WHS STE 12                              10 0050 2620 000 0000 622                  10.91
+  556176809                08/05/2024                    ELEC-DIST WHS STE 5                               10 0050 2620 000 0000 622                  11.01
+  556179169                08/05/2024                    GAS-DIST WHS STE 1                                10 0050 2620 000 0000 621                  14.65
+  556179169                08/05/2024                    ELEC-DIST WHS STE 1                               10 0050 2620 000 0000 622                  19.57
+
+Check Number: 407993           Check Type: Check      Check Date: 08/13/2024    Vendor: 005199             MIDAMERICAN ENERGY                  Check Total:          355.32
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  556179243                08/05/2024                    ELEC-DIST WHS STE 3                               10 0050 2620 000 0000 622                  71.00
+  556179639                08/05/2024                    ELEC-DIST WHS STE 4                               10 0050 2620 000 0000 622                  18.08
+  556179663                08/05/2024                    ELEC-DIST WHS STE 10                              10 0050 2620 000 0000 622                  57.76
+  556182413                08/05/2024                    ELEC-DIST WHS STE 6                               10 0050 2620 000 0000 622                  11.36
+  556182636                08/05/2024                    ELEC-DIST WHS STE 8                               10 0050 2620 000 0000 622                  29.50
+  556221264                08/05/2024                    ELEC-DIST WHS HOUSE                               10 0050 2620 000 0000 622                 144.67
+  556327907                08/07/2024                    ELEC - WOOD                                       10 0481 2620 000 0000 622                  12.28
+  556367498                08/05/2024                    ELEC-DIST WHS STE 9                               10 0050 2620 000 0000 622                  10.67
+
+Check Number: 407994           Check Type: Check      Check Date: 08/13/2024    Vendor: 012358             PITNEY BOWES GLOBAL FINANCIAL       Check Total:          926.76
+                                                                                                           SVCS
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  3319482180               08/08/2024                    METER LEASE                                       10 0000 2610 000 0000 442                 926.76
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   1                           Total without Voids:      152,195.25
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                                      Page: 3
+08/14/2024 11:47 AM                                                                                                                                          User ID: 16345
+Checking Account:     5                  5
+Check Number: 9027611         Check Type: Check      Check Date: 08/13/2024    Vendor: 010509             CENTURYLINK COMMUNICATIONS, LLC     Check Total:          268.83
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  080124                  08/01/2024                    SECURITY/FIRE LINE                                33 0000 4700 000 8999 450                  75.00
+  080724                  08/07/2024                    ALEXANDER SECURITY/FIRE LINE                      33 0000 4700 000 8999 450                  64.61
+  080724A                 08/07/2024                    BORLAUG SECURITY/FIRE LINE                        33 0000 4700 000 8999 450                 129.22
+
+Check Number: 9027612         Check Type: Check      Check Date: 08/13/2024    Vendor: 105132             MIDAMERICAN ENERGY                  Check Total:       13,876.70
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  MX: 3911763             08/13/2024                    TRANSFORMER INSTALL 2501 BRADFORD                 33 0000 4700 000 0000 450              13,876.70
+
+  *Denotes Expensed Invoice Item                                                   Checking Account ID:   5                           Total without Voids:       14,145.53
+

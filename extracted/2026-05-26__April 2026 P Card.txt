@@ -1,0 +1,878 @@
+Account                     Transaction Date   Supplier - Name          Transaction - Description                                                                                        Amount
+10 0218 1300 355 0000 612   05/05/2026         Fareway Stores #950      Purchase Fareway Stores #950 FCS G.Westfall-K.Schopf LTS                                                                   36.07
+10 0445 1100 102 0000 612   05/05/2026         Amazon Mktpl Bj0rg6g40   Art Supplies - Joe Bacon                                                                                                  223.72
+10 0109 1100 106 0000 612   05/05/2026         Amazon Mktpl Bj7fp8yr1   Honors Graduation Cords (Royal Blue/Kelly Green) - Seal of Bi-Literacy/D.Silva                                            232.00
+21 0118 1900 921 6725 611   05/05/2026         Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                               213.43
+21 0118 1900 921 6860 611   05/05/2026         Culvers Of Cedar Falls   Purchase Culvers Of Cedar Falls                                                                                            12.70
+21 0447 1900 950 7022 611   05/05/2026         Amazon Mktpl Bj18e3yy1   High Visibility Kids Safety Vests                                                                                          25.99
+21 0118 1900 950 7015 611   05/05/2026         Amazon.Com Bv41d2ws2     West HS Library books                                                                                                      56.05
+10 0000 2610 000 0000 685   05/05/2026         Electric Motors Of Ic    District belts                                                                                                            162.68
+21 0109 1900 920 6860 611   05/05/2026         Pheasant Ridge Golf Co   Range Balls                                                                                                                26.00
+10 0406 1282 431 4501 612   05/05/2026         Amazon Mktpl Bf1uq3oo2   Dry Erase Pocket Sleeves, Sheet Protectors, Abacus, EXPO Markers-Title 1/Kirkwood c/o jane Ruppenkamp                      64.45
+61 0209 3110 000 0000 618   05/05/2026         Amazon Mktpl Bj03c3w31   8pk Stanchions w/ Retractable Belts - Nutrition Services                                                                  149.99
+10 0000 2650 000 0000 682   05/05/2026         Arnold Motor Supply 4    Stock filters, alarms, lamps, wipers                                                                                      512.94
+21 0447 1900 950 7022 611   05/05/2026         Amazon Mktpl Bj6483gk0   Avery Customizable Name Badges                                                                                             22.12
+21 0218 1900 950 7040 611   05/05/2026         Amazon.Com Bv63m6yb2     Skittles & Starburst Variety Pack-Ten Eyck/Student Council-Approved by Lucas                                               57.74
+10 0436 1100 100 0000 612   05/05/2026         Amazon.Com Bv6d95431     504 Tier III Student-Lucas (Snack Reward-preapproved)                                                                      98.47
+21 0418 1900 950 7015 611   05/05/2026         Amazon.Com Bv8948wa2     Lincoln Library books                                                                                                       7.14
+10 0209 1300 316 0000 612   05/05/2026         Amazon Mktpl Bj35e5gg0   Slab Flattening Router Bit, Scratch Awl Tool - Ind Tech Lab Materials/Levi Wood                                            89.68
+10 0218 1300 316 0000 612   05/05/2026         Lowes #00907             Eaton 660-Watt Plastic keyless Ceiling Socket x4                                                                           13.93
+                                                                        42pc 12sided Dice, Reading Strips, Cardstock, LCD Writing tablets, Sheet Protectors-Title 1/Borlaug c/o Deanna
+10 0432 3300 431 4501 618   05/05/2026         Amazon Mktpl Bj0qk5vl0   Kleinsmith                                                                                                                169.50
+10 0209 1300 316 0000 612   05/05/2026         Amazon Mktpl Bj6wt2xd0   128oz Mineral Oil - Levi Wood/Ind Tech Lab Materials                                                                       39.99
+10 0472 1250 421 3233 612   05/05/2026         Amazon Mktpl Bv5kg2w82   Preschool Supplies for Pam Polman - Shared Visions Twain                                                                   75.99
+21 0109 1900 923 6740 611   05/05/2026         Subway 28736             Team Meal                                                                                                                  67.50
+21 0109 1900 923 6725 611   05/05/2026         Subway 28736             Team Meal                                                                                                                  45.00
+21 0109 1900 923 6825 611   05/05/2026         Subway 28736             Team Meal                                                                                                                 135.00
+21 0427 1900 950 7056 611   05/05/2026         Amazon.Com Bj1r89p00     Bonnie Plants Big Boy Tomato -Big Idea Grant for School Garden-Gardening Supplies                                          21.79
+21 0109 1900 923 6840 611   05/05/2026         Sq Heyns Ice Cream       Team Meal                                                                                                                 125.00
+21 0118 1900 950 7222 611   05/05/2026         Amer String Teach Assn   American String Teacher Registration auto renewal                                                                         125.00
+10 0445 1282 432 4508 612   05/05/2026         Amazon.Com Bj4bw4gr0     Mann Library books                                                                                                        103.91
+10 0000 2131 000 0000 611   05/05/2026         Amazon Mktpl Bj3cw1xo0   Large Sharps Container - Health Services                                                                                   20.49
+21 0109 2700 920 6860 515   05/05/2026         Bp#3299700iowa Cityqps   Girls Golf Van Gas                                                                                                         63.90
+10 0109 1200 215 3302 612   05/05/2026         Amzn Digital Bj08e70p0   tangible reinforcement for SID:                                                                                            30.00
+21 0118 1900 950 7040 611   05/05/2026         Amazon.Com Bv24x14c1     Goldfish, Frito-Lay Variety Pack, OREO Cookies - Student Senate Study Night-Approved by Lucas                              48.75
+10 0403 1100 100 0000 612   05/05/2026         Amazon Mktpl Bj8322gu0   Construction Paper, Lam Pouches                                                                                            36.63
+10 0403 1100 100 0000 612   05/05/2026         Amazon Mktpl Bv2pe9y32   Tru-Ray Construction Paper                                                                                                 15.16
+10 0493 2221 000 0000 643   05/05/2026         Amazon.Com Bf15s0c32     Wickham Library books                                                                                                      13.59
+10 0109 1100 100 0000 612   05/05/2026         Amazon Mktpl Bv2ns3o81   Velcro Dots, Tape refills, Tissues, AAA Batteries, Masking Tape, AA Batteries, -Corina Shipp                               84.96
+10 0497 1100 100 9996 615   05/05/2026         Amazon Mktpl Bv2ag9421   PTO Budget for Art-Asst. Supplies                                                                                         458.15
+21 0436 1900 950 7015 611   05/05/2026         Amazon.Com Bj4rg5p00     Lucas Library books                                                                                                        14.99
+10 0209 1300 316 0000 612   05/05/2026         Amazon Mktpl Bj6if6v60   Sandpaper Sheets, Aluminum Rivets, Stainless Steel Rulers, Solder Wire - Levi Wood/Ind Tech                               127.93
+10 0445 1282 432 4508 612   05/05/2026         Amazon.Com Bj6ld2mj0     Mann Library books                                                                                                         63.93
+10 0109 1100 100 0000 612   05/05/2026         Amazon Mktpl Bf1xl3ck2   EXPO Dry Erase Markers, Low Odor-Corina Shipp                                                                              26.98
+                                                                        60pcs Dice Set, Gallon Freezer Bags, Rubber Bands, 1000pcs Bingo Counting Chips-Title 1/Twain c/o Bethany
+10 0472 3300 431 4501 618   05/05/2026         Amazon Mktpl Bv85u1f71   Bombei                                                                                                                     42.53
+
+10 0218 1100 112 9994 615   05/05/2026         Sheetmusicdirect.Com     SEMS/Pier Debes-Music -Golden, Dream On, Never Enough - Instrumental Digital Music Downloads - Music Aux.                  85.83
+21 0118 1900 921 6840 611   05/05/2026         Fairfield Inn & Suites   Purchase Fairfield Inn & Suites                                                                                      1,246.56
+21 0118 1900 920 6840 582   05/05/2026         Fairfield Inn & Suites   Purchase Fairfield Inn & Suites                                                                                      1,246.56
+21 0114 1900 950 7220 611   05/04/2026         Holiday Inn              Hotel room for Concert Band Festival judge                                                                                 89.74
+10 0000 2610 000 0000 685   05/04/2026         Menards Iowa City Ia     WO 214341 blank plates                                                                                                      7.59
+21 0109 1900 920 6860 611   05/04/2026         Gardner Golf Course      Range Balls                                                                                                                18.54
+10 0442 1250 421 3233 612   05/04/2026         Amazon.Com Bv7do65i2     Preschool Supplies-Shared Visions: Insect Lore 2 cups of caterpillars-Butterfly Garden Kit Refill                          19.99
+21 0209 1900 950 7000 611   05/04/2026         Amazon Mktpl Bj1nb6jm0   LA/Literacy Donation-Lisa Piper-Asst. Classroom supplies                                                                  158.37
+10 0481 1282 431 4501 612   05/04/2026         Amazon Mktpl Bv2fy4kt2   Title 1 Supplies-Wood-c/o Cindy McDowell                                                                                  164.68
+21 0209 1900 950 7000 611   05/04/2026         Amazon.Com Bj91f4701     LA/Literacy Donation-Brooke Overholt-Asst. Books                                                                          209.09
+10 0114 2700 920 6860 515   05/04/2026         Kwik Star #1927          Gas for van to travel to away meet.                                                                                        40.22
+10 0432 1200 215 3302 612   05/04/2026         Burger King #11727 Q07   Reinforcement for SID:                                                                                                      9.53
+21 0109 1900 923 6601 611   05/04/2026         Caseys #3858             Team Meal                                                                                                                 111.25
+10 0000 2610 000 0000 688   05/04/2026         Randys Carpets Coralvi   WO 214323 carpet tile joiner                                                                                              360.00
+21 0109 1900 920 6860 611   05/04/2026         Twin Pines Golf Course   Range Balls                                                                                                                11.33
+10 0118 1200 215 3302 612   05/04/2026         Walmart.Com              Edibles for SIDs:                                                                                                          26.79
+10 0213 1200 212 3301 612   05/04/2026         Walmart.Com              Edibles for SIDs:                                                                                                          16.56
+10 0442 1200 218 3303 612   05/04/2026         Walmart.Com              Edibles for SIDs:                                                                                                          20.46
+36 0000 4500 000 8999 733   05/04/2026         Google Cloud 22d3pc      Monthly cloud usage                                                                                                  1,204.20
+21 0118 1900 950 7210 611   05/04/2026         Comfort Inn & Stes Wi1   Hotel Rooms for Show Choir Trip                                                                                      2,713.17
+21 0427 1900 950 7056 611   05/04/2026         Amazon Mktpl Bs8i67uu0   Ozark Beauty Strawberry Plants                                                                                             25.93
+10 0472 1282 431 4501 612   05/04/2026         Amazon Mktpl Bv14c8sf2   Title 1 Supplies-Twain-c/o Bethany Bombei                                                                                 139.17
+21 0118 1900 921 6730 611   05/04/2026         Lowes #01688             Purchase Lowes #01688                                                                                                     255.50
+21 0118 1900 921 6725 611   05/04/2026         Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                               391.30
+21 0109 1900 922 6720 611   05/04/2026         Google Workspace Littl   Football Website                                                                                                           19.08
+10 0218 1300 355 0000 612   05/04/2026         Hy-Vee Iowa City 1285    Credit Voucher Hy-Vee Iowa City 1285 FCS-wrong item was charged                                                           (23.94)
+21 0118 1900 923 6601 611   05/04/2026         Usps Po 1843930899       Purchase Usps Po 1843930899---returning lost and found wallet                                                              12.90
+61 0109 3110 000 0000 618   05/04/2026         The Webstaurant Store    pans and food storage containers                                                                                          102.62
+10 0000 2610 000 0000 685   05/04/2026         Psc Distribution, Inc.   WO 213270 line drier, fittings                                                                                             27.33
+21 0427 1900 950 7056 611   05/04/2026         Amazon Mktpl Bv5c259v2   Big Idea Grant for School Garden-Gardening Supplies                                                                        95.62
+10 0114 1200 215 3302 612   05/04/2026         Hy-Vee Iowa City 1285    Budgeting, shopping, cooking with SIDs:                                                                                     4.65
+10 0109 1200 218 3303 612   05/04/2026         Hy-Vee Iowa City 1285    Budgeting, shopping, cooking with SIDs:                                                                                     9.31
+10 0403 1100 100 0000 612   05/04/2026         Amazon Mktpl Bs8yw0wb0   Tru-Ray Construction Paper                                                                                                 15.96
+21 0213 1900 950 7015 611   05/04/2026         Amazon Mktpl Bv9oy29d2   NWMS Library MakerSpace items                                                                                              14.36
+10 0447 2410 000 0000 611   05/04/2026         Amazon Mktpl Bv4h982d2   Large heavy duty hanging hooks (10 pack)                                                                                    8.99
+10 0213 1200 218 3303 612   05/04/2026         Walmart.Com              Edibles for SID:                                                                                                           10.38
+10 0493 1100 100 0000 612   05/04/2026         Amazon Mktpl Bv2ww2dg2   Bandages, 500 pk. binder rings                                                                                             75.16
+10 0109 1200 218 3303 612   05/04/2026         Walmart.Com              Edibles for SID: 4448038584                                                                                                13.66
+21 0218 1900 950 7210 611   05/04/2026         Amazon Mktpl Bj0al2aw0   Pier Debes-Choir-Garment Rack                                                                                              73.96
+10 0109 1100 108 0000 612   05/04/2026         Amazon.Com Bv3la9i82     General Phys Ed Classroom Supplies: Franklin Junior Size Rubber Fooballs Adidas Club Soccer Balls (3)                      98.99
+21 0118 1900 921 6725 611   05/04/2026         Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                               391.30
+10 0445 1100 100 0000 612   05/04/2026         Sp Wipebook Corp.        Purchase Sp Wipebook Corp.                                                                                                 77.41
+21 0118 1900 950 7250 611   05/04/2026         Ckeychainnow 884870529   Staff Gifts for End or the Year                                                                                           175.49
+10 0000 1100 460 3117 612   05/04/2026   Amazon Mktpl Bv2574it2   Preschool Supplies: Tissues (3) Plastic Spoons (5) Paper Cups (5)                                               252.86
+10 0497 1100 100 9996 615   05/04/2026   Amazon Mktpl Bs8zp9wf0   Tru-Ray Heavyweight Construction Paper - PTO will reimburse                                                      72.80
+36 0000 4700 000 8750 450   05/04/2026   Sherwin-Williams703783   WO 212900 roller covers                                                                                          61.24
+21 0432 1900 950 7015 611   05/04/2026   Amazon.Com Bs9ze1r50     Borlaug Library books                                                                                           255.65
+21 0109 1900 923 6601 611   05/04/2026   Athleticlive             Live Results for TF SQM                                                                                          39.00
+10 0114 1300 355 0000 612   05/04/2026   Fareway Meat And Groce   Supplies for pasta labs                                                                                          90.35
+21 0109 1900 950 7015 611   05/04/2026   Amazon.Com Bj7mo2kh1     City HS Library books                                                                                           544.91
+10 0445 2410 000 0000 611   05/04/2026   Amazon Mktpl Bj4cm5e10   Recess balls: 3 pc Sports ball set (Qty 3)                                                                       80.97
+10 0403 1100 100 0000 612   05/04/2026   Amazon.Com Bv0y78902     Sharpie Permanent Markers 12 ct.                                                                                   6.99
+61 0118 2640 000 0000 687   05/04/2026   Menards Iowa City Ia     handle nail hammer                                                                                                 7.99
+10 0000 2610 000 0000 687   05/04/2026   Van Meter Inc - Iowa C   CFI storage room lighting                                                                                       315.34
+21 0118 1900 950 7250 611   05/04/2026   Cedar Memorial Flower    Flowers for staff member who passed away                                                                         91.24
+61 0000 3110 000 0000 618   05/04/2026   The Webstaurant Store    monthly shipping charge                                                                                          99.00
+21 0114 1900 950 7165 611   05/04/2026   Paypal Mathleague        Math League registration for competition in St. Louis                                                           105.00
+21 0493 1900 950 7070 611   05/04/2026   Lowes #01688             Purchase Lowes #01688                                                                                           145.76
+                                                                  Assorted Office Supples: Permanent markers, construction paper, index cards, storagebags, sticky notes, tape
+10 0403 1100 100 0000 612   05/04/2026   Amazon Mktpl Bv9rc7kw2   dispenser, ink, etc.                                                                                            242.22
+10 0403 1100 100 0000 612   05/04/2026   Amazon Mktpl Bs6070uq0   EXPO Markers, Construction Paper                                                                                 40.97
+10 0218 1100 102 0000 612   05/04/2026   Amazon Mktpl Bs1x49ip0   Art printmaking lesson-Office Depot Professional Brochure and Flyer Paper (Qty 2)                                42.76
+10 0000 2650 000 0000 681   05/04/2026   Arnold Motor Supply 4    Mowers oil and filters                                                                                           57.12
+10 0000 2650 000 0000 682   05/04/2026   Arnold Motor Supply 4    Mowers oil and filters                                                                                           35.77
+21 0118 1900 950 7025 611   05/04/2026   Iowa 4h Foundation       2026 SSTIFI Registration                                                                                        120.00
+21 0427 1900 950 7056 611   05/04/2026   Amazon Mktpl Bv7nt8mi2   Big Idea Grant for School Garden-Gardening Supplies                                                             349.99
+10 0118 1200 212 3301 612   05/04/2026   Panda Express #2052 P    edible reinforcement for SID:                                                                                    25.81
+10 0118 1200 215 3302 612   05/04/2026   Panda Express #2052 P    edible reinforcement for SID:                                                                                    25.81
+10 0114 2700 920 6750 515   05/04/2026   Kwik Star #1927          Gas for van to travel to away match                                                                              17.67
+21 0118 1900 921 6725 611   05/04/2026   Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                     166.00
+10 0213 1300 355 0000 612   05/04/2026   Wm Supercenter #2827     Purchase Wm Supercenter #2827 FCS I pizza, Food and nutrition salsa                                              74.70
+21 0109 1900 920 6740 582   05/04/2026   Home2 Stes Dsm Drake U   HOME2 Suites by Hilton - Drake Relays -City High Schools                                                        538.04
+21 0109 1900 920 6840 582   05/04/2026   Home2 Stes Dsm Drake U   HOME2 Suites by Hilton - Drake Relays -City High Schools                                                       3,228.21
+21 0109 1900 920 6601 611   05/04/2026   Home2 Stes Dsm Drake U   HOME2 Suites by Hilton - Drake Relays -City High Schools                                                       3,766.24
+21 0118 1900 950 7250 611   05/04/2026   Dd Doordashdashpass      personal charge on accident reimbursed attached is the deposit slip-amanda                                         9.99
+21 0114 1900 950 7220 611   05/04/2026   Jersey Mikes Online Uc   Lunch for Concert Band Festival judges                                                                           53.51
+21 0109 1900 950 7015 611   05/04/2026   Amazon.Com Bj88j5310     City HS Library books                                                                                            41.93
+10 0000 2650 000 0000 683   05/04/2026   Linder Tire - Iowa Cit   Unit 413 mount tires                                                                                             52.00
+10 0000 1100 460 3117 612   05/04/2026   Amazon.Com Bv29i45l2     Preschool Supplies: Insect Lore 2 cups of caterpillars-Butterfly Garden Kit Refill                               39.38
+21 0209 1900 950 7000 611   05/01/2026   Amazon.Com Bs3k662i0     Literacy Books - Alyssa McKeone/LA donation                                                                      84.36
+21 0114 1900 950 7135 611   05/01/2026   Usps Po 1843930899       Postage to return Shrek scripts/music                                                                           128.25
+10 0218 1300 355 0000 612   05/01/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS                                                                               23.94
+21 0109 2700 920 6860 515   05/01/2026   Caseys #4589             Girls Golf Van Gas                                                                                               51.66
+10 0000 2610 000 0000 685   05/01/2026   Johnstone Supply - 614   City Alumni Bldg mini split                                                                                     779.67
+21 0209 1900 950 7000 611   05/01/2026   Amazon.Com Bs2cw17b0     Four Eids and a Funeral - Literacy Books - Alyssa McKeone/LA donation                                            10.67
+21 0118 1900 950 7015 611   05/01/2026   Amazon.Com Bj4xf2pu1     West HS Library books & MakerSpace items                                                                         23.98
+10 0000 2630 000 0000 686   05/01/2026   Napa Store 3137142       Mowers spark plugs, oil                                                                                          29.96
+10 0000 2650 000 0000 681   05/01/2026   Napa Store 3137142       Mowers spark plugs, oil                                                                                          48.93
+10 0000 2610 000 0000 688   05/01/2026   Menards Iowa City Ia     CFI classrooms sealant                                                                                           20.47
+10 0432 1200 215 3302 612   05/01/2026   Walmart.Com              Edibles for SID:                                                                                                 12.84
+10 0142 2221 000 0000 611   05/01/2026   Hy-Vee Iowa City 1288    mailing of chromebook to West Des Moines                                                                         13.55
+10 0000 2494 000 0000 611   05/01/2026   Odp Bus Sol Llc# 10686   14-Month Daily Academic Planner x20                                                                             374.10
+10 0209 1200 215 3302 612   05/01/2026   Amazon Mktpl Bs01b39y0   Tangible for SID:                                                                                                14.99
+21 0118 1900 921 6730 611   05/01/2026   Glovers Scorebooks       Purchase Glovers Scorebooks                                                                                      90.25
+21 0118 1900 921 6835 611   05/01/2026   Glovers Scorebooks       Purchase Glovers Scorebooks                                                                                      90.25
+21 0109 1900 920 6860 611   05/01/2026   Ellis Golf Course        Range Balls                                                                                                      33.99
+10 0000 2329 000 0000 582   05/01/2026   Hyatt Place              Purchase Hyatt Place                                                                                            333.76
+10 0000 2610 000 0000 689   05/01/2026   Plumb Supply - Ioc - 0   WO 214320 thermostat                                                                                             39.56
+10 0000 2610 000 0000 685   05/01/2026   Psc Distribution, Inc.   WO 204826 fittings                                                                                               22.48
+10 0475 1100 100 0000 612   05/01/2026   Odp Bus Sol Llc# 10686   Office Supplies                                                                                                 395.28
+10 0000 2700 421 4565 515   05/01/2026   Hy-Vee Iowa City 1288    Gas Cards -MKV                                                                                                 4,000.00
+10 0109 1100 100 0000 612   05/01/2026   Amazon Mktpl Bv5ag2vx2   Radical DVD- J.Ceurvorst/General World Language                                                                  41.55
+21 0109 1900 920 6860 611   05/01/2026   Twin Pines Golf Course   Range Balls                                                                                                        9.27
+10 0114 2700 950 7000 515   05/01/2026   Kwik Star #1927          Fuel for Battle of the Books - Liberty                                                                           48.62
+10 0000 2610 000 0000 689   05/01/2026   Plumb Supply - Ioc - 0   WO 214320 elements                                                                                              138.46
+10 0475 1100 100 0000 612   05/01/2026   Odp Bus Sol Llc # 1012   Sandwich Bags                                                                                                    20.42
+10 0488 1200 218 3303 612   05/01/2026   Amazon Mktpl Bs65v4kz0   Break item for SID:                                                                                             118.99
+10 0218 1300 355 0000 612   05/01/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS G.Westfall-K. Schopf LTS                                                      26.05
+10 0000 2327 000 0000 611   05/01/2026   Rev.Com                  Closed Captioning Bd Mtg 4/14/26 4 hours                                                                        777.60
+21 0109 1900 923 6825 611   05/01/2026   Subway 28736             Pregame Meals                                                                                                   309.50
+10 0000 2327 000 0000 611   05/01/2026   Ups 2955462229e          Shipping package of school supplies to student who moved to Tipton.                                                9.65
+21 0109 2700 920 6860 515   05/01/2026   Bp#3299700iowa Cityqps   Girls Golf Van Gas                                                                                               12.15
+21 0406 1900 950 7000 611   04/30/2026   Amazon.Com Bs98j7810     Shop Succulents Rosette Succulent Plant Pack of 64 - Teacher Appreciation Week                                   90.03
+10 0209 1300 355 0000 612   04/30/2026   Hy-Vee Aisles Online 4   Purchase Hy-Vee Aisles Online 4 - Food labs                                                                      77.82
+21 0118 1900 950 7015 611   04/30/2026   Amazon.Com Bs0c31b70     West HS Library books                                                                                            34.80
+10 0114 2700 920 6750 515   04/30/2026   Kwik Star #1927          Gas for van to travel to away match                                                                              41.00
+10 0109 1200 218 3303 612   04/30/2026   Amazon.Com Bs2py06w0     PPE for SID:                                                                                                     20.47
+10 0109 1200 215 3302 612   04/30/2026   Fareway Stores #034      Budgeting, shopping, cooking with SIDs:                                                                            3.00
+10 0114 1200 215 3302 612   04/30/2026   Fareway Stores #034      Budgeting, shopping, cooking with SIDs:                                                                            3.00
+10 0109 1200 218 3303 612   04/30/2026   Fareway Stores #034      Budgeting, shopping, cooking with SIDs:                                                                          11.97
+21 0442 1900 950 7000 611   04/30/2026   Amazon Mktpl Bv8aq4302   Stencils for end of year celebration - Kara Dickel                                                                 6.64
+21 0118 1900 950 7135 611   04/30/2026   Music Theatre Intl       rights for next years show - PO / receipt attached                                                              400.00
+21 0118 1900 921 6725 611   04/30/2026   Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                     628.45
+                                                                  Kirkwood-Cooking Club/Self Care -Flour, Refried Beans, Popcorn, Paper Plates, Yogurt, Frozen Fruit, Apple
+21 0406 1900 950 7031 611   04/30/2026   Hy-Vee Aisles Online 4   Juice                                                                                                            56.44
+10 0000 2327 000 0000 611   04/30/2026   Ups 1zt4685j0324726429   Shipping package of school supplies to student who moved to Tipton.                                              15.24
+10 0000 2610 000 0000 685   04/30/2026   Menards Iowa City Ia     WO 211404 filters                                                                                                  9.98
+21 0118 1900 950 7145 611   04/30/2026   Paypal Custominkre       Yearbook Team T-Shirts                                                                                          502.86
+21 0209 1900 950 7087 611   04/30/2026   Amazon Mktpl Bs3q27h50   30pk Lined Notebook Journals - Derek Coorough/SFA - Friday Girls Group                                           23.99
+10 0114 2700 950 7000 515   04/30/2026   Kwik Star #1927          Fuel for Battle of the Books - Liberty                                                                           61.81
+61 0118 2640 000 0000 433   04/30/2026   Hawkeye Weld Repair In   welding for hot carts                                                                                           104.00
+21 0109 2700 920 6860 515   04/30/2026   Maverik #5336            Gas for Girls Golf Van                                                                                           22.07
+10 0114 2700 920 6750 515   04/30/2026   Kwik Star #1927          Gas for van to travel to away match                                                                                  35.87
+10 0218 1300 355 0000 612   04/30/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS G.Westfall-K.Schopf                                                               69.80
+10 0136 1300 355 0000 612   04/30/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 Janelle Roberts, FCS                                                                  29.15
+10 0118 1100 100 0000 612   04/30/2026   Openai Chatgpt Subscr    Mitch's Subscription for Chatgp                                                                                      21.20
+21 0114 1900 950 7015 611   04/30/2026   Great Plains Sauce & D   Battle of the Books meal                                                                                             49.75
+10 0000 1100 100 1996 612   04/30/2026   1600venture Llc          Digital Badge Tool for Careers to Credentials                                                                       399.00
+21 0109 1900 923 6601 611   04/29/2026   Subway 28736             Pregame Meals                                                                                                       187.50
+21 0109 1900 922 6740 611   04/29/2026   Subway 28736             Pregame Meals                                                                                                       202.50
+21 0109 1900 923 6601 611   04/29/2026   Subway 28736             Pregame Meals                                                                                                        60.00
+21 0109 1900 923 6825 611   04/29/2026   Subway 28736             Pregame Meals                                                                                                       337.25
+10 0488 1282 431 4501 612   04/29/2026   Amazon Mktpl Bs0310yf1   EXPO Dry Erase Markers, - Title 1/Weber c/o Danielle Burnett                                                         28.99
+10 0447 1100 102 0000 612   04/29/2026   Amazon Mktpl Bv4ft9lt2   Black Kraft Paper Roll - Glow Show                                                                                   59.99
+10 0000 2630 000 0000 686   04/29/2026   Pyramid Services         Unit 417 carburetor                                                                                                 272.65
+21 0118 1900 950 7185 611   04/29/2026   Amazon Mktpl Bs0bm10t0   Aaoyun Mini Portable Power Bank x15                                                                                 149.85
+10 0136 2410 000 0000 611   04/29/2026   Amazon.Com Bv1220lq2     Kleenex Facial Tissue                                                                                                33.98
+21 0109 1900 950 7135 611   04/29/2026   Mailboxes Of Iowa City   Spring Musical Costume Rental Return Shipping                                                                       379.64
+                                                                  ABC Ink Refill Fluid for Self-Inking Stamp -Supplies funded by Title 1 funds - Alexander Elementary c/o Beth
+10 0442 1282 431 4501 612   04/29/2026   Amazon Mktpl Bv4l283n2   Ramsey                                                                                                               29.96
+10 0109 1100 102 0000 612   04/29/2026   Blick Art 800 447 1892   General Art Classroom Supplies                                                                                      117.15
+10 0442 1282 431 4501 612   04/29/2026   Amazon Mktpl Bs84o1xz0   Supplies funded by Title 1 funds - Alexander Elementary c/o Beth Ramsey                                             401.32
+21 0406 1900 950 7000 611   04/29/2026   Amazon Mktpl Bs8065mo0   100pk Paper Popcorn Boxes - Teacher Appreciation                                                                     19.98
+                                                                  Putty Slime, Cube Puzzles, Pull Back Cars Set, Fidget Keychains, 60pk Pens - Heather Stevens/World Wide
+21 0493 1900 950 7000 611   04/29/2026   Amazon Mktpl Bs8fn95t0   Wickham Event                                                                                                        85.39
+10 0493 2221 000 0000 611   04/29/2026   Amazon Mktpl Bs4qk1gg0   Wickham Library supplies & MakerSpace items                                                                         251.50
+                                                                  Flamingo Party Supplies, Jellyfish Lanterns, Blue Foil Fringe Curtains, Under the Sea Deco, Tropical Fish Deco,
+21 0218 1900 950 7040 611   04/29/2026   Amazon Mktpl Bj7de6fy1   Beach Balls - Ten Eyck/Student Council Party                                                                         83.04
+10 0000 2650 000 0000 681   04/29/2026   Napa Store 3137142       Stock oil                                                                                                            74.97
+10 0118 1100 100 0000 612   04/29/2026   Amazon Mktpl Bs7kg90h0   Ink Cartridges - Marie Wenzlaff                                                                                     238.90
+10 0445 3300 431 4501 618   04/29/2026   Amazon.Com Bs18q4xj0     Colored Paper - Title 1 - Mann c/o Camille Wagner                                                                    20.85
+21 0114 1900 950 7135 611   04/29/2026   Amazon Mktplace Pmts     Credit -Costume return                                                                                               (29.69)
+10 0445 3300 431 4501 618   04/29/2026   Amazon Mktpl Bv9tr9f22   Colored Paper - Title 1 - Mann c/o Camille Wagner                                                                    10.73
+10 0000 2610 000 0000 438   04/29/2026   Electric Motors Of Ic    WO 214294 blower repair                                                                                             188.12
+21 0118 1900 921 6725 611   04/29/2026   Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                         213.43
+21 0493 1900 950 7000 611   04/29/2026   Amazon Mktpl Bj2h46cv1   Plastic Sporks, paper Bowls - Heather Stevens/World Wide Wickham Event                                               61.30
+10 0114 1300 355 0000 612   04/29/2026   Fareway Meat And Groce   Supplies                                                                                                            139.22
+10 0000 2610 000 0000 687   04/29/2026   Van Meter Inc - Iowa C   WO 214172 battery                                                                                                    24.38
+10 0118 1300 355 0000 612   04/29/2026   Fareway Meat And Groce   Culinary Food Lab Groceries - Approved on Spreadsheet                                                               110.31
+10 0442 1282 431 4501 612   04/29/2026   Amazon Mktpl Bv2cj8jw2   Supplies funded by Title 1 funds - Alexander Elementary c/o Beth Ramsey                                              62.96
+10 0447 2410 000 0000 611   04/29/2026   Odp Bus Sol Llc# 10686   6x9 Manilla Envelopes 100pk x6                                                                                       52.74
+10 0000 2131 000 0000 611   04/29/2026   Uiowa Online Payments    Purchase Uiowa Online Payments                                                                                      200.00
+                                                                  Scotch Tape, Marker Sets, The Psychology of Money, Sharpie Markers, The Fish That Ate the Whale -
+10 0109 1300 325 0000 612   04/29/2026   Amazon.Com Bv4227l82     A.Leman/J.Wilcox                                                                                                    259.72
+10 0000 2610 000 0000 688   04/29/2026   Decker Equip School Fi   WO 213638 threshold                                                                                                 284.46
+10 0000 2610 000 0000 687   04/29/2026   Van Meter Inc - Iowa C   Penn power pack                                                                                                     141.79
+21 0218 1900 950 7040 611   04/29/2026   Walmart.Com              SEMS-Concessions - Chips, Candy, Soda, Water, Gatorade                                                              236.19
+21 0118 1900 950 7015 611   04/29/2026   Amazon.Com Bs4ac1pf0     West HS Library books                                                                                                19.99
+10 0118 1200 212 3301 612   04/29/2026   Amazon.Com Bv47t44v2     Edibles for SID:                                                                                                     21.99
+21 0118 1900 921 6790 611   04/29/2026   In Shannon Wrestling     Purchase In Shannon Wrestling                                                                                       766.58
+10 0488 1282 431 4501 612   04/29/2026   Amazon Mktpl Bv5rv5l62   Lam Sheets, Sheet protectors, Index Cards - Title 1/Weber c/o Danielle Burnett                                       42.86
+10 0136 1300 355 0000 612   04/29/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS Janelle Roberts                                                                   13.05
+10 0000 2650 000 0000 434   04/29/2026   Safelite Autoglass       Unit 824 windshield replacement                                                                                     431.75
+10 0000 2610 000 0000 688   04/29/2026   Decker Equip School Fi   WO 213638 additional shipping for order                                                                              98.79
+10 0445 1282 431 4501 612   04/29/2026   Amazon Mktpl Bs58q5xv0   Supplies funded by Title 1 funds - Mann c/o Camille Wagner Pfeiff                                                   499.63
+21 0118 1900 950 7015 611   04/29/2026   Amazon.Com Bs7897w91     West HS Library books                                                                                                74.19
+10 0432 1200 215 3302 612   04/29/2026   Burger King #6104 Q07    Reinforcement for SID:                                                                                               11.85
+10 0142 2221 000 0000 611   04/29/2026   Hy-Vee Iowa City 1288    Purchase Hy-Vee Iowa City 1288 mailing of ukulele 8th grade music instrument                                         24.25
+61 0000 3110 000 0000 618   04/29/2026   Amazon Mktpl Bj3vr4fm1   Wireless Keyboard and Mouse Combo, 26/27 Planner - Nutrition Services                                                64.04
+10 0493 2221 000 0000 611   04/29/2026   Amazon Mktpl Bv9kg6l82   Wickham Library supplies & MakerSpace items                                                                          53.95
+10 0493 1100 102 0000 612   04/28/2026   Amazon Mktpl Bs6ob0ko1   Recycled Tru-Ray Construction Paper                                                                                  42.25
+10 0218 1300 355 0000 612   04/28/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS G.Westfall-K.Schopf LTS                                                             7.17
+10 0109 1300 355 0000 612   04/28/2026   Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                                307.17
+10 0218 1200 215 3302 612   04/28/2026   Amazon Mktpl Bs9mn3ex0   Edibles for SID:                                                                                                     19.80
+                                                                  Purchase Sp Yoto Partners Us for PK teacher Michelle Beninga. Yoto player and "books" to go with it utilizing
+21 0427 1900 950 7056 611   04/28/2026   Sp Yoto Partners Us      LIH funds.                                                                                                          417.32
+10 0000 2494 000 0000 611   04/28/2026   Odp Bus Sol Llc# 10686   Masking Tape, Jumbo Paper Clips, Address Labels                                                                     101.02
+10 0472 1100 100 0000 612   04/28/2026   Amazon.Com Bs5hc7jf0     Business Source Paper Clips, Size 1                                                                                  11.98
+10 0000 2610 000 0000 685   04/28/2026   Psc Distribution, Inc.   WO 213901 cleats, returns                                                                                            38.34
+10 0000 2620 000 0000 739   04/28/2026   Tifco Industries Inc     Shop loctite, WO 211883 crimp kit, stock fuses                                                                      135.96
+10 0000 2131 000 0000 739   04/28/2026   Amazon Mktpl Bs2ao9sz1   Rapid Care 2-Shelf Metal First Aid Cabinet x2 for Jessica Jimmerson/Health Services                                  99.98
+10 0209 1200 215 3302 612   04/28/2026   Walmart.Com              Edibles for SIDs:                                                                                                    11.48
+10 0442 1200 215 3302 612   04/28/2026   Walmart.Com              Edibles for SIDs:                                                                                                    16.98
+10 0118 1200 218 3303 612   04/28/2026   Walmart.Com              Edibles for SID:                                                                                                     69.04
+10 0000 2700 421 4565 515   04/28/2026   Hy-Vee Iowa City 1288    Gas Cards - MKV                                                                                                    4,000.00
+21 0418 1900 950 7056 611   04/28/2026   Amazon Mktpl Bs95n6300   Lincoln Library books & tape                                                                                        374.81
+21 0109 1900 923 6790 611   04/28/2026   Amazon Mktpl Bs3a972n1   Forearm Strengthener and Wrist Roll x2                                                                               39.98
+10 0000 2650 000 0000 682   04/28/2026   Aero Rental And Party    Unit 124 hoses                                                                                                      108.91
+10 0209 1200 212 3301 612   04/28/2026   Amazon Mktpl Bj67j7wf2   Tangible/break items for SID:                                                                                        35.98
+21 0118 1900 950 7250 611   04/28/2026   Dd Doordash Awrestaur    Perfect Attendance Lunch provided by Mr. Gross                                                                       23.47
+10 0488 1100 100 9995 615   04/28/2026   Amazon Mktpl Bs06x33h0   Classroom furniture and Supply order for Maddie von Harz - Private donation.                                        899.60
+21 0418 1900 950 7056 611   04/28/2026   Amazon Mktpl Bj3py0uz2   Lincoln Library books & tape                                                                                         17.59
+21 0109 1900 950 7100 611   04/28/2026   Lenoch & Cilek Ace #1    Art Club Supplies                                                                                                    39.55
+                                                                  Magnetic Fraction Educational Puzzles, Magnetic Fraction Tiles & Circles -Title I Order- OLP c/o Chasity Beelner
+10 0142 1282 431 4501 612   04/27/2026   Amazon Mktpl Bj3c966a2   Supplies                                                                                                             30.57
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                      362.88
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                      362.88
+                                                                  The Outsiders/24, Harbor Me/4, Hole Punch 2pk, WiteOut Tape, Erasers, Math Manipulatives, Powerpoint
+10 0142 1282 431 4501 612   04/27/2026   Amazon Mktpl Bj6rq1m42   Clicker -Title I Order- OLP c/o Chasity Beelner Supplies                                                            253.43
+21 0114 1900 923 6601 611   04/27/2026   Amazon Mktpl Bs46b2ez1   Dry Refill Wipes for gym equipment                                                                                  223.90
+10 0109 2120 000 0000 611   04/27/2026   Amazon Mktpl Bs1dq9em1   Staples 10 x 13 White Wove Clasp Envelopes- J.Fisher/Counseling Office                                               81.68
+21 0109 1900 923 6601 611   04/27/2026   Drake Univ Athletic De   Drake Relays Coaches Wristbands                                                                                      75.00
+21 0109 1900 920 6840 811   04/27/2026   Drake Univ Athletic De   Drake Relays Coaches Wristbands                                                                                    75.00
+10 0493 2221 000 0000 611   04/27/2026   Amazon Mktpl Bj41v0qm2   Wickham Library supplies                                                                                           28.30
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+21 0209 1900 950 7000 611   04/27/2026   Amazon.Com Bs4ca98p1     A Dog's Purpose: A Novel for Humans x5 - Evan Hartley/Literacy/LA Donations for books                              52.25
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+21 0209 1900 950 7000 611   04/27/2026   Amazon.Com Bs2ap3bp1     The Martian, Klara and the Sun - Literacy/LA book donation                                                        137.23
+10 0118 1200 212 3301 612   04/27/2026   McDonalds 27165          Reinforcements for SIDs:                                                                                             9.95
+10 0118 1200 215 3302 612   04/27/2026   McDonalds 27165          Reinforcements for SIDs:                                                                                           19.92
+21 0213 1900 950 7056 611   04/27/2026   Amazon Mktpl Bs2jj5q61   500pk Tongue Depressors - Science/Little Idea Grant                                                                25.98
+10 0114 2700 920 6740 515   04/27/2026   Kwik Star #1927          Gas for vans - travel to Drake Relays                                                                              69.16
+10 0000 1100 100 9995 615   04/27/2026   Amazon Mktpl By17i4s60   18-1/2" Silver Accolade Perpetual Cup Trophy Custom Award Prime                                                   119.99
+21 0109 2700 920 6740 515   04/27/2026   Kwik Star #1918          Boys TF Van Gas                                                                                                    24.33
+21 0114 1900 920 6601 582   04/27/2026   Taco Johns 9703          Meal for AD during travel to event                                                                                 13.36
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+10 0118 1200 218 3303 612   04/27/2026   Amazon Mktpl Bj0132kz2   Tangible reinforcement for SID:                                                                                      8.99
+10 0493 1100 102 0000 612   04/27/2026   Amazon.Com Bj2jc5712     Tru-Ray Construction Paper                                                                                         26.91
+
+10 0209 1100 100 0000 612   04/27/2026   Amazon Mktpl Bs9062o90   Bacteria Science Kit, 50pcs Plastic Dropper Bottle, Microscope Slides and Covers - Lori Chasse/6th gr Science      51.57
+21 0109 2700 920 6840 515   04/27/2026   Caseys #2870             Girls TF Gas                                                                                                       67.58
+21 0109 2700 920 6740 515   04/27/2026   Bp#5987524j&s Expreqps   Boys TF Van Gas                                                                                                    79.70
+21 0114 1900 921 6740 611   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+21 0114 1900 920 6740 582   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+10 0118 1200 212 3301 612   04/27/2026   Amazon.Com Bs5o214c0     Edible reinforcement for SID:                                                                                      20.96
+10 0493 2221 000 0000 611   04/27/2026   Amazon Mktpl By4yw9dh0   Wickham Library supplies                                                                                           22.26
+21 0118 1900 921 6825 611   04/27/2026   Amazon Mktpl Bs46f2q91   50pk Heavy Duty Carabine Clips - Girls Soccer                                                                      20.51
+21 0118 1900 920 6840 582   04/27/2026   Fairfield Inn & Suites   Purchase Fairfield Inn & Suites--Drake Stay                                                                       250.88
+21 0118 1900 921 6840 611   04/27/2026   Fairfield Inn & Suites   Purchase Fairfield Inn & Suites--Drake Stay                                                                       250.88
+21 0109 1900 950 7135 611   04/27/2026   Blackstone-Ic.Com        Spring Musical Hell Week Meals                                                                                    783.75
+21 0118 1900 921 6740 611   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines--DRAKE                                                                             181.44
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines--DRAKE                                                                             181.44
+10 0403 2221 000 0000 643   04/27/2026   Amazon.Com Bj61222h2     Cor Central Library books                                                                                         235.96
+21 0114 1900 921 6860 611   04/27/2026   Ellis Golf Course        Golf balls for driving range - used for warmups                                                                    12.36
+10 0000 2610 000 0000 689   04/27/2026   Menards Iowa City Ia     WO 214165 fittings                                                                                                 19.63
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+10 0000 2610 000 0000 685   04/27/2026   Van Meter Inc - Iowa C   City fuses                                                                                                        225.20
+10 0493 2221 000 0000 643   04/27/2026   Amazon.Com Bs1or8qt1     Wickham Library books                                                                                              80.69
+10 0114 2700 920 6740 515   04/27/2026   Kwik Star #1927          Gas for vans - Travel to Drake Relays                                                                              65.46
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+10 0000 2131 000 0000 611   04/27/2026   Amazon Mktpl Bj0vd09s2   Bacitracin Zinc Ointment, 2400pk 3oz Disposable Paper Cups - Health Services                                       46.54
+21 0114 1900 920 6601 582   04/27/2026   McDonalds F24306         Food for AD during travel to Drake Relays                                                                            6.10
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+10 0109 1200 218 3303 612   04/27/2026   Walmart.Com              Edibles for SIDs:                                                                                                    5.96
+10 0109 1200 218 3303 612   04/27/2026   Walmart.Com              Edibles for SIDs:                                                                                                    5.97
+10 0209 1200 215 3302 612   04/27/2026   Walmart.Com              Edibles for SIDs:                                                                                                  18.96
+10 0114 1200 215 3302 612   04/27/2026   Walmart.Com              Edibles for SIDs:                                                                                                  49.09
+10 0403 2221 000 0000 643   04/27/2026   Amazon.Com Bj3nx62j2     Cor Central Library books                                                                                          13.14
+21 0114 1900 921 6740 611   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+21 0114 1900 920 6740 582   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+21 0109 2700 920 6840 515   04/27/2026   Bp#5987524j&s Expreqps   Girls TF Van Gas                                                                                                   61.59
+10 0406 1100 100 0000 612   04/27/2026   Amazon Mktpl By6ku5wm0   Laminate for workroom                                                                                              61.55
+21 0114 1900 921 6740 611   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+21 0114 1900 920 6740 582   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+10 0000 2131 000 0000 611   04/27/2026   Amazon Mktpl Bj98k6vx2   Bandages                                                                                                           71.24
+21 0114 1900 920 6601 582   04/27/2026   Drake Univ Athletic De   Parking fee for Drake Relays for AD                                                                                75.00
+21 0118 1900 950 7110 611   04/27/2026   Gaylord Inn Opryland F   BPA Nationals Hotel Rooms                                                                                       30,073.20
+21 0442 1900 950 7000 611   04/27/2026   Amazon Mktpl Bs87s3bd1   Tattoos and Face paint for end of year celebration - Abbie Whittemore                                              56.41
+21 0114 1900 921 6740 611   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+21 0114 1900 920 6740 582   04/27/2026   Holiday Inn Express &    Hotel stay for boys Track team at Drake Relays                                                                    178.08
+21 0114 1900 920 6601 582   04/27/2026   Flying J 913             Food for AD during travel to Drake Relays                                                                            7.26
+21 0118 1900 950 7240 611   04/27/2026   Amazon Mktpl Bs4yp54y0   Items for Special Ed talent show                                                                                   32.49
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+10 0109 2120 000 0000 611   04/27/2026   Amazon Mktpl By2td02o0   Scotch Tape refills, - J.Fisher/Counseling Office                                                                  42.41
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+21 0109 1900 923 6790 611   04/27/2026   Amazon Mktpl Bj5cg0h32   Monkee Grip Original Rope Grips x2 - Cory Connell/Boys Wrestling                                                   77.88
+10 0488 1100 100 9995 615   04/27/2026   Amazon Mktpl Bs9fi9ou0   Stackable Stools Set of 8 - Maddie von Harz - Private donation.                                                    90.00
+21 0118 1900 920 6740 582   04/27/2026   Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                                                    362.88
+10 0493 1100 102 0000 612   04/27/2026   Amazon Mktpl Bj06607q2   Art Supplies - Heather Stevens                                                                                    901.61
+10 0403 2221 000 0000 643   04/27/2026   Amazon.Com By9qm6ie0     Cor Central Library books                                                                                          12.11
+21 0418 1900 950 7056 611   04/27/2026   Amazon.Com By66c4w20     Lincoln Library books & tape                                                                                       13.25
+10 0118 1300 316 0000 612   04/27/2026   Amazon Mktpl By7xg3620   30pcs #8-32 Wingnuts, Carbon Steel                                                                                   5.88
+10 0432 1200 215 3302 612   04/24/2026   Burger King #6104 Q07    Reinforcement for SID:                                                                                               8.68
+21 0442 1900 950 7000 611   04/24/2026   Act Iowacityp&rdept      Purchase Act Iowacityp&rdept - Wetherby shelter reservation for 5th Grade Cook Out                                 50.00
+21 0109 1900 950 7135 611   04/24/2026   Sq The Wedge Pizzeria    Spring Musical Hell Week Meals                                                                                    450.00
+10 0000 2650 000 0000 683   04/24/2026   Linder Tire - Iowa Cit   Unit 420 new tube                                                                                                  51.56
+10 0213 1300 355 0000 612   04/24/2026   Hy-Vee Coralville 1080   Purchase Hy-Vee Coralville 1080 food and nutrition strawberry julius                                               10.97
+10 0209 1100 100 0000 612   04/24/2026   Usps Po 1866150317       Purchase Usps Po 1866150317 - Student mailings                                                                       7.16
+10 0114 2700 920 6860 515   04/24/2026   Kwik Star #1927          Gas for vans - travel to away meet                                                                                 38.05
+10 0447 1100 100 9995 615   04/24/2026   Amazon Mktpl Bs0uc6ng1   Mrs Wordsmith 3rd Grade English Sen- Zimmerman Grant/Megan Wilson                                                  30.29
+10 0109 1100 100 9995 615   04/24/2026   Tst Blackstone           Admin Assistance Appreciation Day - Foundation General Account                                                    291.39
+10 0000 2650 000 0000 683   04/24/2026   Linder Tire - Iowa Cit   Unit 805 patch tire                                                                                                29.50
+10 0213 1200 218 3303 612   04/24/2026   Walmart.Com 8009256278   Edibles for SIDs:                                                                                                    8.47
+10 0442 1200 215 3302 612   04/24/2026   Walmart.Com 8009256278   Edibles for SIDs:                                                                                                  11.76
+10 0000 2610 000 0000 688   04/24/2026   Menards Iowa City Ia     Mercer baseball turf utility blades, trowels                                                                       16.99
+10 0000 2610 000 0000 739   04/24/2026   Menards Iowa City Ia     Mercer baseball turf utility blades, trowels                                                                       29.50
+10 0000 2610 000 0000 688   04/24/2026   Menards Iowa City Ia     WO 214142 sealant, masking tape                                                                                    52.41
+21 0109 1900 950 7135 611   04/24/2026   Walgreens #5077          Spring Musical Hell Week Supplies                                                                                    5.27
+10 0218 1300 355 0000 612   04/24/2026   Hy-Vee Aisles Online 4   Purchase Hy-Vee Aisles Online 4 FCS G. Westfall-K.Schopf LTS                                                   21.43
+10 0472 2410 000 0000 611   04/24/2026   Amazon Mktpl Bj4nu6t72   MaxPrint Large Size Pre-Inked Custom Signature Stamp - Stamp Customized with Your Signature                    31.64
+10 0447 1100 100 9995 615   04/24/2026   Amazon.Com By9wc9630     Kerplunk Kids Game - - Zimmerman Grant/Megan Wilson                                                            14.97
+10 0118 1200 212 3301 612   04/24/2026   Tropical Smoothie Cafe   Reinforcement for SID:                                                                                         15.14
+10 0109 1300 355 0000 612   04/23/2026   Hy-Vee Iowa City 1288    FCS Classroom Supplies and Materials                                                                           30.07
+21 0118 1900 950 7250 611   04/23/2026   Tst La Regia             La Regia lunch for administrative perfessionals day - approved on spreadsheet                                 202.73
+10 0000 2610 000 0000 689   04/23/2026   Plumb Supply - Ioc - 0   WO 214043 fittings                                                                                            199.00
+10 0118 1300 316 0000 612   04/23/2026   Amazon Mktpl Bs8m96ff1   10pk Balsa Wood x2 - Keith Kraeplin                                                                            84.46
+10 0114 1200 215 3302 612   04/23/2026   Hy-Vee Coralville 1080   Edibles for SIDs:                                                                                                9.57
+10 0427 1200 215 3302 612   04/23/2026   Hy-Vee Coralville 1080   Edibles for SIDs:                                                                                              23.55
+10 0213 1100 102 0000 612   04/23/2026   School Specialty Ecomm   Construction paper, Tagboard, Paint, Craft sticks, Toothpicks, Glue, Tape, Sharpies, Foam plates, Sculpey     836.38
+21 0406 1900 950 7031 611   04/23/2026   Hy-Vee Aisles Online 4   Kirkwood-Cooking Club -Flour Tortillas 20ct x2, Salsa, Mozz. Cheese, Sour Cream                                37.38
+21 0109 2700 920 6860 515   04/23/2026   Bp#3299700iowa Cityqps   Gas for Girls Golf Van                                                                                         18.72
+21 0213 1900 950 7056 611   04/23/2026   Walmart.Com              Large Rolling Whiteboard - NWMS-Ellen Robinson                                                                 95.99
+21 0118 1900 921 6860 611   04/23/2026   Brueggers 3730           Purchase Brueggers 3730                                                                                        27.37
+21 0118 1900 923 6601 611   04/23/2026   Drake Univ Athletic De   Purchase Drake Univ Athletic De                                                                               247.20
+61 0213 3110 000 0000 618   04/23/2026   Wm Supercenter #1721     blenders for pureed diets at KW and Mann                                                                       39.94
+10 0136 1300 355 0000 612   04/23/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS supplies Janelle Roberts                                                    38.12
+21 0213 1900 950 7056 611   04/23/2026   Lowes #00907             Insulfoam R-1.88 x2 - NWMS-Ellen Robinson                                                                      23.28
+10 0118 1300 316 0000 612   04/23/2026   Amazon Mktpl Bs3605fc1   2pk Staplers, 3ft Extension Cord x2, 3D Printer Filament refill, - Keith Kraeplin                              62.41
+21 0114 1900 950 7000 611   04/23/2026   Amazon Mktpl Bs3eq2oq1   Classroom/Office Supplies                                                                                    1,025.33
+21 0209 1900 950 7000 611   04/23/2026   Ba@cornell C Qps         Purchase Ba@cornell C Qps-Lunch for AVID Fieldtrip                                                            286.90
+21 0114 1900 921 6860 611   04/23/2026   Ellis Golf Course        Range balls for Golf Team warmups                                                                                9.27
+10 0000 1100 412 4644 612   04/23/2026   Amazon.Com Bs4ea6o81     Co-Teaching for English Learners: x2 - Kelley Latimer,ELL/Title III Textbooks                                  53.74
+10 0109 1200 215 3302 612   04/23/2026   Wm Supercenter #1721     Budgeting, shopping, graduation for SIDs:                                                                        2.57
+10 0114 1200 215 3302 612   04/23/2026   Wm Supercenter #1721     Budgeting, shopping, graduation for SIDs:                                                                        2.57
+10 0109 1200 218 3303 612   04/23/2026   Wm Supercenter #1721     Budgeting, shopping, graduation for SIDs:                                                                      10.33
+21 0109 2700 920 6860 515   04/23/2026   Caseys #3858             Gas for Girls Golf Van                                                                                         29.51
+10 0000 2610 000 0000 688   04/22/2026   Menards Iowa City Ia     WO 213991 plywood, lumber, screws                                                                             237.06
+10 0000 2610 000 0000 685   04/22/2026   Millennium Technology    Airedale parts                                                                                                575.46
+21 0118 1900 923 6601 611   04/22/2026   Bound 116th Drake Rel    Purchase Bound 116th Drake Rel                                                                                460.81
+10 0447 1100 100 9995 615   04/22/2026   Amazon Mktpl By9ey83r0   Mrs Wordsmith Storyteller's Word A                                                                             27.75
+                                                                  Cardstock, DE Markers, Play-Doh, Games, Workbooks, Pens, Books, Fidget toys, Rulers - Zimmerman
+10 0447 1100 100 9995 615   04/22/2026   Amazon Mktpl By53o57m1   Grant/Megan Wilson                                                                                            169.56
+10 0136 1300 355 0000 612   04/22/2026   Trader Joe S #728        Purchase Trader Joe S #728 Health Class supplies for a healthy breakfast, Kevin Johnson                        66.29
+10 0118 1300 355 0000 612   04/22/2026   Fareway Meat And Groce   Food Lab Groceries - Approved on Spreadsheet                                                                  101.30
+10 0442 1200 215 3302 612   04/22/2026   Amzn Digital By6vz47e1   Break items for SID:                                                                                           30.00
+10 0000 2494 000 0000 611   04/22/2026   Odp Bus Sol Llc # 1051   File Folders                                                                                                   68.40
+21 0481 1900 950 7056 611   04/22/2026   Amazon Mktplace Pmts     Wood Library Family Night items - Big Idea Foundation Grant credit                                            (102.69)
+21 0118 1900 921 6725 611   04/22/2026   Jersey Mikes 38034       Purchase Jersey Mikes 38034                                                                                   404.55
+21 0114 1900 921 6740 611   04/22/2026   Bound 116th Drake Rel    Meet entry fee for athletes who qualified for Drake Relays                                                     71.51
+21 0114 1900 920 6740 811   04/22/2026   Bound 116th Drake Rel    Meet entry fee for athletes who qualified for Drake Relays                                                     71.50
+21 0109 1900 950 7135 611   04/22/2026   Walgreens #5077          Spring Musical Hell Week Supplies                                                                                6.44
+21 0481 1900 950 7056 611   04/22/2026   Amazon Mktplace Pmts     Wood Library Family Night items - Big Idea Foundation Grant credit                                              (4.94)
+21 0488 1900 950 7056 611   04/22/2026   Amazon.Com Bs3kj6y32     Weber Library books                                                                                            29.36
+21 0118 1900 923 6601 611   04/22/2026   Sp Plunge                Purchase Sp Plunge                                                                                            187.09
+10 0432 1200 215 3302 612   04/22/2026   Burger King #6104 Q07    Reinforcement for SID:                                                                                           8.68
+10 0468 1100 100 9995 615   04/22/2026   Amazon Mktpl By0i189a1   LCD Writing Tablet, Games, Magnetic 10-Frame Set, Feedback Reading Phones, Drawing kit                        142.44
+21 0114 1900 950 7110 611   04/22/2026   Gaylord Inn Opryland F   Hotel rooms for Liberty BPA Nationals - Hammes/Langenfeld rooms charged to Perkins, please split            14,245.52
+10 9331 1300 390 4531 582   04/22/2026   Gaylord Inn Opryland F   Hotel rooms for Liberty BPA Nationals - Hammes/Langenfeld rooms charged to Perkins, please split             3,165.28
+10 0218 1300 355 0000 612   04/22/2026   Fareway Stores #950      Purchase Fareway Stores #950 FCS Ms. Westfall/K. Schopf (LTS)                                                  16.41
+61 0000 3110 000 0000 618   04/22/2026   Amazon Mktpl By3ko9uh1   240pk Colored File Folders 8x11 Picture Frame - Nutrition Services                                             45.88
+10 0436 3300 431 4501 618   04/22/2026   Amazon.Com Bj2rj2ci2     Clue Board Game for Ages 8 and Up x3 -Family Game Night - Title 1 Funds                                        33.57
+10 0114 2700 920 6860 515   04/22/2026   Kwik Star #1927          Gas for van travel to and from golf course                                                                     46.72
+10 0447 1100 100 9995 615   04/22/2026   Amazon Mktpl By38d83q0   Comeback Kids: -- Zimmerman Grant/Megan Wilson                                                                   6.38
+21 0109 1900 950 7220 611   04/22/2026   Lenoch & Cilek Ace #6    Band Instrument Repair Supplies and Materials                                                                  52.95
+10 0447 2221 000 0000 643   04/22/2026   Amazon Mktpl By29t77d1   Penn Library books & supplies                                                                                  38.60
+10 0468 1100 100 9995 615   04/22/2026   Amazon.Com By9qa89x1     Somdot Narrow Dresser with 4 Drawers                                                                           89.98
+10 0109 1300 355 0000 612   04/21/2026   Wm Supercenter #1721     FCS Classroom Supplies and Materials                                                                          213.77
+21 0118 1900 921 6840 611   04/21/2026   Zio Johnos Iowa City     Purchase Zio Johnos Iowa City                                                                                 231.81
+21 0118 1900 921 6725 611   04/21/2026   Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                   251.10
+10 0000 1200 219 3309 612   04/21/2026   Amazon Mktpl By8kx7dv1   Ipad cases for inventory                                                                                      344.85
+10 0109 1300 355 0000 612   04/21/2026   Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                          116.65
+10 0000 2494 000 0000 611   04/21/2026   Odp Bus Sol Llc# 10686   Green Ink Pens, Red 2-Pocket Folders, AA Batteries                                                             51.90
+10 0109 1300 355 0000 612   04/21/2026   Hy-Vee Iowa City 1285    FCS Classroom Supplies and Materials                                                                           77.37
+10 0218 1300 355 0000 612   04/21/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS Ms. Westfall/K. Schopf (LTS)                                                28.26
+10 0447 2221 000 0000 643   04/21/2026   Amazon.Com Bs4zq2iv2     Penn Library books & supplies                                                                                  17.76
+10 0000 2610 000 0000 688   04/21/2026   Doyle Security Product   Stock key blanks                                                                                              109.84
+10 0000 2131 000 0000 611   04/21/2026   Amazon Mktpl By0vs8dc1   Exam Gloves                                                                                                   125.12
+10 0472 1100 100 0000 612   04/21/2026   Amazon.Com By8zh0si1     Classroom and Office Supplies                                                                                  29.41
+21 0114 1900 921 6860 611   04/21/2026   Qlt Derby Grange Golf    Range balls for Golf Team warm ups before competition.                                                         37.26
+21 0118 1900 950 7250 611   04/21/2026   Wingstop 1965            Perfect Attendance Lunch Purchased by Mr. Gross                                                                24.78
+21 0109 2700 920 6740 515   04/21/2026   Bp#3299700iowa Cityqps   Gas for Boys TF Van                                                                                            33.69
+10 0472 1100 100 0000 612   04/21/2026   Amazon Mktpl Bs5jl7rt2   Classroom and Office Supplies                                                                                  21.19
+10 0213 1100 100 0000 612   04/21/2026   Amazon.Com Bs8sp7iw2     AA Batteries for PE Microphones                                                                                19.02
+21 0109 1900 950 7135 611   04/21/2026   Andale Cantina Inc       Spring Musical Hell Week Meals                                                                                900.00
+10 0209 1100 100 0000 612   04/21/2026   Amazon.Com Bs0ed6ut2     Cardstock                                                                                                     510.34
+10 0472 1100 100 0000 612   04/20/2026   Amazon Mktpl Bs0qa9v92   Classroom and Office Supplies                                                                                  23.95
+21 0109 1900 950 7135 611   04/20/2026   Sq Donutland             Spring Musical Supplies and Materials                                                                          39.68
+10 0418 1100 100 0000 612   04/20/2026   Amazon Mktpl By1l08x71   Dry Erase Pocket Sleeves                                                                                       17.99
+21 0209 1900 950 7000 611   04/20/2026   Amazon Mktpl By4qj43m1   Classroom Books - Klaudia Hall-Literacy/LA Book donation order                                                   8.13
+21 0218 1900 950 7040 611   04/20/2026   Walmart.Com              SEMS-Concessions - Chips, Candy, Soda, Water, Gatorade                                                        437.37
+10 0000 2494 000 0000 611   04/20/2026   Odp Bus Sol Llc# 10686   AAA Batteries, White label tape                                                                                59.47
+21 0209 1900 950 7000 611   04/20/2026   Amazon.Com By1139vy1     Classroom Books - Literacy/LA Book donation order                                                              88.51
+10 0475 1100 100 0000 612   04/20/2026   Breakout Edu             IDS purchased learning materials from Breakout EDU                                                            122.57
+10 0447 2410 000 0000 611   04/20/2026   Amazon Mktpl B744l3wh0   Office Supplies                                                                                               271.39
+10 0472 1100 100 0000 612   04/20/2026   Amazon.Com B76e27rx0     Marzano Research Lab Planning/Teaching, Leading Standards-Based Learning                                      239.03
+10 0118 1100 113 0000 612   04/20/2026   Embi Tec                 Gel Trays for Labs                                                                                             78.46
+10 0436 3300 431 4501 618   04/20/2026   Amazon Mktpl Bs0ez02n2   UNO Card Game-Family Game Night - Title 1 Funds                                                                22.47
+21 0109 1900 950 7135 611   04/20/2026   Soundly Pro Monthly      Drama Monthly Subscription - Sound System Supplies                                                                    19.99
+21 0109 1900 950 7175 611   04/20/2026   Kwik Trip #772           Journalism Conference                                                                                                 54.75
+10 0406 1100 100 0000 612   04/20/2026   Amazon Mktpl By7v690b1   Poster board for 4th and 5th grade States Party presentations                                                         48.59
+21 0481 1900 950 7056 611   04/20/2026   Amazon Mktpl By4mj8bq1   Wood Library Family Night items - Big Idea Foundation Grant                                                          410.78
+21 0213 1900 950 7056 611   04/20/2026   Amazon.Com Bs9j752j2     Braiding Sweetgrass for Young Adults x30 - Ellen Robinson/LIH                                                        345.30
+10 0000 2131 000 0000 611   04/20/2026   Amazon.Com By0ck6v91     Exam Gloves, Facial Tissues                                                                                          135.73
+10 0442 1100 100 0000 612   04/20/2026   Amazon Mktpl B70c25yq0   LED Grow Lights for plants - 1st grade                                                                                40.97
+10 0000 2131 000 0000 611   04/20/2026   Amazon Mktpl B74o15q80   Plastic Cups 3 oz Bulk Case 2400                                                                                      54.90
+10 0000 2610 000 0000 688   04/20/2026   Menards Iowa City Ia     WO 213965 adhesives                                                                                                   26.83
+10 0136 1300 355 0000 612   04/20/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS supplies Janelle Roberts                                                           25.75
+                                                                  Pencils, Pencil Toppers, Math Manipulatives, Erasers, Bookmarks, toys, Bracelets, Stickers - Driscoll Endowment
+10 0472 1100 100 9995 615   04/20/2026   Amazon Mktpl By6y39571   is 69031                                                                                                             294.42
+21 0118 1900 950 7240 611   04/20/2026   Amazon Mktpl By6mm33a1   Blue Tree Publishing Larynx poster                                                                                    28.29
+10 0493 1100 100 0000 612   04/20/2026   Amazon Mktpl By2iy1xf1   Tooth Saver boxes, Green Table Covers                                                                                 77.48
+
+10 0142 3300 431 4501 618   04/20/2026   Amazon Mktpl Bs6sh52c2   Sticker Paper, Cardstock, Spiral Index Cards -Title I Order- OLP c/o Chastiy Beelner (send to Grant) Family Night     59.86
+21 0109 1900 950 7135 611   04/20/2026   Menards Iowa City Ia     Spring Musical Supplies and Materials                                                                                197.80
+21 0109 1900 950 7175 611   04/20/2026   Hilton Minneapolis Fd    journalism conference lodging                                                                                        560.24
+10 8108 3300 431 4501 611   04/20/2026   Amazon Mktpl By0jn6vn1   Books and Supplies -Regina Non-Pub Title I Order- Family Night c/o Leah Beiermann                                    490.78
+21 0109 1900 950 7135 611   04/20/2026   Michaels #9490           Spring Musical Supplies and Materials                                                                                   7.61
+36 0000 4500 000 8999 733   04/20/2026   Cdw Govt #ai9dg5b        Additional Adobe licenses                                                                                            120.00
+21 0406 1900 950 7031 611   04/20/2026   Amazon Mktpl Bs6zu0h22   San Andreas Everbearing Bare Root Seeds                                                                               16.10
+10 0427 2410 000 0000 611   04/20/2026   Amazon Mktpl Bs31u3xy2   Avery ID Labels                                                                                                       10.79
+10 0418 1100 100 0000 612   04/20/2026   Amazon Mktpl B73hw5sl0   3-Ring Binders                                                                                                        84.60
+10 9331 1300 300 3261 739   04/20/2026   Amazon.Com B72wa2wl0     Pots and Pans Go to Beth Long at Liberty High. Paid via RPP Grant Special Projects                                  1,169.75
+10 0447 2410 000 0000 611   04/20/2026   Odp Bus Sol Llc# 10686   Office supplies                                                                                                      576.76
+10 0406 3300 431 4501 618   04/20/2026   Amazon Mktpl By71k4xr1   48pk Canvas Tote Bags, Fabric Markers -Kirkwood Title I Order- Family Night c/o Jane Ruppenkamp                      216.94
+21 0209 1900 950 7000 611   04/20/2026   Amazon.Com B78qk4re0     Classroom Books - Klaudia Hall-Literacy/LA Book donation order                                                        16.87
+10 0432 1200 215 3302 612   04/20/2026   Amazon Mktpl By2yu15c1   PPE for use with SID:                                                                                                 44.60
+21 0488 1900 950 7056 611   04/20/2026   Amazon.Com B764h19g0     Weber Library books                                                                                                  413.64
+36 0000 4500 000 8999 733   04/20/2026   Ups 1zjl4t050321392228   Shipping to send phones out for repair                                                                                47.79
+21 0109 1900 950 7135 611   04/20/2026   Michaels #9490           Spring Musical Supplies and Materials                                                                                 32.39
+10 0442 1200 218 3303 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                     30.52
+10 0442 1200 215 3302 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                     34.78
+10 0442 1200 215 3302 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                     26.78
+10 0218 1200 215 3302 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                     23.88
+10 0475 1200 218 3303 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                     23.70
+10 0213 1200 215 3302 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                     44.78
+10 0213 1200 215 3302 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                     33.42
+10 0432 1200 215 3302 612   04/20/2026   Walmart.Com              Edibles for SIDs:                                                                                                       6.42
+10 0472 1100 100 0000 612   04/20/2026   Amazon Mktpl By0ac8e71   Classroom and Office Supplies                                                                                         23.90
+21 0406 1900 950 7031 611   04/20/2026   Amazon Mktpl Bs7a22xi2   Gourd Seeds Birdhouse Bottle Gourd                                                                                      3.29
+21 0109 1900 950 7175 611   04/20/2026   Hilton Minneapolis Fd    journalism conference lodging                                                                                        560.24
+21 0209 1900 950 7000 611   04/20/2026   Amazon.Com B79eb8rl0     Classroom Books - Klaudia Hall-Literacy/LA Book donation order                                                       165.38
+21 0109 1900 922 6815 611   04/20/2026   Prep Dig - Prep Dig Io   CHS-Girls Volleyball -Registration - August 5th                                                                      206.00
+21 0109 1900 950 7135 611   04/20/2026   Toms Pizza               Spring Musical Hell Week Meals                                                                                       190.91
+21 0118 1900 950 7240 611   04/20/2026   Amazon Mktpl B71fd0da0   5pt Human Larynx 3D Model, Life Size Nasal oral Cavity Throat - Diane Miller                                          63.31
+36 0000 4500 000 8999 733   04/20/2026   Ups Adj00401790261661    Shipping of phones out to repair - Adjustment made based on weight                                                      7.40
+10 0427 1100 100 0000 612   04/20/2026   Amazon Mktpl Bs38u72y2   Velcro Dots                                                                                                           14.99
+21 0118 1900 950 7015 611   04/20/2026   Amazon.Com Bs0gr2pp2     West HS Library books                                                                                                 30.30
+21 0109 2700 920 6750 515   04/20/2026   Maverik #5336            Gas for Boys Tennis Van                                                                                               71.05
+10 0442 1200 215 3302 612   04/20/2026   Amazon Mktpl B79ro4bm0   Break item for SID:                                                                                                   47.49
+10 0493 1100 100 0000 612   04/20/2026   Amazon Mktpl Bs8x46gj2   Forever Stamps                                                                                                       132.95
+21 0406 1900 950 7031 611   04/20/2026   Amazon Mktpl Bs0re9qm2   Clay pots, polished stones, seeds                                                                                     68.54
+21 0109 1900 950 7175 611   04/20/2026   Kwik Trip #772           Journalism National Conference                                                                                        50.35
+10 0472 1100 100 0000 612   04/20/2026   Amazon Mktpl B79s082o0   Classroom and Office Supplies                                                                                         31.50
+21 0114 1900 921 6825 611   04/20/2026   Veo Technologies Inc.    Monthly subscription fee for camera technology and film recording software.                                          333.00
+10 0442 1200 212 3301 612   04/20/2026   Amazon Mktpl B79la88g0   Break items for SID:                                                                                                  14.24
+21 0109 1900 950 7135 611   04/20/2026   Walgreens #5077          Spring Musical Supplies and Materials                                                                                 11.43
+21 0109 1900 922 6815 611   04/20/2026   Prep Dig - Prep Dig Io   CHS-Girls Volleyball -Registration - August 4th                                                                      206.00
+10 0427 2410 000 0000 611   04/20/2026   Amazon Mktpl Bs3nv62l2   Office Supplies                                                                                                      135.66
+10 0118 1100 100 0000 612   04/20/2026   Amazon Mktpl By54e6zn1   Ink Cartridges - Marie Wenzlaff                                                                                      460.04
+10 0109 1100 113 0000 612   04/20/2026   Amazon Mktpl Bs51n5vs2   Exam Gloves - Biology Classroom/L.Barnard                                                                             78.00
+10 0114 1100 100 9995 615   04/20/2026   The Home Depot #2108     Phillippe Garden Project - BIH '25 Inclusion and Community Empowerment                                                  4.85
+21 0118 1900 950 7222 611   04/20/2026   Wp Wordpress 08qp0cwc8   Orchestra Software automatic renewal                                                                                 102.72
+21 0109 1900 950 7175 611   04/20/2026   Hilton Minneapolis Fd    journalism conference lodging                                                                                        560.24
+10 0114 1100 100 9995 615   04/20/2026   Homedepot.Com            Phillippe Garden Project - BIH '25 Inclusion and Community Empowerment                                                19.59
+21 0109 1900 950 7175 611   04/20/2026   Hilton Minneapolis Fd    journalism conference lodging                                                                                        560.24
+10 0000 2610 000 0000 611   04/20/2026   Amazon.Com Bs88s12g2     Vendor badge camera                                                                                                   16.89
+21 0109 1900 950 7135 611   04/20/2026   Walgreens #5077          Spring Musical Hell Week Supplies                                                                                    124.16
+21 0118 1900 950 7222 611   04/20/2026   Wp Wordpress Cafu92get   Software for Orchestra automatic renewal                                                                              13.00
+10 0472 1100 100 0000 612   04/20/2026   Amazon Mktpl B70gu7yz0   Classroom and Office Supplies                                                                                        747.49
+61 0109 3110 000 0000 618   04/17/2026   Wal-Mart #1721           blender for a student pureed diet                                                                                     19.97
+10 0109 1300 355 0000 612   04/17/2026   Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                                 110.53
+21 0114 1900 950 7135 611   04/17/2026   Pancheros                Refund on tax and delivery fee for Shrek the Musical cast and crew meal                                               (94.20)
+10 0136 1300 355 0000 612   04/17/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS supplies: Janelle Roberts                                                          15.98
+10 0000 2610 000 0000 439   04/17/2026   Foster Appliance         WO 213736 washer service call                                                                                        109.95
+21 0109 1900 920 6740 811   04/17/2026   Bound 116th Drake Rel    Drake Relays Registration                                                                                            158.90
+21 0118 1900 950 7165 611   04/17/2026   Enterprise Rent-A-Car    Purchase Enterprise Rent-A-Car                                                                                       168.72
+21 0118 1900 921 6725 611   04/17/2026   Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                                          458.40
+21 0109 1900 922 6740 611   04/17/2026   Caseys #3322             Team Meal                                                                                                            336.89
+10 0403 2221 000 0000 643   04/17/2026   Amazon Mktpl Bs1f22em2   Cor Central Library books                                                                                            171.55
+21 0118 1900 950 7030 611   04/17/2026   Sp Jennibick.Com         Custom Journals                                                                                                      127.20
+10 0445 1200 218 3303 612   04/17/2026   Amazon.Com By70v9o41     Break items for SID:                                                                                                  12.30
+10 0209 1300 355 0000 612   04/17/2026   Walmart.Com              Purchase Walmart.Com - Food Labs                                                                                      74.25
+21 0109 2700 920 6860 515   04/17/2026   Maverik #5336            Gas for Girls Golf Van                                                                                                23.11
+10 0114 1200 218 3303 612   04/17/2026   Amazon.Com B73be0bn0     Adaptive materials for SID:                                                                                           79.99
+10 0000 2610 000 0000 439   04/17/2026   Foster Appliance         WO 213256 washer service call                                                                                        186.95
+10 0000 2650 000 0000 683   04/17/2026   Linder Tire - Iowa Cit   Liberty Brahma tire tubes                                                                                            203.40
+21 0109 1900 920 6840 811   04/17/2026   Bound 116th Drake Rel    Drake Relays Registration                                                                                222.46
+10 0493 2221 000 0000 611   04/17/2026   Amazon.Com B78g49wt1     Wickham Library books                                                                                     64.14
+21 0118 1900 950 7165 611   04/17/2026   Caseys #4367             Gas rental Car                                                                                            95.02
+10 0213 1200 215 3302 612   04/17/2026   Gamestop                 Tangible reinforcement for SID:                                                                           44.08
+36 0000 4500 000 8999 733   04/17/2026   Atlassian                Monthly software usage charges                                                                           751.32
+10 0468 1200 215 3302 612   04/17/2026   Walmart.Com              edibles for SIDs:                                                                                         49.78
+10 0472 1200 218 3303 612   04/17/2026   Walmart.Com              edibles for SIDs:                                                                                         33.91
+10 0109 1300 355 0000 612   04/17/2026   Wm Supercenter #2827     FCS Classroom Supplies and Materials                                                                     123.80
+10 0000 2610 000 0000 438   04/17/2026   Electric Motors Of Ic    WO 213949 fan repair                                                                                     239.91
+21 0109 1900 950 7135 611   04/16/2026   Lenoch & Cilek Ace #1    Spring Musical Supplies and Materials                                                                     23.17
+21 0118 1900 921 6840 611   04/16/2026   Zio Johnos Iowa City     Purchase Zio Johnos Iowa City                                                                            281.55
+21 0118 1900 950 7165 611   04/16/2026   Americinn Mankato        Math Trip Hotel Rooms                                                                                    109.78
+21 0118 1900 950 7165 611   04/16/2026   Americinn Mankato        Math Club Hotel Rooms                                                                                    109.78
+21 0118 1900 950 7165 611   04/16/2026   Americinn Mankato        Math Club Hotel Rooms                                                                                    109.78
+10 0000 2327 000 0000 611   04/16/2026   Rev.Com                  Closed Captioning Bd Mtg 4/14/26 2 hours 48 minutes                                                      544.32
+33 0118 4200 924 9854 450   04/16/2026   Pods                     West softball/baseball storage                                                                           198.00
+21 0109 1900 950 7210 611   04/16/2026   Sq Santa Barbara Musi    Classroom Sheet Music                                                                                    175.00
+10 0000 2610 000 0000 687   04/16/2026   Van Meter Inc - Iowa C   Wood batteries                                                                                           262.89
+10 0472 1200 218 3303 612   04/16/2026   Walmart.Com              Edibles for SID:                                                                                          13.95
+10 0109 1200 218 3303 612   04/16/2026   Amazon Mktpl Bs6687ty2   Tangible reinforcements/break items for SID:                                                              37.23
+21 0118 1900 950 7165 611   04/16/2026   Kwik Trip #379           Gas for rental car                                                                                        97.51
+21 0118 1900 950 7165 611   04/16/2026   Americinn Mankato        Math Club Hotel Rooms                                                                                    109.78
+21 0481 1900 950 7056 611   04/16/2026   Amazon Mktpl Bs62q1l62   Wood Library Family Night items - Big Idea Foundation Grant                                               68.59
+10 0000 1100 100 4074 612   04/16/2026   Sq Cert Werks            City High CPR Training and Certification                                                                2,160.00
+21 0114 1900 920 6601 582   04/16/2026   City Of Dubuque          Ramp parking for AD travelling to event.                                                                    4.00
+10 0432 1200 215 3302 612   04/16/2026   McDonalds M2023          Reinforcement for SID:                                                                                      5.08
+10 0493 1200 218 3303 612   04/16/2026   Walmart.Com              Edibles for SIDs:                                                                                         14.69
+10 0209 1200 212 3301 612   04/16/2026   Walmart.Com              Edibles for SIDs:                                                                                         11.94
+10 0109 1200 215 3302 612   04/16/2026   Walmart.Com              Edibles for SIDs:                                                                                           8.47
+10 0114 2221 000 0000 643   04/16/2026   Amazon.Com B766b2uq1     Liberty HS Library books                                                                                  68.81
+10 0406 1200 218 3303 612   04/16/2026   Walmart.Com              Edibles for SID:                                                                                            2.26
+10 0109 1200 218 3303 612   04/16/2026   Wal-Mart #1721           Budgeting, shopping, cooking with SIDs:                                                                     4.11
+10 0114 1200 215 3302 612   04/16/2026   Wal-Mart #1721           Budgeting, shopping, cooking with SIDs:                                                                     4.10
+10 0213 1200 215 3302 612   04/16/2026   Walmart.Com              Edibles for SIDs:                                                                                         15.88
+10 0475 1200 218 3303 612   04/16/2026   Walmart.Com              Edibles for SIDs:                                                                                         11.84
+10 0432 1200 218 3303 612   04/16/2026   Walmart.Com              Edibles for SIDs:                                                                                         15.61
+10 0209 1200 215 3302 612   04/16/2026   Walmart.Com              Edibles for SIDs:                                                                                           4.84
+21 0406 1900 950 7031 611   04/16/2026   Hy-Vee Aisles Online 4   Kirkwood-Cooking Club -Bagels, Cheese, Pizza Sauce, Turkey Pepperoni                                      48.86
+21 0118 1900 950 7165 611   04/16/2026   Americinn Mankato        Math Club Hotel Rooms                                                                                    109.78
+21 0118 1900 950 7030 611   04/15/2026   Clarion Hotel            Credit Voucher Clarion Hotel -                                                                           (150.89)
+10 0109 1100 100 0000 612   04/15/2026   We Rock Cedar Rapids     BACON - Special Ed Classroom Field Trip Registration                                                     388.83
+10 0109 1200 218 3303 612   04/15/2026   Walmart.Com 8009256278   Edibles for SID:                                                                                          29.50
+21 0118 1900 950 7030 611   04/15/2026   Clarion Hotel            Credit Voucher Clarion Hotel                                                                             (150.89)
+10 0218 1300 355 0000 612   04/15/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS                                                                        35.49
+21 0488 1900 950 7056 611   04/15/2026   Amazon Mktpl By5858ww2   Decorations and Supplies - Little Idea Hunt grant/Mallory Knoop                                          628.68
+10 0442 1200 215 3302 612   04/15/2026   Amzn Digital B79kk3bs1   Tangible reinforcements for SID:                                                                          30.00
+21 0118 1900 950 7250 611   04/15/2026   Qr.Io Generator          QR Code membership                                                                                        35.00
+10 0432 1200 218 3303 612   04/15/2026   Walmart.Com              Edibles for SIDs:                                                                                         14.91
+10 0109 1200 218 3303 612   04/15/2026   Walmart.Com              Edibles for SIDs:                                                                                         43.90
+10 0213 1200 215 3302 612   04/15/2026   Walmart.Com              Edibles for SIDs:                                                                                           3.88
+10 0109 1100 100 0000 612   04/15/2026   Slager Appliances Ecom   Credit Voucher Slager Appliances Ecom - Science Classroom Refund                                          (24.83)
+21 0118 1900 950 7015 611   04/15/2026   Amazon Mktpl B71dx46x1   West HS Library books & MakerSpace items                                                                 232.29
+10 0114 1300 355 0000 612   04/14/2026   Fareway Meat And Groce   Supplies                                                                                                  75.54
+10 0118 1300 355 0000 612   04/14/2026   Amazon Mktpl By2v839q2   Piping Bags - Jana Warning                                                                                  7.49
+10 0109 1100 100 9995 615   04/14/2026   Stage Lighting Store     Spring Musical Supplies and Materials                                                                    126.18
+10 0114 1100 100 9995 615   04/14/2026   McDonalds M2047          Phillippe Practice ordering lunch - BIH '25 Inclusion and Community Empowerment grant                     36.47
+21 0118 1900 950 7285 611   04/14/2026   The Webstaurant Store    Approved Cookies for Pump it Up                                                                          255.25
+21 0118 1900 950 7030 611   04/14/2026   Loves #0367 Outside      Gas for tournament                                                                                        64.09
+10 0463 1100 100 0000 612   04/14/2026   Amazon.Com B79dc95m1     Pacon® Chart Tablet, 24" x 16", 1 1/2" Ruled, 25 Sheets                                                   24.30
+61 0000 3110 000 0000 618   04/14/2026   Amazon.Com By3nw9kv2     Mobile Filing Cabinet                                                                                    321.50
+10 0000 2610 000 0000 688   04/14/2026   Amazon Mktpl B73nz8g51   Lincoln blinds                                                                                           160.29
+10 0000 2610 000 0000 688   04/14/2026   Amazon Mktpl B74un4hx1   CFI nameplate holders                                                                                       8.99
+10 0109 1100 102 0000 612   04/14/2026   Amazon Mktpl By9ea09z2   Transparent Printer Sheets, Glue Sticks, 4pk Copper Tape, 40pk Embroidery Machine Thread Kit-M.Close      86.72
+10 0436 3300 431 4501 618   04/14/2026   Amazon.Com B78c42gd1     Clue Board Game for Ages 8 and Up,                                                                        22.38
+10 0442 1200 212 3301 612   04/14/2026   Amazon Mktpl By6j367k2   Break item for SID:                                                                                       18.99
+21 0109 1900 950 7220 611   04/14/2026   Iowrc Hyatt Conf Cente   Band Jazz Champions Lodging                                                                              510.44
+10 0109 1100 100 0000 612   04/14/2026   Amazon Mktpl By9733s52   Commercial Ice Maker Machine x2 - N.Scott/Chem Lab (per facilities)                                      919.98
+21 0109 1900 950 7295 611   04/14/2026   Sqsp Domain#227954731    Credit Voucher Sqsp Domain#227954731                                                                      (21.20)
+21 0118 1900 950 7210 611   04/14/2026   Amazon Mktpl B77qu8z10   40pk Graduation Honor Ropes Cords/Pink - Luigi Enriquez                                                  196.75
+10 0000 2610 000 0000 688   04/14/2026   North Liberty Ace Hard   WO 213810 hardware                                                                                          2.16
+10 0114 2193 000 0000 611   04/14/2026   Tassel Depot             LHS Peer to Peer graduation cords                                                                         38.50
+10 0000 2610 000 0000 683   04/14/2026   Sherwin-Williams703280   WO 211263 paint                                                                                           69.59
+10 0000 2700 421 4565 515   04/14/2026   Hy-Vee Iowa City 1288    Gas Cards -MKV                                                                                          4,000.00
+10 0403 1200 215 3302 612   04/14/2026   Amazon Mktpl By8ox19a2   Tangible reinforcement for SID:                                                                           24.99
+10 0109 1200 218 3303 612   04/14/2026   Amazon.Com By3kg1ue2     "Big ticket item" for SID:                                                                                22.46
+10 0109 1300 355 0000 612   04/14/2026   Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                     241.51
+10 0213 1100 100 0000 612   04/14/2026   Amazon Mktpl By6vm5ix2   White Paper Kraft Roll                                                                                    57.38
+10 0000 2610 000 0000 689   04/14/2026   Psc Distribution, Inc.   WO 213827 repair kit                                                                                      72.23
+10 0000 2650 000 0000 683   04/14/2026   Linder Tire - Iowa Cit   Unit 34 patch tire                                                                                        32.50
+21 0118 1900 950 7030 611   04/14/2026   Speedway 43733           Gas for a tournament                                                                                      61.42
+21 0109 1900 950 7135 611   04/14/2026   Toms Pizza               Spring Musical Hell Week Meals                                                                            81.94
+10 0114 1100 100 9995 615   04/14/2026   Amazon Mktpl By9ou57d2   Portable Clothes Rack- BIH '25 Inclusion and Community Empowerment Grant - Garden Project - Phillippe     39.99
+10 0109 1300 355 0000 612   04/14/2026   Wal-Mart #1721           FCS Classroom Supplies and Materials                                                                     187.92
+10 0118 1300 355 0000 612   04/14/2026   Fareway Meat And Groce   Groceries for Food Lab - approved on spreadsheet                                                          96.65
+21 0118 1900 950 7015 611   04/14/2026   Amazon.Com By51q8952     West HS Library books                                                                                     18.63
+21 0209 1900 950 7087 611   04/14/2026   Amazon.Com B71mn7581     Soccer Shin Guards - Derek Coorough/SFA                                                                   11.99
+                                                                  Credit The New Art and Science of Teaching (More Than Fifty New Instructional Strategies for Academic
+10 0000 1100 100 3376 612   04/14/2026   Amazon.Com               Success) (The New Art and Science of Teaching Book Series)                                                (32.66)
+21 0109 1900 950 7135 611   04/14/2026   Jims Instrument Manufa   Spring Musical Supplies and Materials                                                                   1,931.25
+10 0109 1200 218 3303 612   04/14/2026   Amazon Mktpl By59t8ud2   "Big ticket item" for SID:                                                                                 35.99
+21 0118 1900 950 7245 611   04/14/2026   Amazon Mktpl B78gp9l80   6pc Graduation Honor Cords - Hanan Rahmatallah                                                             16.99
+10 0406 1200 218 3303 612   04/14/2026   Amazon Mktpl B70my4n20   Break item for SID:                                                                                        12.34
+10 0218 1300 316 0000 612   04/14/2026   Amazon Mktpl B714l8fr0   Rockler Work Bench Cookies Plus Work Grippers 4pk x2 - V.Harris/Ind.Tech                                   35.98
+10 0114 2700 920 6750 515   04/13/2026   Kwik Star #1927          Gas purchase for vans travelling for Boys Tennis                                                           32.60
+10 0000 1100 460 3117 612   04/13/2026   Amazon Mktpl By6am5sv2   Zipper Pouches - Michelle Beninga/PreK                                                                     16.99
+10 0109 1100 102 0000 612   04/13/2026   Amazon Mktpl B73md7fo1   Ilford Ilfostop Stop Film Bath 0.5                                                                         27.30
+10 0118 1200 212 3301 612   04/13/2026   Taco Bell 737057         Reinforcement for SIDs:                                                                                    39.44
+10 0118 1200 215 3302 612   04/13/2026   Taco Bell 737057         Reinforcement for SIDs:                                                                                    19.67
+10 0403 1100 100 9995 615   04/13/2026   Amazon Mktpl B712p8ef1   Soccer Balls, Shin Guards, Water Bottles - SFA foundation purchase - soccer gear; general fund 4401001    194.88
+21 0109 1900 950 7220 611   04/13/2026   Bread Garden Market      Band Jazz Champions Guest Artist Meals                                                                     23.33
+10 9334 1100 100 1113 612   04/13/2026   Lenoch & Cilek Ace #6    Purchase Lenoch & Cilek Ace #6- Soil for ICHSAP Garden Club                                                34.90
+21 0213 1900 950 7015 611   04/13/2026   Amazon.Com B72di0oq0     NWMS Library books                                                                                         92.10
+10 0114 1100 100 9995 615   04/13/2026   Amazon Mktpl B76ew2ab1   Lacquer Spray - BIH '25 Inclusion and Community Empowerment Grant - Garden Project - Phillippe             65.97
+10 0218 1300 355 0000 612   04/13/2026   Wm Supercenter #1721     Purchase Wm Supercenter #1721 FCS                                                                          31.29
+21 0436 1900 950 7015 611   04/13/2026   Amazon.Com By1am4sv2     Lucas Library books                                                                                       206.54
+21 0109 2700 920 6750 515   04/13/2026   Maverik #5336            Gas                                                                                                        19.49
+21 0118 1900 950 7030 611   04/13/2026   Mapco 140967             Gas for tournament                                                                                         78.35
+21 0109 1900 950 7135 611   04/13/2026   Lenoch & Cilek Ace #1    Spring Musical Supplies and Materials                                                                      45.44
+10 0417 2410 000 0000 611   04/13/2026   Amazon.Com B78o97351     Brother® PC-501 Black Thermal Cartridge                                                                    26.29
+21 0114 1900 950 7135 611   04/13/2026   Zio Johnos Iowa City     Meal for Shrek the Musical cast & crew                                                                    457.01
+21 0114 1900 950 7243 611   04/13/2026   Amazon Mktpl Bc8m49q70   Superer 2 Pack 5ft White Micro USB                                                                           7.65
+10 0000 2610 000 0000 685   04/13/2026   Electric Motors Of Ic    Kirkwood nitrogen for testing                                                                              49.85
+21 0109 1900 950 7220 611   04/13/2026   Tst 30hop - Coralville   Band Jazz Champions Guest Artist Meals                                                                     41.26
+21 0109 1900 950 7135 611   04/13/2026   Toms Pizza               Spring Musical Hell Week Meals                                                                            228.90
+61 0118 3110 000 0000 618   04/13/2026   Menards Iowa City Ia     mouse traps                                                                                                  8.98
+10 0000 2581 000 9997 611   04/13/2026   Sq Travelin Toms Co      To be reimbursed by Digital Promise Grant                                                                 675.00
+10 0000 2610 000 0000 685   04/13/2026   Electric Motors Of Ic    Kirkwood nitrogen exchange                                                                                 97.99
+21 0114 1900 950 7135 611   04/13/2026   Amazon Mktpl B74w66f31   Shrek Musical Costumes - Leah Carlson                                                                     169.49
+10 0493 2221 000 0000 611   04/13/2026   Amazon Mktpl By5bx4qo2   Wickham Library books                                                                                      95.69
+10 0209 1300 316 0000 612   04/13/2026   Amazon Mktpl B76ha2e71   6Pcs 1/4-20 UNC B2 Spiral Point Thread Tap x3 - Levi Wood                                                  47.97
+21 0406 1900 950 7056 611   04/13/2026   Amazon Mktpl Bc1s312o0   Science Fair Ribbons                                                                                       11.99
+10 0000 2610 000 0000 739   04/13/2026   Menards Iowa City Ia     WO 213210 siding tool, siding/trim                                                                           4.29
+10 0000 2610 000 0000 688   04/13/2026   Menards Iowa City Ia     WO 213210 siding tool, siding/trim                                                                         14.28
+10 0000 2610 000 0000 687   04/13/2026   Van Meter Inc - Iowa C   Unit 107 plates                                                                                            18.81
+10 0481 1200 215 3302 612   04/13/2026   Walmart.Com              Edibles for SIDs:                                                                                          23.41
+10 0000 2610 000 0000 688   04/13/2026   Menards Iowa City Ia     WO 213724 plywood                                                                                          47.99
+10 0497 1100 100 0000 612   04/13/2026   Amazon Mktpl B71hr8an1   Lanyards, Pencils, Pens, Stress balls, Bookmarks, Magnets, Party Favors                                   130.43
+10 0000 2610 000 0000 739   04/13/2026   Johnstone Supply - 614   WO 212117 core control tool                                                                               119.98
+10 0000 2630 000 0000 686   04/13/2026   Amazon Mktpl Bc22k7200   Unit 415 filter cover                                                                                      15.89
+10 0114 1100 100 9995 615   04/13/2026   Amazon Mktpl By1wl2612   Craft paint, Seeds - BIH '25 Inclusion and Community Empowerment Grant - Garden Project - Phillippe        36.88
+10 0445 1100 100 0000 612   04/13/2026   Amazon Mktpl Bc1em5k30   Party Favors - Chelsea                                                                                     18.04
+10 0432 1200 215 3302 612   04/13/2026   Burger King #6104 Q07    Reinforcement for SID:                                                                                       8.68
+21 0114 1900 950 7056 611   04/13/2026   Amazon Mktpl By3y92872   200pcs Willow Charcoal Sticks Sketching pencils x2 - Megan Dehner/Little Idea Hunt                         29.98
+10 0000 2630 000 0000 686   04/13/2026   On Deck Sports           Adhesive                                                                                                  584.36
+21 0109 1900 950 7220 611   04/13/2026   Tst Blackstone           Band Jazz Champions Guest Artist Meals                                                                     38.58
+10 0109 1100 100 0000 612   04/13/2026   Amazon.Com B70n96ob0     Office Supplies                                                                                           219.57
+21 0118 1900 920 6860 582   04/13/2026   Hy-Vee F&f Waterloo 58   Purchase Hy-Vee F&f Waterloo 58                                                                            68.16
+21 0109 1900 950 7220 611   04/13/2026   Iowrc Hyatt Conf Cente   Band Jazz Champions - Lodging                                                                             134.10
+10 0136 1300 355 0000 612   04/13/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS supplies, Janelle Roberts                                                 8.14
+21 0118 1900 950 7185 611   04/13/2026   Amazon Mktpl By56666x2   Artificial Roses                                                                                           62.07
+21 0118 1900 950 7030 611   04/13/2026   Clarion Hotel            Clarion Hotel                                                                                             694.10
+21 0118 1900 950 7030 611   04/13/2026   Clarion Hotel            Clarion Hotel                                                                                             694.10
+21 0118 1900 950 7015 611   04/13/2026   Amazon.Com Bc4a62s20     West HS Library books & MakerSpace items                                                                   20.46
+10 0114 1100 100 9995 615   04/13/2026   Walmart.Com 8009256278   Bagged Soil x5 - Big Idea Hunt - Liberty/Lyn Prelle                                                        39.85
+10 0109 1100 102 0000 612   04/13/2026   Amazon.Com B79hf10u1     13oz Vaseline - Maggie Yocius/Art City High                                                                  5.48
+21 0109 1900 950 7135 611   04/13/2026   Sq Donutland             Spring Musical Hell Week Meals                                                                             43.32
+21 0118 1900 950 7030 611   04/13/2026   Sp Voces Digital         Voces Digital software for World Langue - Approved on Spreadsheet                                         300.00
+21 0403 1900 950 7000 611   04/13/2026   Amazon.Com By5qb6qo2     2032 Duracell Battery for Student's Cochlear Implant System                                                  4.39
+21 0118 1900 950 7015 611   04/13/2026   Sq Iowa Council Of Te    Battle of the books registration                                                                           65.00
+10 0109 1300 355 0000 612   04/13/2026   Hy-Vee Iowa City 1288    FCS Classroom Supplies and Materials                                                                       64.88
+10 0468 1200 215 3302 612   04/13/2026   Walmart.Com              Break items for SID:                                                                                         5.64
+21 0118 1900 950 7030 611   04/13/2026   Pilot 476                Gas for Tournament                                                                                         88.60
+10 0000 2610 000 0000 685   04/10/2026   Electric Motors Of Ic    Kirkwood nitrogen for testing                                                                              48.14
+21 0118 1900 923 6601 611   04/10/2026   Athleticlive             Purchase Athleticlive- Track live results                                                                  29.00
+10 0218 1300 316 0000 612   04/10/2026   Walmart.Com              8pc Wood Plug Cutter Drill bit Straight & Taper Claw Tool Set -SEMS-Vicky Harris/IndTech                   11.51
+10 0109 1300 355 0000 612   04/10/2026   Hy-Vee Iowa City 1288    FCS Classroom Supplies and Materials                                                                       12.70
+21 0118 1900 950 7030 611   04/10/2026   Sp Voces Digital         Voces Digital software for World Language - approved on spreadsheet                                      1,050.00
+21 0472 1900 950 7015 611   04/10/2026   Amazon.Com Bc0n79bb0     Twain Library books                                                                                       205.74
+10 0000 2610 000 0000 582   04/10/2026   Crescent Parts & Equip   CEU training for license                                                                                  133.90
+10 0109 1300 316 0000 612   04/10/2026   Amazon Mktpl Bc88a6hd0   100pk Safety Glasses x2 - Jacob Schares/Industrial Tech                                                   161.98
+21 0109 1900 950 7135 611   04/10/2026   In Hawkeye Fire And S    Spring Musical Supplies                                                                                   106.00
+10 0000 2610 000 0000 689   04/10/2026   Plumb Supply - Ioc - 0   WO 213747 water heater                                                                                    726.39
+10 0000 2131 000 0000 611   04/10/2026   Amazon Mktpl Bc9de39a1   Medical Supplies - Healthy Services                                                                       174.54
+10 0417 1200 218 3303 612   04/10/2026   Amazon.Com Bc0j81wi1     PPE for use with SID:                                                                                      11.99
+21 0427 1900 950 7040 611   04/10/2026   Amazon Mktpl Bc56m05r0   Black Table Cloths - All School Event                                                                      19.97
+21 0213 1900 950 7015 611   04/10/2026   Amazon.Com Bc48t5550     NWMS Library books                                                                                           9.59
+21 0213 1900 950 7015 611   04/10/2026   Amazon Mktpl Bc7u37b20   NWMS Library MakerSpace items                                                                              49.16
+21 0118 1900 921 6840 611   04/10/2026   Zio Johnos Iowa City     Purchase Zio Johnos Iowa City                                                                             185.07
+10 0109 1100 111 0000 612   04/10/2026   Amazon Mktpl Bc31q4vj0   Barcelonetta Poly Cotton Fabric                                                                              8.90
+10 0109 1200 218 3303 612   04/10/2026   Amazon Mktpl Bc4uy3981   Edibles for SID:                                                                                           22.90
+21 0118 1900 950 7110 611   04/10/2026   Expedia 73416412155266   Room for Bus driver                                                                                       622.47
+21 0118 1900 950 7250 611   04/10/2026   Chick-Fil-A #02158       Principal Day Lunch - Purchase by Admin                                                                    75.21
+10 0136 1300 355 0000 612   04/10/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS supplies- Janelle Roberts                                               34.11
+21 0109 1900 923 6601 611   04/10/2026   Subway 28736             Team Meals                                                                                                657.50
+21 0109 1900 950 7070 611   04/10/2026   Lenoch & Cilek Ace #1    Garden Club Supplies and Materials                                                                         11.96
+10 0109 1200 218 3303 612   04/10/2026   Walmart.Com              Edibles for SIDs:                                                                                          26.68
+10 0417 1200 215 3302 612   04/10/2026   Walmart.Com              Edibles for SIDs:                                                                                            7.97
+10 0427 1200 218 3303 612   04/10/2026   Walmart.Com              Edibles for SIDs:                                                                                          20.17
+10 0213 1200 218 3303 612   04/10/2026   Walmart.Com              Edibles for SIDs:                                                                                            8.47
+10 0109 1200 215 3302 612   04/09/2026   Wm Supercenter #1721     Budgeting and cooking with SIDs:                                                                             3.62
+10 0114 1200 215 3302 612   04/09/2026   Wm Supercenter #1721     Budgeting and cooking with SIDs:                                                                             3.62
+10 0109 1200 218 3303 612   04/09/2026   Wm Supercenter #1721     Budgeting and cooking with SIDs:                                                                           14.48
+10 0432 1200 215 3302 612   04/09/2026   Walmart.Com              Edibles for SID:                                                                                             6.42
+10 0114 1100 112 9994 615   04/09/2026   Sq Iowa Choral Direct    LHS Iowa All-State Jazz Choir registrations                                                               385.00
+21 0114 1900 950 7135 611   04/09/2026   Amazon Mktpl Bc8ts4251   10pk Music Stand lights - Nick Carlo                                                                       79.80
+21 0209 1900 950 7000 611   04/09/2026   Ab Abebooks.Co Liwtgr    Purchase Ab Abebooks.Co Liwtgr - LA/Literacy Books Donation                                                  4.39
+10 0000 2610 000 0000 685   04/09/2026   Electric Motors Of Ic    Unit 110 nitrogen                                                                                          24.07
+10 0000 2322 000 0000 611   04/09/2026   Amazon Mktpl Bc4ct2xp0   5pk 5x7 Acrylic Frames - Allie Moeller                                                                     73.98
+10 0000 2131 000 0000 611   04/09/2026   Amazon Mktpl By8gz0f12   Medical Supplies - Healthy Services                                                                       111.89
+21 0114 1900 920 6740 345   04/09/2026   In Wayzata Results, I    Liberty Athletics - Timer fee                                                                             300.00
+21 0114 1900 920 6840 345   04/09/2026   In Wayzata Results, I    Liberty Athletics - Timer fee                                                                             300.00
+10 0142 2221 000 0000 611   04/09/2026   Hy-Vee Iowa City 1288    Purchase Hy-Vee Iowa City 1288 OE device to Muscatine                                                      12.55
+21 0109 1900 950 7341 611   04/09/2026   Sp Fasteners Plus        Purchase Sp Fasteners Plus                                                                                121.69
+21 0209 1900 950 7000 611   04/09/2026   Ab Abebooks.Co Liwtje    Purchase Ab Abebooks.Co Liwtje - LA/Literacy Books Donation                                                13.48
+10 0000 2581 000 9997 611   04/09/2026   Staples 0272             To be reimbursed by Digital Promise Grant                                                                  44.93
+10 9334 1100 108 0000 612   04/09/2026   Amazon Mktpl Bc5hm5qz1   Elem TF Name Tags for PE Teachers for 4th/5th grade students-Yellow/White                                 112.96
+10 0109 1200 218 3303 612   04/09/2026   Amazon Mktpl By1y49zf2   Edibles/Break items for SID:                                                                               62.22
+21 0406 1900 950 7056 611   04/09/2026   Hy-Vee Aisles Online 4   Kirkwood-Science Fair -2L Coke x2, 2L Diet Coke, 2L Sprite, 2L Fanta - Little Idea Hunt funds              32.04
+61 0114 2640 000 0000 687   04/09/2026   The Webstaurant Store    blower motor for hot cart                                                                                 408.59
+21 0209 1900 950 7000 611   04/09/2026   Ab Abebooks.Co Liwtab    Purchase Ab Abebooks.Co Liwtab - LA/Literacy Books Donation                                                35.03
+36 0000 4500 000 8999 733   04/09/2026   Microsoft-G151233026     Monthly software usage                                                                                     22.88
+21 0109 1900 950 7135 611   04/09/2026   Menards Iowa City Ia     Drama Spring Musical Supplies and Materials                                                               147.99
+21 0442 1900 950 7056 611   04/09/2026   Amazon Mktpl Bc31h4e50   Classroom Books - Little Idea Hunt/Jemma Walters                                                           47.97
+21 0442 1900 950 7056 611   04/09/2026   Amazon Mktpl Bc9tc30f0   Classroom Books - Little Idea Hunt/Jemma Walters                                                          179.97
+21 0406 1900 950 7031 611   04/09/2026   Hy-Vee Aisles Online 4   Kirkwood-Cooking Club-Bread, Butter, Cheese                                                                40.89
+21 0109 1900 950 7135 611   04/09/2026   Fh-Gumbys-Pizza-Io       Spring Musical Hell Week Meals                                                                             58.75
+10 0000 2131 000 0000 611   04/09/2026   Amazon Mktpl Bc01f76x1   McKesson Cold and Hot Compress Reuseable - Medical Supplies - Healthy Services                             35.11
+10 0000 2610 000 0000 582   04/09/2026   The Ceu Authority Llc    CEU training for license                                                                                  355.00
+21 0209 1900 950 7000 611   04/09/2026   Ab Abebooks.Co Liwtgs    Purchase Ab Abebooks.Co Liwtgs - LA/Literacy Books Donation                                                  8.99
+10 0142 1100 100 0000 612   04/09/2026   Office Express           Shipping Tape, Color Coding Labels                                                                         25.85
+10 0109 1300 355 0000 612   04/09/2026   Hy-Vee Iowa City 1288    FCS Classroom Supplies and Materials                                                                       35.88
+21 0114 1900 950 7135 611   04/09/2026   Pancheros                Meal for Shrek the Musical cast & crew                                                                   1,164.20
+21 0118 1900 950 7015 611   04/09/2026   Amazon.Com Bc1gg52u1     West HS Library books                                                                                      30.01
+10 0118 1100 100 0000 612   04/09/2026   Amazon Mktpl By7y44zf2   Shelving for Food Pantry                                                                                  121.88
+10 0118 1300 355 0000 612   04/09/2026   Wal-Mart #1721           Groceries for Food Lab - Approved on Spreadsheet                                                           11.60
+21 0488 1900 950 7056 611   04/09/2026   Amazon Mktpl Bc2jk0020   Copy King Reusable Dry Erase -Little Idea Hunt grant/Mallory Knoop                                         22.95
+10 0493 1200 218 3303 612   04/09/2026   Walmart.Com              Edibles for SIDs:                                                                                            7.72
+10 0442 1200 215 3302 612   04/09/2026   Walmart.Com              Edibles for SIDs:                                                                                          43.63
+10 0000 1100 100 2100 612   04/09/2026   Wal-Mart #2827           Purchase Wal-Mart #2827 - Preschool Walmart Grant                                                         112.53
+                                                                  Purchase Zenni Optical, Inc. for student XXXXXX XXXXX. SFA Foundation account to reimburse. Request
+10 0432 1100 100 0000 612   04/09/2026   Zenni Optical, Inc.      submitted 4/8/26.                                                                                          52.85
+10 0109 1100 113 0000 612   04/09/2026   Amazon Mktpl Bc6du2ey0   General Science Classroom Supplies: Physics - M.Lestina                                                   146.92
+33 0000 4500 000 8999 733   04/09/2026   Amazon Mktpl By27c2lo2   Network Cable Labels                                                                                       33.38
+21 0109 1900 920 6860 611   04/09/2026   Twin Pines Golf Course   Twin Pines Golf Balls                                                                                      22.66
+10 0000 2650 000 0000 682   04/09/2026   Arnold Motor Supply 4    Units 414/417/stock batteries, filters                                                                     49.36
+10 0000 2630 000 0000 686   04/09/2026   Arnold Motor Supply 4    Units 414/417/stock batteries, filters                                                                    124.24
+21 0118 1900 950 7015 611   04/08/2026   Amazon.Com Bc1np5m51     West HS Library books                                                                                     112.14
+21 0488 1900 950 7056 611   04/08/2026   Amazon Mktpl B70jg6ra2   Decorations and Supplies - Little Idea Hunt grant/Mallory Knoop                                            60.62
+21 0109 2700 920 6860 515   04/08/2026   Bp#3299700iowa Cityqps   Gas                                                                                                        72.37
+10 0109 1100 100 9995 615   04/08/2026   Amazon Mktpl Bc8p26h21   5pc Carbide Singe Flute End Mill Set - D. Lestina/Spring Musical Set Design and Construction Tools         73.99
+10 0000 2581 000 9997 611   04/08/2026   Hy-Vee Coralville 1085   To be reimbursed by Digital Promise Grant                                                                 166.82
+                                                                  Purchase Usps Po 1843920240 our office was out of stamps which we use to sent postcards and letters to
+10 0427 2410 000 0000 611   04/08/2026   Usps Po 1843920240       families.                                                                                                 139.00
+21 0136 1900 950 7039 611   04/08/2026   Amazon Mktpl Bc4uu3nu0   24pk Backpacks - SFA                                                                                       82.91
+33 0118 4200 924 9854 450   04/08/2026   Pods                     West softball/baseball storage                                                                            158.00
+33 0118 4200 924 9854 450   04/08/2026   Pods                     West softball/baseball storage                                                                             95.38
+10 0109 1100 113 0000 612   04/08/2026   Amazon Mktpl Bc6mb0hc1   KINGLAKE Plant Labels 4 Inch - 300                                                                           5.99
+21 0118 1900 950 7015 611   04/08/2026   Amazon.Com Bc5p51tt0     West HS Library books                                                                                     184.81
+10 0218 1300 355 0000 612   04/08/2026   Simplicity Patterns      Purchase Simplicity Patterns FCS                                                                           62.50
+10 0497 1100 100 0000 612   04/08/2026   Amazon Mktpl B702s2y22   60 Minute Visual Timer                                                                                       9.49
+10 0445 1100 100 0000 612   04/08/2026   Amazon Mktpl Bc0g893h0   100pk Bulk Earbuds for ISASP - Gabe Wylder                                                                 47.49
+10 0000 2494 000 0000 611   04/08/2026   Odp Bus Sol Llc# 10686   Red Pencils                                                                                                12.46
+21 0488 1900 950 7000 611   04/08/2026   Amazon Mktpl Bc1rj8t20   Cat Stuffed Animals plush set, Puppy Plush animals set - PBIS Store                                        86.18
+21 0114 1900 950 7245 611   04/08/2026   Wal-Mart #2827           HOSA Club sewing supplies for donating items to UI Hospitals                                               66.13
+10 0136 1300 355 0000 612   04/08/2026   Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS supplies- Janelle Roberts                                               48.29
+10 0000 2610 000 0000 685   04/08/2026   Psc Distribution, Inc.   WO 212117 insulation                                                                                       54.47
+10 0493 1100 100 0000 612   04/08/2026   Amazon.Com Bc6k64h01     Marzano Research Lab Planning/Teaching, Assessing Learning in the Standards-Based Classroom.              102.78
+21 0109 1900 950 7220 611   04/08/2026   Sq Cornbred Barbecue     Band Jazz Champions Guest Artist Meals                                                                    891.00
+10 0468 1100 100 0000 612   04/08/2026   Amazon Mktpl Bc4gn63g0   100pk Bulk Earbuds for ISASP                                                                               45.12
+21 0118 1900 950 7145 611   04/08/2026   Uiowa Online Payments    IHSPA contest and grad cords                                                                              564.50
+10 0000 2131 000 0000 611   04/08/2026   Amazon Mktpl B73rl0u12   Thermometer Covers, Tissues, Gauze,Vaseline - Health Services                                             126.03
+10 0109 1100 113 0000 612   04/08/2026   Amazon Mktpl B73467u52   COVIDIEN (n Vaseline Petroleum Jelly -General Science Classroom Supplies: Physics - M.Lestina                5.82
+10 0000 2620 000 0000 739   04/08/2026   Hillyard Inc             WO 211961/stock vacuum fans                                                                               769.82
+10 0000 2211 000 8026 611   04/08/2026   Amazon Mktpl Bc0x90n90   Plastic Folders w/Pockets - Kristen Wendtland/3rd grade Math                                               15.98
+21 0209 1900 950 7000 611   04/08/2026   Ab Abebooks.Co Liwtad    Purchase Ab Abebooks.Co Liwtad - LA/Literacy Books Donation                                                35.54
+21 0118 1900 950 7165 611   04/08/2026   Paypal Mathleague        Math League Payment                                                                                       120.00
+21 0109 1900 950 7135 611   04/08/2026   Menards Iowa City Ia     Spring Musical Supplies and Materials                                                                      84.43
+10 0109 1300 355 0000 612   04/08/2026   Wal-Mart #2827           FCS Classroom Supplies and Materials                                                                      111.69
+21 0114 1900 950 7135 611   04/08/2026   Amazon Mktpl Bc3hx8ng0   Shrek Musical Costumes - Leah Carlson                                                                      62.93
+21 0114 1900 950 7135 611   04/08/2026   Amazon Mktpl B740y4u02   Shrek Musical Costumes - Leah Carlson                                                                      59.98
+10 0442 1282 432 4508 612   04/08/2026   Amazon.Com B75yo2ye2     Educator Resource Publications/Instructional texts - ESSA Title 1003 Funds                                111.43
+10 0436 3300 431 4501 618   04/08/2026   Amazon Mktpl Bc4568b11   Games and Supplies for Family Game Night - Title 1 Funds                                                  357.66
+36 0000 4700 000 8750 450   04/08/2026   Ppc Paints 9831          WO 212900 roller covers                                                                                    80.46
+10 0000 1100 100 4074 612   04/07/2026   Sq Cert Werks            Liberty CPR/First Aid Certifications                                                                      540.00
+10 0109 1100 100 0000 612   04/07/2026   Sqsp Domain#229347948    disputed charge                                                                                            20.00
+10 0427 1282 431 4501 612   04/07/2026   Amazon Mktpl B743n02m2   Katie Ryan - Title 1 Supplies / Longfellow                                                                   9.98
+10 0427 1282 431 4501 612   04/07/2026   Amazon Mktpl B711902d2   Katie Ryan - Title 1 Supplies / Longfellow                                                                     116.29
+21 0109 1900 950 7220 611   04/07/2026   C. Alan Publications     Band Sheet Music                                                                                                32.00
+10 0436 3300 431 4501 618   04/07/2026   Amazon Mktpl Bc91m6420   EXPO Dry Erase Markers -Supplies for Family Game Night - Title 1 Funds                                          11.46
+10 0000 2581 000 9997 611   04/07/2026   Wal-Mart #2827           To be reimbursed by Digital Promise Grant                                                                      114.73
+10 0401 2410 000 0000 611   04/07/2026   Amazon Mktpl Bc5cl3xy1   Adhesive Magnetic Locks for Cabinets & Drawers                                                                  47.49
+21 0406 1900 950 7031 611   04/07/2026   Amazon Mktpl Bc6al3xu1   Supplies for Student Self-Care Club                                                                             92.05
+21 0475 1900 950 7056 611   04/07/2026   Amazon Mktpl Bc19r1pn1   Classroom Supplies - Little Idea Hunt Grant/Griffith/Schultz                                                    54.06
+10 0427 1100 100 9995 615   04/07/2026   Amazon Mktpl Bc3f314w0   20pk Mini Walkie Talkies                                                                                       210.00
+10 0109 1100 100 9995 615   04/07/2026   Amazon Mktpl Bc9nw6ga1   AA Batteries, Soldering Iron Kit - D.Lestina/Musical Set Design                                                166.69
+21 0209 1900 950 7087 611   04/07/2026   Amazon.Com B76z497d2     Soccer Shin Guards - Derek Coorough/SFA                                                                         47.56
+21 0218 1900 950 7130 611   04/07/2026   Amazon Mktpl Bc0i33e61   SOAR Store Supplies - Michael Madsen                                                                           270.88
+10 0118 1300 355 0000 612   04/07/2026   Fareway Meat And Groce   Culinary Lab Groceries - Approved on spreadsheet - This charge was 3 different transactions on 1 receipt.         3.75
+21 0109 1900 920 6860 611   04/07/2026   Fsp Brown Deer Golf Cl   Brown Deer Golf Balls                                                                                           22.00
+10 0118 1300 355 0000 612   04/07/2026   Fareway Meat And Groce   Culinary Lab Groceries - Approved on spreadsheet - This charge was 3 different transactions on 1 receipt.      108.70
+21 0114 1900 950 7135 611   04/07/2026   Amazon Mktpl Bg83c0we0   Costume supplies for Shrek                                                                                      22.99
+10 0000 2131 000 0000 611   04/07/2026   Amazon Mktpl Bc0zm1g81   Bandages, - Health Services                                                                                     58.89
+10 0109 1300 355 0000 612   04/07/2026   Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                            98.08
+10 0403 2410 000 0000 611   04/07/2026   Amazon Mktpl Bc9s46x71   Raffle Ticket Rolls, Shipping Labels, Masking Tape, Name Tags                                                   65.13
+10 0000 2131 000 0000 611   04/07/2026   Amazon Mktpl Bc0vc7061   Plastic Cups 3oz                                                                                                54.90
+21 0442 1900 950 7056 611   04/07/2026   Amazon Mktpl Bc09s1vz1   Classroom Books - Little Idea Hunt/Jemma Walters                                                               186.48
+10 0118 1300 355 0000 612   04/07/2026   Fareway Meat And Groce   Culinary Lab Groceries - Approved on spreadsheet - This charge was 3 different transactions on 1 receipt.       51.30
+10 0118 1100 106 0000 612   04/07/2026   Somewheretoshare.Com     Purchase Somewheretoshare.Com                                                                                   45.00
+21 0475 1900 950 7056 611   04/07/2026   Amazon Mktpl Bc7i39e51   Classroom Supplies - Little Idea Hunt Grant/Griffith/Schultz                                                   695.76
+10 0418 1100 100 0000 612   04/07/2026   Amazon Mktpl B70wz5sf2   Foam Phonics Magnetic Set x19                                                                                   58.14
+10 0445 2221 000 0000 643   04/07/2026   Amazon.Com Bc5rl3lt0     Mann Library books                                                                                              13.59
+10 0213 1300 316 0000 612   04/07/2026   Amazon Mktpl Bc31m54u0   Toilet Flange Repair Kit, Toilet Fill Valve/Flapper Kit - Industrial Tech/Handyperson Class                     79.32
+10 0427 1282 431 4501 612   04/07/2026   Amazon Mktpl B722p2622   Katie Ryan - Title 1 Supplies / Longfellow                                                                      28.99
+10 0401 2410 000 0000 611   04/07/2026   Amazon Mktpl B72s23742   Lam Film Rolls                                                                                                  56.76
+10 0118 1300 355 0000 612   04/07/2026   Hy-Vee Coralville 1080   Groceries for food lab                                                                                            7.22
+21 0442 1900 950 7000 611   04/07/2026   Amazon Mktpl B79gz87p2   Kites - Gina Campbell/Kite Day                                                                                 431.78
+21 0109 1900 950 7220 611   04/07/2026   Sq Viet Cuong Music      Band Sheet Music                                                                                               165.00
+21 0114 1900 950 7056 611   04/07/2026   Amazon Mktpl Bc3xb7ps1   Aenir White Charcoal Pencils                                                                                    13.98
+21 0114 1900 950 7135 611   04/07/2026   Amazon Mktpl Bc4x67vm1   Shrek Musical Costumes - Leah Carlson                                                                          267.41
+10 0401 2410 000 0000 611   04/07/2026   Amazon Mktpl Bc4s27xd1   AA Batteries, Highlighters, Tape, Sign Clips                                                                    66.10
+10 0427 1200 215 3302 612   04/07/2026   Amazon Mktpl Bc5jl5ek1   Instructional materials for SID:                                                                                24.99
+10 0213 1200 212 3301 612   04/07/2026   Amazon.Com B79r67q82     Edibles for SID:                                                                                                18.39
+21 0114 1900 950 7135 611   04/07/2026   Amazon Mktpl B772w27y2   Shrek Musical Costumes - Leah Carlson                                                                           59.98
+10 0000 1100 100 4074 612   04/07/2026   Sq Cert Werks            Liberty CPR/First Aid Certifications Part II                                                                  1,050.00
+21 0475 1900 950 7056 611   04/07/2026   Amazon Mktpl Bc4411co0   Classroom Supplies - Little Idea Hunt Grant/Griffith/Schultz                                                   117.58
+10 0415 2410 000 0000 611   04/07/2026   Amazon Mktpl Bc70v84l0   Poster Sticky Tack, Small Memo Clipboards                                                                       25.03
+21 0109 1900 950 7135 611   04/07/2026   Figure 53 Qlab           Spring Musical Supplies and Materials                                                                           90.00
+21 0114 1900 923 6601 611   04/07/2026   Amazon Mktpl Bc00484j0   iPad case for Track                                                                                             13.95
+21 0114 1900 950 7056 611   04/07/2026   Amazon Mktpl Bc7q05x11   Gray Erasers, Charcoal Pencils - Little Idea Hunt/Megan Dehner                                                  37.52
+10 0109 1100 100 0000 612   04/07/2026   Slager Appliances Ecom   Chemistry Classroom Furniture and Supplies                                                                     438.73
+10 0114 1100 108 0000 612   04/07/2026   Amazon Mktpl B71l112c2   Agility Ladder, Bandages, Hockey Balls, Basketballs - Tom Van Dyke                                             236.21
+21 0114 1900 950 7243 611   04/06/2026   Globale /Logitech        Sales tax refund                                                                                                 (9.85)
+21 0218 1900 950 7130 611   04/06/2026   Amazon.Com Bg1906iu0     Amazon Basics Wood-Cased #2 -SOAR Store Supplies - Michael Madsen                                                 4.31
+10 0000 2610 000 0000 688   04/06/2026   Menards Iowa City Ia     Shop rags                                                                                                       11.99
+10 0493 2221 000 0000 643   04/06/2026   Amazon.Com B718l05b2     Wickham Library books for novel units purchased with principal's approval                                      192.36
+21 0114 1900 950 7243 611   04/06/2026   Global-E Logitech        Sales tax refund                                                                                                 (8.06)
+36 0000 4500 000 8999 733   04/06/2026   Grammarly Co Gpxzhpy     Annual software renewal                                                                                        144.00
+21 0475 1900 950 7056 611   04/06/2026   Amazon Mktpl Bc3b71cj1   Kids Play Tunnel for Toddlers,Pop Up -- Little Idea Hunt Grant/Griffith/Schultz                                 16.49
+21 0447 1900 950 7056 611   04/06/2026   Amazon Mktpl Bg4z85hh0   Tonies Figurines - Little Idea hunt/Molly Nicholson                                                             17.99
+21 0418 1900 950 7015 611   04/06/2026   Amazon.Com Bg3iz96p0     Lincoln Library books                                                                                          151.13
+10 0209 1300 316 0000 612   04/06/2026   Amazon Mktpl Bc71p43s1   Dura-Gold Abrasive Cleaning Stick - Levi Wood/Industrial Tech                                                     9.99
+21 0114 1900 950 7243 611   04/06/2026   Globale /Logitech        Sales tax refund                                                                                                (12.70)
+21 0114 1900 950 7243 611   04/06/2026   Globale /Logitech        Sales tax refund                                                                                                (17.14)
+10 0000 2546 000 0000 611   04/06/2026   Amazon Mktpl B79qk4hb2   Headphones for ISASP Testing                                                                                   473.28
+10 0000 2610 000 0000 687   04/06/2026   Van Meter Inc - Iowa C   Unit 91 tape, LED panels, exit lights                                                                          450.37
+10 0118 1100 108 0000 612   04/06/2026   Ppl Beachbody Bodi       Automatic renewal for PE exercise program                                                                      189.74
+21 0118 1900 923 6601 611   04/06/2026   Amazon Mktpl Bg5we07b0   1/2 Stainles Steel Track Spikes                                                                                 19.50
+21 0109 1900 950 7135 611   04/06/2026   Sq Donutland             Spring Musical Supplies and Materials                                                                           46.96
+21 0109 1900 950 7135 611   04/06/2026   Papa Johns #1560         Spring Musical Supplies and Materials                                                                          152.58
+21 0109 1900 950 7341 611   04/06/2026   Menards Iowa City Ia     Purchase Menards Iowa City Ia                                                                                  603.50
+21 0109 1900 950 7135 611   04/06/2026   Norcostco Online Bc      Spring Musical Supplies and Materials                                                                          263.11
+                                                                  Science Fair supplies (there were several restricted items. Eliza reached out to the school. Eliza approved
+21 0406 1900 950 7056 611   04/06/2026   Amazon Mktpl Bg1o87b20   order.)                                                                                                        322.56
+21 0118 1900 921 6890 611   04/06/2026   Paypal Makenziedon       Cookies for Girls Wrestling Banquet                                                                            252.00
+21 0109 1900 923 6740 611   04/06/2026   Menards Iowa City Ia     Track and Field Track Building Supplies                                                                        147.86
+21 0109 1900 923 6840 611   04/06/2026   Menards Iowa City Ia     Track and Field Track Building Supplies                                                                        147.85
+10 0418 1100 100 0000 612   04/06/2026   Amazon Mktpl Bg4kd0yz1   Foam Phonics Magnetic Set x19                                                                                  437.00
+10 0000 2131 000 0000 611   04/06/2026   Amazon Mktpl Bg1vd9un1   Dealmed Fabric Flexible Adhesive Bandages                                                                       58.19
+61 0000 3110 000 0000 618   04/06/2026   The Webstaurant Store    Monthly shipping charge                                                                                         99.00
+21 0114 1900 950 7243 611   04/06/2026   Global-E Logitech        Sales tax refund                                                                                                 (6.42)
+61 0118 3110 000 0000 618   04/06/2026   Menards Iowa City Ia     ant traps and softener salts                                                                                    33.00
+10 0000 2131 000 0000 611   04/06/2026   Amazon Mktpl Bg2z95bn0   Dukal 9006-BX Cotton Tipped Applicators                                                                         13.49
+

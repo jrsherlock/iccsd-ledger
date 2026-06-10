@@ -1,0 +1,26 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                     Page: 1
+08/14/2024 11:42 AM                                                                                                      User ID: 16345
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date    Entity ID       Entity Name                                          Amount
+407984          08/13/2024                                000465          CITY OF IOWA CITY                                     248.60
+407985          08/13/2024             X     08/13/2024                                                                           0.00
+407986          08/13/2024             X     08/13/2024                                                                           0.00
+407987          08/13/2024             X     08/13/2024                                                                           0.00
+407988          08/13/2024             X     08/13/2024                                                                           0.00
+407989          08/13/2024             X     08/13/2024                                                                           0.00
+407990          08/13/2024                                007501          LINN COUNTY REC                                    23,945.74
+407991          08/13/2024                                005199          MIDAMERICAN ENERGY                                116,375.04
+407992          08/13/2024                                005199          MIDAMERICAN ENERGY                                 10,343.79
+407993          08/13/2024                                005199          MIDAMERICAN ENERGY                                    355.32
+407994          08/13/2024                                012358          PITNEY BOWES GLOBAL FINANCIAL SVCS                    926.76
+                Check Type Total:      Check                          Void Total:        0.00  Total without Voids:         152,195.25
+                Checking Account Total: 1                             Void Total:         0.00    Total without Voids:      152,195.25
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date    Entity ID       Entity Name                                          Amount
+9027611         08/13/2024                                010509          CENTURYLINK COMMUNICATIONS, LLC                       268.83
+9027612         08/13/2024                                105132          MIDAMERICAN ENERGY                                 13,876.70
+                Check Type Total:      Check                          Void Total:       0.00  Total without Voids:           14,145.53
+                Checking Account Total: 5                             Void Total:         0.00    Total without Voids:       14,145.53
+
+                                       Grand Total:                   Void Total:         0.00    Total without Voids:      166,340.78
+

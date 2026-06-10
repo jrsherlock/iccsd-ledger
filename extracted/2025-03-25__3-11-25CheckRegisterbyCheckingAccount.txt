@@ -1,0 +1,71 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                     Page: 1
+03/11/2025 12:57 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+410104          03/11/2025                               008904          CIT CHARTERS INC                                     5,055.44
+410105          03/11/2025                               000465          CITY OF IOWA CITY                                      292.89
+410106          03/11/2025                               002987          CITY OF IOWA CITY                                    5,652.82
+410107          03/11/2025                               007501          LINN COUNTY REC                                     34,793.62
+410108          03/11/2025                               005199          MIDAMERICAN ENERGY                                  58,257.60
+410109          03/11/2025                               017520          PITNEY BOWES                                           365.00
+410110          03/11/2025                               106286          PITNEY BOWES BANK INC PURCHASE                       5,031.25
+                                                                         POWER
+410111          03/11/2025                               105820          STAYBRIDGE SUITES                                    1,216.26
+410112          03/11/2025                               010880          WINDSTAR LINES INC                                   3,733.75
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         114,398.63
+                Checking Account Total: 1                            Void Total:           0.00   Total without Voids:      114,398.63
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+201954          03/11/2025                               106772          ANDALE CANTINA INCL                                    550.00
+201955          03/11/2025                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                    814.80
+201956          03/11/2025                               106277          ALYSON BALDWIN                                         125.38
+201957          03/11/2025                               107580          RYLIE BRADLEY                                          100.00
+201958          03/11/2025                               015057          BSN SPORTS LLC                                       3,223.83
+201959          03/11/2025                               008774          COPYWORKS                                              335.98
+201960          03/11/2025                               106876          CORALVILLE POLICE DEPARTMENT                           160.00
+201961          03/11/2025                               106747          MARAH COVER                                            648.37
+201962          03/11/2025                               016774          TRAVIS CRAIG                                           165.33
+201963          03/11/2025                               010042          ESME DAVIS                                             631.82
+201964          03/11/2025                               005647          ECISOA                                                 140.00
+201965          03/11/2025                               000031          ELITE SPORTS                                           319.00
+201966          03/11/2025                               001058          HARRY'S CUSTOM TROPHIES                                501.98
+201967          03/11/2025                               106740          ERIC HAYES Jr                                          608.37
+201968          03/11/2025                               000251          IOWA HIGH SCHOOL ATHLETIC ASSOC                        528.00
+201969          03/11/2025                               009236          IOWA JAZZ CHAMPIONSHIPS                                200.00
+201970          03/11/2025                               001834          J.W. PEPPER & SON, INC.                                 23.95
+201971          03/11/2025                               107581          TAYLOR JOHNSON                                         100.00
+201972          03/11/2025                               019986          JOSTENS                                                 38.00
+201973          03/11/2025                               011056          MARTIN BROS. DISTRIBUTING CO INC                       290.52
+201974          03/11/2025                               001980          MEDCO SUPPLY CO, INC.                                   67.97
+201975          03/11/2025                               107410          MORLEY ATHLETIC SUPPLY CO INC                          811.71
+201976          03/11/2025                               019782          NORTH DODGE ATHLETIC CLUB                            3,761.25
+201977          03/11/2025                               107112          NORTH LIBERTY ACE HARDWARE                             104.10
+201978          03/11/2025                               004738          NORTH SCOTT HIGH SCHOOL                                100.00
+201979          03/11/2025                               000194          PETER NOTHNAGLE                                        475.00
+201980          03/11/2025                               015577          OLD CAPITOL SCREEN PRINTERS                             60.00
+201981          03/11/2025                               020306          PERFORMANCE HEALTH & FITNESS                         1,195.00
+201982          03/11/2025                               105789          CRAIG CARNEY                                         3,013.12
+201983          03/11/2025                               011584          SCHOLASTIC BOOK FAIRS, INC.                          1,854.10
+201984          03/11/2025                               016339          SCHULTZ STRINGS INC                                     23.37
+201985          03/11/2025                               010823          AMY SEIDEL                                             508.16
+201986          03/11/2025                               017842          STAGERIGHT CORPORATION                                 142.00
+201987          03/11/2025                               000220          BRIAN MILLER                                           337.00
+201988          03/11/2025                               015404          UNIVERSITY OF IOWA ATHLETICS                           150.00
+201989          03/11/2025                               017217          VARSITY SPIRIT FASHIONS                              3,867.50
+201990          03/11/2025                               015913          WAUKEE COMMUNITY SCHOOL DISTRICT                       150.00
+201991          03/11/2025                               010880          WINDSTAR LINES INC                                   8,858.00
+                Check Type Total:      Check                         Void Total:         0.00    Total without Voids:        34,983.61
+                Checking Account Total: 3                            Void Total:           0.00   Total without Voids:       34,983.61
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                 Page: 2
+03/11/2025 12:57 PM                                                                                                  User ID: 16976
+Checking Account ID: 5              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                         Amount
+9028371        03/11/2025                              010509          CENTURYLINK COMMUNICATIONS, LLC                      161.24
+9028372        03/11/2025                              015100          MEDIACOM                                           3,749.99
+               Check Type Total:      Check                        Void Total:       0.00  Total without Voids:           3,911.23
+               Checking Account Total: 5                           Void Total:         0.00   Total without Voids:        3,911.23
+
+                                      Grand Total:                 Void Total:         0.00   Total without Voids:      153,293.47
+

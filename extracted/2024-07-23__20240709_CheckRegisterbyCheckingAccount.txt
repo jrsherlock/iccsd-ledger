@@ -1,0 +1,205 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+07/09/2024 4:09 PM                                                                                                      User ID: 12031
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+407690          07/09/2024                               103939          ADVANCED BUSINESS SYSTEMS INC                         273.00
+407691          07/09/2024                               011874          AHLERS & COONEY, P.C.                               2,413.50
+407692          07/09/2024                               106996          AMANDA BROOKS                                         154.51
+407693          07/09/2024                               106006          CAREMESSAGE                                           250.00
+407694          07/09/2024                               008966          CLAIRE CHAPNICK                                        11.82
+407695          07/09/2024                               000461          CITY OF CORALVILLE                                  2,804.70
+407696          07/09/2024                               002328          CITY OF HILLS                                         154.44
+407697          07/09/2024                               000465          CITY OF IOWA CITY                                   3,632.37
+407698          07/09/2024                               000465          CITY OF IOWA CITY                                   9,012.28
+407699          07/09/2024                               000465          CITY OF IOWA CITY                                   2,962.43
+407700          07/09/2024                               002987          CITY OF IOWA CITY                                   3,782.96
+407701          07/09/2024                               001752          CITY OF NORTH LIBERTY                              10,957.53
+407702          07/09/2024                               107172          FREDERICK COOPER                                    6,000.00
+407703          07/09/2024                               106538          COVENANT WORKPLACE SOLUTIONS LLC                    2,315.25
+407704          07/09/2024                               015575          CUMMINS SALES & SERVICE                               363.68
+407705          07/09/2024                               006423          GREATER IOWA CITY INC                                 450.00
+407706          07/09/2024                               011649          HANDS UP COMMUNICATIONS                             6,334.01
+407707          07/09/2024                               106667          HAPPY NUMBERS INC                                     725.00
+407708          07/09/2024                               103020          HIMS, INC.                                            425.00
+407709          07/09/2024                               017257          HOSPERS & BROTHER PRINTERS                            409.42
+407710          07/09/2024                               015504          IA SCHOOL FINANCE INFO SERVICES                     3,736.35
+407711          07/09/2024                               001214          IOWA ASS'N OF SCHOOL BOARDS                        13,227.00
+407712          07/09/2024                               011645          IOWA DEPT. OF HUMAN SERVICES                      483,130.97
+407713          07/09/2024                               000066          IOWA HIGH SCHOOL MUSIC ASSOCIATION                     25.00
+407714          07/09/2024                               107008          IOWA LGRP COMMISSION                              477,379.67
+407715          07/09/2024                               015019          IOWA PUBLIC SCHOOL INSURANCE PRO                3,072,138.03
+407716          07/09/2024                               019427          KENWOOD RECORDS MANAGEMENT INC                     11,128.93
+407717          07/09/2024                               019427          KENWOOD RECORDS MANAGEMENT INC                      2,055.29
+407718          07/09/2024                               001345          KIRKWOOD COMMUNITY COLLEGE                          5,890.00
+407719          07/09/2024                               017805          JO KLOPP                                               72.62
+407720          07/09/2024                               012854          KEITH KRAEPLIN                                        218.58
+407721          07/09/2024                               011663          LANGUAGE LINE SERVICES                              1,139.43
+407722          07/09/2024                               007501          LINN COUNTY REC                                    26,566.95
+407723          07/09/2024                               005199          MIDAMERICAN ENERGY                                 67,667.68
+407724          07/09/2024                               105091          NAVIGATE360, LLC                                    1,783.00
+407725          07/09/2024                               010746          HEIDI NELSON-GARTELOS                                 772.38
+407726          07/09/2024                               010421          BRIANNA NIGG                                          113.23
+407727          07/09/2024                               015370          NYEMASTER GOODE, P.C.                               1,460.00
+407728          07/09/2024                               010797          PFM FINANCIAL ADVISORS LLC                          2,000.00
+407729          07/09/2024                               106584          PI SHOP INC                                         8,177.46
+407730          07/09/2024                               011898          QBS LLC                                               954.00
+407731          07/09/2024                               107154          REACH THE WORLD COMPANY                               150.00
+407732          07/09/2024                               000793          JAMES RECK                                         30,011.00
+407733          07/09/2024                               105026          REMI HOLDINGS LLC                               1,025,156.19
+407734          07/09/2024                               107262          ROCKETPD                                           29,850.00
+407735          07/09/2024                               003098          ROTARY CLUB OF IOWA CITY NOON                         330.00
+407736          07/09/2024                               004679          SCHOOL ADMIN OF IOWA                                1,035.00
+407737          07/09/2024                               002119          SHARON TELEPHONE CO                                    73.22
+407738          07/09/2024                               019997          STEPPING STONES PRESCHOOL INC                       4,000.00
+407739          07/09/2024                               106748          TIME MANAGEMENT SYSTEMS INC                        33,478.56
+407740          07/09/2024                               005432          UNIVERSITY OF IOWA                                 48,211.50
+407741          07/09/2024                               001334          URBAN ED. NETWORK OF IOWA                          10,750.00
+407742          07/09/2024                               002492          WEST MUSIC CO INC                                   3,488.26
+407743          07/09/2024                               002492          WEST MUSIC CO INC                                   1,480.73
+407744          07/09/2024                               013569          YELLOW CAB OF IOWA CITY                               171.50
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:      5,421,254.43
+                Checking Account Total: 1                            Void Total:          0.00   Total without Voids:    5,421,254.43
+Checking Account ID: 2                      Check Type: Check
+IOWA CITY COMMUNITY SCHOOL DISTRICT              Check Register by Checking Account                                            Page: 2
+07/09/2024 4:09 PM                                                                                                      User ID: 12031
+Check Number     Check Date Cleared Void     Void Date   Entity ID       Entity Name                                           Amount
+333146          07/09/2024                               017539          MICHELLE BAUTISTA                                     139.58
+333147          07/09/2024                               008331          MELISSA DOHRER                                        191.53
+333148          07/09/2024                               014193          FIELD TO FAMILY                                       366.88
+333149          07/09/2024                               020970          LEETS REFRIGERATION L.C.                              587.05
+333150          07/09/2024                               016399          SHARON MEYERS                                          72.36
+333151          07/09/2024                               105970          PIZZA BRAKE INC                                     3,839.00
+333152          07/09/2024                               006523          CINDY SMITH                                            83.08
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:          5,279.48
+                Checking Account Total: 2                            Void Total:          0.00   Total without Voids:        5,279.48
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+199860          07/09/2024                               020187          ALPHAGRAPHICS OF NORTH LIBERTY                        398.76
+199861          07/09/2024                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                 1,020.20
+199862          07/09/2024                               107245          JACKSON BAEDKE                                        288.96
+199863          07/09/2024                               009801          BAND SHOPPE                                         1,280.75
+199864          07/09/2024                               017542          NATHAN CARLSON                                        135.37
+199865          07/09/2024                               105924          DANIEL (JACK) CARRELL                                 289.12
+199866          07/09/2024                               005921          CEDAR RAPIDS WASHINGTON                               295.00
+199867          07/09/2024                               008904          CIT CHARTERS INC                                    3,837.41
+199868          07/09/2024                               020818          ALEC CLARK                                            167.43
+199869          07/09/2024                               105925          MICHAEL COLEMAN                                       176.79
+199870          07/09/2024                               009787          BILL CONNOLLY                                         178.36
+199871          07/09/2024                               105176          MICHAEL COSS                                          152.12
+199872          07/09/2024                               002264          DANIEL CRAIG                                          162.75
+199873          07/09/2024                               015494          JEREMY CRONK                                          167.24
+199874          07/09/2024                               107167          DESTRO MACHINES LLC                                 4,465.00
+199875          07/09/2024                               010950          BRADLEY DOERRING                                      345.88
+199876          07/09/2024                               106776          EKIN NUTRITION                                        671.00
+199877          07/09/2024                               019491          ELITE AWARDS LLC                                      246.39
+199878          07/09/2024                               000031          ELITE SPORTS                                        1,671.00
+199879          07/09/2024                               005169          FAREWAY STORES                                        221.71
+199880          07/09/2024                               005169          FAREWAY STORES                                        210.34
+199881          07/09/2024                               005169          FAREWAY STORES                                         15.04
+199882          07/09/2024                               005169          FAREWAY STORES                                         41.54
+199883          07/09/2024                               107180          MARK FELBER                                           463.38
+199884          07/09/2024                               106717          DAWSON FRANCK                                         293.66
+199885          07/09/2024                               009520          JEFF FRESE                                            179.82
+199886          07/09/2024                               000125          THE GRAPHIC EDGE                                   12,010.00
+199887          07/09/2024                               016008          TROY GREENE                                           164.97
+199888          07/09/2024                               014742          FRED GRIFFITHS                                        301.11
+199889          07/09/2024                               016112          KIM HALL                                              151.96
+199890          07/09/2024                               020820          RICHARD HAMMES                                        225.83
+199891          07/09/2024                               020108          SCOTT HANSEN                                          128.13
+199892          07/09/2024                               001058          HARRY'S CUSTOM TROPHIES                               282.00
+199893          07/09/2024                               011934          CHRISTOPHER HEIDELBAUER                               155.14
+199894          07/09/2024                               010946          RALPH HENNING                                         177.72
+199895          07/09/2024                               021074          CHRIS HENZE                                           146.45
+199896          07/09/2024                               011878          JORDAN HILL                                           157.95
+199897          07/09/2024                               105683          IOWA CITY AREA SPORTS COMMISSION                      500.00
+199898          07/09/2024                               013990          IOWA GIRLS COACHES ASSOCIATION                        210.00
+199899          07/09/2024                               004827          IOWA GIRLS HIGH SCHOOL ATH UNION                       30.00
+199900          07/09/2024                               019986          JOSTENS                                                36.80
+199901          07/09/2024                               107246          MICHAEL KABELA                                        129.86
+199902          07/09/2024                               013670          KURT KEMP                                             144.72
+199903          07/09/2024                               002449          PATRICK KNOBBE                                        278.42
+199904          07/09/2024                               107268          BRADYN KOHL                                           363.61
+199905          07/09/2024                               008656          KYLE KUHLERS                                          147.84
+199906          07/09/2024                               107267          BENJAMIN LIZAK                                        155.89
+199907          07/09/2024                               017346          BENJAMIN LUSTIG                                       296.32
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 3
+07/09/2024 4:09 PM                                                                                                      User ID: 12031
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+199908          07/09/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                      147.78
+199909          07/09/2024                               011947          DEREK MATLOCK                                         282.42
+199910          07/09/2024                               012131          DANIEL MILLER                                         152.06
+199911          07/09/2024                               011945          DONALD MULLENS                                        154.60
+199912          07/09/2024                               010315          JOHN MURPHY III                                       136.51
+199913          07/09/2024                               010883          MARK MURPHY                                           155.68
+199914          07/09/2024                               017213          CRAIG MURRAY                                          174.69
+199915          07/09/2024                               013974          ZACH NEUERBURG                                        157.02
+199916          07/09/2024                               019782          NORTH DODGE ATHLETIC CLUB                           3,581.25
+199917          07/09/2024                               011935          JACOB PARKER                                          153.36
+199918          07/09/2024                               020306          PERFORMANCE HEALTH & FITNESS                        1,000.50
+199919          07/09/2024                               011510          WILLIAM (BILL) POCH                                   168.69
+199920          07/09/2024                               013117          KEITH RATH                                            150.07
+199921          07/09/2024                               015512          SCOTT REITTINGER                                      271.82
+199922          07/09/2024                               004941          RIDDELL ALL AMERICAN                                7,408.25
+199923          07/09/2024                               008663          PHIL RITCHIE                                          275.14
+199924          07/09/2024                               013969          TIMOTHY ROGERS                                        139.16
+199925          07/09/2024                               107189          LANDON RUBY                                           156.66
+199926          07/09/2024                               105405          STANLEY SCHMIDT                                       181.33
+199927          07/09/2024                               107261          KEITH SCHMITZ                                         173.99
+199928          07/09/2024                               104922          SCHROEDER BASEBALL                                     72.00
+199929          07/09/2024                               105986          CAL SCHULTE                                           173.93
+199930          07/09/2024                               009280          STEVE STAFFORD                                        148.39
+199931          07/09/2024                               012735          MATTHEW STEITZER                                      434.92
+199932          07/09/2024                               007320          TRACY STONE                                           257.89
+199933          07/09/2024                               010304          TIMOTHY SULLIVAN                                      342.36
+199934          07/09/2024                               000220          BRIAN MILLER                                          600.00
+199935          07/09/2024                               004198          U OF IOWA ATHLETIC DEPARTMENT                         300.00
+199936          07/09/2024                               006954          UNIVERSITY OF IOWA REC SERVICES                     4,928.00
+199937          07/09/2024                               012456          TONY VANDEGRIFF                                       171.77
+199938          07/09/2024                               105167          STEVEN WAGNER                                         255.94
+199939          07/09/2024                               015913          WAUKEE COMMUNITY SCHOOL DISTRICT                      150.00
+199940          07/09/2024                               005206          THEODORE (TED) WERNIMONT                              273.78
+199941          07/09/2024                               002492          WEST MUSIC CO INC                                   3,076.34
+199942          07/09/2024                               010880          WINDSTAR LINES INC                                  4,326.00
+199943          07/09/2024                               106171          YOTTYS INC                                             54.00
+199944          07/09/2024                               107129          CONRAD YUTZY                                          250.00
+                Check Type Total:      Check                         Void Total:          0.00 Total without Voids:         64,406.04
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       64,406.04
+Checking Account ID: 4                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+1650            07/09/2024                               106538          COVENANT WORKPLACE SOLUTIONS LLC                    2,315.25
+                Check Type Total:      Check                         Void Total:      0.00  Total without Voids:             2,315.25
+                Checking Account Total: 4                            Void Total:          0.00   Total without Voids:        2,315.25
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9027461         07/09/2024                               015619          ACTIVE INTERNET TECHNOLOGIES                       83,258.00
+9027462         07/09/2024                               105197          ADVANCED BUSINESS SYSTEMS INC                       3,105.00
+9027463         07/09/2024                               105692          AXIS TELESOLUTIONS INC                             13,839.15
+9027464         07/09/2024                               010509          CENTURYLINK COMMUNICATIONS, LLC                       356.31
+9027465         07/09/2024                               003588          CITY OF IOWA CITY                                 147,529.00
+9027466         07/09/2024                               014988          COMINFRA GROUP INC                                 24,362.40
+9027467         07/09/2024                               105174          COMPUTER INFORMATION CONCEPTS, INC.               226,582.00
+9027468         07/09/2024                               107145          CUSTOM COMPUTERS SPECIALISTS LLC                   36,150.00
+9027469         07/09/2024                               012397          ENVIRONMENTAL SYS RES INSTITUTE                     2,500.00
+9027470         07/09/2024                               014158          FRONTLINE TECHNOLOGIES GROUP LLC                   39,105.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                  Page: 4
+07/09/2024 4:09 PM                                                                                                    User ID: 12031
+Checking Account ID: 5              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                          Amount
+9027471        07/09/2024                              014845          INSTRUCTURE                                       178,991.70
+9027472        07/09/2024                              106952          LASTPASS US LP                                     24,675.00
+9027473        07/09/2024                              015100          MEDIACOM                                            3,749.99
+9027474        07/09/2024                              013167          PROCIRCULAR INC                                    17,523.14
+9027475        07/09/2024                              010661          QUALTRICS LLC                                      73,693.95
+9027476        07/09/2024                              107072          RED ROVER TECHNOLOGIES LLC                         28,950.00
+9027477        07/09/2024                              104173          RESPONDUS INC                                       4,945.00
+9027478        07/09/2024                              103019          RSCHOOL TODAY                                       5,500.00
+9027479        07/09/2024                              003958          SOFTWARE UNLIMITED, INC                             1,000.00
+9027480        07/09/2024                              017741          TORUS TECHNOLOGIES INC                             66,235.00
+9027481        07/09/2024                              013792          UNITE PRIVATE NETWORKS LLC                          3,756.00
+9027482        07/09/2024                              106988          WORKFORCE JUNCTION LLC                              9,348.20
+               Check Type Total:      Check                        Void Total:         0.00  Total without Voids:        995,154.84
+               Checking Account Total: 5                           Void Total:          0.00   Total without Voids:      995,154.84
+
+                                      Grand Total:                 Void Total:          0.00   Total without Voids:    6,488,410.04
+

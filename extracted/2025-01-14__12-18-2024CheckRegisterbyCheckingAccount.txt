@@ -1,0 +1,10 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                 Page: 1
+12/18/2024 10:34 AM                                                                                                  User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                         Amount
+409416         12/18/2024                              008051          JULIA BARTSCH                                        665.29
+               Check Type Total:      Check                        Void Total:         0.00   Total without Voids:          665.29
+               Checking Account Total: 1                           Void Total:         0.00   Total without Voids:          665.29
+
+                                      Grand Total:                 Void Total:         0.00   Total without Voids:          665.29
+

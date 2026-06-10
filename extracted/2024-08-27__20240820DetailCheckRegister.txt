@@ -1,0 +1,1559 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                          Page: 1
+08/21/2024 11:40 AM                                                                                                                               User ID: 16345
+Checking Account:      1                  1
+Check Number: 407995           Check Type: Check      Check Date: 08/20/2024    Vendor: 020338    ADAPTIVEMALL.COM                 Check Total:        1,180.95
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  INVA322672               07/11/2024     2400734        Tumble Forms X-Lg Mobile Floor Sitter    10 0109 1200 217 3303 612           1,180.95
+
+Check Number: 407996           Check Type: Check      Check Date: 08/20/2024    Vendor: 103939    ADVANCED BUSINESS SYSTEMS INC    Check Total:          599.76
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0000 2327 000 0000 611             227.86
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0000 2610 000 0000 611              52.37
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0109 1100 100 8550 612             157.04
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0114 1100 100 8550 612              91.45
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0209 1100 100 8550 612              10.70
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0213 1100 100 8550 612              28.25
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0401 1100 100 8550 612               0.19
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0403 1100 100 8550 612               0.21
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0406 1100 100 8550 612               4.20
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0411 1100 100 8550 612               0.06
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0415 1100 100 8550 612               1.12
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0417 1100 100 8550 612               1.24
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0418 1100 100 8550 612               0.13
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0427 1100 100 8550 612               6.14
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0432 1100 100 8550 612               1.43
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0442 1100 100 8550 612               2.41
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0445 1100 100 8550 612               0.27
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0463 1100 100 8550 612               8.90
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0475 1100 100 8550 612               5.79
+
+Check Number: 407997           Check Type: Check      Check Date: 08/20/2024    Vendor: 103939    ADVANCED BUSINESS SYSTEMS INC    Check Total:          110.16
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0000 1200 214 3302 612               5.94
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0080 1100 100 8550 612               6.18
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0118 1100 100 8550 612               5.01
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0136 1100 100 8550 612              25.79
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0218 1100 100 8550 612               0.92
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0447 1100 100 8550 612               4.91
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0468 1100 100 8550 612               6.09
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0472 1100 100 8550 612               0.88
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0481 1100 100 8550 612               0.12
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0488 1100 100 8550 612               0.03
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0493 1100 100 8550 612               2.16
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       10 0497 1100 100 8550 612               1.17
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0109 1100 100 8550 612              21.22
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0403 1100 100 8550 612               6.59
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                          Page: 2
+08/21/2024 11:40 AM                                                                                                                               User ID: 16345
+Checking Account:      1                  1
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0432 1100 100 8550 612              11.08
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0442 1100 100 8550 612               2.01
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0463 1100 100 8550 612               9.04
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0475 1100 100 8550 612               1.02
+
+Check Number: 407998           Check Type: Check      Check Date: 08/20/2024     Vendor: 103939   ADVANCED BUSINESS SYSTEMS INC    Check Total:          232.22
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0000 2327 000 0000 611              98.53
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0000 2610 000 0000 611               7.27
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0114 1100 100 8550 612              14.94
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0136 1100 100 8550 612               5.92
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0209 1100 100 8550 612               1.52
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0213 1100 100 8550 612               1.44
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0218 1100 100 8550 612              22.24
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0401 1100 100 8550 612               0.97
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0406 1100 100 8550 612              18.75
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0415 1100 100 8550 612               0.03
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0417 1100 100 8550 612               7.21
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0418 1100 100 8550 612               1.69
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0427 1100 100 8550 612               4.05
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0436 1100 100 8550 612               0.35
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0445 1100 100 8550 612               2.32
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0447 1100 100 8550 612              23.68
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0468 1100 100 8550 612               3.45
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0472 1100 100 8550 612               5.10
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 9334 1100 100 1113 612              12.76
+
+Check Number: 407999           Check Type: Check      Check Date: 08/20/2024     Vendor: 103939   ADVANCED BUSINESS SYSTEMS INC    Check Total:           24.36
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0080 1100 100 8550 612               1.78
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0118 1100 100 8550 612              12.86
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0481 1100 100 8550 612               2.10
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0488 1100 100 8550 612               5.90
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0493 1100 100 8550 612               0.59
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      10 0497 1100 100 8550 612               1.13
+
+Check Number: 408000           Check Type: Check      Check Date: 08/20/2024     Vendor: 015699   ADVANCED ENVIRONMENTAL           Check Total:       11,600.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  10846                    06/13/2024                    City asbestos removal                    10 0000 2620 000 9001 432          11,600.00
+
+Check Number: 408001           Check Type: Check      Check Date: 08/20/2024     Vendor: 017890   THE ADVANTAGE COMPANIES LLC      Check Total:          222.37
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  0071802                  07/31/2024                    DIST RECYCLING SVCS                      10 0000 2327 000 0000 611             222.37
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                            Detail Check Register                                                            Page: 3
+08/21/2024 11:40 AM                                                                                                                                      User ID: 16345
+Checking Account:      1                  1
+Check Number: 408002           Check Type: Check      Check Date: 08/20/2024         Vendor: 106546    AE OUTDOOR POWER                   Check Total:          209.47
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  70131                    07/03/2024                    Push mower repair                             10 0000 2630 000 0000 435               209.47
+
+Check Number: 408003           Check Type: Check      Check Date: 08/20/2024         Vendor: 000133    AERO RENTAL                        Check Total:          154.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  338387                   08/06/2024                    Mower rental                                  10 0000 2610 000 0000 442               154.00
+
+Check Number: 408004           Check Type: Check      Check Date: 08/20/2024         Vendor: 008203    ALLIANT ENERGY                     Check Total:       15,060.81
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  081224                   08/12/2024                    ELEC - GARNER                                 10 0401 2620 000 0000 622             6,517.17
+  081224                   08/12/2024                    ELEC - HILLS                                  10 0411 2620 000 0000 622             2,793.53
+  081224                   08/12/2024                    ELEC - HILLS PORTABLE                         10 0411 2620 000 0000 622               284.72
+  081224                   08/12/2024                    ELEC - PENN                                   10 0447 2620 000 0000 622             5,465.39
+
+Check Number: 408005           Check Type: Check      Check Date: 08/20/2024         Vendor: 012363    ALTORFER INC.                      Check Total:        1,508.33
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  WO170020462              07/23/2024                    Unit LL3 motor                                10 0000 2650 000 0000 434               721.33
+  Y6468002                 08/06/2024                    Scissor lift rental                           10 0000 2610 000 0000 442               637.00
+  Y6468003                 08/13/2024                    Scissor lift rental                           10 0000 2610 000 0000 442               150.00
+
+Check Number: 408006           Check Type: Check      Check Date: 08/20/2024         Vendor: 014918    AONE GEOTHERMAL                    Check Total:        2,475.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  12014                    05/23/2024     F240888        Glycol                                        10 0000 2610 000 0000 685             2,475.00
+
+Check Number: 408007           Check Type: Check      Check Date: 08/20/2024         Vendor: 013975    AUTO TOYZ & LINE-X OF IOWA CITY    Check Total:          525.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  3285                     07/22/2024                    Unit 130 install running boards               10 0000 2650 000 0000 434               525.00
+
+Check Number: 408008           Check Type: Check      Check Date: 08/20/2024         Vendor: 105559    ADAM BADAMI                        Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  240806                   08/06/2024                    2024 Uniform reimbursement                    10 0000 2620 000 0000 616                90.00
+
+Check Number: 408009           Check Type: Check      Check Date: 08/20/2024         Vendor: 000307    BLICK ART MATERIALS                Check Total:        1,621.08
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  3494961                  08/05/2024     2500226        Art Supplies for Blick Quote #QRSLF1          10 0463 1100 102 0000 612             1,621.08
+
+Check Number: 408010           Check Type: Check      Check Date: 08/20/2024         Vendor: 107287    BOWMAN & ASSOCIATES                Check Total:          593.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  244168                   08/06/2024     F250092        SEMS Kitchen Hood Exhaust Fan                 10 0000 2610 000 0000 685               593.00
+
+Check Number: 408011           Check Type: Check      Check Date: 08/20/2024         Vendor: 007044    KATE CALLAHAN                      Check Total:          199.72
+  Invoice Number           Invoice Date   PO Number      Detail Description                            Chart of Account Number           Detail Amount
+  081424                   08/14/2024                    LOVE YOU GUY SEMINAR SNACKS                   10 0000 2327 000 0000 611               199.72
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                       Page: 4
+08/21/2024 11:40 AM                                                                                                                            User ID: 16345
+Checking Account:      1                  1
+Check Number: 408012           Check Type: Check      Check Date: 08/20/2024      Vendor: 003741   CAMP COURAGEOUS OF IOWA      Check Total:          438.75
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  071224                   07/12/2024                    7/12 CAMP VISIT                           10 0000 1200 217 4598 612         438.75
+  071224                   07/12/2024                    ACCT: 3488750                             10 0000 1200 217 4598 612           0.00
+
+Check Number: 408013           Check Type: Check      Check Date: 08/20/2024      Vendor: 009454   DANIEL CARLOS                Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  240812                   08/12/2024                    2024 Uniform reimbursement                10 0000 2620 000 0000 616          90.00
+
+Check Number: 408014           Check Type: Check      Check Date: 08/20/2024      Vendor: 013957   RICHARD DAVID CARLSON Jr     Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  240807                   08/07/2024                    2024 Uniform reimbursement                10 0000 2620 000 0000 616          90.00
+
+Check Number: 408015           Check Type: Check      Check Date: 08/20/2024      Vendor: 010350   MAJA CAUSEVIC                Check Total:           62.77
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  240808                   08/08/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616          62.77
+
+Check Number: 408016           Check Type: Check      Check Date: 08/20/2024      Vendor: 015181   TIM CHAMBLISS                Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  240812                   08/12/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616          90.00
+
+Check Number: 408017           Check Type: Check      Check Date: 08/20/2024      Vendor: 011752   CINTAS CORPORATION NO. 2     Check Total:        2,824.14
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  5219592975               07/09/2024                    FMD First Aid supplies                    10 0000 2620 000 0000 432         271.37
+  5224655934               08/12/2024                    FMD First Aid supplies                    10 0000 2620 000 0000 432         445.91
+  5224655962               08/12/2024                    Custodial First Aid supplies              10 0000 2620 000 0000 432         617.01
+  5224862009               08/13/2024                    Custodial First Aid supplies              10 0000 2620 000 0000 432         598.65
+  5224862070               08/13/2024                    Custodial First Aid supplies              10 0000 2620 000 0000 432         499.17
+  5224862071               08/13/2024                    Custodial First Aid supplies              10 0000 2620 000 0000 432         392.03
+
+Check Number: 408018           Check Type: Check      Check Date: 08/20/2024      Vendor: 000465   CITY OF IOWA CITY            Check Total:            5.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  081424                   08/14/2024                    CITY HOUSE - WATER                        10 0109 2620 000 0000 411           5.50
+
+Check Number: 408019           Check Type: Check      Check Date: 08/20/2024      Vendor: 002987   CITY OF IOWA CITY            Check Total:        5,843.04
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  106103                   07/29/2024                    District hydrant maintenance              10 0000 2620 000 0000 441       5,843.04
+
+Check Number: 408020           Check Type: Check      Check Date: 08/20/2024      Vendor: 014732   CITY TRACTOR CO. INC         Check Total:          595.87
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  S53340                   08/12/2024                    Unit 402 axle seals repair                10 0000 2630 000 0000 435         595.87
+
+Check Number: 408021           Check Type: Check      Check Date: 08/20/2024      Vendor: 000081   CITYWIDE CLEANERS INC        Check Total:          805.97
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  1567                     08/06/2024                    WEST HS ORCH OUTFITS                      10 153 000 9994 000               805.97
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                               Page: 5
+08/21/2024 11:40 AM                                                                                                                                    User ID: 16345
+Checking Account:      1                  1
+Check Number: 408022           Check Type: Check      Check Date: 08/20/2024      Vendor: 011988    NATHAN COLE                         Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  240806                   08/06/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616                 90.00
+
+Check Number: 408023           Check Type: Check      Check Date: 08/20/2024      Vendor: 008212    CROWN EQUIPMENT CORPORATION         Check Total:          823.91
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  163236691                07/11/2024                    Unit F3 planned maintenance                10 0000 2650 000 0000 434                119.00
+  163239995                08/19/2024                    Unit F4 planned maintenance                10 0000 2650 000 0000 434                129.00
+  163239996                08/19/2024                    Unit F3 service call                       10 0000 2650 000 0000 434                575.91
+
+Check Number: 408024           Check Type: Check      Check Date: 08/20/2024      Vendor: 017255    D & K PRODUCTS                      Check Total:        7,170.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  81552IN                  08/09/2024     F250096        Fertilizer and Grass Seed                  10 0000 2630 000 0000 686              7,170.00
+
+Check Number: 408025           Check Type: Check      Check Date: 08/20/2024      Vendor: 020960    DEERY BROTHERS FORD LINCOLN, INC. Check Total:             66.21
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  92538                    08/09/2024                    Unit 102 door switch                       10 0000 2650 000 0000 682                 32.08
+  92568                    08/14/2024                    Unit 96 window switch                      10 0000 2650 000 0000 682                 34.13
+
+Check Number: 408026           Check Type: Check      Check Date: 08/20/2024      Vendor: 006356    DES MOINES INDEPENDENT COMM SCH Check Total:            3,876.60
+                                                                                                    DIST
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  AR070686                 06/28/2024                    PMIC BILLING 2ND SEM                       10 0000 1100 100 0000 567              3,876.60
+
+Check Number: 408027           Check Type: Check      Check Date: 08/20/2024      Vendor: 009084    KIEN DIEP                           Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  240813                   08/13/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616                 90.00
+
+Check Number: 408028           Check Type: Check      Check Date: 08/20/2024      Vendor: 007932    DRYSPACE INC.                       Check Total:          285.61
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  42359                    07/31/2024                    Tate install pipe boot                     10 0000 2610 000 0000 439                285.61
+
+Check Number: 408029           Check Type: Check      Check Date: 08/20/2024      Vendor: 106937    EARTH SERVICES & ABATEMENT LLC      Check Total:       46,635.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  West Ph 3 App 3          08/14/2024                    West Ph 3 asbestos abatement               10 0000 2620 000 9001 432             46,635.50
+
+Check Number: 408030           Check Type: Check      Check Date: 08/20/2024      Vendor: 010217    EASTDALE PLAZA OWNERS               Check Total:        1,316.64
+                                                                                                    ASSOCIATION
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  081224                   08/12/2024                    AUG CAM FEE                                10 0000 2610 219 3305 441              1,316.64
+
+Check Number: 408031           Check Type: Check      Check Date: 08/20/2024      Vendor: 007446    EBSCO INFORMATION SERVICES          Check Total:        1,564.44
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  1731046                  08/07/2024     2500113        professional journals as per Invoice Quo   10 0000 2221 000 0000 644              1,794.44
+  2402972                  12/13/2023                    CREDIT                                     10 0000 2221 000 0000 644               (230.00)
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                              Page: 6
+08/21/2024 11:40 AM                                                                                                                                   User ID: 16345
+Checking Account:      1                  1
+Check Number: 408032           Check Type: Check      Check Date: 08/20/2024    Vendor: 015368      ECCO MIDWEST INC                   Check Total:       16,477.01
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  24129-001                07/30/2024                    West asbestos abatement                    10 0000 2620 000 9001 432             4,110.51
+  24131-001                07/30/2024                    Lucas abatement                            10 0000 2620 000 9001 432            12,366.50
+
+Check Number: 408033           Check Type: Check      Check Date: 08/20/2024    Vendor: 105250      ENERSPECT MEDICAL SOLUTIONS LLC    Check Total:          923.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  24711                    08/14/2024     2500267        HeartStart FRx SMART Pads II (1 set) inc   10 0000 2131 000 0000 611               576.00
+  24711                    08/14/2024     2500267        Adult SMART Pads Cartridge for Philips H   10 0000 2131 000 0000 611               237.00
+  24711                    08/14/2024     2500267        Powerheart G5 Intellisense Adult Defibri   10 0000 2131 000 0000 611                85.00
+  24711                    08/14/2024     2500267        SHIPPING                                   10 0000 2131 000 0000 611                25.00
+
+Check Number: 408034           Check Type: Check      Check Date: 08/20/2024    Vendor: 020299      ANDREW FENSTERMAKER                Check Total:          181.91
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  081624                   08/16/2024                    MILEAGE                                    10 0000 2585 000 0000 581               181.91
+
+Check Number: 408035           Check Type: Check      Check Date: 08/20/2024    Vendor: 106779      JAMIE FIGG                         Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  240809                   08/09/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616                90.00
+
+Check Number: 408036           Check Type: Check      Check Date: 08/20/2024    Vendor: 000912      FOLLETT CONTENT SOLUTIONS LLC      Check Total:          560.80
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  419171                   08/07/2024     2500131        AP Spanish Language and Culture Premium-   10 0000 2211 000 8025 641               560.80
+
+Check Number: 408037           Check Type: Check      Check Date: 08/20/2024    Vendor: 001015      GRANT WOOD AEA                     Check Total:           47.91
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  139716                   08/08/2024                    CAFETERIA SIGNS                            10 0213 1100 100 0000 612                38.40
+  139716                   08/08/2024                    CRISIS STAFF CARDS                         10 0481 1100 100 0000 612                 9.51
+
+Check Number: 408038           Check Type: Check      Check Date: 08/20/2024    Vendor: 005309      GRAY BARN INDUSTRIES               Check Total:           21.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  188708                   08/14/2024     2500190        COTTRELL NAME PLATE                        10 0000 2311 000 0000 611                21.00
+
+Check Number: 408039           Check Type: Check      Check Date: 08/20/2024    Vendor: 013926      GREENWOOD CLEANING SYSTEMS         Check Total:        1,156.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  519851-000               08/09/2024     F250136        Batteries                                  10 0000 2620 000 0000 739             1,156.00
+
+Check Number: 408040           Check Type: Check      Check Date: 08/20/2024    Vendor: 017299      DAVID HAAS                         Check Total:          685.96
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  080624                   08/06/2024                    IA CHORAL DIR SYMPOSIUM                    10 0000 1100 100 3376 582               685.96
+
+Check Number: 408041           Check Type: Check      Check Date: 08/20/2024    Vendor: 011649      HANDS UP COMMUNICATIONS            Check Total:        7,938.68
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  10956                    05/20/2024                    IEP DOCUMENTS                              10 0000 1200 219 3305 320             1,398.59
+  439781                   08/14/2024                    FS WKSHP INTERPRETER                       10 0000 1100 100 0000 320             1,050.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                           Page: 7
+08/21/2024 11:40 AM                                                                                                                                User ID: 16345
+Checking Account:      1                  1
+  INV-03567-A              07/02/2024                    AUDIO INTERPRETATION                       10 0000 1100 100 0000 320             30.11
+  INV-03606-A              08/07/2024                    AUDIO INTERPRETATION                       10 0000 1100 100 0000 320             49.83
+  INV-03635-A              08/06/2024                    AUDIO INTERPRETATION                       84 0000 2131 421 0000 611             13.85
+  TR-24030                 08/07/2024                    IEP DOCUMENTS                              10 0000 1200 219 3305 320          1,689.34
+  TR-24033                 08/14/2024                    ABSENCE SENTENCES                          10 0000 1100 100 0000 320             15.00
+  TR-24034                 08/14/2024                    IEP DOCUMENTS                              10 0000 1200 219 3305 320            568.43
+  TR-24035                 08/15/2024                    ABSENTEEISM NOTIFICATION                   10 0000 1100 100 0000 320            875.35
+  TR-24036                 08/16/2024                    ABSENCE REQUEST                            10 0000 1100 100 0000 320          2,248.18
+
+Check Number: 408042           Check Type: Check      Check Date: 08/20/2024    Vendor: 011649      HANDS UP COMMUNICATIONS         Check Total:          285.17
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  TR-24038                 08/19/2024                    10% ABSENTEEISM LTR                        10 0000 1100 100 0000 320            285.17
+
+Check Number: 408043           Check Type: Check      Check Date: 08/20/2024    Vendor: 009960      HEINEMANN                       Check Total:        2,054.43
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  956092785                07/24/2024     2500176        Lessons and Activites for Building Power   10 0000 1200 219 3305 612          1,073.80
+  956092785                07/24/2024     2500176        Shipping                                   10 0000 1200 219 3305 612             85.90
+  956101480                07/29/2024     2500176        Building Powerful Numeracy for Middle an   10 0000 1200 219 3305 612            828.45
+  956101480                07/29/2024     2500176        Shipping                                   10 0000 1200 219 3305 612             66.28
+
+Check Number: 408044           Check Type: Check      Check Date: 08/20/2024    Vendor: 002026      HIGHLAND COMM SCHOOL DIST       Check Total:       37,954.80
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  071524                   07/15/2024                    SPEC EDUC TUITION 23-24                    10 0000 1200 211 3301 567         37,954.80
+
+Check Number: 408045           Check Type: Check      Check Date: 08/20/2024    Vendor: 014417      HILLYARD/DES MOINES SANITARY    Check Total:       13,972.67
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  605567776                08/16/2024     F250001        Grant July Custodial Supplies              10 0000 2620 000 0000 684            127.75
+  605567777                08/16/2024     F250180        West Wax, Mats and Recptacles              10 0000 2620 000 0000 684          2,080.12
+  605567778                08/16/2024     F250108        West August Custodial Supplies             10 0000 2620 000 0000 684          4,485.49
+  605567779                08/16/2024     F250111        NWJH August Custodial Supplies             10 0000 2620 000 0000 684          1,752.75
+  605567780                08/16/2024     F250118        Grant August Custodial Supplies            10 0000 2620 000 0000 684          1,949.58
+  605567781                08/16/2024     F250121        Garner August Custodial Supplies           10 0000 2620 000 0000 684          1,222.66
+  605567782                08/16/2024     F250143        NWJH Kitchen August Custodial Supplies     10 0000 2620 000 0000 684            901.50
+  605567783                08/16/2024     F250141        West Kitchen August Custodial Supplies     10 0000 2620 000 0000 684          1,129.07
+  605567784                08/16/2024     F250144        Liberty Kitchen August Custodial Supplie   10 0000 2620 000 0000 684            179.79
+  605567785                08/16/2024     F240900        NCJH June Custodial Supplies               10 0000 2620 000 0000 684            143.96
+
+Check Number: 408046           Check Type: Check      Check Date: 08/20/2024    Vendor: 014417      HILLYARD/DES MOINES SANITARY    Check Total:        2,103.33
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  605567786                08/16/2024     F250006        Horn July Custodial Supplies               10 0000 2620 000 0000 684            415.67
+  605567787                08/16/2024     F250043        Wickham Custodial Supplies                 10 0000 2620 000 0000 684             60.00
+  605567788                08/16/2024     F250012        NCJH July Custodial Supplies               10 0000 2620 000 0000 684            434.76
+  605567789                08/16/2024     F250010        Van Allen July Custodial Supplies          10 0000 2620 000 0000 684            127.75
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                              Page: 8
+08/21/2024 11:40 AM                                                                                                                                   User ID: 16345
+Checking Account:      1                  1
+  605567790                08/16/2024     F250009        Borlaug July Custodial Supplies            10 0000 2620 000 0000 684               127.75
+  605567791                08/16/2024     F250002        Coralville Central July Custodial Suppli   10 0000 2620 000 0000 684               127.75
+  605567792                08/16/2024     F250003        Wickham July Custodial Supplies            10 0000 2620 000 0000 684               127.75
+  605567793                08/16/2024     F250005        Penn July Custodial Supplies               10 0000 2620 000 0000 684               213.20
+  605567794                08/16/2024     F250007        Lincoln July Custodial Supplies            10 0000 2620 000 0000 684               127.75
+  605567795                08/16/2024     F250008        Weber July Custodial Supplies              10 0000 2620 000 0000 684               340.95
+
+Check Number: 408047           Check Type: Check      Check Date: 08/20/2024     Vendor: 014417     HILLYARD/DES MOINES SANITARY       Check Total:       17,349.43
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  605567796                08/16/2024     F250110        NCJH August Custodial Supplies             10 0000 2620 000 0000 684             3,686.84
+  605567797                08/16/2024     F250109        Liberty August Custodial Supplies          10 0000 2620 000 0000 684             3,068.78
+  605567798                08/16/2024     F250119        Weber August Custodial Supplies            10 0000 2620 000 0000 684               787.62
+  605567799                08/16/2024     F250120        Horn August Custodial Supplies             10 0000 2620 000 0000 684             1,359.87
+  605567800                08/16/2024     F250122        Van Allen August Custodial Supplies        10 0000 2620 000 0000 684             1,478.23
+  605567801                08/16/2024     F250123        Wickham August Custodial Supplies          10 0000 2620 000 0000 684             1,184.83
+  605567802                08/16/2024     F250124        Lincoln August Custodial Supplies          10 0000 2620 000 0000 684               375.19
+  605567803                08/16/2024     F250125        Penn August Custodial Supplies             10 0000 2620 000 0000 684             1,748.64
+  605567804                08/16/2024     F250126        Borlaug August Custodial Supplies          10 0000 2620 000 0000 684             2,159.99
+  605567805                08/16/2024     F250127        Coralville Central August Custodial Supp   10 0000 2620 000 0000 684             1,499.44
+
+Check Number: 408048           Check Type: Check      Check Date: 08/20/2024     Vendor: 014417     HILLYARD/DES MOINES SANITARY       Check Total:        2,082.08
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  700601939                08/13/2024     F250049        Stock custodial equipment supplies         10 0000 2620 000 0000 739             2,082.08
+
+Check Number: 408049           Check Type: Check      Check Date: 08/20/2024     Vendor: 017257     HOSPERS & BROTHER PRINTERS         Check Total:          578.63
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  130157                   08/09/2024                    SFA BUSN CARDS                             10 0000 1250 421 1119 612               379.65
+  130186                   08/07/2024                    GATOR CHECK CICO 4-6                       10 0401 1100 100 8550 612                31.50
+  130187                   08/07/2024                    GATOR CHECK CICO K-3                       10 0401 1100 100 8550 612                33.50
+  130188                   08/07/2024                    GATOR CHECK SAIG 1-6                       10 0401 1100 100 8550 612                33.50
+  130202                   08/07/2024                    SPORTSMAN TICKETS                          10 0432 1100 100 8550 612                68.06
+  130213                   08/09/2024                    Emergency window signs                     10 0000 2610 000 0000 611                32.42
+
+Check Number: 408050           Check Type: Check      Check Date: 08/20/2024     Vendor: 016332     HY-VEE, INC.                       Check Total:           14.99
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  081224                   08/12/2024                    HEALTHY KIDS PHARM                         84 0000 2131 421 0000 611                14.99
+
+Check Number: 408051           Check Type: Check      Check Date: 08/20/2024     Vendor: 015504     IA SCHOOL FINANCE INFO SERVICES    Check Total:        3,384.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  21495                    07/31/2024                    BACKGROUND CHECKS                          10 0000 2571 000 0000 349             3,384.00
+
+Check Number: 408052           Check Type: Check      Check Date: 08/20/2024     Vendor: 017398     IJAG (IOWA JAG INC)                Check Total:      125,000.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  28253                    07/01/2024                    IJAG PROG FEES PER MOU                     10 0000 2119 421 4669 320           125,000.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                           Page: 9
+08/21/2024 11:40 AM                                                                                                                                User ID: 16345
+Checking Account:      1                  1
+  28253                    07/01/2024                    2024-2025                                10 0000 2119 421 4669 320                0.00
+
+Check Number: 408053           Check Type: Check      Check Date: 08/20/2024    Vendor: 105097    ALEX INESTROZA                    Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  240812                   08/12/2024                    2024 uniform reimbursement               10 0000 2620 000 0000 616               90.00
+
+Check Number: 408054           Check Type: Check      Check Date: 08/20/2024    Vendor: 007400    IOWA CITY PRESS-CITIZEN           Check Total:          135.60
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  0006573017               07/31/2024                    JUL LEGAL PUBS                           10 0000 2311 000 0000 543              135.60
+
+Check Number: 408055           Check Type: Check      Check Date: 08/20/2024    Vendor: 006809    IOWA COMMUNICATIONS NETWORK       Check Total:        1,723.10
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  703070                   08/08/2024                    IEN/FAX                                  10 0000 2511 000 0000 532            1,723.10
+
+Check Number: 408056           Check Type: Check      Check Date: 08/20/2024    Vendor: 000993    IOWA SCHOOLS BUILDING & GROUNDS Check Total:            300.00
+                                                                                                  ASSOC
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  INV-000354               08/01/2024                    District 24-25 membership dues           10 0000 2610 000 0000 811              300.00
+
+Check Number: 408057           Check Type: Check      Check Date: 08/20/2024    Vendor: 001738    J. P. GASWAY COMPANY INC          Check Total:       89,568.48
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  1040134-000              07/29/2024                    8.5 X 11 COLOR COPY PAPER                10 181 000 0000 000                 11,475.00
+  1040135-000              07/29/2024                    8.5 X 11 WHITE COPY PAPER                10 181 000 0000 000                 77,112.00
+  1040425-000              08/08/2024                    11 X 17 PAPER                            10 0209 1100 100 8550 612               70.00
+  1040467-000              08/08/2024                    VELLUM COLOR STOCK                       10 0497 1100 100 0000 612              391.41
+  1040472-000              08/08/2024                    COLOR PAPER                              10 0114 1100 100 0000 612              200.99
+  1040472-001              08/13/2024                    COLOR STOCK                              10 0114 1100 100 0000 612               46.38
+  1040725-000              08/15/2024                    VELLUM                                   10 0436 1100 100 0000 612              272.70
+
+Check Number: 408058           Check Type: Check      Check Date: 08/20/2024    Vendor: 001834    J.W. PEPPER & SON, INC.           Check Total:          100.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  366328624                03/25/2024                    ONE LIFE BEAUTIFUL                       10 0109 1100 112 8221 612               95.00
+  366581620                08/08/2024                    OUR TIME                                 10 0114 1100 112 8210 612                5.50
+
+Check Number: 408059           Check Type: Check      Check Date: 08/20/2024    Vendor: 001285    JOHNSON CONTROLS INC              Check Total:        2,467.97
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  1-133575442585           07/09/2024                    West well water system service           10 0000 2610 000 0000 438            1,846.10
+  1-133859432629           08/06/2024                    Thermostats                              10 0000 2610 000 0000 685              621.87
+
+Check Number: 408060           Check Type: Check      Check Date: 08/20/2024    Vendor: 106251    ROBERT KAUFFMAN                   Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  240811                   08/11/2024                    2024 uniform reimbursement               10 0000 2620 000 0000 616               90.00
+
+Check Number: 408061           Check Type: Check      Check Date: 08/20/2024    Vendor: 001345    KIRKWOOD COMMUNITY COLLEGE        Check Total:        4,675.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                        Page: 10
+08/21/2024 11:40 AM                                                                                                                              User ID: 16345
+Checking Account:      1                  1
+  44569                    08/13/2024                    DRIVER EDUC                                10 9331 1100 121 0000 320        2,975.00
+  44594                    08/19/2024                    DRIVER EDUC                                10 9331 1100 121 0000 320        1,700.00
+
+Check Number: 408062           Check Type: Check      Check Date: 08/20/2024    Vendor: 105894      JESSICA KLINE                 Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  240808                   08/08/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616           90.00
+
+Check Number: 408063           Check Type: Check      Check Date: 08/20/2024    Vendor: 012139      WILLIAM KRAMER                Check Total:           74.18
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  240806                   08/06/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616           74.18
+
+Check Number: 408064           Check Type: Check      Check Date: 08/20/2024    Vendor: 012206      LABORATORY CORPORATION OF     Check Total:        1,368.20
+                                                                                                    AMERICA
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  80702687                 07/27/2024                    LAB WORK                                   84 0000 2131 421 0000 611        1,368.20
+
+Check Number: 408065           Check Type: Check      Check Date: 08/20/2024    Vendor: 011663      LANGUAGE LINE SERVICES        Check Total:          499.59
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  11360387                 07/31/2024                    PHONE INTERPRETATION                       10 0000 1100 100 0000 320          499.59
+
+Check Number: 408066           Check Type: Check      Check Date: 08/20/2024    Vendor: 015785      LEARNING A-Z                  Check Total:        9,966.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  8072804                  08/07/2024     2500247        Reading A-Z                                10 9334 1100 410 4644 612           66.00
+  8072804                  08/07/2024     2500247        Reading A-z                                10 9334 1100 410 4644 612        9,900.00
+
+Check Number: 408067           Check Type: Check      Check Date: 08/20/2024    Vendor: 010782      KAYBRI LEMON                  Check Total:           79.44
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  240816                   08/16/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616           79.44
+
+Check Number: 408068           Check Type: Check      Check Date: 08/20/2024    Vendor: 015256      LEXIA LEARNING SYSTEMS LLC    Check Total:          399.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  8064441                  08/06/2024     2500233        Legacy LETRS Facilitator Bundle (Digital   10 0000 1100 100 3376 320          399.00
+
+Check Number: 408069           Check Type: Check      Check Date: 08/20/2024    Vendor: 002239      LONE TREE COMM. SCHOOL        Check Total:       10,664.85
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  071224                   07/12/2024                    SPEC EDUC TUITION 23-24                    10 0000 1200 211 3301 567       10,664.85
+
+Check Number: 408070           Check Type: Check      Check Date: 08/20/2024    Vendor: 011487      MARIA LOYA                    Check Total:           89.95
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  240808                   08/08/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616           89.95
+
+Check Number: 408071           Check Type: Check      Check Date: 08/20/2024    Vendor: 011489      SANTIAGO LOYA                 Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  240808                   08/08/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616           90.00
+
+Check Number: 408072           Check Type: Check      Check Date: 08/20/2024    Vendor: 011331      MADISON NATIONAL LIFE         Check Total:       53,343.71
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                         Detail Check Register                                                           Page: 11
+08/21/2024 11:40 AM                                                                                                                                   User ID: 16345
+Checking Account:      1                  1
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  1641900                  08/15/2024                    LTD                                        10 0000 2514 000 0000 211            33,469.58
+  1641900                  08/15/2024                    LIFE                                       10 0000 2514 000 0000 213             9,290.39
+  1641900                  08/15/2024                    VOL LIFE                                   10 471 021 0000 000                  10,583.74
+
+Check Number: 408073           Check Type: Check      Check Date: 08/20/2024      Vendor: 008690    JESUS MARTINEZ                     Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  240814                   08/14/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616                90.00
+
+Check Number: 408074           Check Type: Check      Check Date: 08/20/2024      Vendor: 106089    TUNISIA MAY                        Check Total:          367.76
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  080924                   08/09/2024                    SAI CONVENTION                             10 9331 2410 000 0000 582               367.76
+
+Check Number: 408075           Check Type: Check      Check Date: 08/20/2024      Vendor: 105557    SHANE McCUSKER                     Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  240812                   08/12/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616                90.00
+
+Check Number: 408076           Check Type: Check      Check Date: 08/20/2024      Vendor: 107304    GUY MEYER                          Check Total:          589.48
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  080524                   08/05/2024                    AVID SUMMER INST                           10 0000 1100 100 3376 582               589.48
+
+Check Number: 408077           Check Type: Check      Check Date: 08/20/2024      Vendor: 005199    MIDAMERICAN ENERGY                 Check Total:        1,396.65
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  556594128                08/14/2024                    ELEC - SE ADDITION                         10 0218 2620 000 0000 622             1,386.44
+  556663400                08/15/2024                    ESC - ELEC                                 10 0020 2620 000 0000 622                10.21
+
+Check Number: 408078           Check Type: Check      Check Date: 08/20/2024      Vendor: 007537    MIDWEST ALARM SERVICES             Check Total:          594.23
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  461247                   08/01/2024     F250064        Fix FCPS panels                            10 0000 2640 000 0000 433               170.00
+  462731                   08/08/2024                    PP FA monitoring 9/24-8/25                 10 0000 2640 000 0000 433               288.75
+  463299                   08/13/2024                    Tate FA battery                            10 0000 2610 000 0000 687               135.48
+
+Check Number: 408079           Check Type: Check      Check Date: 08/20/2024      Vendor: 014384    MIDWEST SAFETY COUNSELORS, INC.    Check Total:          205.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  IVC0071866               07/31/2024                    Calibrate gas meters                       10 0000 2610 000 0000 739               205.00
+
+Check Number: 408080           Check Type: Check      Check Date: 08/20/2024      Vendor: 106255    DAVID MONTGOMERY                   Check Total:           84.78
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  240806                   08/06/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616                84.78
+
+Check Number: 408081           Check Type: Check      Check Date: 08/20/2024      Vendor: 015367    MTI DISTRIBUTING INC               Check Total:          774.21
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  1409781-00               08/06/2024                    Battery chargers                           10 0000 2630 000 0000 739               705.80
+  1444710-00               08/14/2024                    Unit 422 v-belt                            10 0000 2630 000 0000 686                68.41
+
+Check Number: 408082           Check Type: Check      Check Date: 08/20/2024      Vendor: 105043    LUIS MUNOZ                         Check Total:           90.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                        Detail Check Register                                                       Page: 12
+08/21/2024 11:40 AM                                                                                                                              User ID: 16345
+Checking Account:      1                  1
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  240814                   08/14/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616            90.00
+
+Check Number: 408083           Check Type: Check      Check Date: 08/20/2024     Vendor: 105887    MELISSA MUNOZ                  Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  240913                   08/13/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616            90.00
+
+Check Number: 408084           Check Type: Check      Check Date: 08/20/2024     Vendor: 017479    MICHAEL MURPHY                 Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  240812                   08/12/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616            90.00
+
+Check Number: 408085           Check Type: Check      Check Date: 08/20/2024     Vendor: 009090    HUY NGUYEN                     Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  240805                   08/05/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616            90.00
+
+Check Number: 408086           Check Type: Check      Check Date: 08/20/2024     Vendor: 015340    MALYSSA OBLANDER               Check Total:          587.72
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  080524                   08/05/2024                    AVID TRAINING                             10 0000 1100 100 3376 582           587.72
+
+Check Number: 408087           Check Type: Check      Check Date: 08/20/2024     Vendor: 011134    JOSH PEDERSEN                  Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  240811                   08/11/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616            90.00
+
+Check Number: 408088           Check Type: Check      Check Date: 08/20/2024     Vendor: 106780    TED PENISTEN                   Check Total:           88.44
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  240806                   08/06/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616            88.44
+
+Check Number: 408089           Check Type: Check      Check Date: 08/20/2024     Vendor: 106356    JOE KHUE PHAM                  Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  240815                   08/15/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616            90.00
+
+Check Number: 408090           Check Type: Check      Check Date: 08/20/2024     Vendor: 105866    PHELAN TUCKER LAW LLP TRUST    Check Total:          143.50
+                                                                                                   ACCOUNT
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  95534                    08/06/2024                    PROF SVCS                                 10 0000 2317 000 0000 342            41.00
+  95535                    08/06/2024                    PROF SVCS                                 10 0000 2317 000 0000 342           102.50
+
+Check Number: 408091           Check Type: Check      Check Date: 08/20/2024     Vendor: 005842    PLUMB SUPPLY CO                Check Total:        1,924.45
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  S100551720.001           08/08/2024     F250140        Water Heater                              10 0000 2610 000 0000 689         1,924.45
+
+Check Number: 408092           Check Type: Check      Check Date: 08/20/2024     Vendor: 017481    PLUMBMASTER INC                Check Total:          308.30
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number       Detail Amount
+  57807677                 08/06/2024     F250098        District sink parts                       10 0000 2610 000 0000 689           308.30
+
+Check Number: 408093           Check Type: Check      Check Date: 08/20/2024     Vendor: 011654    CHRIS PRUESS                   Check Total:           72.01
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                         Detail Check Register                                                      Page: 13
+08/21/2024 11:40 AM                                                                                                                              User ID: 16345
+Checking Account:      1                  1
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  240814                   08/14/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616           72.01
+
+Check Number: 408094           Check Type: Check      Check Date: 08/20/2024      Vendor: 102179    RAYGUN                        Check Total:        3,615.10
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  1435                     08/13/2024                    ADMIN SHIRTS                               10 0000 2321 000 0000 611        2,529.51
+  1435                     08/13/2024                    NEW TEACHER SHIRTS                         10 153 000 9995 000              1,085.59
+
+Check Number: 408095           Check Type: Check      Check Date: 08/20/2024      Vendor: 015870    RAYNER & RINN-SCOTT, INC.     Check Total:        1,837.45
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  67227                    08/13/2024     F250103        SE Art room drying racks                   10 0000 2610 000 0000 688          769.50
+  67266                    08/14/2024     F250091        Shop stock                                 10 0000 2610 000 0000 688        1,067.95
+
+Check Number: 408096           Check Type: Check      Check Date: 08/20/2024      Vendor: 106786    REPUBLIC SERVICES INC #897    Check Total:          762.57
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  0897001027354            07/20/2024                    August recycling                           10 0000 2620 000 0000 421          762.57
+
+Check Number: 408097           Check Type: Check      Check Date: 08/20/2024      Vendor: 002002    RIVER PRODUCTS CO INC         Check Total:          772.32
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  144402                   07/31/2024                    Road stone                                 10 0000 2630 000 0000 686          772.32
+
+Check Number: 408098           Check Type: Check      Check Date: 08/20/2024      Vendor: 013471    RIZE CREATIVE GROUP INC       Check Total:          350.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  1827                     08/14/2024                    PRINCIPAL SHORT VIDEOS                     10 0000 2327 000 0000 611          350.00
+
+Check Number: 408099           Check Type: Check      Check Date: 08/20/2024      Vendor: 105689    JENNA ROSKOPF                 Check Total:          146.52
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  060324                   06/03/2024                    SPRING MILEAGE                             10 0000 1250 421 1119 581          146.52
+
+Check Number: 408100           Check Type: Check      Check Date: 08/20/2024      Vendor: 107306    ALFREDO RUVALCABA             Check Total:           68.79
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  240812                   08/12/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616           68.79
+
+Check Number: 408101           Check Type: Check      Check Date: 08/20/2024      Vendor: 005412    SCHOLASTIC MAGAZINES          Check Total:        1,961.22
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  M7500833                 07/23/2024                    LANGUAGE MAGAZINES                         10 0000 2211 000 8025 641        1,961.22
+
+Check Number: 408102           Check Type: Check      Check Date: 08/20/2024      Vendor: 004679    SCHOOL ADMIN OF IOWA          Check Total:       12,473.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number      Detail Amount
+  11578                    07/01/2024                    SAI/NASSP DUES - PTACEK                    10 0000 2211 000 0000 294          855.00
+  11578                    07/01/2024                    SAI DUES - REEDY                           10 0000 2290 000 0000 294          605.00
+  11578                    07/01/2024                    SAI DUES - RAMEY                           10 0000 2329 000 0000 294          605.00
+  11578                    07/01/2024                    SAI/NASSP DUES - BRUENING                  10 9331 2410 000 0000 294          855.00
+  11578                    07/01/2024                    SAI DUES - BACON                           10 9331 2410 000 0000 294          605.00
+  11578                    07/01/2024                    SAI DUES - EUSTICE                         10 9331 2410 000 0000 294          605.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                     Page: 14
+08/21/2024 11:40 AM                                                                                                                           User ID: 16345
+Checking Account:      1                  1
+  11578                    07/01/2024                    SAI DUES - BROWN                         10 9331 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - GROSS                         10 9331 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - COLBERT                       10 9331 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - O'DONNELL                     10 9331 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - BAKER                         10 9332 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI/NAESP DUES - BAYLOR                  10 9332 2410 000 0000 294         824.00
+  11578                    07/01/2024                    SAI DUES - PISARIK                       10 9334 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - CEYNAR                        10 9334 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - DYER                          10 9334 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI/NAESP DUES - EWALD                   10 9334 2410 000 0000 294         864.00
+  11578                    07/01/2024                    SAI DUES - WEBB                          10 9334 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - DAUBS                         10 9334 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - CANNON                        10 9334 2410 000 0000 294         605.00
+
+Check Number: 408103           Check Type: Check      Check Date: 08/20/2024    Vendor: 004679    SCHOOL ADMIN OF IOWA         Check Total:        5,245.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  11578                    07/01/2024                    SAI/AASA/EXE DUES - DEGNER               10 0000 2321 000 0000 294       1,150.00
+  11578                    07/01/2024                    SAI DUES - L MAYER                       10 0142 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - BJ MAYER                      10 9331 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - BROWNING                      10 9331 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI DUES - RICKELS                       10 9331 2410 000 0000 294         605.00
+  11578                    07/01/2024                    SAI/NASSP DUES - MAY                     10 9331 2410 000 0000 294         855.00
+  11578                    07/01/2024                    SAI DUES - MANGAN                        10 9334 2410 000 0000 294         605.00
+  13960                    08/08/2024                    CONFERENCE - O'DONNELL                   10 9334 2410 000 0000 582         215.00
+
+Check Number: 408104           Check Type: Check      Check Date: 08/20/2024    Vendor: 002073    SCHOOL HEALTH CORP.          Check Total:          147.88
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  CINV71915                07/19/2024     2500080        SHUTTLECOCKS/LOW-BOUNCE SOFTI            10 9334 1100 108 0000 612         147.88
+
+Check Number: 408105           Check Type: Check      Check Date: 08/20/2024    Vendor: 010312    SCHUMACHER ELEVATOR CO.      Check Total:        4,579.81
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  90621725                 08/01/2024                    September elevator maintenance           10 0000 2640 000 0000 433       4,579.81
+
+Check Number: 408106           Check Type: Check      Check Date: 08/20/2024    Vendor: 002626    SHIVE-HATTERY & ASSOC        Check Total:        1,850.72
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  1211310-6                08/07/2024                    Asbestos 6 Month Reinspections           10 0000 2620 000 9001 432       1,850.72
+
+Check Number: 408107           Check Type: Check      Check Date: 08/20/2024    Vendor: 016082    RYAN SMITH                   Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  240806                   08/06/2024                    2024 uniform reimbursement               10 0000 2620 000 0000 616          90.00
+
+Check Number: 408108           Check Type: Check      Check Date: 08/20/2024    Vendor: 016858    SOCIAL THINKING              Check Total:          711.15
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  INV012284                08/07/2024     2500244        We Thinkers Bundle                       10 0463 1100 100 0000 612         549.98
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                            Page: 15
+08/21/2024 11:40 AM                                                                                                                                  User ID: 16345
+Checking Account:      1                  1
+  INV012284                08/07/2024     2500244        We Thinkers! Volume 1 Five Storybook Se   10 0463 1100 100 0000 612                59.99
+  INV012284                08/07/2024     2500244        We Thinkers! Volume 2 Five Storybook Se   10 0463 1100 100 0000 612                59.99
+  INV012284                08/07/2024     2500244        Shipping                                  10 0463 1100 100 0000 612                41.19
+
+Check Number: 408109           Check Type: Check      Check Date: 08/20/2024     Vendor: 002241    SOLON COMMUNITY SCHOOL DISTRICT    Check Total:       64,116.89
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number           Detail Amount
+  071224                   07/12/2024                    SPEC EDUC TUITION 23-24                   10 0000 1200 211 3301 567            64,116.89
+
+Check Number: 408110           Check Type: Check      Check Date: 08/20/2024     Vendor: 106922    SPENLER TIRE                       Check Total:        1,832.35
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number           Detail Amount
+  39358                    08/08/2024                    Unit 102 oil change, repairs              10 0000 2650 000 0000 434             1,832.35
+
+Check Number: 408111           Check Type: Check      Check Date: 08/20/2024     Vendor: 017023    SYMMETRY ENERGY SOLUTIONS LLC      Check Total:        1,682.20
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number           Detail Amount
+  18764184                 08/14/2024                    GAS-CITY                                  10 0109 2620 000 0000 621               156.77
+  18764184                 08/14/2024                    GAS-LIBERTY                               10 0114 2620 000 0000 621                74.46
+  18764184                 08/14/2024                    GAS-WEST                                  10 0118 2620 000 0000 621               285.60
+  18764184                 08/14/2024                    GAS-NW                                    10 0213 2620 000 0000 621               192.46
+  18764184                 08/14/2024                    GAS-SE                                    10 0218 2620 000 0000 621                49.87
+  18764184                 08/14/2024                    GAS-CORAL CENT                            10 0403 2620 000 0000 621               103.40
+  18764184                 08/14/2024                    GAS-KIRKWOOD                              10 0406 2620 000 0000 621               100.36
+  18764184                 08/14/2024                    GAS-HORN                                  10 0415 2620 000 0000 621               (30.84)
+  18764184                 08/14/2024                    GAS-LUCAS                                 10 0436 2620 000 0000 621                86.26
+  18764184                 08/14/2024                    GAS-MANN                                  10 0445 2620 000 0000 621                85.43
+  18764184                 08/14/2024                    GAS-PENN                                  10 0447 2620 000 0000 621               103.99
+  18764184                 08/14/2024                    GAS-SHIMEK                                10 0468 2620 000 0000 621               164.78
+  18764184                 08/14/2024                    GAS-TWAIN                                 10 0472 2620 000 0000 621                83.03
+  18764184                 08/14/2024                    GAS-WOOD                                  10 0481 2620 000 0000 621               141.46
+  18764184                 08/14/2024                    GAS-WEBER                                 10 0488 2620 000 0000 621                85.17
+
+Check Number: 408112           Check Type: Check      Check Date: 08/20/2024     Vendor: 105016    ALLEN TAYLOR                       Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number           Detail Amount
+  240813                   08/13/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616                90.00
+
+Check Number: 408113           Check Type: Check      Check Date: 08/20/2024     Vendor: 107300    TENNIS SURFACES OF IOWA            Check Total:          240.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number           Detail Amount
+  1032                     07/19/2024                    Paint                                     10 0000 2630 000 0000 686               240.00
+
+Check Number: 408114           Check Type: Check      Check Date: 08/20/2024     Vendor: 015322    JASON THURSTON                     Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number           Detail Amount
+  240806                   08/06/2024                    2024 uniform reimbursement                10 0000 2620 000 0000 616                90.00
+
+Check Number: 408115           Check Type: Check      Check Date: 08/20/2024     Vendor: 000220    BRIAN MILLER                       Check Total:        1,292.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number           Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                         Detail Check Register                                                          Page: 16
+08/21/2024 11:40 AM                                                                                                                                  User ID: 16345
+Checking Account:      1                  1
+  7396                     08/12/2024                    STAFF SHIRTS                               10 0109 1100 100 0000 612            1,292.00
+
+Check Number: 408116           Check Type: Check      Check Date: 08/20/2024      Vendor: 104930    ANTHONY TURNIS                    Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  240805                   08/05/2024                    2024 uniform reimbursement                 10 0000 2620 000 0000 616               90.00
+
+Check Number: 408117           Check Type: Check      Check Date: 08/20/2024      Vendor: 006028    U.S. GAMES                        Check Total:          709.91
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  926170849                07/19/2024     2500084        FB/VOLLEYBALLS/FOAM BALLS/SETS             10 9334 1100 108 0000 612              349.96
+  926195753                07/23/2024     2500088        HOOPS/FLOOR TAPE/BASKET-DOGDGEBALLS        10 9334 1100 108 0000 612              359.95
+
+Check Number: 408118           Check Type: Check      Check Date: 08/20/2024      Vendor: 015286    UNIVERSITY OF IOWA HEALTH CARE    Check Total:        8,228.94
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  700001315-JUL24          08/07/2024                    TUTORING SVCS                              10 0000 1200 217 3303 320              246.56
+  700001315-JUL24          08/07/2024                    TUTORING SVCS                              10 153 000 9992 000                    539.35
+  700001315-JUN24          08/07/2024                    TUTORING SVCS                              10 0000 1200 217 3303 320               46.23
+  700001315-JUN24          08/07/2024                    TUTORING SVCS                              10 153 000 9992 000                  7,396.80
+
+Check Number: 408119           Check Type: Check      Check Date: 08/20/2024      Vendor: 008394    DUANE VAN HEMERT                  Check Total:        3,343.32
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  38                       08/14/2024                    AUG CONSULTING SVCS                        10 0000 2610 000 0000 611            3,343.32
+
+Check Number: 408120           Check Type: Check      Check Date: 08/20/2024      Vendor: 106122    VENTRIS LEARNING LLC              Check Total:          160.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  20246788                 08/19/2024     2500253        UFLI Teacher manuals                       10 0497 1100 100 0000 612              140.00
+  20246788                 08/19/2024     2500253        Shipping & Handling                        10 0497 1100 100 0000 612               20.00
+
+Check Number: 408121           Check Type: Check      Check Date: 08/20/2024      Vendor: 015688    VSP                               Check Total:       28,420.14
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  820815878.A              07/02/2024                    VISION INS                                 10 471 022 0000 000                  9,000.00
+  821013730                08/02/2024                    VISION INS                                 10 471 022 0000 000                 19,420.14
+
+Check Number: 408122           Check Type: Check      Check Date: 08/20/2024      Vendor: 008936    WATER SHOP, INC.                  Check Total:          747.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  0304861                  08/09/2024     F250105        Softener salt for Alexander                10 0000 2610 000 0000 689              367.50
+  0304861                  08/09/2024     F250105        Zone trip charge                           10 0000 2610 000 0000 689                6.00
+  0304881                  08/09/2024     F250106        Softener salt for Coralville Central       10 0000 2610 000 0000 689              367.50
+  0304881                  08/09/2024     F250106        Zone trip charge                           10 0000 2610 000 0000 689                6.00
+
+Check Number: 408123           Check Type: Check      Check Date: 08/20/2024      Vendor: 016706    KRISTIN WENDLANDT                 Check Total:          123.15
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  073024                   07/30/2024                    HRS CONF                                   10 0000 2218 000 0000 581              123.15
+
+Check Number: 408124           Check Type: Check      Check Date: 08/20/2024      Vendor: 000707    WEST BRANCH COMMUNITY SCHOOL      Check Total:       57,489.93
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                     Page: 17
+08/21/2024 11:40 AM                                                                                                                                           User ID: 16345
+Checking Account:      1                  1
+  071124                   07/11/2024                    SPEC EDUC TUITION 23-24                           10 0000 1200 211 3301 567              57,489.93
+
+Check Number: 408125           Check Type: Check      Check Date: 08/20/2024    Vendor: 002123             WEST LIBERTY COMMUNITY SCHOOLS      Check Total:       32,399.52
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  071124                   07/11/2024                    SPEC EDUC TUITION 23-24                           10 0000 1200 211 3301 567              32,399.52
+
+Check Number: 408126           Check Type: Check      Check Date: 08/20/2024    Vendor: 011966             SCOTT WHITMORE                      Check Total:           84.67
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  240806                   08/06/2024                    2024 uniform reimbursement                        10 0000 2620 000 0000 616                  84.67
+
+Check Number: 408127           Check Type: Check      Check Date: 08/20/2024    Vendor: 009093             PAUL WILSON                         Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  240815                   08/15/2024                    2024 uniform reimbursement                        10 0000 2620 000 0000 616                  90.00
+
+Check Number: 408128           Check Type: Check      Check Date: 08/20/2024    Vendor: 009091             MIRSAD ZELENJAKOVIC                 Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  240811                   08/11/2024                    2024 uniform reimbursement                        10 0000 2620 000 0000 616                  90.00
+
+Check Number: 408129           Check Type: Check      Check Date: 08/20/2024    Vendor: 006823             RUSSELL ZOOK Jr                     Check Total:          879.78
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  107961                   08/07/2024                    Unit 124 a/c repair                               10 0000 2650 000 0000 434                 879.78
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   1                           Total without Voids:      762,516.41
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                            Page: 18
+08/21/2024 11:40 AM                                                                                                                                  User ID: 16345
+Checking Account:      2                  2
+Check Number: 333197           Check Type: Check      Check Date: 08/20/2024    Vendor: 103939    ADVANCED BUSINESS SYSTEMS INC       Check Total:           67.92
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  INV382070                08/14/2024                    JUL COPIER OVERAGE                       61 0000 3110 000 8550 611                 59.58
+  INV382071                08/14/2024                    JUL PRINTER OVERAGE                      61 0000 3110 000 8550 611                  8.34
+
+Check Number: 333198           Check Type: Check      Check Date: 08/20/2024    Vendor: 006637    AMERICAN BOTTLING CO., INC.         Check Total:           93.24
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  4414205066               08/05/2024                    LIB - POP                                61 0114 3110 000 0000 631                 93.24
+
+Check Number: 333199           Check Type: Check      Check Date: 08/20/2024    Vendor: 015049    ANDERSON ERICKSON DAIRY             Check Total:        1,814.80
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  073124                   07/31/2024                    CITY - MILK                              61 0109 3110 000 4014 631                252.89
+  073124                   07/31/2024                    WEST - MILK                              61 0118 3110 000 4014 631              1,323.90
+  073124                   07/31/2024                    NW - MILK                                61 0213 3110 000 4014 631                238.01
+
+Check Number: 333200           Check Type: Check      Check Date: 08/20/2024    Vendor: 013932    BANKERS ADVERTISING COMPANY         Check Total:        1,398.40
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  837730                   08/02/2024                    FS SHIRTS                                61 0000 3110 000 0000 613              1,398.40
+
+Check Number: 333201           Check Type: Check      Check Date: 08/20/2024    Vendor: 000726    DAN'S OVERHEAD DOOR                 Check Total:          281.68
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  574644                   08/09/2024                    SVC DOOR RPR                             61 0060 2640 000 0000 433                281.68
+
+Check Number: 333202           Check Type: Check      Check Date: 08/20/2024    Vendor: 014193    FIELD TO FAMILY                     Check Total:          607.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  53046                    07/23/2024                    SUMMER FEED                              61 0118 3140 000 0000 631                607.50
+
+Check Number: 333203           Check Type: Check      Check Date: 08/20/2024    Vendor: 017257    HOSPERS & BROTHER PRINTERS          Check Total:          345.18
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  130214                   08/14/2024                    DAILY ORDER FORMS                        61 0000 3110 000 0000 611                345.18
+
+Check Number: 333204           Check Type: Check      Check Date: 08/20/2024    Vendor: 016332    HY-VEE, INC.                        Check Total:          447.26
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  081224                   08/12/2024                    STAFF MTG SNACKS/SPL CARDS               61 0060 3110 000 0000 631                447.26
+
+Check Number: 333205           Check Type: Check      Check Date: 08/20/2024    Vendor: 011056    MARTIN BROS. DISTRIBUTING CO INC    Check Total:        4,739.69
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  1625564                  07/29/2024                    SUMMER FEEDING                           61 0118 3140 000 0000 631              1,038.01
+  1625565                  07/29/2024                    PLATES/FORKS/KNIVES                      61 0060 3110 000 0000 611                 97.38
+  1625565                  07/29/2024                    COFFEE/CREAMER                           61 0060 3110 000 0000 631                190.69
+  1634953                  08/05/2024                    FOOD                                     61 0114 3110 000 0000 631              1,800.79
+  1634954                  08/05/2024                    FOOD                                     61 0114 3110 000 0000 631                276.82
+  1634957                  08/05/2024                    SUMMER FEEDING                           61 0118 3140 000 0000 631                660.92
+  1637928                  08/07/2024                    SUMMER FEEDING                           61 0118 3140 000 0000 631                584.36
+  1637929                  08/07/2024                    RED CROSS SCHOOL REGISTRATION            61 0060 3110 000 0000 631                 90.72
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                     Page: 19
+08/21/2024 11:40 AM                                                                                                                                           User ID: 16345
+Checking Account:      2                  2
+
+Check Number: 333206           Check Type: Check      Check Date: 08/20/2024    Vendor: 004014             SINK PAPER & PACKAGING              Check Total:        4,666.53
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  105345                   08/19/2024                    KITCHEN SPLS                                      61 0060 3110 000 0000 611               4,666.53
+
+Check Number: 333207           Check Type: Check      Check Date: 08/20/2024    Vendor: 006523             CINDY SMITH                         Check Total:           52.25
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  080624                   08/06/2024                    HEALTHY SCHOOL MEALS WKSHP                        61 0000 3110 000 0000 582                  52.25
+
+Check Number: 333208           Check Type: Check      Check Date: 08/20/2024    Vendor: 013984             TYSON FOODS INC                     Check Total:       22,960.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  32639571                 08/05/2024                    FOOD                                              61 0060 3110 000 0000 631              10,229.10
+  32643678                 08/06/2024                    FOOD                                              61 0060 3110 000 0000 631              12,731.40
+
+Check Number: 333209           Check Type: Check      Check Date: 08/20/2024    Vendor: 014073             SAMIR VUKOVIC                       Check Total:           90.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  080824                   08/08/2024                    UNIFORM                                           61 0000 3110 000 0000 292                  90.00
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   2                           Total without Voids:       37,564.95
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                            Page: 20
+08/21/2024 11:40 AM                                                                                                                                  User ID: 16345
+Checking Account:      3                  3
+Check Number: 200078           Check Type: Check      Check Date: 08/20/2024    Vendor: 107036      OWEN ABEL                         Check Total:          400.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  080924                   08/09/2024                    JUNE/AUG SH CHR CHOREOGRAPHY               21 0114 1900 950 7213 611              400.00
+
+Check Number: 200079           Check Type: Check      Check Date: 08/20/2024    Vendor: 020187      ALPHAGRAPHICS OF NORTH LIBERTY    Check Total:          686.83
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  63642                    08/16/2024                    ATHLETIC SIGNS                             21 0114 1900 923 6601 611              686.83
+
+Check Number: 200080           Check Type: Check      Check Date: 08/20/2024    Vendor: 006372      APPLE INC.                        Check Total:        4,487.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  MB00251499               07/24/2024     2500177        Personalized 10.2-inch iPad Wi-Fi 64GB -   21 0114 1900 950 7000 611              598.00
+  MB00361143               07/24/2024     2500178        Personalized 10.9-inch iPad Wi-Fi 64GB -   21 0109 1900 923 6790 611              658.00
+  MB00361143               07/24/2024     2500178        Personalized 10.9-inch iPad Wi-Fi 256GB    21 0109 1900 923 6790 611            1,437.00
+  MB03280302               08/09/2024     2500251        Personalized 10.2-inch iPad Wi-Fi 64GB -   21 0114 1900 923 6601 611            1,794.00
+
+Check Number: 200081           Check Type: Check      Check Date: 08/20/2024    Vendor: 010642      C.R. GLASS CO.                    Check Total:        8,660.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  11337                    08/08/2024     F250068        Liberty Mirrors for D038                   21 0114 1900 950 7000 611            8,660.00
+
+Check Number: 200082           Check Type: Check      Check Date: 08/20/2024    Vendor: 005921      CEDAR RAPIDS WASHINGTON           Check Total:          140.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  082924                   08/19/2024                    8/29 CITY VB                               21 0109 1900 920 6815 811              140.00
+
+Check Number: 200083           Check Type: Check      Check Date: 08/20/2024    Vendor: 106675      MALO CHARLES                      Check Total:           72.21
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  051324                   08/20/2024                    5/13 NW 6725                               21 0213 1900 920 6725 345               72.21
+
+Check Number: 200084           Check Type: Check      Check Date: 08/20/2024    Vendor: 008774      COPYWORKS                         Check Total:          569.70
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  80930                    07/08/2024                    BB POSTERS & PROGS                         21 0109 1900 923 6730 611               47.40
+  80980                    07/01/2024                    BB POSTERS                                 21 0109 1900 923 6730 611              342.30
+  80981                    07/01/2024                    SB POSTERS                                 21 0109 1900 923 6835 611              180.00
+
+Check Number: 200085           Check Type: Check      Check Date: 08/20/2024    Vendor: 012513      DECKER SPORTING GOODS INC         Check Total:          292.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  AAC006315-AF02           08/07/2024     2500222        Nike Womens Legend SS T – Black            21 0109 1900 923 6845 611              120.00
+  AAC006315-AF02           08/07/2024     2500222        Nike Womens Legend LS T – Univ Red         21 0109 1900 923 6845 611              132.00
+  AAC006315-AF02           08/07/2024     2500222        Nike Mens Legend SS T – Black              21 0109 1900 923 6845 611               20.00
+  AAC006315-AF02           08/07/2024     2500222        Nike Mens Legend LS Tee – Univ Red         21 0109 1900 923 6845 611               20.00
+
+Check Number: 200086           Check Type: Check      Check Date: 08/20/2024    Vendor: 000031      ELITE SPORTS                      Check Total:       11,887.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  37070                    07/26/2024                    FB CAMP TSHIRTS                            21 0114 1900 921 6720 611            3,696.00
+  37667                    08/15/2024                    STAFF SHIRTS                               21 0114 1900 950 7000 611            2,094.00
+  37781                    08/16/2024                    COACHES JACKETS                            21 0118 1900 923 6601 611            4,881.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                            Page: 21
+08/21/2024 11:40 AM                                                                                                                                  User ID: 16345
+Checking Account:      3                  3
+  37790                    08/14/2024                    BXC SHIRTS                               21 0118 1900 921 6745 611                495.00
+  37805                    08/20/2024                    FB APPAREL                               21 0118 1900 921 6720 611                721.00
+
+Check Number: 200087           Check Type: Check      Check Date: 08/20/2024    Vendor: 001015    GRANT WOOD AEA                      Check Total:           52.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  139716                   08/08/2024                    NSO MATERIALS                            21 0114 1900 950 7073 611                 52.50
+
+Check Number: 200088           Check Type: Check      Check Date: 08/20/2024    Vendor: 015983    HALVERSON PHOTOGRAPHY               Check Total:        1,500.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  6                        08/12/2024                    CH CANVAS PRINTS                         21 0109 1900 950 7000 611              1,500.00
+
+Check Number: 200089           Check Type: Check      Check Date: 08/20/2024    Vendor: 001058    HARRY'S CUSTOM TROPHIES             Check Total:          370.75
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  005486                   07/26/2024                    AMBASSADORS BADGES                       21 0109 1900 950 7120 611                350.75
+  005584                   08/14/2024                    AOY PLATES ENGRAVED                      21 0109 1900 920 6601 611                 20.00
+
+Check Number: 200090           Check Type: Check      Check Date: 08/20/2024    Vendor: 017250    HUDL                                Check Total:       15,000.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  H00086921                07/16/2024                    HUDL AD PKG                              21 0114 1900 921 6710 611              1,650.00
+  H00086921                07/16/2024                    HUDL AD PKG                              21 0114 1900 921 6720 611              2,850.00
+  H00086921                07/16/2024                    HUDL AD PKG                              21 0114 1900 921 6725 611              1,150.00
+  H00086921                07/16/2024                    HUDL AD PKG                              21 0114 1900 921 6810 611              1,650.00
+  H00086921                07/16/2024                    HUDL AD PKG                              21 0114 1900 921 6815 611              1,150.00
+  H00086921                07/16/2024                    HUDL AD PKG                              21 0114 1900 921 6825 611              1,150.00
+  H00086921                07/16/2024                    HUDL AD PKG                              21 0114 1900 923 6601 611              3,400.00
+  H00087110                07/17/2024                    HUDL AD PKG                              21 0114 1900 921 6725 611              1,000.00
+  H00087110                07/17/2024                    HUDL AD PKG                              21 0114 1900 923 6601 611              1,000.00
+
+Check Number: 200091           Check Type: Check      Check Date: 08/20/2024    Vendor: 016332    HY-VEE, INC.                        Check Total:          612.08
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  081224A                  08/12/2024                    BB CONCESSIONS                           21 0109 1900 923 6730 611                481.39
+  081224B                  08/12/2024                    ADMIN SPLS                               21 0218 1900 950 7000 611                 67.70
+  081224C                  08/12/2024                    BB CAKE                                  21 0114 1900 921 6730 611                 62.99
+
+Check Number: 200092           Check Type: Check      Check Date: 08/20/2024    Vendor: 000251    IOWA HIGH SCHOOL ATHLETIC ASSOC     Check Total:           75.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  INV6407                  07/03/2024                    SOCCER PLAQUE                            21 0118 1900 923 6601 611                 75.00
+
+Check Number: 200093           Check Type: Check      Check Date: 08/20/2024    Vendor: 017329    IOWA HIGH SCHOOL GOLF COACHES       Check Total:           45.00
+                                                                                                  ASSOC
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  081924                   08/19/2024                    CITY HS BGF MEMBERSHIP                   21 0109 1900 923 6760 611                 22.50
+  081924                   08/19/2024                    CITY HS GGF MEMBERSHIP                   21 0109 1900 923 6860 611                 22.50
+
+Check Number: 200094           Check Type: Check      Check Date: 08/20/2024    Vendor: 012509    IRONSIDE APPAREL & PROMOTIONS INC Check Total:             40.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                          Detail Check Register                                                     Page: 22
+08/21/2024 11:40 AM                                                                                                                              User ID: 16345
+Checking Account:      3                  3
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  30624                    08/14/2024                    DANCE JACKETS EMBROIDERY                    21 0118 1900 921 6694 611          40.00
+
+Check Number: 200095           Check Type: Check      Check Date: 08/20/2024       Vendor: 019986    JOSTENS                      Check Total:           30.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  34543318                 07/09/2024                    DIPLOMA                                     21 0109 1900 950 7250 611          15.00
+  34579948                 08/06/2024                    DIPLOMA                                     21 0109 1900 950 7250 611          15.00
+
+Check Number: 200096           Check Type: Check      Check Date: 08/20/2024       Vendor: 013647    MICHELLE KOLLER              Check Total:          179.67
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  082724                   08/20/2024                    8/27 WEST GSW                               21 0118 1900 920 6870 345         179.67
+
+Check Number: 200097           Check Type: Check      Check Date: 08/20/2024       Vendor: 011706    KINOGONO MATAMURA            Check Total:          110.72
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  040424                   08/20/2024                    4/4 LIB GSC                                 21 0114 1900 920 6825 345         110.72
+
+Check Number: 200098           Check Type: Check      Check Date: 08/20/2024       Vendor: 001980    MEDCO SUPPLY CO, INC.        Check Total:        1,168.29
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  IN97847051               07/26/2024     2500191        7 lb ankle weight                           21 0000 1900 920 6601 611          27.10
+  IN97847051               07/26/2024     2500191        compex electrodes                           21 0000 1900 920 6601 611          36.26
+  IN97847051               07/26/2024     2500191        compex electrodes                           21 0000 1900 920 6601 611          37.34
+  IN97851002               07/29/2024     2500191        4 wing bandage                              21 0000 1900 920 6601 611          58.20
+  IN97851002               07/29/2024     2500191        patch bandage                               21 0000 1900 920 6601 611          12.92
+  IN97851002               07/29/2024     2500191        strip bandage                               21 0000 1900 920 6601 611          48.30
+  IN97851002               07/29/2024     2500191        2nd skin                                    21 0000 1900 920 6601 611          42.78
+  IN97851002               07/29/2024     2500191        classic wrap                                21 0000 1900 920 6601 611         184.20
+  IN97851002               07/29/2024     2500191        ice bags                                    21 0000 1900 920 6601 611         129.37
+  IN97851002               07/29/2024     2500191        Heel and lace pad                           21 0000 1900 920 6601 611          22.50
+  IN97851002               07/29/2024     2500191        green pre wrap                              21 0000 1900 920 6601 611         368.52
+  IN97851002               07/29/2024     2500191        black pre wrap                              21 0000 1900 920 6601 611          57.54
+  IN97851002               07/29/2024     2500191        powerflex                                   21 0000 1900 920 6601 611          37.59
+  IN97851002               07/29/2024     2500191        compression stocking                        21 0000 1900 920 6601 611          41.66
+  IN97851002               07/29/2024     2500191        ace bandage                                 21 0000 1900 920 6601 611          24.54
+  IN97851002               07/29/2024     2500191        XL bandage                                  21 0000 1900 920 6601 611          18.80
+  IN97851002               07/29/2024     2500191        trama dressing                              21 0000 1900 920 6601 611           6.18
+  IN97851002               07/29/2024     2500191        skin lube                                   21 0000 1900 920 6601 611          14.49
+
+Check Number: 200099           Check Type: Check      Check Date: 08/20/2024       Vendor: 001980    MEDCO SUPPLY CO, INC.        Check Total:        1,566.89
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  IN97851002               07/29/2024     2500191        vacuum splint kit                           21 0000 1900 920 6601 611         600.00
+  IN97851002               07/29/2024     2500191        small thigh sleeve                          21 0000 1900 920 6601 611          27.46
+  IN97851002               07/29/2024     2500191        Large thigh sleeve                          21 0000 1900 920 6601 611          27.32
+  IN97851002               07/29/2024     2500191        foam cast cover kit                         21 0000 1900 920 6601 611          78.30
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                          Detail Check Register                                                     Page: 23
+08/21/2024 11:40 AM                                                                                                                              User ID: 16345
+Checking Account:      3                  3
+  IN97851002               07/29/2024     2500191        triple antibiotic                           21 0000 1900 920 6601 611          12.00
+  IN97851002               07/29/2024     2500191        hydrogen peroxide                           21 0000 1900 920 6601 611           9.72
+  IN97851002               07/29/2024     2500191        heel lift                                   21 0000 1900 920 6601 611          17.61
+  IN97851002               07/29/2024     2500191        xtra heavy thera band                       21 0000 1900 920 6601 611          99.10
+  IN97851002               07/29/2024     2500191        blue tubing                                 21 0000 1900 920 6601 611          13.07
+  IN97851002               07/29/2024     2500191        nytrile gloves                              21 0000 1900 920 6601 611          35.58
+  IN97851002               07/29/2024     2500191        crutches                                    21 0000 1900 920 6601 611          82.74
+  IN97851002               07/29/2024     2500191        vacuum splint ankle                         21 0000 1900 920 6601 611         159.20
+  IN97851002               07/29/2024     2500191        contact solution                            21 0000 1900 920 6601 611          49.90
+  IN97851002               07/29/2024     2500191        hand sanitizer                              21 0000 1900 920 6601 611          13.70
+  IN97851002               07/29/2024     2500191        lotion                                      21 0000 1900 920 6601 611          21.34
+  IN97851002               07/29/2024     2500191        3 lb ankle weight                           21 0000 1900 920 6601 611          29.42
+  IN97851002               07/29/2024     2500191        arm sling                                   21 0000 1900 920 6601 611         138.60
+  IN97851002               07/29/2024     2500191        shoulder stabilizer                         21 0000 1900 920 6601 611         136.74
+  IN97851002               07/29/2024     2500191        knee XL sleeve                              21 0000 1900 920 6601 611          15.09
+
+Check Number: 200100           Check Type: Check      Check Date: 08/20/2024       Vendor: 001980    MEDCO SUPPLY CO, INC.        Check Total:          778.26
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  IN97851002               07/29/2024     2500191        biofreeze                                   21 0000 1900 920 6601 611          82.04
+  IN97851002               07/29/2024     2500191        biofreeze                                   21 0000 1900 920 6601 611           8.56
+  IN97851002               07/29/2024     2500191        clippers                                    21 0000 1900 920 6601 611           6.70
+  IN97851002               07/29/2024     2500191        eye drops                                   21 0000 1900 920 6601 611          20.66
+  IN97851002               07/29/2024     2500191        eye drops                                   21 0000 1900 920 6601 611          10.95
+  IN97851002               07/29/2024     2500191        contact case                                21 0000 1900 920 6601 611           8.60
+  IN97851002               07/29/2024     2500191        blue versa loops                            21 0000 1900 920 6601 611           7.22
+  IN97851002               07/29/2024     2500191        red versa loops                             21 0000 1900 920 6601 611           7.36
+  IN97851002               07/29/2024     2500191        5 lb ankle weight                           21 0000 1900 920 6601 611          18.35
+  IN97851002               07/29/2024     2500191        leg elevating splint                        21 0000 1900 920 6601 611          47.68
+  IN97851002               07/29/2024     2500191        heat packs                                  21 0000 1900 920 6601 611          79.17
+  IN97851002               07/29/2024     2500191        exercise ball                               21 0000 1900 920 6601 611          26.77
+  IN97851002               07/29/2024     2500191        purple versa loops                          21 0000 1900 920 6601 611           8.42
+  IN97851002               07/29/2024     2500191        ace bandage                                 21 0000 1900 920 6601 611          25.14
+  IN97851002               07/29/2024     2500191        massage ball                                21 0000 1900 920 6601 611          13.90
+  IN97851002               07/29/2024     2500191        taping base spray                           21 0000 1900 920 6601 611           8.10
+  IN97851002               07/29/2024     2500191        hypervolts                                  21 0000 1900 920 6601 611         350.00
+  IN97851002               07/29/2024     2500191        massage sticks                              21 0000 1900 920 6601 611          23.99
+  IN97851002               07/29/2024     2500191        massage sticks                              21 0000 1900 920 6601 611          24.65
+
+Check Number: 200101           Check Type: Check      Check Date: 08/20/2024       Vendor: 001980    MEDCO SUPPLY CO, INC.        Check Total:          757.94
+  Invoice Number           Invoice Date   PO Number      Detail Description                          Chart of Account Number     Detail Amount
+  IN97851002               07/29/2024     2500191        Knuckle bandages                            21 0000 1900 920 6601 611          41.16
+  IN97851002               07/29/2024     2500191        Shipping                                    21 0000 1900 920 6601 611         299.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                         Detail Check Register                                                       Page: 24
+08/21/2024 11:40 AM                                                                                                                               User ID: 16345
+Checking Account:      3                  3
+  IN97851002               07/29/2024     2500191        dumbell set                                21 0000 1900 920 6601 611            82.26
+  IN97851002               07/29/2024     2500191        contoured roller                           21 0000 1900 920 6601 611            23.81
+  IN97851002               07/29/2024     2500191        gator lite                                 21 0000 1900 920 6601 611           140.10
+  IN97851002               07/29/2024     2500191        cupping set                                21 0000 1900 920 6601 611            28.31
+  IN97860023               07/31/2024     2500171        LEUKOTAPE CORRECTIVE TAPE                  21 0000 1900 920 6601 611            27.40
+  IN97878865               08/05/2024     2500191        powerflex                                  21 0000 1900 920 6601 611            37.59
+  IN97878865               08/05/2024     2500191        knee strap                                 21 0000 1900 920 6601 611            32.64
+  IN97878865               08/05/2024     2500191        anitmicrobial wipes                        21 0000 1900 920 6601 611             3.24
+  IN97894093               08/08/2024     2500171        FINGERNAIL CLIP                            21 0000 1900 920 6601 611            26.60
+  IN97922794               08/16/2024     2500191        green tubing                               21 0000 1900 920 6601 611            11.67
+  IN97927255               08/19/2024     2500191        saline wipes                               21 0000 1900 920 6601 611             4.16
+
+Check Number: 200102           Check Type: Check      Check Date: 08/20/2024      Vendor: 107307    MOGA TRANSPORT LLC             Check Total:        1,000.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  001                      08/16/2024                    BB VIDEOGRAPHY                             21 0109 1900 923 6730 611         1,000.00
+
+Check Number: 200103           Check Type: Check      Check Date: 08/20/2024      Vendor: 004583    MUSCATINE HIGH SCHOOL          Check Total:          300.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  081624                   08/16/2024                    8/16 CITY BGF                              21 0109 1900 920 6760 811           150.00
+  081624A                  08/16/2024                    8/16 LIB BGF                               21 0114 1900 920 6860 811           150.00
+
+Check Number: 200104           Check Type: Check      Check Date: 08/20/2024      Vendor: 015577    OLD CAPITOL SCREEN PRINTERS    Check Total:        1,424.10
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  20443                    07/23/2024                    GSW SHIRTS                                 21 0118 1900 921 6870 611         1,424.10
+
+Check Number: 200105           Check Type: Check      Check Date: 08/20/2024      Vendor: 002801    PLEASANT VALLEY GOLF COURSE    Check Total:        2,300.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  17                       09/01/2024                    BGF GREEN FEES                             21 0109 1900 920 6760 811         1,500.00
+  17                       09/01/2024                    BGF RANGE FEES                             21 0109 1900 920 6760 811           800.00
+
+Check Number: 200106           Check Type: Check      Check Date: 08/20/2024      Vendor: 019224    POWER MUSIC INC                Check Total:          875.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  21780                    07/17/2024     2500169        Dance Music                                21 0114 1900 921 6694 611           875.00
+
+Check Number: 200107           Check Type: Check      Check Date: 08/20/2024      Vendor: 008210    JUMA SHABANI                   Check Total:          133.86
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  040424                   08/20/2024                    4/4 LIB GSC                                21 0114 1900 920 6825 345           133.86
+
+Check Number: 200108           Check Type: Check      Check Date: 08/20/2024      Vendor: 013693    TIMOTHY SMITH                  Check Total:          136.69
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  040424                   08/20/2024                    4/4 LIB GSC                                21 0114 1900 920 6825 345           136.69
+
+Check Number: 200109           Check Type: Check      Check Date: 08/20/2024      Vendor: 017331    STITCH IN TIME INC             Check Total:          225.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number       Detail Amount
+  7796                     08/12/2024                    GOLF SHIRTS EMBROIDERY                     21 0114 1900 921 6760 611           112.50
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                         Detail Check Register                                                                      Page: 25
+08/21/2024 11:40 AM                                                                                                                                              User ID: 16345
+Checking Account:      3                  3
+  7796                     08/12/2024                    GOLF SHIRTS EMBROIDERY                              21 0114 1900 923 6601 611                 112.50
+
+Check Number: 200110           Check Type: Check      Check Date: 08/20/2024      Vendor: 012998             DAVID THOMA                         Check Total:           188.14
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  082724                   08/20/2024                    8/27 CITY GSW                                       21 0109 1900 920 6870 345                 188.14
+
+Check Number: 200111           Check Type: Check      Check Date: 08/20/2024      Vendor: 107253             TRU SCORE                           Check Total:         1,073.44
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  5868                     08/14/2024     2500101        Boys Tennis - Paying 50%                            21 0109 1900 923 6750 611                 536.72
+  5868                     08/14/2024     2500101        Girls Tennis - Paying 50%                           21 0109 1900 923 6850 611                 536.72
+
+Check Number: 200112           Check Type: Check      Check Date: 08/20/2024      Vendor: 000220             BRIAN MILLER                        Check Total:           355.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  7367                     07/20/2024                    BBB CAMP SHIRTS                                     21 0109 1900 922 6710 611                 355.00
+
+Check Number: 200113           Check Type: Check      Check Date: 08/20/2024      Vendor: 013666             UNIVERSITY OF MINNESOTA             Check Total:           450.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  092024                   08/20/2024                    9/20 LIBERTY HS BXC                                 21 0114 1900 920 6745 811                 225.00
+  092024                   08/20/2024                    9/20 LIBERTY HS GXC                                 21 0114 1900 920 6845 811                 225.00
+
+Check Number: 200114           Check Type: Check      Check Date: 08/20/2024      Vendor: 017217             VARSITY SPIRIT FASHIONS             Check Total:         1,255.40
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  37102947                 08/01/2024     2500100        Glitter Game Day Back Pack                          21 0109 1900 923 6601 611                 899.40
+  37102947                 08/01/2024     2500100        2 Clr Serif Work w/ Script                          21 0109 1900 923 6601 611                 276.00
+  37102947                 08/01/2024     2500100        Shipping                                            21 0109 1900 923 6601 611                  80.00
+
+Check Number: 200115           Check Type: Check      Check Date: 08/20/2024      Vendor: 000121             WATERHOUSE WATER SYSTEMS            Check Total:            75.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  0019072                  05/31/2024                    COOLER RENT                                         21 0109 1900 950 7000 611                  75.00
+  0019072                  05/31/2024                    6/1/24 - 8/31/24                                    21 0109 1900 950 7000 611                    0.00
+
+Check Number: 200116           Check Type: Check      Check Date: 08/20/2024      Vendor: 020954             WILLIAMSBURG COMM. SCHOOL           Check Total:           100.00
+                                                                                                             DISTRICT
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  083124                   08/19/2024                    8/31 LIB VB                                         21 0114 1900 920 6815 811                 100.00
+
+Check Number: 200117           Check Type: Check      Check Date: 08/20/2024      Vendor: 013400             WOOTER APPAREL INC                  Check Total:         4,322.60
+  Invoice Number           Invoice Date   PO Number      Detail Description                                  Chart of Account Number            Detail Amount
+  0183075                  03/21/2024     2400915        Soccer Uniforms (splitting evenly betwee            21 0209 1900 920 6725 616               1,852.36
+  0183075                  03/21/2024     2400915        Soccer Uniforms                                     21 0209 1900 920 6825 616               1,852.36
+  0183164                  03/22/2024     2400941        Custom Wrestling Singlets                           21 0209 1900 920 6790 616                 575.88
+  0183164                  03/22/2024     2400941        Shipping & Handling                                 21 0209 1900 920 6790 616                  42.00
+
+  *Denotes Expensed Invoice Item                                                      Checking Account ID:   3                           Total without Voids:        63,696.07
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                              Detail Check Register                                                                      Page: 26
+08/21/2024 11:40 AM                                                                                                                                                   User ID: 16345
+Checking Account:     4                  4
+Check Number: 106             Check Type: Automatic Payment Check Date: 08/20/2024     Vendor: 008952             DELTA DENTAL                         Check Total:       50,789.18
+  Invoice Number          Invoice Date   PO Number              Detail Description                                Chart of Account Number             Detail Amount
+  081324                  08/13/2024                            DENTAL CLAIMS                                     74 0000 2514 000 0000 391               25,262.83
+  082024                  08/20/2024                            DENTAL CLAIMS                                     74 0000 2514 000 0000 391               25,526.35
+
+Check Number: 1653            Check Type: Check             Check Date: 08/20/2024     Vendor: 010516             GALLAGHER BENEFIT SERVICES INC       Check Total:        2,500.00
+  Invoice Number          Invoice Date   PO Number              Detail Description                                Chart of Account Number             Detail Amount
+  318916                  08/09/2024                            AUG CONSULTING                                    71 0000 2514 000 0000 892                2,500.00
+
+Check Number: 1654            Check Type: Check             Check Date: 08/20/2024     Vendor: 005608             IOWA IND. HEALTH BENEFIT REINS       Check Total:       17,770.00
+  Invoice Number          Invoice Date   PO Number              Detail Description                                Chart of Account Number             Detail Amount
+  080124                  08/01/2024                            CY 2019 ASSESSMENT                                71 0000 2514 000 0000 892               17,770.00
+
+  *Denotes Expensed Invoice Item                                                           Checking Account ID:   4                            Total without Voids:       71,059.18
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                            Detail Check Register                                                            Page: 27
+08/21/2024 11:40 AM                                                                                                                                       User ID: 16345
+Checking Account:   5                  5
+Check Number: 1             Check Type: Automatic Payment Check Date: 08/20/2024     Vendor: 107305      UMB BANK, N.A.                    Check Total:        1,200.00
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  982416                07/09/2024                            BOND ADMIN FEES                            40 0000 5000 000 0000 349              600.00
+  985560                08/08/2024                            BOND ADMIN FEES                            40 0000 5000 000 0000 349              600.00
+
+Check Number: 9027613       Check Type: Check             Check Date: 08/20/2024     Vendor: 015270      AAA MECHANICAL CONTRACTORS INC    Check Total:        5,506.06
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  12468981              08/14/2024                            ESC boiler inspection repair               36 0000 4700 000 8730 450            5,506.06
+
+Check Number: 9027614       Check Type: Check             Check Date: 08/20/2024     Vendor: 105197      ADVANCED BUSINESS SYSTEMS INC     Check Total:        5,956.00
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  37216816              08/14/2024     2100527                GARNER Sharp MX-M7570 COPIER LEASE         33 0000 4500 000 8999 733              285.00
+  37216817              08/14/2024                            SHARP COPIER LEASES                        33 0000 4500 000 8999 733            4,780.00
+  37226425              08/15/2024                            ESC SHARP MX-7081 COPIER LEASE             33 0000 4500 000 8999 733              292.00
+  37231437              08/16/2024     2400425                HILLS Sharp BP-70C31 COPIER LEASE          33 0000 4500 000 8999 733              151.00
+  37242832              08/19/2024     2300577                CITY MUSIC SHARP BP-70C31 COPIER LEASE     33 0000 4500 000 8999 733              167.00
+  37242833              08/19/2024     2300862                ESC Sharp MX-7081 COPIER LEASE             33 0000 4500 000 8999 733              281.00
+
+Check Number: 9027615       Check Type: Check             Check Date: 08/20/2024     Vendor: 000230      ADVANCED ELECTRICAL SERVICES      Check Total:       29,800.00
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  67609                 08/12/2024     F250089                Geothermal Wiring                          36 0118 4700 000 8710 450           29,800.00
+
+Check Number: 9027616       Check Type: Check             Check Date: 08/20/2024     Vendor: 020147      ALL AMERICAN CONCRETE, INC.       Check Total:      157,149.00
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  Shimek App 1          08/16/2024     F240844                Shimek ES Hard Surface Repair              36 0000 4200 000 8715 450           74,556.00
+  Twain App 1           08/19/2024     F240845                Twain ES Hard Surface Repair               36 0000 4200 000 8715 450           82,593.00
+
+Check Number: 9027617       Check Type: Check             Check Date: 08/20/2024     Vendor: 105624      BIG IRON WELDING OF IOWA LLC      Check Total:        2,450.00
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  5282                  08/19/2024                            8 Aluminum ramps                           33 0000 4200 000 0000 450            2,450.00
+
+Check Number: 9027618       Check Type: Check             Check Date: 08/20/2024     Vendor: 021165      BI-STATE MASONRY                  Check Total:        2,090.00
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  6033                  08/12/2024     F240894                Tate Masonry repair                        36 0000 4700 000 8701 450            1,590.00
+  6033                  08/12/2024     F240894                Bid Option #1 Saltguard Application        36 0000 4700 000 8701 450              500.00
+
+Check Number: 9027619       Check Type: Check             Check Date: 08/20/2024     Vendor: 020625      BLUUM OF MINNESOTA INC            Check Total:       11,920.73
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+  1000079               08/13/2024     2500250                Acer Chromebook Spin 314 CP314-2HN CP314   33 0000 4500 000 8999 733            4,380.00
+  652300                08/09/2024     2301106                CREDIT                                     33 0000 4500 000 8999 733             (236.74)
+  652305                08/09/2024     2301163                CREDIT                                     33 0000 4500 000 8993 733          (11,433.03)
+  996766                07/29/2024     2500154                Actiontec ScreenBeam 1000 EDU - wireless   33 0000 4500 000 8999 733           19,210.50
+
+Check Number: 9027620       Check Type: Check             Check Date: 08/20/2024     Vendor: 020996      BOLAND RECREATION                 Check Total:       87,849.78
+  Invoice Number        Invoice Date   PO Number              Detail Description                         Chart of Account Number          Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                     Detail Check Register                                                            Page: 28
+08/21/2024 11:40 AM                                                                                                                                User ID: 16345
+Checking Account:    5                  5
+  24197                  08/02/2024     F240878        Alexander Play Panels                      36 0442 4200 000 8722 450           25,000.00
+  24216                  08/19/2024                    Equipment installation                     33 0000 4200 000 0000 450           62,849.78
+
+Check Number: 9027621        Check Type: Check      Check Date: 08/20/2024      Vendor: 008508    CDW GOVERNMENT LLC                Check Total:        8,723.82
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  SQ57113                08/01/2024     2500214        Epson PowerLite 1288 Full HD 1080p Meeti   33 0000 4500 000 8999 733              694.00
+  SQ58729                08/01/2024     2500215        APC Smart-UPS 2200VA SmartConnect Port S   33 0000 4700 000 8999 450            3,508.08
+  SQ58729                08/01/2024     2500215        APC UPS Network Management Card 3 with E   33 0000 4700 000 8999 450            2,206.04
+  st85847                08/09/2024     2500257        Epson ELPLP91 - projector lamp             33 0000 4500 000 8999 733            2,315.70
+
+Check Number: 9027622        Check Type: Check      Check Date: 08/20/2024      Vendor: 105104    CHROMEBOOKPARTS.COM               Check Total:       79,799.58
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  209071                 07/17/2024     2401163        Dell 11 3100 2-in-1 Motherboard, (4GB RA   33 0000 4500 000 8999 733           37,496.25
+  209700                 07/19/2024     2500144        Dell 3100 2-in-1 Motherboard, (4GB RAM,    33 0000 4500 000 8999 733           27,397.26
+  209710                 07/19/2024     2500155        Dell 11 3110 2-in-1 Chromebook Motherboa   33 0000 4500 000 8999 733           12,527.28
+  210161                 07/24/2024     2500144        Dell 3100 2-in-1 Motherboard, (4GB RAM,    33 0000 4500 000 8999 733              599.94
+  210431                 07/25/2024     2500144        Dell 3100 2-in-1 Motherboard, (4GB RAM,    33 0000 4500 000 8999 733              499.95
+  210453                 07/26/2024     2500144        Dell 3100 2-in-1 Motherboard, (4GB RAM,    33 0000 4500 000 8999 733              999.90
+  211355                 08/06/2024     2500231        Dell 11 3110 Chromebook Camera             33 0000 4500 000 8999 733              159.60
+  211766                 08/12/2024     2500249        Dell 3100 Non-Touch Battery Cable (Short   33 0000 4500 000 8999 733              119.40
+
+Check Number: 9027623        Check Type: Check      Check Date: 08/20/2024      Vendor: 013531    CITY CONSTRUCTION GROUP           Check Total:    1,337,801.72
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  City Ph 3 App 10       08/16/2024                    City Phase 3                               33 0109 4700 000 0000 450        1,114,933.96
+  Weber HVAC App 4       08/16/2024                    Weber HVAC Replacement                     33 0488 4700 000 0000 450          222,867.76
+
+Check Number: 9027624        Check Type: Check      Check Date: 08/20/2024      Vendor: 000461    CITY OF CORALVILLE                Check Total:       19,229.28
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  081524                 08/15/2024                    JULY POOL                                  36 0000 2610 000 0000 441            9,659.64
+  081524A                08/15/2024                    AUG POOL                                   36 0000 2610 000 0000 441            9,569.64
+
+Check Number: 9027625        Check Type: Check      Check Date: 08/20/2024      Vendor: 008096    DEDICATED PAINTING                Check Total:        2,300.00
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  240803                 08/03/2024                    NCJH paint music room lockers              36 0209 4700 000 8750 450            2,300.00
+
+Check Number: 9027626        Check Type: Check      Check Date: 08/20/2024      Vendor: 016754    DEPT OF INSPECTIONS, APPEALS &    Check Total:          880.00
+                                                                                                  LICENSING
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  194757                 08/02/2024                    District boiler inspections/permits        36 0000 4700 000 8730 450              880.00
+
+Check Number: 9027627        Check Type: Check      Check Date: 08/20/2024      Vendor: 106278    DUET RESOURCE GROUP INC           Check Total:      111,150.88
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  16373                  08/12/2024     2400642        Computer Lab - See 12/18/23 Quote for Sp   33 0109 4700 000 0000 733           57,985.80
+  16373                  08/12/2024     2400642        Robotics - See 12/18/23 Quote for Specif   33 0109 4700 000 0000 733            6,497.98
+  16373                  08/12/2024     2400642        Sewing Lab - See 12/18/23 Quote for Spec   33 0109 4700 000 0000 733           13,358.14
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                    Detail Check Register                                                          Page: 29
+08/21/2024 11:40 AM                                                                                                                             User ID: 16345
+Checking Account:   5                  5
+  16373                 08/12/2024     2400642        Lab Chairs - See 12/6/23 Quote for Speci   33 0109 4700 000 0000 733          3,136.32
+  16373                 08/12/2024     2400642        Lab Tables - See 12/6/23 Quote for Speci   33 0109 4700 000 0000 733         30,172.64
+
+Check Number: 9027628       Check Type: Check      Check Date: 08/20/2024     Vendor: 106241     EFAX CORPORATE                  Check Total:          122.18
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  4980928               07/31/2024                    AUG FAX SVCS                               33 0000 4500 000 8999 733            122.18
+
+Check Number: 9027629       Check Type: Check      Check Date: 08/20/2024     Vendor: 007984     FARNSWORTH GROUP, INC           Check Total:       10,772.82
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  253828                08/02/2024                    SEJH Middle School Addition                33 0218 4700 000 0000 450         10,772.82
+
+Check Number: 9027630       Check Type: Check      Check Date: 08/20/2024     Vendor: 015810     FOLLETT SCHOOL SOLUTIONS INC    Check Total:       55,765.55
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  1553820               08/15/2024     2500268        TITLEPEEK ONLINE SERVICE RENEWAL - DESTI 33 0000 4500 000 8999 733            5,511.16
+  1553820               08/15/2024     2500268        DISTRICT MEMBER LM - HOSTED SERVICE        33 0000 4500 000 8999 733         26,837.47
+                                                      RENE
+  1553820               08/15/2024     2500268        DISTRICT MEMBER RM - HOSTED SERVICE        33 0000 4500 000 8999 733         23,416.92
+                                                      RENE
+
+Check Number: 9027631       Check Type: Check      Check Date: 08/20/2024     Vendor: 014158     FRONTLINE TECHNOLOGIES GROUP    Check Total:       34,103.10
+                                                                                                 LLC
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  INVUS212047           08/14/2024                    LOCATION ANALYTICS SUBS                    33 0000 4700 000 8999 450         34,103.10
+  INVUS212047           08/14/2024                    10/1/24 - 9/30/25                          33 0000 4700 000 8999 450              0.00
+
+Check Number: 9027632       Check Type: Check      Check Date: 08/20/2024     Vendor: 104402     GAMETIME                        Check Total:       44,499.96
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  PFI-0244369           07/26/2024     F240765        Horn Playground Renovation                 36 0415 4200 000 8722 450         44,499.96
+
+Check Number: 9027633       Check Type: Check      Check Date: 08/20/2024     Vendor: 011086     GETZ FIRE EQUIPMENT CO          Check Total:        3,927.65
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  I1-867631             08/06/2024                    Lemme annual fire extinguisher inspectio   36 0000 4700 000 8799 450            249.55
+  I1-867632             08/06/2024                    Lucas annual fire extinguisher inspectio   36 0000 4700 000 8799 450            144.65
+  I1-867633             08/06/2024                    Twain annual fire extinguisher inspectio   36 0000 4700 000 8799 450            374.75
+  I1-867634             08/05/2024                    PP annual fire extinguisher inspection     36 0000 4700 000 8799 450          1,283.70
+  I1-867635             08/07/2024                    Horn annual fire extinguisher inspection   36 0000 4700 000 8799 450            655.90
+  I1-867636             08/07/2024                    Shimek annual fire ext inspection          36 0000 4700 000 8799 450            168.30
+  I1-867637             08/07/2024                    Mann annual fire extinguisher inspection   36 0000 4700 000 8799 450             88.50
+  I1-867638             08/06/2024                    Wood annual fire extinguisher inspection   36 0000 4700 000 8799 450            414.25
+  I1-867639             08/06/2024                    Tate annual fire extinguisher inspection   36 0000 4700 000 8799 450             87.55
+  I1-867640             08/07/2024                    Van Allen annual fire ext inspection       36 0000 4700 000 8799 450            460.50
+
+Check Number: 9027634       Check Type: Check      Check Date: 08/20/2024     Vendor: 011086     GETZ FIRE EQUIPMENT CO          Check Total:        2,613.55
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  I1-867641             08/07/2024                    Borlaug annual fire ext inspection         36 0000 4700 000 8799 450          1,187.55
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                             Page: 30
+08/21/2024 11:40 AM                                                                                                                                  User ID: 16345
+Checking Account:     5                  5
+  I1-867642               08/06/2024                    Alexander annual fire ext inspection       36 0000 4700 000 8799 450               468.55
+  I1-867643               08/06/2024                    Hoover annual fire ext inspection          36 0000 4700 000 8799 450               157.65
+  I1-867644               08/05/2024                    Warehouse annual fire ext inspection       36 0000 4700 000 8799 450               799.80
+
+Check Number: 9027635         Check Type: Check      Check Date: 08/20/2024     Vendor: 001015     GRANT WOOD AEA                     Check Total:       14,374.70
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  139433                  07/30/2024                    IA AEA PD ON-LINE FY25                     36 0000 4700 000 9045 450            14,374.70
+
+Check Number: 9027636         Check Type: Check      Check Date: 08/20/2024     Vendor: 012004     GREATAMERICA FINANCIAL SVCS CORP Check Total:            503.00
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  37211220                08/13/2024     20001890       TATE SHARP MX-6071 COPIER LEASE            33 0000 4500 000 8999 733               230.00
+  37211221                08/13/2024     2100121        TATE Sharp MX-M7570 Copier Lease           33 0000 4500 000 8999 733               273.00
+
+Check Number: 9027637         Check Type: Check      Check Date: 08/20/2024     Vendor: 014481     HANSEN ASPHALT                     Check Total:       66,895.30
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  1418                    08/10/2024     F250147        Wickham Overlay, Patching and Footings     36 0000 4200 000 8715 450            65,495.30
+  1421                    08/13/2024                    NWJH asphalt                               36 0213 4200 000 8715 450             1,400.00
+
+Check Number: 9027638         Check Type: Check      Check Date: 08/20/2024     Vendor: 106350     THE HENLEY GROUP                   Check Total:        5,754.18
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  CITY SCREEN APP 4.A 11/14/2023                        CITY HS SCREEN WALLS                       36 0109 4700 000 8799 450             5,754.18
+
+Check Number: 9027639         Check Type: Check      Check Date: 08/20/2024     Vendor: 001433     IOWA STATE PRISON INDUSTRIES       Check Total:        1,700.00
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  537201                  08/13/2024     F240960        Mercer #1 Trash Receptacles                36 0109 4200 000 8721 450             1,700.00
+
+Check Number: 9027640         Check Type: Check      Check Date: 08/20/2024     Vendor: 021094     J HARDING INC                      Check Total:       24,603.18
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  City App 4              08/19/2024     F240871        City ADA Ramp                              36 0109 4200 000 8715 450            19,950.00
+  City Stair App 2        08/19/2024                    City Plaza Stair Replacement               36 0109 4200 000 8715 450             2,560.00
+  Penn Access App 3       08/19/2024                    Penn N Side Access Improvements            36 0447 4200 000 8715 450             2,093.18
+
+Check Number: 9027641         Check Type: Check      Check Date: 08/20/2024     Vendor: 004191     KING'S MATERIAL INC.               Check Total:       12,924.82
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  KMI8145877              07/23/2024                    Pallet credits                             36 0000 4200 000 8722 450               (90.00)
+  KMI8147102              07/29/2024                    Outdoor classroom pallet credits           33 0000 4200 000 0000 450              (510.00)
+  KMI8149901              08/07/2024     F250094        Grant Outdoor classroom seat wall          33 0000 4200 000 0000 450            13,524.82
+
+Check Number: 9027642         Check Type: Check      Check Date: 08/20/2024     Vendor: 016608     L & P CONCRETE CONSTRUCTION INC    Check Total:       58,770.00
+  Invoice Number          Invoice Date   PO Number      Detail Description                         Chart of Account Number           Detail Amount
+  240811                  08/11/2024     F240886        Van Allen Outdoor Classroom Concrete Wor   33 0000 4200 000 0000 450            28,689.00
+  240811A                 08/11/2024                    Van Allen fence bases                      36 0000 4200 000 8724 450             4,500.00
+  240818                  08/18/2024     F240885        Grant Outdoor Classroom Concrete Work      33 0000 4200 000 0000 450            25,581.00
+
+Check Number: 9027643         Check Type: Check      Check Date: 08/20/2024     Vendor: 007193     LAKESHORE LEARNING MATERIALS       Check Total:        1,019.18
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                        Page: 31
+08/21/2024 11:40 AM                                                                                                                              User ID: 16345
+Checking Account:   5                  5
+  Invoice Number        Invoice Date   PO Number      Detail Description                          Chart of Account Number        Detail Amount
+  692201072424          07/24/2024     2500179        Pitchers                                    33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Playfood (assorted)                         33 0000 3300 890 0000 611             56.99
+  692201072424          07/24/2024     2500179        Multicultural play food                     33 0000 3300 890 0000 611             56.99
+  692201072424          07/24/2024     2500179        Indestructible Dish Set                     33 0000 3300 890 0000 611             20.89
+  692201072424          07/24/2024     2500179        Pots and Pans                               33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Doll Bedding Set                            33 0000 3300 890 0000 611             31.34
+  692201072424          07/24/2024     2500179        Plastic Blocks                              33 0000 3300 890 0000 611            189.05
+  692201072424          07/24/2024     2500179        Jumbo Cardboard Blocks                      33 0000 3300 890 0000 611             47.49
+  692201072424          07/24/2024     2500179        foam building blocks                        33 0000 3300 890 0000 611             47.49
+  692201072424          07/24/2024     2500179        Giant beads & patterns                      33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Jumbo nuts and bolts                        33 0000 3300 890 0000 611             56.99
+  692201072424          07/24/2024     2500179        Jumbo buttons                               33 0000 3300 890 0000 611             28.49
+  692201072424          07/24/2024     2500179        Color cubes (1")                            33 0000 3300 890 0000 611             28.49
+  692201072424          07/24/2024     2500179        Magnetic tub letters                        33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Liquid Letters                              33 0000 3300 890 0000 611             47.49
+  692201072424          07/24/2024     2500179        Multicultural kid puppets (set of 8)        33 0000 3300 890 0000 611            141.55
+  692201072424          07/24/2024     2500179        Felt board series                           33 0000 3300 890 0000 611             47.49
+  692201072424          07/24/2024     2500179        Counting cones                              33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Giant alphabet stampers (uppercase)         33 0000 3300 890 0000 611             28.49
+
+Check Number: 9027644       Check Type: Check      Check Date: 08/20/2024        Vendor: 007193   LAKESHORE LEARNING MATERIALS    Check Total:          603.90
+  Invoice Number        Invoice Date   PO Number      Detail Description                          Chart of Account Number        Detail Amount
+  692201072424          07/24/2024     2500179        Giant alphabet stampers (lowercase)         33 0000 3300 890 0000 611             28.49
+  692201072424          07/24/2024     2500179        Giant washable ink pads (set of 5)          33 0000 3300 890 0000 611             36.09
+  692201072424          07/24/2024     2500179        Peg number boards                           33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        See-inside bucket balance                   33 0000 3300 890 0000 611             23.74
+  692201072424          07/24/2024     2500179        Sink or Float STEM kit                      33 0000 3300 890 0000 611             56.99
+  692201072424          07/24/2024     2500179        Magnetic wands                              33 0000 3300 890 0000 611             34.08
+  692201072424          07/24/2024     2500179        Real Bugs discovery kit                     33 0000 3300 890 0000 611             33.24
+  692201072424          07/24/2024     2500179        Vehicle building STEM kit                   33 0000 3300 890 0000 611             47.49
+  692201072424          07/24/2024     2500179        Tweezer tongs (set of 4)                    33 0000 3300 890 0000 611              9.49
+  692201072424          07/24/2024     2500179        Eye droppers (set of 12)                    33 0000 3300 890 0000 611              5.69
+  692201072424          07/24/2024     2500179        Tweezers (set of 12)                        33 0000 3300 890 0000 611             12.34
+  692201072424          07/24/2024     2500179        Phonemic Awareness Folder Game Library      33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Alphabet Folder Game Library                33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Alphabet Learning Locks                     33 0000 3300 890 0000 611             47.49
+  692201072424          07/24/2024     2500179        Tanagrams                                   33 0000 3300 890 0000 611             26.59
+  692201072424          07/24/2024     2500179        Magnetic Alphabet Maze                      33 0000 3300 890 0000 611             37.99
+  692201072424          07/24/2024     2500179        Find the letter activity                    33 0000 3300 890 0000 611             26.59
+  692201072424          07/24/2024     2500179        Beginner's peg puzzle set (includes 4)      33 0000 3300 890 0000 611             47.49
+  692201072424          07/24/2024     2500179        Alphabet Train Floor Puzzle                 33 0000 3300 890 0000 611             16.14
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                        Page: 32
+08/21/2024 11:40 AM                                                                                                                             User ID: 16345
+Checking Account:   5                  5
+
+Check Number: 9027645       Check Type: Check      Check Date: 08/20/2024       Vendor: 007193   LAKESHORE LEARNING MATERIALS    Check Total:        1,630.60
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  692201072424          07/24/2024     2500179        Transportation Floor Puzzle                33 0000 3300 890 0000 611             16.14
+  692201072424          07/24/2024     2500179        All 4 Seasons Floor Puzzle                 33 0000 3300 890 0000 611             16.14
+  692201072424          07/24/2024     2500179        On the Farm Floor Puzzle                   33 0000 3300 890 0000 611             16.14
+  692201072424          07/24/2024     2500179        Vegetable Garden Puzzle                    33 0000 3300 890 0000 611             12.34
+  692201072424          07/24/2024     2500179        Puzzle Rack                                33 0000 3300 890 0000 611             18.99
+  692201072424          07/24/2024     2500179        Playground balls                           33 0000 3300 890 0000 611            103.55
+  692201072424          07/24/2024     2500179        Rhythm set (10 plays)                      33 0000 3300 890 0000 611             66.49
+  692201072424          07/24/2024     2500179        Wrist ribbons                              33 0000 3300 890 0000 611             28.49
+  692201072424          07/24/2024     2500179        Whiteboards (set of 10)                    33 0000 3300 890 0000 611             47.98
+  692201072424          07/24/2024     2500179        Large baskets for food storage             33 0000 3300 890 0000 611             16.14
+  692201072424          07/24/2024     2500179        Writing materials shelf                    33 0000 3300 890 0000 733            141.55
+  692201072424          07/24/2024     2500179        Just like home comfy couch                 33 0000 3300 890 0000 733            379.05
+  692201072424          07/24/2024     2500179        Hardwood Easel                             33 0000 3300 890 0000 733            246.05
+  692201072424          07/24/2024     2500179        Classroom Carpet- 9' x 12'                 33 0000 3300 890 0000 733            521.55
+
+Check Number: 9027646       Check Type: Check      Check Date: 08/20/2024       Vendor: 106333   LANDMARK ARTISANS               Check Total:       21,205.00
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  1165                  07/19/2024     F240942        Horn Soccer Field Repair                   36 0000 4200 000 8722 450         21,205.00
+
+Check Number: 9027647       Check Type: Check      Check Date: 08/20/2024       Vendor: 016783   LIFE TIME FENCE COMPANY         Check Total:       12,470.00
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  2024-717              08/08/2024     F250073        Coralville Central Playground              36 0000 4200 000 8724 450          3,975.00
+  2024-718              08/08/2024     F250074        Penn Fence                                 36 0000 4200 000 8724 450          8,495.00
+
+Check Number: 9027648       Check Type: Check      Check Date: 08/20/2024       Vendor: 106721   MARKSTAAR                       Check Total:        3,842.09
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  50906                 07/24/2024     F250059        Penn Outdoor classroom Picnic table part   33 0000 4200 000 0000 450          1,164.01
+  50906                 07/24/2024     F250059        Lemme Outdoor classroom Picnic table par   33 0000 4200 000 0000 450          1,514.07
+  50906                 07/24/2024     F250059        Alexander Outdoor classroom Picnic table   33 0000 4200 000 0000 450          1,164.01
+
+Check Number: 9027649       Check Type: Check      Check Date: 08/20/2024       Vendor: 010780   MEDIAQUEST SIGN COMPANY LLC     Check Total:       38,250.00
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  12615                 08/06/2024     F240795        West FB Scoreboard Installation            33 0118 4200 924 6601 450         38,250.00
+
+Check Number: 9027650       Check Type: Check      Check Date: 08/20/2024       Vendor: 001991   MENARD INC                      Check Total:          835.47
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+  54105                 08/14/2024     F250184        West Offfice Shelving                      36 0000 4700 000 8799 450            670.44
+  54119                 08/14/2024     F250184        West Offfice Shelving                      36 0000 4700 000 8799 450            165.03
+
+Check Number: 9027651       Check Type: Check      Check Date: 08/20/2024       Vendor: 003218   MMS CONSULTANTS INC.            Check Total:       15,284.90
+  Invoice Number        Invoice Date   PO Number      Detail Description                         Chart of Account Number        Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                           Page: 33
+08/21/2024 11:40 AM                                                                                                                                User ID: 16345
+Checking Account:    5                  5
+  38635                  07/31/2024                    24-25 Hard Surface Assessment & Bidding    36 0000 4200 000 8715 450            9,824.80
+  38735                  07/31/2024                    Playground Accessible Route Analysis       36 0000 4700 000 8765 450              151.80
+  38736                  07/31/2024                    Lucas East Side Easement                   36 0436 4200 000 8715 450            2,729.31
+  38737                  07/31/2024                    2024 ADA Playground Equipment Design/Bid   33 0000 4200 000 0000 450              228.00
+  38738                  07/31/2024                    SEJH Modular Building                      33 0000 4700 000 0000 450            2,350.99
+
+Check Number: 9027652        Check Type: Check      Check Date: 08/20/2024     Vendor: 008719     NEUMILLER ELECTRIC INC            Check Total:        9,500.00
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  31737                  08/06/2024     F240967        West FB Scoreboard Boring                  36 0118 4700 000 8799 450            9,500.00
+
+Check Number: 9027653        Check Type: Check      Check Date: 08/20/2024     Vendor: 020967     OPN ARCHITECTS, INC.              Check Total:       11,566.00
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  22402008-6             07/31/2024                    Coralville Central Restroom Remodel        36 0403 4700 000 8755 450            3,250.00
+  23410000-8             07/31/2024                    Lucas Gym Addition                         31 0436 4700 000 9204 450            8,316.00
+
+Check Number: 9027654        Check Type: Check      Check Date: 08/20/2024     Vendor: 104886     PEAK CONSTRUCTION GROUP INC       Check Total:       40,281.69
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  NS Cooler Ph 2 App 1   08/07/2024                    Nutrition Svc Walk-In Cooler Reno Ph 2     36 0060 4700 000 8799 450           40,281.69
+
+Check Number: 9027655        Check Type: Check      Check Date: 08/20/2024     Vendor: 005402     RANDY'S CARPETS & INTERIORS       Check Total:       21,264.56
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  212812                 08/01/2024     F240678        Borlaug Preschool Flooring                 36 0000 4700 000 8705 450           10,239.56
+  212813                 08/01/2024     F240679        Borlaug Breakroom Flooring                 36 0000 4700 000 8705 450           11,025.00
+
+Check Number: 9027656        Check Type: Check      Check Date: 08/20/2024     Vendor: 021187     RAPTOR TECHNOLOGIES               Check Total:          660.00
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  INV132144              10/01/2024                    Raptor annual renewal                      36 0000 4700 000 8770 450              660.00
+
+Check Number: 9027657        Check Type: Check      Check Date: 08/20/2024     Vendor: 019426     REAL VISION SOFTWARE, INC.        Check Total:        4,300.00
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  210025794              07/01/2024                    SOFTWARE SUPPORT                           36 0000 4700 000 9045 450            4,300.00
+  210025794              07/01/2024                    8/2024 - 7/2025                            36 0000 4700 000 9045 450                0.00
+
+Check Number: 9027658        Check Type: Check      Check Date: 08/20/2024     Vendor: 002626     SHIVE-HATTERY & ASSOC             Check Total:        2,922.20
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  1213190-41 F           08/16/2024                    Wickham Playground                         36 0493 4200 000 8722 450              920.10
+  2240002770-10          08/15/2024                    City Outdoor Classroom Shelter             33 0000 4200 000 0000 450            1,492.60
+  2240002770-9           08/15/2024                    Kirkwood Tunnel Exhaust                    36 0406 4700 000 8730 450              509.50
+
+Check Number: 9027659        Check Type: Check      Check Date: 08/20/2024     Vendor: 105983     SILKTIDE INC                      Check Total:        8,473.81
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+  INV-0335               08/14/2024                    WEBSITE COMPLIANCE MONITORING              36 0000 4700 000 9045 450            8,473.81
+
+Check Number: 9027660        Check Type: Check      Check Date: 08/20/2024     Vendor: 103079     STERLING COMPUTERS CORPORATION    Check Total:       58,400.00
+  Invoice Number         Invoice Date   PO Number      Detail Description                         Chart of Account Number          Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                     Detail Check Register                                                     Page: 34
+08/21/2024 11:40 AM                                                                                                                         User ID: 16345
+Checking Account:   5                  5
+  0183821               08/08/2024     2500230        Dell Chromebook 3110 2-in-1               33 0000 4500 000 8999 733      58,400.00
+
+Check Number: 9027661       Check Type: Check      Check Date: 08/20/2024     Vendor: 009298    SVPA ARCHITECTS INC          Check Total:       45,103.84
+  Invoice Number        Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  0039787               08/09/2024                    NWJH Middle School Addition               33 0213 4700 000 0000 450      14,970.96
+  0039788               08/09/2024                    NCJH Middle School Addition               33 0209 4700 000 0000 450      14,711.88
+  0039789               08/09/2024                    Tyler/CFI Phase 2                         33 0080 4700 000 0000 450       8,131.00
+  0039790               08/09/2024                    Athletics Master Plan                     33 0109 4200 924 6601 450       3,645.00
+  0039790               08/09/2024                    Athletics Master Plan                     33 0118 4200 924 6601 450       3,645.00
+
+Check Number: 9027662       Check Type: Check      Check Date: 08/20/2024     Vendor: 008572    T & K ROOFING CO             Check Total:          573.84
+  Invoice Number        Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  10205                 08/12/2024                    Lemme roof repair                         36 0417 4700 000 9495 450         573.84
+
+Check Number: 9027663       Check Type: Check      Check Date: 08/20/2024     Vendor: 006984    TERRACON CONSULTANTS INC.    Check Total:        9,491.00
+  Invoice Number        Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  TM47510               08/10/2024                    SEJH Middle School Addition               33 0218 4700 000 0000 450         858.75
+  TM47512               08/10/2024                    Horn Addition                             33 0415 4700 000 0000 450       3,262.50
+  TM47514               08/10/2024                    NCJH Middle School Addition               33 0209 4700 000 0000 450       1,470.00
+  TM47515               08/10/2024                    NWJH Middle School Addition               33 0213 4700 000 0000 450         930.00
+  TM47541               08/10/2024                    Lucas Gym Addition                        31 0436 4700 000 9204 450       2,243.75
+  TM49511               08/12/2024                    Playground ADA Compliance                 36 0000 4200 000 8722 450         726.00
+
+Check Number: 9027664       Check Type: Check      Check Date: 08/20/2024     Vendor: 014400    TRI-CITY ELECTRIC            Check Total:       58,107.96
+  Invoice Number        Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  314727                07/17/2024                    NW JH ADDITION LABOR                      33 0213 4700 000 0000 450       6,799.76
+  314900                07/22/2024                    NC JH ADDITION LABOR                      33 0209 4700 000 0000 450         683.27
+  314901                07/22/2024                    HORN EXPANSION LABOR                      33 0415 4700 000 0000 450       5,414.23
+  314902                07/22/2024                    CITY PH 3 REMODEL LABOR                   33 0109 4700 000 0000 450         314.13
+  314903                07/22/2024                    WEST PH 3 ADD/RENO LABOR                  33 0118 4700 000 0000 450      16,062.16
+  314904                07/22/2024                    ICCSD MODULAR DEMO/RELOCATE LABOR         33 0000 4700 000 0000 450       5,207.67
+  314905                07/22/2024                    WEBER HVAC REPLACE LABOR                  33 0488 4700 000 0000 450         686.31
+  314912                07/22/2024                    LUCAS GYM ADDITION LABOR                  31 0436 4700 000 9204 450       2,985.43
+  316106                08/08/2024     F250079        81 card readers                           36 0000 4700 000 8523 450      19,955.00
+
+Check Number: 9027665       Check Type: Check      Check Date: 08/20/2024     Vendor: 010595    TRUENORTH                    Check Total:        2,571.00
+  Invoice Number        Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  155927                08/05/2024                    EB TECH FEES - AUG                        36 0000 4700 000 9045 450       2,571.00
+
+Check Number: 9027666       Check Type: Check      Check Date: 08/20/2024     Vendor: 105111    U.S. CELLULAR                Check Total:        2,241.24
+  Invoice Number        Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  0669838671            08/02/2024                    STUDENT HOT SPOTS                         33 0000 4700 000 8999 450       2,241.24
+
+Check Number: 9027667       Check Type: Check      Check Date: 08/20/2024     Vendor: 004205    VAN METER INDUSTRIAL         Check Total:        7,430.78
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                                     Page: 35
+08/21/2024 11:40 AM                                                                                                                                          User ID: 16345
+Checking Account:     5                  5
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  S013344875.006          07/30/2024     F240969        EV Charging Stations                              36 0000 4700 000 8761 733               7,430.78
+
+Check Number: 9027668         Check Type: Check      Check Date: 08/20/2024    Vendor: 015021             VERIZON WIRELESS SERVICES LLC       Check Total:       18,042.24
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  9971138922              08/10/2024                    STUDENT HOT SPOTS                                 33 0000 4700 000 8999 450              18,042.24
+
+Check Number: 9027669         Check Type: Check      Check Date: 08/20/2024    Vendor: 012760             WHITE CAP LP                        Check Total:          433.54
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  10020263882             07/24/2024                    ROTARY HAMMER & IMPACT DRILL                      33 0000 4500 000 8999 733                 373.56
+  50027797126             08/07/2024                    COMPACT LOW PRO ORGANIZER                         33 0000 4500 000 8999 733                  59.98
+
+Check Number: 9027670         Check Type: Check      Check Date: 08/20/2024    Vendor: 106081             XYLEM LTD                           Check Total:        7,349.00
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  184355                  08/06/2024                    Liberty mulch                                     36 0114 4200 000 8735 450               1,326.50
+  184432                  08/08/2024                    Liberty mulch                                     36 0114 4200 000 8735 450               1,326.50
+  184491                  08/09/2024                    City mulch                                        36 0109 4200 000 8735 450               1,326.50
+  184556                  08/14/2024                    Penn soft fall                                    36 0447 4200 000 8723 450               2,043.00
+  184598                  08/13/2024                    Borlaug mulch                                     36 0432 4200 000 8735 450               1,326.50
+
+  *Denotes Expensed Invoice Item                                                   Checking Account ID:   5                           Total without Voids:    2,604,990.68
+

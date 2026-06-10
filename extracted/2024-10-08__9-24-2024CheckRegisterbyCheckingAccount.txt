@@ -1,0 +1,115 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+09/24/2024 4:12 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+408503          09/24/2024                               008203          ALLIANT ENERGY                                     18,881.43
+408504          09/24/2024                               012290          CENTURYLINK COMMUNICATIONS, LLC                     1,561.13
+408505          09/24/2024                               000465          CITY OF IOWA CITY                                     339.52
+408506          09/24/2024                               003588          CITY OF IOWA CITY                                  40,570.77
+408507          09/24/2024                               016102          INDEPENDENCE COMM. SCHOOL                           8,936.90
+408508          09/24/2024                               005199          MIDAMERICAN ENERGY                                 13,967.46
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:          84,257.21
+                Checking Account Total: 1                            Void Total:         0.00    Total without Voids:       84,257.21
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200345          09/24/2024                               104166          A3 PERFORMANCE                                        385.70
+200346          09/24/2024                               106313          OWEN AANESTAD                                       1,880.00
+200347          09/24/2024                               012794          LATIF AL YASSIRI                                       40.00
+200348          09/24/2024                               013083          HAZIM AL-YASIRI                                       166.52
+200349          09/24/2024                               019368          ANAMOSA MUSIC BOOSTERS                                600.00
+200350          09/24/2024                               106772          ANDALE CANTINA INCL                                   800.00
+200351          09/24/2024                               012041          SCOTT ANDERSON                                        135.00
+200352          09/24/2024                               008410          DAVE ANNEN                                             96.83
+200353          09/24/2024                               020126          CHRIS ARMSTRONG                                       129.72
+200354          09/24/2024                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                   934.65
+200355          09/24/2024                               009801          BAND SHOPPE                                            62.90
+200356          09/24/2024                               008556          LESLIE BAUMBACH                                       122.75
+200357          09/24/2024                               107354          BLUE SKY MANAGEMENT LLC                               540.50
+200358          09/24/2024                               011250          DOUG BODDICKER                                        148.36
+200359          09/24/2024                               105028          BROADCAST MUSIC INC (BMI)                             667.19
+200360          09/24/2024                               012297          JAMES CARLSON                                         295.18
+200361          09/24/2024                               017542          NATHAN CARLSON                                        122.38
+200362          09/24/2024                               106408          BLAKE CHANCE                                          244.32
+200363          09/24/2024                               008904          CIT CHARTERS INC                                    5,754.20
+200364          09/24/2024                               010917          COLONIAL BOWLING LANES                                 20.00
+200365          09/24/2024                               008774          COPYWORKS                                             966.40
+200366          09/24/2024                               107136          CREATIVE COSTUMING AND DESIGNS INC                  8,263.00
+200367          09/24/2024                               107368          CULVER'S OF CORALVILLE                                657.72
+200368          09/24/2024                               019681          DANCE TEAM UNION                                    1,092.00
+200369          09/24/2024                               017596          DERLEIN SCALE INC                                     495.00
+200370          09/24/2024                               011141          JOHN DVORAK                                           132.23
+200371          09/24/2024                               019491          ELITE AWARDS LLC                                      240.34
+200372          09/24/2024                               106124          FIREHOUSE SUBS                                        279.00
+200373          09/24/2024                               016008          TROY GREENE                                           120.97
+200374          09/24/2024                               016112          KIM HALL                                              140.52
+200375          09/24/2024                               001058          HARRY'S CUSTOM TROPHIES                                34.40
+200376          09/24/2024                               106170          DENNIS HENDERSON                                      156.19
+200377          09/24/2024                               106789          ALLYSON HERMAN                                        110.81
+200378          09/24/2024                               020374          HOLLYWOOD GRAPHICS                                    409.62
+200379          09/24/2024                               003771          JAY HONOHAN                                           214.77
+200380          09/24/2024                               016332          HY-VEE, INC.                                          499.77
+200381          09/24/2024                               017462          ISDTA                                               1,332.00
+200382          09/24/2024                               107327          ATIRA JELLS                                           496.61
+200383          09/24/2024                               013856          STEVEN KEANE                                          127.71
+200384          09/24/2024                               009404          BLAIR KLINEFELTER                                     156.08
+200385          09/24/2024                               020481          DOUG KNICKREHM                                        135.00
+200386          09/24/2024                               008458          SCOTT KREMER                                          110.60
+200387          09/24/2024                               013823          SHANE KRON                                            124.21
+200388          09/24/2024                               013599          DENNIS (MICK) LANGGUTH                                135.00
+200389          09/24/2024                               019833          CANDACE BRUCE                                       1,373.00
+200390          09/24/2024                               013668          LINN-MAR COMMUNITY SCHOOLS                          1,540.00
+200391          09/24/2024                               008813          JOSEPH LORIA                                           85.49
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+09/24/2024 4:12 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200392          09/24/2024                               017346          BENJAMIN LUSTIG                                        86.73
+200393          09/24/2024                               107312          MADILYN LYNCH                                         167.92
+200394          09/24/2024                               010935          SHANNON MCWHIRTER                                     297.14
+200395          09/24/2024                               009658          CHRIS MEINECKE                                        171.61
+200396          09/24/2024                               009279          STEVE MEYER                                           100.88
+200397          09/24/2024                               017165          BRIAN MITCHELL                                         85.00
+200398          09/24/2024                               017267          HUNTER MOFFIT                                         265.70
+200399          09/24/2024                               015483          THOMAS MOORE                                           87.05
+200400          09/24/2024                               012863          TED MOSER                                             137.23
+200401          09/24/2024                               013634          MOUNT VERNON COMM SCH DIST                            250.00
+200402          09/24/2024                               010315          JOHN MURPHY III                                       331.76
+200403          09/24/2024                               012905          CHIN NGUYEN                                             3.14
+200404          09/24/2024                               107112          NORTH LIBERTY ACE HARDWARE                             16.98
+200405          09/24/2024                               002370          OTTUMWA COMM SCHOOLS                                  180.00
+200406          09/24/2024                               005171          MIKE PARKER                                           700.00
+200407          09/24/2024                               009426          LUIS PARRAGUEZ                                        135.76
+200408          09/24/2024                               007348          KIM PATIK                                             205.34
+200409          09/24/2024                               107122          VALERIJ PETRULEVICH                                   111.13
+200410          09/24/2024                               002310          MICHAEL PIPER                                         215.58
+200411          09/24/2024                               012358          PITNEY BOWES GLOBAL FINANCIAL SVCS                    444.84
+200412          09/24/2024                               002767          PLAY IT AGAIN SPORTS                                  349.90
+200413          09/24/2024                               002801          PLEASANT VALLEY GOLF COURSE                         4,250.00
+200414          09/24/2024                               008663          PHIL RITCHIE                                          110.01
+200415          09/24/2024                               106200          ANDREW ROBINSON                                       600.00
+200416          09/24/2024                               000749          ROBERT (BOB) SAUNDERS                                 250.64
+200417          09/24/2024                               012735          MATTHEW STEITZER                                      368.36
+200418          09/24/2024                               017331          STITCH IN TIME INC                                    231.00
+200419          09/24/2024                               007320          TRACY STONE                                           123.21
+200420          09/24/2024                               105612          TIFFANY THIESSEN                                      134.12
+200421          09/24/2024                               106206          THOMA MARKET LLC                                      750.00
+200422          09/24/2024                               106154          ULTIMATE ENTERTAINMENT IOWA LLC                     1,095.00
+200423          09/24/2024                               008903          UNIVERSAL DANCE ASSOCIATION                         1,372.00
+200424          09/24/2024                               014495          RON VAN HOECK                                         135.00
+200425          09/24/2024                               017217          VARSITY SPIRIT FASHIONS                             3,745.17
+200426          09/24/2024                               016222          DEL WAGNER                                            148.90
+200427          09/24/2024                               107002          WASHINGTON PATRONS OF PERFORMING                      600.00
+                                                                         ARTS
+200428          09/24/2024                               002492          WEST MUSIC CO INC                                   2,391.65
+200429          09/24/2024                               106858          DANIEL WRIGHT                                         275.43
+                Check Type Total:      Check                         Void Total:          0.00 Total without Voids:         53,498.82
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       53,498.82
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9027787         09/24/2024                               105197          ADVANCED BUSINESS SYSTEMS INC                       2,794.00
+9027788         09/24/2024                               106841          IMON COMMUNICATIONS LLC                               400.00
+                Check Type Total:      Check                         Void Total:       0.00  Total without Voids:            3,194.00
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:        3,194.00
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:      140,950.03
+

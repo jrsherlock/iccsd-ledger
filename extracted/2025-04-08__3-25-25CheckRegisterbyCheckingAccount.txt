@@ -1,0 +1,49 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                     Page: 1
+03/25/2025 2:01 PM                                                                                                       User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+410227          03/25/2025                               012290          CENTURYLINK COMMUNICATIONS, LLC                      2,827.45
+410228          03/25/2025                               008904          CIT CHARTERS INC                                    11,432.50
+410229          03/25/2025                               000465          CITY OF IOWA CITY                                        5.50
+410230          03/25/2025                               012003          MONIQUE COTTMAN                                      2,931.74
+410231          03/25/2025                               005199          MIDAMERICAN ENERGY                                   1,241.98
+410232          03/25/2025                               010880          WINDSTAR LINES INC                                   8,020.00
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:           26,459.17
+                Checking Account Total: 1                            Void Total:          0.00    Total without Voids:       26,459.17
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+202022          03/25/2025                               016820          AD MARKET PRODUCTIONS INC                              700.00
+202023          03/25/2025                               103904          ADCRAFT PRINTWEAR CO                                 2,597.80
+202024          03/25/2025                               020187          ALPHAGRAPHICS OF NORTH LIBERTY                         214.32
+202025          03/25/2025                               015057          BSN SPORTS LLC                                       2,323.00
+202026          03/25/2025                               010917          COLONIAL BOWLING LANES                               2,992.50
+202027          03/25/2025                               013793          ESTELA'S FRESH MEX                                   2,950.00
+202028          03/25/2025                               014417          HILLYARD/DES MOINES SANITARY                           378.60
+202029          03/25/2025                               017250          HUDL                                                   419.41
+202030          03/25/2025                               017329          IOWA HIGH SCHOOL GOLF COACHES ASSOC                     45.00
+202031          03/25/2025                               017325          IOWA HIGH SCHOOL SPEECH ASSOCIATION                     39.00
+202032          03/25/2025                               012509          IRONSIDE APPAREL & PROMOTIONS INC                      485.00
+202033          03/25/2025                               001834          J.W. PEPPER & SON, INC.                                 69.60
+202034          03/25/2025                               001864          JOHNSTON COMM SCHOOL DIST                              200.00
+202035          03/25/2025                               014135          RICHARD KUNC                                           133.46
+202036          03/25/2025                               106293          MIDWAY VAN RENTAL                                      219.16
+202037          03/25/2025                               000194          PETER NOTHNAGLE                                         75.00
+202038          03/25/2025                               106427          OSL PRODUCTIONS                                        550.00
+202039          03/25/2025                               013560          MATTHEW SHANNON                                        125.00
+202040          03/25/2025                               015930          SPORTS IMPORTS                                       2,820.10
+202041          03/25/2025                               107587          STATE HISTORICAL SOCIETY OF IOWA                     1,200.00
+202042          03/25/2025                               107592          UNIVERSITY OF IA FOUNDATION                          2,975.00
+202043          03/25/2025                               016222          DEL WAGNER                                             377.80
+202044          03/25/2025                               016222          DEL WAGNER                                             188.90
+202045          03/25/2025                               013875          WASHINGTON HIGH SCHOOL                                 250.00
+202046          03/25/2025                               020121          XAVIER HIGH SCHOOL                                     300.00
+                Check Type Total:      Check                         Void Total:         0.00    Total without Voids:        22,628.65
+                Checking Account Total: 3                            Void Total:          0.00    Total without Voids:       22,628.65
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+9028419         03/25/2025                               105197          ADVANCED BUSINESS SYSTEMS INC                        2,794.00
+                Check Type Total:      Check                         Void Total:       0.00  Total without Voids:             2,794.00
+                Checking Account Total: 5                            Void Total:          0.00    Total without Voids:        2,794.00
+
+                                       Grand Total:                  Void Total:          0.00    Total without Voids:       51,881.82
+

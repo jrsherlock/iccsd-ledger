@@ -1,0 +1,746 @@
+Transaction Search - Company
+BMO - Mastercard, Statement Period 02/06/2026 to 03/05/2026
+
+Posting Date   Tran Date        Account                     Supplier        Amount USD
+    2/6/2026    2/4/2026 XXXX-XXXX-XXXX-1805   Van Meter Inc - Iowa C   $         67.00
+    2/6/2026    2/4/2026 XXXX-XXXX-XXXX-9473   Burger King #11727 Q07   $          9.21
+    2/6/2026    2/4/2026 XXXX-XXXX-XXXX-3288   Menards Iowa City Ia     $         13.46
+    2/6/2026    2/4/2026 XXXX-XXXX-XXXX-0134   Menards Iowa City Ia     $         60.26
+    2/6/2026    2/4/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4   $         93.64
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $        159.57
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6555   Fsp Council For Profes   $      2,036.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-5173   Target.Com               $         60.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-5173   Walmart.Com              $        143.11
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-7754   Conjuguemos.Com          $        250.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-2938   Etsy.Com Thisiskachi     $          9.81
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-2938   Sp Davids Bridal         $         83.70
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-2938   Sp Nfl Flag Fan Shop     $        106.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 7042    $         22.62
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-3697   Sportdecals              $        275.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-0134   Psc Distribution, Inc.   $        204.50
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $        199.99
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-9923   Curric Asso              $        319.20
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $        (34.37)
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Qw94p9u43     $         51.24
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Qj48p96m3   $         55.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl U45765wa3   $         95.16
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-0686   Hampton Inns             $        303.52
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-0686   Hampton Inns             $        303.52
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6261   Ui Parking Parcs         $          2.50
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6261   Ui Optical Shop Irl      $         48.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-7262   Walgreens #10985         $        279.96
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $         51.11
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-4892   Hy-Vee Iowa City 1288    $         33.84
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-5372   Amazon Mktpl 1c5dc0s43   $         22.89
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-5372   Amazon Mktpl Al7qn8qb3   $         22.89
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-5372   Amazon Mktpl 992wx9rq3   $         46.88
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-4823   Aero Rental And Party    $        844.65
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-0312   Blains Farm & Fleet      $         54.66
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6061   Uber Trip                $         26.99
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6061   Fsp Aet                  $        160.00
+    2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6061   Fsp Aet                  $        160.00
+2/6/2026    2/5/2026 XXXX-XXXX-XXXX-6253   Tresona Multimedia Llc   $     686.40
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-0980   Flinn Scientific Inc     $     269.90
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-9167   Amazon.Com V47co2q33     $       7.54
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Hl88o9ib3     $      28.80
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl P50vx1ud3   $      45.61
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-6061   Uber Trip                $       2.00
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-6061   Uber Trip                $       3.00
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-6061   Uber Trip                $      14.98
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-6061   Uber Trip                $      23.99
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-6061   Uber Trip                $      25.23
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-6061   Uber Trip Help.Uber.C    $      25.99
+2/6/2026    2/6/2026 XXXX-XXXX-XXXX-6061   Uber Trip                $      26.38
+2/9/2026   1/30/2026 XXXX-XXXX-XXXX-6253   Kalahari Resort - Wi     $   4,392.55
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-5173   Caseys #4589             $      99.94
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $     (34.99)
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $      38.97
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $      38.99
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $      45.48
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-0686   Exotic Thai - Davenpor   $      27.63
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-4706   Menards Iowa City Ia     $     484.04
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     280.00
+2/9/2026    2/5/2026 XXXX-XXXX-XXXX-6061   Wdw World Premier        $       6.44
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-6555   Walmart.Com              $      15.97
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      18.35
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      76.20
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-6555   Office Express           $     559.80
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-9473   Burger King #11727 Q07   $      19.16
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-8046   The Associated Collegi   $     168.49
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Aq1ur9wl3   $      46.99
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl 6951h7ei3   $      60.53
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-7858   Wal-Mart #2827           $      36.06
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl N588d67x3   $      33.98
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Y84z19fl3   $     123.05
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 593x769v3   $     324.93
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-5019   Ccl Supply, Llc          $     171.35
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $      63.26
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-3050   J.W. Pepper              $      66.99
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-1390   Wal-Mart #2827           $      36.74
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-4383   Sp Imaginable Soln       $   1,057.15
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-4383   Strongarmpotterytools    $   1,079.52
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-0312   Sp Kloo Games            $     365.68
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-0891   Wal-Mart #2827           $       9.99
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-5256   Lenoch & Cilek Ace #6    $       7.41
+2/9/2026    2/6/2026 XXXX-XXXX-XXXX-2934   Jersey Mikes 38033       $     292.95
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-2934   Sq Rickard Sign And D    $   1,042.94
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6061   Wdw World Premier        $      33.16
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6061   Sq El Cactus Azul #1     $      36.21
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6253   Michaels #9490           $      56.62
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6253   Tst Need Pizza           $     102.25
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6253   J.W. Pepper              $     112.50
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6253   Hal Leonard Corporatio   $     113.65
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6938   Isu Mu P Ramp            $      20.00
+2/9/2026   2/6/2026 XXXX-XXXX-XXXX-6054   Sp Tableclothsfactor     $     230.20
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-6555   Walmart.Com              $      37.93
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-6555   Gopher Family Brands     $     171.70
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-9167   Amazon.Com               $     (19.35)
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nf8727jf3   $      42.29
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Jn7ds5cs3     $     118.83
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Xe4998ef3   $     120.12
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-4706   Flinn Scientific Inc     $     220.97
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-1199   Homedepot.Com            $      90.19
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-6061   Sq The Crepe Company     $      14.00
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-6061   2espn Www Gencon         $      18.61
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-6061   Wdw World Premier        $      41.66
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-6253   Michaels #9490           $      37.54
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-2589   Jersey Mikes 38013       $     450.58
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-2589   Jersey Mikes 38013       $     477.61
+2/9/2026   2/7/2026 XXXX-XXXX-XXXX-6938   Caseys #4647             $      55.95
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Jl5he0663     $       3.79
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Fm8eb83k3     $      13.50
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl 6s7ld34y3   $      44.87
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Z86i41ot3     $      22.99
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Bx8dm1ov1   $     174.52
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Rv6te9mv3     $     359.75
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Q602j7263     $      10.88
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com F08251px3     $      12.06
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Xj8hw0ja3     $      14.07
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bx84y1v42   $      16.99
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Q87zz7wx3     $      24.89
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com T03081ru3     $      25.05
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Ru5lk1xv3   $      26.07
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 7n03z7tf3   $      32.89
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Ur4j486o3     $      39.50
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 0f3rs1zf3   $      45.97
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 9a5fk7zp3   $      86.10
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 174su7iv3     $     135.66
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl R20s556j3   $     152.93
+2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Qp0a838q3   $     270.05
+ 2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl P942g4tb3   $     320.76
+ 2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl I536f0d83   $     490.60
+ 2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 1j4e98q53     $     889.65
+ 2/9/2026   2/8/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Oi3f53x13   $     895.00
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl 2n9sr9am3   $      16.00
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-5173   Amazon.Com 463ur9lx3     $      39.99
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Is97086m3     $      37.06
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-4783   Microsoft#g139723664     $      22.93
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Q503o8i63   $       9.89
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon.Com No0xx1123     $       9.92
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 8t57v0pd3     $      15.71
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 3v3xg0i13   $      16.99
+ 2/9/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl G50es60q3   $      34.64
+2/10/2026   2/6/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4   $     113.33
+2/10/2026   2/8/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $     223.39
+2/10/2026   2/8/2026 XXXX-XXXX-XXXX-6061   Wdw World Premier        $      12.66
+2/10/2026   2/8/2026 XXXX-XXXX-XXXX-6061   Wdw World Premier        $      28.58
+2/10/2026   2/8/2026 XXXX-XXXX-XXXX-6061   2espn Www Gencon         $      35.11
+2/10/2026   2/8/2026 XXXX-XXXX-XXXX-6061   2espn Www Gencon         $      35.11
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-6555   Office Express           $       3.98
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-6555   Office Express           $      20.00
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-6555   Office Express           $      45.16
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-6555   Office Express           $      46.56
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-6555   Office Express           $      75.41
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-6555   Office Express           $     201.49
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-6555   Renaissance Learning I   $     900.00
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-5173   Walmart.Com              $      35.02
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-5110   Johnstone Supply - 614   $     297.42
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-7754   Terrapin                 $     257.85
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-7754   Sp Pcsedventures.Co      $     711.22
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-0980   The Associated Collegi   $   2,075.00
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-2093   Wm Supercenter #2827     $     296.88
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl O99qo1x03   $      14.02
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-9167   Amazon.Com 7142z8v13     $      20.80
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl 3n3984513   $     198.54
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1285    $       4.44
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-4783   Sp Dion Training Solut   $     282.60
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-4783   Sp Dion Training Solut   $     282.60
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-4783   Sp Dion Training Solut   $     282.60
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-4783   Sp Dion Training Solut   $     282.60
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-4783   Sp Dion Training Solut   $     282.60
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl O53sn2df3   $      10.44
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Xp32r9fs3     $      34.79
+2/10/2026   2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nm0kw60v3   $      38.89
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 7h0mk9hn3   $     48.00
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 114l43qk3     $     72.92
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 870qk6ub3   $    168.00
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 9c2wz82e3   $    178.15
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Kp3845d93   $    209.96
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $    313.08
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    139.04
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    170.91
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-3897   Bailey Pottery Equipme   $   (101.64)
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-6253   Alphagraphics N Libert   $    458.13
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-6253   Energy Wav (2 Of 2 Pa    $    800.00
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $     39.42
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-6938   Wal-Mart #1721           $     79.94
+2/10/2026    2/9/2026 XXXX-XXXX-XXXX-5669   Ironside A Iowa City     $    154.76
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Pu0kp7zg3   $      8.55
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Amazon.Com F41z80np3     $      9.00
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Uy76t6mc3     $     15.99
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Bf8vi0ue3     $     18.64
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Lk7gf27d3     $     24.00
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Dp60o6av3     $     32.68
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Oo3io62i3     $     43.98
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Cv0vs2j43     $     11.99
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9167   Amazon.Com 2y5y221j3     $     19.18
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 3u97247x3   $      4.99
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Wk9pp1bz3   $     10.99
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Vc2oy6fd3     $     17.70
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 6n8um6ii3     $     19.99
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Su5836fm3   $     21.99
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Ft21i8tn3     $     22.75
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com O117x2rs3     $     51.00
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Ah7mm1573   $     52.95
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Az9jv1003   $     58.80
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Er5qy5sj3   $     66.44
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Of9n05fb3     $     69.90
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Qf5rz3l83   $    190.56
+2/10/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 9a1on5pe3   $    221.36
+2/11/2026    2/9/2026 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    379.75
+2/11/2026    2/9/2026 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $    234.84
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5173   Walmart.Com              $     36.25
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5420   Iowabca                  $     95.15
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5420   Subway 28736             $    153.75
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-2938   Wal-Mart #1721           $     12.70
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-0134   Psc Distribution, Inc.   $     45.27
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-0134   Plumb Supply - Ioc - 0   $    185.41
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9167   Amazon Mktplace Pmts     $     (19.94)
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl U17xt4ay3   $      34.92
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-4783   Lenoch & Cilek Ace #6    $       5.99
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $      (6.12)
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 6e96h8xv3   $      31.99
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 9j61p2ra3   $      39.84
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Yj0172nw3   $      63.45
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 0j52l3y03     $      80.00
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 6p0x588i3     $     129.62
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $    (142.52)
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon.Com               $    (252.35)
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Ik5yk22y3   $   2,091.77
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $      33.28
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5203   Hy-Vee Coralville 1085   $      24.68
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5203   Hy-Vee Coralville 1085   $      26.99
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5203   Dominos 1707             $     100.00
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-3871   Wal-Mart #2827           $      24.22
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-4706   Sq Cedar Rapids          $   2,832.50
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-3050   Teacherspayteachers.Co   $       5.89
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827     $      63.04
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5108   Electric Motors Of Ic    $     358.00
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1285    $      12.16
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $      10.19
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-6061   American 0012601686564   $     320.00
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-6253   Papa Johns #2512         $      60.31
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-6253   Chipotle Mex Gr Online   $      61.64
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-6253   Hy-Vee Aisles Online 4   $     114.90
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-6253   Sp Wayside Publishin     $     436.57
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-2589   Jimmy Johns - 279 Moto   $     484.04
+2/11/2026   2/10/2026 XXXX-XXXX-XXXX-5669   Www.Iahsaa.Org           $     468.90
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl 0c8b45283   $      25.64
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl 6r63g2j43   $     168.13
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Gt86d1kb3     $     112.90
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9167   Amazon.Com 3j3v94e73     $     119.73
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Zz0av06w3     $     198.43
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon.Com               $      (1.71)
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Wu94n3s13     $       8.71
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Aw9o76uv3     $      23.64
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 3x6sn7ne3   $      32.55
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 3y26s5iw3   $      49.38
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Dn7q95dr3     $      62.45
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Nm80x6hm3   $      89.96
+2/11/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl N48og0573   $     571.89
+2/12/2026   2/10/2026 XXXX-XXXX-XXXX-9473   Burger King #11727 Q07   $       8.68
+2/12/2026   2/10/2026 XXXX-XXXX-XXXX-2938   Menards Iowa City Ia     $     922.30
+2/12/2026   2/10/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $      42.99
+2/12/2026   2/10/2026 XXXX-XXXX-XXXX-1199   Menards Marion Ia        $      64.92
+2/12/2026   2/10/2026 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $      49.18
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-6555   Rev.Com                  $     628.56
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Km7do03h3   $       5.76
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B672o57e3   $       8.05
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Aw47q1u33   $       8.38
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl 502hp7he3   $      11.97
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Rq3i951o3   $      12.20
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl P834l9333   $      12.60
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Amazon.Com M29sl0683     $      30.75
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5173   Hy-Vee Iowa City 1285    $      41.27
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $      38.16
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $      38.16
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $      38.16
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $      38.16
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $      38.16
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $      38.16
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $      47.37
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-0134   Plumb Supply - Ioc - 0   $   1,068.18
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9167   Amazon.Com P91hh6923     $      10.94
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9167   Amazon.Com 527ck8m93     $      16.51
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Hr7jf3qw3     $      29.35
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-3556   Wal-Mart #1721           $      11.60
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 4l7so97r3   $      37.97
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Jj0r439m3   $      56.45
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl X44pi0y03   $      57.40
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Nu8y47em3     $      99.20
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Pc98l26b3     $     114.42
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Oz7o59jk3     $     126.80
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 8k9b49u63   $     129.15
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl W98ia7cm3   $     129.61
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Pt8tu8q73   $     354.45
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Vm2wc4sd3   $     649.49
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $      35.68
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-4706   Wristbandbros.Com        $     253.00
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5923   Pods                     $     209.00
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-5108   Electric Motors Of Ic    $     212.54
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-7670   Wm Supercenter #1721     $       5.84
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-9161   Aldi 68067               $       9.67
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-6253   Fareway Stores Inc. #9   $      72.90
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-6253   Embi Tec                 $     386.15
+2/12/2026   2/11/2026 XXXX-XXXX-XXXX-6938   Wal-Mart #1721           $      38.86
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl T09oj4lv3   $       6.39
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Lt8u25yb3   $      21.14
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Vn6cq5mn3   $      28.49
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Jy49r6js3     $      98.45
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Dx88x73d3   $      26.56
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 8o73u9mb3   $      48.93
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Wd8e09pk3   $      49.99
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-5019   Hi-Line Electric Co.,    $     231.39
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-7262   Res Home2suite           $   1,527.00
+2/12/2026   2/12/2026 XXXX-XXXX-XXXX-6253   Dd Doordash McDonalds    $      24.38
+2/13/2026   2/11/2026 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $      40.00
+2/13/2026   2/11/2026 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $      22.58
+2/13/2026   2/11/2026 XXXX-XXXX-XXXX-5108   Menards Iowa City Ia     $     107.48
+2/13/2026   2/11/2026 XXXX-XXXX-XXXX-6253   Seasons                  $     277.20
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-5173   Amazon.Com 112a16ra3     $      11.88
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-5173   Amazon.Com G79vg19k3     $      33.52
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl 6v8la7ey3   $       9.42
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl F65rw7x13   $      23.87
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Cv9xr2br3     $     109.11
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9736   Uiowa Online Payments    $      25.00
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-2590   Hy-Vee Iowa City 1288    $       7.30
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-4783   Covid Inc                $     715.41
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 397a673q3   $      31.98
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $     (37.97)
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon.Com N96mj9si3     $      89.99
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Qa5u711l3   $     106.90
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Gh7qx55j3   $     143.96
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-7634   Psc Distribution, Inc.   $     323.98
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-3897   J.W. Pepper              $      80.30
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-7092   Midamerican Energy       $     400.00
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-3556   Gwaea                    $    (295.00)
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-1390   Hy-Vee Coralville 1080   $      44.38
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-5372   Amazon Mktpl O796x94y3   $     119.80
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1285    $      30.59
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-6938   Michaels Stores 8757     $       6.99
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-6938   Dollartree               $      26.25
+2/13/2026   2/12/2026 XXXX-XXXX-XXXX-6054   Paypal Ffmodels          $     110.00
+2/13/2026   2/13/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Wh24x2wb3   $      14.56
+2/13/2026   2/13/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Vy0fn0po3   $      36.08
+2/13/2026   2/13/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Tx1fw93z3     $      48.46
+2/13/2026   2/13/2026 XXXX-XXXX-XXXX-9199   Amazon.Com 9c20b4803     $      55.93
+2/13/2026   2/13/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 7821p2xb3   $     112.96
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-9473   Burger King #11727 Q07   $      14.09
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-0980   Pablo`s Mexican Grill    $      19.63
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-0980   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-0980   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-0980   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-0980   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $     19.98
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-4706   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-4706   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-4706   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-4706   Country Inn & Suites-C   $    221.76
+2/16/2026   2/12/2026 XXXX-XXXX-XXXX-6938   Caseys #2779             $    200.00
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-4138   Sq Dublin Underground    $     33.60
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5173   Amazon.Com               $    (11.88)
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5173   Dairy Queen #17038 Qps   $     14.78
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5173   Dairy Queen #17038 Qps   $     43.55
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5173   Walmart.Com 8009256278   $     59.96
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5173   School Sw Ky             $   (307.50)
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5173   School Sw Ky             $   (307.50)
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-7754   Pdk International        $     15.00
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-7754   Pdk International        $     15.00
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-7754   Pdk International        $     30.00
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-8046   Carolina Biologic Supp   $     27.55
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-8046   Carolina Biologic Supp   $     50.67
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-0980   Starbucks Store 08951    $      4.16
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-0980   Tst Cindy Lous Bbq       $     24.38
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Y39568v93     $      8.72
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-9547   4imprint, Inc            $    376.39
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-2096   Hy-Vee Iowa City 1285    $    415.32
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Q79293ev3   $     35.27
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5273   Caseys #2870             $     72.54
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5273   Linder Tire - Iowa Cit   $    449.48
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-5019   Caseys #2870             $     72.19
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-4656   Facebk Uq3wver8d2        $    360.00
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-3897   Ui Performing Arts       $    225.00
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-0891   Wm Supercenter #2827     $     79.46
+2/16/2026   2/13/2026 XXXX-XXXX-XXXX-2589   Jersey Mikes 38013       $    344.56
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-0980   Starbucks Store 08951    $      4.16
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-0980   Kwik Star #1738          $     51.18
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-0980   Sq Sub City - College    $    180.98
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-9167   Amazon.Com R18d25dq3     $     59.92
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Dk6eu4vm3     $    534.90
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-4783   Ups 1z8b6lt00320009417   $     14.91
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl 2f7bq0qx3   $     35.27
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-9199   Amazon.Com               $    (45.22)
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-5203   Kwik Star #283           $     31.80
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-5203   Kwik Star #283           $      34.81
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-4706   Caseys #1025             $      39.31
+2/16/2026   2/14/2026 XXXX-XXXX-XXXX-6253   Qr.Io Generator          $      35.00
+2/16/2026   2/15/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Th5mg13t3   $       8.92
+2/16/2026   2/15/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Qo1er7733   $     286.32
+2/16/2026   2/15/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Z27rn2gt3     $       7.99
+2/16/2026   2/15/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Fn4aw9ex3   $      24.99
+2/16/2026   2/15/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl A830z8bq3   $      27.16
+2/16/2026   2/16/2026 XXXX-XXXX-XXXX-5173   Amazon.Com 2r7za1w63     $      11.88
+2/17/2026   2/15/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $      81.59
+2/17/2026   2/15/2026 XXXX-XXXX-XXXX-7262   Caseys #2761             $      54.47
+2/17/2026   2/15/2026 XXXX-XXXX-XXXX-1199   Menards Marion Ia        $     784.49
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Ne4yg5sc3   $       9.98
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-5173   Amzn Digital Ww0uh33i3   $      30.00
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-5773   Aces Truck Wash          $     113.30
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-8046   Carolina Biologic Supp   $      66.96
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-0980   Uiowa Online Payments    $     350.00
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl 4z2ny5ey3   $      14.52
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl B176a3i42   $     208.13
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-3556   Simplicity Patterns      $      75.00
+2/17/2026   2/16/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Rs32k18d3   $     369.22
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-5173   Amazon.Com X61ll8yt3     $       9.99
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Fi4370l83     $      15.99
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-5173   Amazon.Com B19q23w02     $      34.06
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-9167   Amazon.Com B15jn1wh2     $       9.58
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-9167   Amazon.Com B120l3wm2     $      10.39
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-9167   Amazon.Com 9p2pg6np3     $      11.76
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Gi0f61503     $      39.98
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-4783   Atlassian                $     743.23
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Jo2ut4t23     $      11.76
+2/17/2026   2/17/2026 XXXX-XXXX-XXXX-9199   Amazon.Com L69wc1p73     $      59.94
+2/18/2026   2/16/2026 XXXX-XXXX-XXXX-9473   Burger King #11727 Q07   $       8.79
+2/18/2026   2/16/2026 XXXX-XXXX-XXXX-5669   Colonial Lanes           $     178.50
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-9828   Midway Van Rental        $     188.18
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-9167   Amazon Mktplace Pmts     $     (66.06)
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-9199   Amazon.Com T84jq5eq3     $     730.90
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $     305.06
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-4656   Socialpilot              $     525.00
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-7262   Maverik #5017            $      78.71
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-6253   Dd Doordash Jimmyjohn    $     129.42
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-6253   Sq Old Capitol Screen    $     981.36
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-6253   Sheraton West Des Moin   $   2,500.00
+2/18/2026   2/17/2026 XXXX-XXXX-XXXX-6253   Sheraton West Des Moin   $   2,500.00
+2/18/2026   2/18/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B91482lz2   $       9.57
+2/18/2026   2/18/2026 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $    (25.39)
+2/19/2026   2/17/2026 XXXX-XXXX-XXXX-3050   Menards Iowa City Ia     $    289.36
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-5420   Iowa Events Center       $     13.00
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-8046   J.W. Pepper              $     10.00
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-0980   J868 Flowerrama Iowa C   $     99.99
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl If9pa3o13   $     29.99
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-9199   Amazon.Com               $    (45.22)
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Gz0fd3y43     $     48.93
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B90ne23x2   $     65.98
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-4706   Undergroundshirts.Com    $    261.71
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-5923   Pods                     $    175.38
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-0312   Sheet Music Plus         $     73.48
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-7670   Wm Supercenter #1721     $     10.90
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-6253   Walgreens #5977          $      8.46
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $     94.14
+2/19/2026   2/18/2026 XXXX-XXXX-XXXX-5669   Sp Plunge                $    143.60
+2/19/2026   2/19/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Ei4e34kw3   $      7.99
+2/19/2026   2/19/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Fi7e17pf3     $     27.14
+2/19/2026   2/19/2026 XXXX-XXXX-XXXX-5173   Amazon.Com B99g39a22     $     27.23
+2/19/2026   2/19/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Ss9gk76n3   $     34.99
+2/19/2026   2/19/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Hj8os9ho3   $     14.99
+2/19/2026   2/19/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B95fu3a32   $     37.24
+2/19/2026   2/19/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Et5kz57h3   $     70.80
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl R45sa8r03   $      8.90
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-5173   Walmart.Com              $     37.23
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-5420   Iowa Events Center       $     13.00
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-2938   Wig Is Fashion           $    233.80
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $     33.02
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-9167   Amazon.Com B93mn41c2     $     12.10
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Jt42f4ae3   $    111.85
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-2590   Hy-Vee Iowa City 1288    $     12.55
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B930190l2   $     19.99
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B92l41p42   $    145.87
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-9199   Amazon Mktplace Pmts     $   (156.09)
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B98uj9p82   $    186.78
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-5273   Linder Tire - Iowa Cit   $     49.25
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-3897   Hy-Vee Coralville 1085   $     34.05
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-3897   Jimmy Johns - 2101 - E   $     34.25
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827     $     56.77
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-0735   Vcn Floridavitalstat     $      7.00
+2/20/2026   2/19/2026 XXXX-XXXX-XXXX-6253   Sheraton West Des Moin   $    500.00
+2/23/2026   2/19/2026 XXXX-XXXX-XXXX-5173   Burger King #11727 Q07   $      9.32
+2/23/2026   2/19/2026 XXXX-XXXX-XXXX-5420   Courtyard By Marriott    $    148.96
+2/23/2026   2/19/2026 XXXX-XXXX-XXXX-5420   Courtyard By Marriott    $    148.96
+2/23/2026   2/19/2026 XXXX-XXXX-XXXX-5420   Courtyard By Marriott    $      148.96
+2/23/2026   2/19/2026 XXXX-XXXX-XXXX-8046   Embassy Suites Bloomin   $   11,730.40
+2/23/2026   2/19/2026 XXXX-XXXX-XXXX-9041   Caseys #2792             $       29.50
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-5173   Amzn Digital B99108mh2   $       30.00
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-5173   Popeyes 12240            $       76.21
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-9828   Spond 2026 - Iowa Soc    $      155.00
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $       (2.16)
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $       (2.16)
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $       (2.16)
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $       (2.16)
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $       (2.16)
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-7754   American Heart Shopcpr   $       (2.16)
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-5420   Iowa Events Center       $       13.00
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-0980   Cm Music Shop            $      143.53
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-0980   Sq Viet Cuong Music      $      475.00
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $       97.84
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $       23.45
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $       43.99
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-4706   Bound Iowa High Schoo    $       81.30
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-3897   Hy-Vee F&f Crlvlle 508   $       11.98
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-3897   Jimmy Johns - 2101 - E   $       84.36
+2/23/2026   2/20/2026 XXXX-XXXX-XXXX-4270   Psc Distribution, Inc.   $      339.66
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-5420   Iowa Events Center       $       13.00
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-5420   Amoco#1054000dodge Qps   $       50.11
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-2938   Sas Fabrics              $       35.50
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-2938   Sas Fabrics              $      251.18
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Bp#5987524j&s Expreqps   $       24.01
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Maverik #5278            $       63.29
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $      463.68
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-5203   Kwik Star #932           $       39.02
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-5203   Conoco - Grand Avenue    $       43.65
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-4706   Sq Tim Vorland Photog    $       20.00
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-6061   Caseys #2417             $       48.75
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $    1,351.84
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $    1,416.04
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $    1,416.04
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $   1,420.04
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-2589   Loves #0361 Outside      $      29.40
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-2589   Jersey Mikes 38013       $     450.58
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-2589   Fairfield Inn & Suites   $   1,348.84
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-6938   Fairfield Inn & Suites   $   1,284.64
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-5669   Fairfield Inn & Suites   $     468.28
+2/23/2026   2/21/2026 XXXX-XXXX-XXXX-5669   Fairfield Inn & Suites   $   1,351.84
+2/23/2026   2/22/2026 XXXX-XXXX-XXXX-5166   Lululemon Iowa River L   $     922.20
+2/23/2026   2/22/2026 XXXX-XXXX-XXXX-5173   Amazon.Com B166r6wu1     $      12.72
+2/23/2026   2/22/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B98089742   $      34.98
+2/23/2026   2/22/2026 XXXX-XXXX-XXXX-2589   Enterprise Rent-A-Car    $     253.08
+2/23/2026   2/23/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Vc5lh76o3     $       9.64
+2/23/2026   2/23/2026 XXXX-XXXX-XXXX-5173   Amazon.Com B947h4ih2     $      23.42
+2/23/2026   2/23/2026 XXXX-XXXX-XXXX-9199   Amazon.Com B16ju1yp1     $      49.75
+2/24/2026   2/19/2026 XXXX-XXXX-XXXX-0735   Vcn Floridavitalstat     $      (7.00)
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $      97.36
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-3697   Towneplace Suites West   $     663.04
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4   $      47.65
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-5203   Kwik Star #1738          $      21.03
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-5203   Caseys #1025             $      25.51
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $   1,625.12
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $   1,710.72
+2/24/2026   2/22/2026 XXXX-XXXX-XXXX-5669   Fairfield Inn & Suites   $   1,468.32
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-5173   Hy-Vee Coralville 1080   $      24.46
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-5173   Walmart.Com              $      25.16
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B99hz6rt2   $      25.26
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-5173   Amazon.Com B97h39rs2     $      36.00
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488141   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488138   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488146   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488139   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488145   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488134   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488133   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488153   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488149   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488152   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488132   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488137   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488143   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488147   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488136   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488140   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488151   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488131   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488148   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488144   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488142   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   American 0017216488135   $    (252.90)
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9828   Holiday Inn Express &    $   3,739.68
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-7754   Uber Trip                $      12.27
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-8046   Quizlet.Com              $      38.15
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $       2.99
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $       9.99
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B90i58fu1   $      26.10
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-9199   Amazon.Com B96pq4rg2     $     237.54
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $      15.63
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $      28.66
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $      68.05
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827     $      37.46
+2/24/2026   2/23/2026 XXXX-XXXX-XXXX-7670   Aldi 68067               $       3.45
+2/24/2026   2/24/2026 XXXX-XXXX-XXXX-5173   Amazon.Com B92pm34h1     $      18.56
+2/24/2026   2/24/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Be09x3fm2     $      18.99
+2/24/2026   2/24/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be94i3o62   $      38.90
+2/24/2026   2/24/2026 XXXX-XXXX-XXXX-5372   Amazon Mktpl 129jr7043   $      23.86
+2/25/2026   2/23/2026 XXXX-XXXX-XXXX-5173   Burger King #11727 Q07   $      10.46
+2/25/2026   2/23/2026 XXXX-XXXX-XXXX-2938   Menards Iowa City Ia     $     298.32
+2/25/2026   2/23/2026 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $      32.27
+2/25/2026   2/23/2026 XXXX-XXXX-XXXX-9774   Hy-Vee Aisles Online 4   $      80.88
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     147.80
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl 0a18b6nd3   $      27.99
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-5173   Walmart.Com              $      52.05
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-3697   Subway 28736             $     105.00
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B97a203a1   $      20.99
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Fb42c9c33   $      54.90
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4    $       5.32
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-9774   Walmart.Com              $     160.37
+2/25/2026   2/24/2026 XXXX-XXXX-XXXX-3050   Vmo Vimeo.Com            $     318.00
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Wx23s8w33   $       9.48
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-5173   Amazon Mktplace Pmts     $     (14.99)
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Mm0n14lo3     $      22.43
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Be01o4322     $      22.43
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Be0uk83j2     $      23.79
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be4rb7n92   $      31.98
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B90et9ah1   $      58.34
+2/25/2026   2/25/2026 XXXX-XXXX-XXXX-9584   Dbc Blick Art Material   $      15.20
+2/26/2026   2/23/2026 XXXX-XXXX-XXXX-7754   Uber Trip                $     (12.27)
+2/26/2026   2/24/2026 XXXX-XXXX-XXXX-9828   American 0017216488155   $    (252.91)
+2/26/2026   2/24/2026 XXXX-XXXX-XXXX-9828   American 0017216488157              $     (252.91)
+2/26/2026   2/24/2026 XXXX-XXXX-XXXX-9828   American 0017216488156              $     (252.91)
+2/26/2026   2/24/2026 XXXX-XXXX-XXXX-9828   American 0017216488154              $     (252.91)
+2/26/2026   2/24/2026 XXXX-XXXX-XXXX-2938   Menards Iowa City Ia                $       51.91
+2/26/2026   2/24/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4              $       79.20
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-6555   Rev.Com                             $      531.36
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-5173   Walmart.Com                         $       60.74
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-7754   Uber Trip                           $       12.95
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-2093   Wm Supercenter #2827                $       12.27
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-0134   Plumb Supply - Ioc - 0              $       59.97
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1285               $       12.66
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be6lo3ah2              $        5.17
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B93br4pv1              $      281.89
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-5019   Arnold Motor Supply 4               $        4.40
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-3897   Dollartree                          $       43.36
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827                $      106.96
+2/26/2026   2/25/2026 XXXX-XXXX-XXXX-7670   Wal-Mart #1721                      $       24.63
+2/26/2026   2/26/2026 XXXX-XXXX-XXXX-5670   Payment - Automatic Pymt Received   $ (248,838.46)
+2/27/2026   2/25/2026 XXXX-XXXX-XXXX-5173   Burger King #11727 Q07              $        8.47
+2/27/2026   2/25/2026 XXXX-XXXX-XXXX-7615   Menards Iowa City Ia                $       25.98
+2/27/2026   2/25/2026 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C              $      757.13
+2/27/2026   2/25/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142                  $      116.94
+2/27/2026   2/25/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142                  $      939.90
+2/27/2026   2/25/2026 XXXX-XXXX-XXXX-3897   Hobby Lobby #172                    $       47.07
+2/27/2026   2/26/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B920h3ow0              $       10.98
+2/27/2026   2/26/2026 XXXX-XXXX-XXXX-9167   Amazon Mktpl Be6910gm2              $       29.47
+2/27/2026   2/26/2026 XXXX-XXXX-XXXX-5273   Midwest Frame & Axle                $      529.98
+2/27/2026   2/26/2026 XXXX-XXXX-XXXX-6054   Htl Hamptoninnbyhi                  $     (702.67)
+2/27/2026   2/27/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B95b31lt0              $       32.78
+2/27/2026   2/27/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B98m83le0              $       49.92
+2/27/2026   2/27/2026 XXXX-XXXX-XXXX-6253   Dd Doordash McDonalds               $       26.28
+ 3/2/2026   2/26/2026 XXXX-XXXX-XXXX-8046   Hampton Inn Muscatine               $      262.08
+ 3/2/2026   2/26/2026 XXXX-XXXX-XXXX-8046   Hampton Inn Muscatine               $      262.08
+ 3/2/2026   2/26/2026 XXXX-XXXX-XXXX-8046   Hampton Inn Muscatine               $      262.08
+ 3/2/2026   2/26/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4              $       72.36
+ 3/2/2026   2/26/2026 XXXX-XXXX-XXXX-7615   Menards Iowa City Ia                $       20.87
+ 3/2/2026   2/26/2026 XXXX-XXXX-XXXX-3818   Hillyard Inc                        $       69.31
+ 3/2/2026   2/27/2026 XXXX-XXXX-XXXX-6555   Ups 1z85b22t0394795839              $       12.96
+ 3/2/2026   2/27/2026 XXXX-XXXX-XXXX-5173   Burger King #11727 Q07              $        8.47
+ 3/2/2026   2/27/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B90i22q31              $       14.24
+ 3/2/2026   2/27/2026 XXXX-XXXX-XXXX-5173   Sp Keyguard At                      $      119.80
+ 3/2/2026   2/27/2026 XXXX-XXXX-XXXX-5420   Tst Tin Roost                       $      444.48
+ 3/2/2026   2/27/2026 XXXX-XXXX-XXXX-3697   Caseys #3610                        $      112.30
+ 3/2/2026   2/27/2026 XXXX-XXXX-XXXX-0134   Menards Iowa City Ia                $        7.73
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-5273   Deery Brothers Ford Li   $     192.57
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-5019   Napa Store 3137142       $      11.92
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-4656   Facebk Yxmpkev8d2        $     380.00
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-3897   Sleep Inn                $     246.40
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-3897   Sleep Inn                $     246.40
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-3897   Sleep Inn                $     246.40
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-3897   Sleep Inn                $     246.40
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-9774   Walmart.Com              $      81.18
+3/2/2026   2/27/2026 XXXX-XXXX-XXXX-0312   J.W. Pepper              $     256.90
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B952s59f1   $      32.99
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B97472ev0   $      37.86
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-5173   McDonalds 4576           $      57.59
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-8046   Holiday Inn Express &    $   3,627.12
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-8046   Lsu Andys Jazz Club      $   4,612.61
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-4656   Facebk Bnmlueh8d2        $      28.42
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-3897   Papa Johns #2512         $     178.00
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-3897   Papa Johns #2512         $     178.00
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-3897   Papa Johns #2512         $     178.00
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-3897   Papa Johns #2512         $     290.00
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-1199   Chick-Fil-A #02158       $   1,350.00
+3/2/2026   2/28/2026 XXXX-XXXX-XXXX-5320   Openai Chatgpt Subscr    $      21.20
+3/2/2026    3/1/2026 XXXX-XXXX-XXXX-5166   Maverik #5336            $      38.67
+3/2/2026    3/1/2026 XXXX-XXXX-XXXX-7615   Wm Supercenter #2827     $      28.95
+3/2/2026    3/1/2026 XXXX-XXXX-XXXX-4783   Google Cloud Psvxns      $     984.55
+3/2/2026    3/1/2026 XXXX-XXXX-XXXX-5923   Pods                     $     306.40
+3/3/2026    3/1/2026 XXXX-XXXX-XXXX-2093   Hy-Vee Aisles Online 4   $      66.13
+3/3/2026    3/1/2026 XXXX-XXXX-XXXX-3556   Hy-Vee Aisles Online 4   $      37.68
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-6555   Hy-Vee Iowa City 1288    $   3,000.00
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-5173   Amazon.Com Bp6fp5fj2     $      13.98
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-5173   Target.Com               $      21.45
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-5173   Walmart.Com              $      37.47
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-5420   Google Workspace_littl   $      19.08
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-8046   Opusevent.Com            $     150.00
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-1390   Hy-Vee Coralville 1080   $      32.94
+3/3/2026    3/2/2026 XXXX-XXXX-XXXX-6061   Jimmy Johns # 1200 -     $     203.06
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl B95wa7k90   $      22.23
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-5173   Amazon.Com B93zn0kq0     $      49.72
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-9167   Amazon.Com B99ld5kw0     $      14.99
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-9167   Amazon.Com B941g1k00     $      89.24
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be1vk3tx1   $      15.98
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Be0410tx1     $      19.99
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B95ih8290   $      20.52
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be1rm5tt1   $      21.52
+3/3/2026    3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B97ys1kv0   $      31.98
+3/3/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon.Com Bp7cw3lu2     $      311.84
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-9219   Kwik Star #1927          $       20.26
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-9219   Kwik Star #1927          $       30.52
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-9219   Kwik Star #1927          $       87.29
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-4706   Chick-Fil-A #02158       $    3,150.00
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/2/2026 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $      155.68
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-0980   J.W. Pepper              $       75.00
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Be8i280i1     $        8.98
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $       99.00
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B97ss67a0   $        7.99
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B954x4u90   $       32.98
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B93ck7760   $       54.90
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B90372ui0   $       89.80
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Bp4gm8nl2   $       95.94
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be1oy0031   $      161.93
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B94hg7k80   $      199.55
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be91y6041   $      223.49
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-2619   Sq The Depot Express     $    1,620.00
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-5923   Pods                     $       89.00
+3/4/2026   3/3/2026 XXXX-XXXX-XXXX-6253   Papa Johns #2512         $       19.89
+3/4/2026   3/4/2026 XXXX-XXXX-XXXX-5173   Amazon Mktpl Be3ql3161   $       39.08
+3/4/2026   3/4/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl B96q08r20   $       13.85
+3/4/2026   3/4/2026 XXXX-XXXX-XXXX-9199   Amazon Mktpl Be4li3gs1   $       62.19
+3/5/2026   3/3/2026 XXXX-XXXX-XXXX-5173   Burger King #11727 Q07   $        9.32
+3/5/2026   3/3/2026 XXXX-XXXX-XXXX-0980   Menards Iowa City Ia     $       16.11
+3/5/2026   3/3/2026 XXXX-XXXX-XXXX-2589   Chick-Fil-A #02158       $      182.32
+3/5/2026   3/4/2026 XXXX-XXXX-XXXX-6555   Ups 29633eb1486          $        9.65
+3/5/2026   3/4/2026 XXXX-XXXX-XXXX-6555   Rev.Com                  $      372.60
+3/5/2026   3/4/2026 XXXX-XXXX-XXXX-9167   Amazon.Com Bp69u31g2     $       24.91
+3/5/2026   3/4/2026 XXXX-XXXX-XXXX-4706   Hampton Inn Coralville   $      472.48
+3/5/2026   3/4/2026 XXXX-XXXX-XXXX-5256   Dnh Godaddy#4021253857   $      197.64
+3/5/2026   3/4/2026 XXXX-XXXX-XXXX-5320   Bound 2026 Girls A.D.    $      241.83
+3/5/2026   3/4/2026 XXXX-XXXX-XXXX-2589   Papa Johns #2512         $       51.75
+3/5/2026   3/5/2026 XXXX-XXXX-XXXX-0134   Brycer, Llc              $      336.00
+                                          Debit Total              $ 154,157.26
+                                          Credit Total             $ (258,074.61)
+                                          Total                    $ (103,917.35)
+

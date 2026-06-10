@@ -1,0 +1,10 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                               Page: 1
+12/19/2024 8:50 AM                                                                                                 User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                       Amount
+201214         12/19/2024                              017503          THE LINE UP                                     13,333.51
+               Check Type Total:      Check                        Void Total:       0.00   Total without Voids:       13,333.51
+               Checking Account Total: 3                           Void Total:       0.00   Total without Voids:       13,333.51
+
+                                      Grand Total:                 Void Total:       0.00   Total without Voids:       13,333.51
+

@@ -1,0 +1,119 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+01/28/2025 2:11 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+409735          01/28/2025                               008203          ALLIANT ENERGY                                     14,691.49
+409736          01/28/2025                               013446          CEDAR RAPIDS KENNEDY HS                             1,650.00
+409737          01/28/2025                               012290          CENTURYLINK COMMUNICATIONS, LLC                     2,827.33
+409738          01/28/2025                               000461          CITY OF CORALVILLE                                  2,206.43
+409739          01/28/2025                               000465          CITY OF IOWA CITY                                   6,714.69
+409740          01/28/2025                               000465          CITY OF IOWA CITY                                   5,751.11
+409741          01/28/2025                               005199          MIDAMERICAN ENERGY                                109,622.98
+409742          01/28/2025                               005199          MIDAMERICAN ENERGY                                     89.15
+409743          01/28/2025                               017520          PITNEY BOWES                                          207.48
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:         143,760.66
+                Checking Account Total: 1                            Void Total:         0.00    Total without Voids:      143,760.66
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201507          01/28/2025                               008668          JACK ADOLPHSON                                        168.11
+201508          01/28/2025                               008410          DAVE ANNEN                                            109.13
+201509          01/28/2025                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                   814.80
+201510          01/28/2025                               107529          BRANTLY BAGBY                                         304.00
+201511          01/28/2025                               106106          ANNA BASILE                                            78.97
+201512          01/28/2025                               017143          MARK BEGEY                                            120.00
+201513          01/28/2025                               005282          BENTON COMMUNITY SHOOL DISTRICT                        30.00
+201514          01/28/2025                               015269          BERG AUTO CORP                                     14,661.30
+201515          01/28/2025                               106840          RYAN BOBST                                            112.81
+201516          01/28/2025                               011189          MICHAEL BONWELL                                       120.00
+201517          01/28/2025                               015057          BSN SPORTS LLC                                      1,982.93
+201518          01/28/2025                               005587          RAY CARLEY                                            118.25
+201519          01/28/2025                               002675          CEDAR FALLS HIGH SCHOOL                               500.00
+201520          01/28/2025                               105192          JORDAN CHALLIS                                        268.14
+201521          01/28/2025                               020192          JOSHUA CHRISTENSEN                                    116.73
+201522          01/28/2025                               008774          COPYWORKS                                             488.00
+201523          01/28/2025                               008738          DAVID CUSICK                                          120.00
+201524          01/28/2025                               106253          TRISHUL DAHYA                                         345.47
+201525          01/28/2025                               012513          DECKER SPORTING GOODS INC                           2,831.10
+201526          01/28/2025                               017596          DERLEIN SCALE INC                                     226.49
+201527          01/28/2025                               012127          MATTHEW DICICCO                                       105.67
+201528          01/28/2025                               107528          ROBERT DRECKMAN                                       304.00
+201529          01/28/2025                               010670          CEDRIC EDWARDS-THOMAS                                 204.80
+201530          01/28/2025                               107531          ELIZABETH EGGLESTON                                   197.05
+201531          01/28/2025                               000031          ELITE SPORTS                                        1,183.00
+201532          01/28/2025                               008797          BRUCE ENNEN                                           255.29
+201533          01/28/2025                               010656          JOE FONTENOT                                          267.77
+201534          01/28/2025                               104878          TRAVIS FULLER                                         120.00
+201535          01/28/2025                               020476          MARK GASSMANN                                         240.00
+201536          01/28/2025                               008601          JOSEPH GATTO                                          120.00
+201537          01/28/2025                               106385          GREGORY GOTTSCHALK                                    296.93
+201538          01/28/2025                               016008          TROY GREENE                                           303.16
+201539          01/28/2025                               105731          NIKOLAS HAHN                                          137.87
+201540          01/28/2025                               011473          SEAN HELTON                                           160.39
+201541          01/28/2025                               106789          ALLYSON HERMAN                                        100.81
+201542          01/28/2025                               014417          HILLYARD/DES MOINES SANITARY                           83.32
+201543          01/28/2025                               016067          JEFFREY HORST                                         140.57
+201544          01/28/2025                               107526          TYLER HOTZ                                             83.67
+201545          01/28/2025                               017325          IOWA HIGH SCHOOL SPEECH ASSOCIATION                   202.00
+201546          01/28/2025                               107533          IOWA STATE UNIVERSITY                                 200.00
+201547          01/28/2025                               001834          J.W. PEPPER & SON, INC.                                90.00
+201548          01/28/2025                               105278          JIMMY JOHN'S                                          363.70
+201549          01/28/2025                               106322          MARK KENNY                                            265.39
+201550          01/28/2025                               011291          JARED KIEBEL                                        1,000.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+01/28/2025 2:11 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201551          01/28/2025                               009404          BLAIR KLINEFELTER                                     110.32
+201552          01/28/2025                               002449          PATRICK KNOBBE                                        114.21
+201553          01/28/2025                               017018          RONALD KNOCHE                                         120.00
+201554          01/28/2025                               107527          MITCHELL KNOCK                                        255.89
+201555          01/28/2025                               011056          MARTIN BROS. DISTRIBUTING CO INC                      368.93
+201556          01/28/2025                               010726          TIM MCEOWEN                                           273.81
+201557          01/28/2025                               105650          ADAM MCLAUGHLIN                                       308.62
+201558          01/28/2025                               001980          MEDCO SUPPLY CO, INC.                                 231.27
+201559          01/28/2025                               017019          ANDREW MILTON                                         150.73
+201560          01/28/2025                               008680          DOREN MONTGOMERY                                      262.31
+201561          01/28/2025                               105750          MOUNT VERNON HIGH SCHOOL                               50.00
+201562          01/28/2025                               017859          MUSIC THEATRE INTERNATIONAL                         2,555.00
+201563          01/28/2025                               106280          BRENT NEIGHBOR                                        271.98
+201564          01/28/2025                               106427          OSL PRODUCTIONS                                       600.00
+201565          01/28/2025                               002370          OTTUMWA COMM SCHOOLS                                  150.00
+201566          01/28/2025                               017399          PELLA HIGH SCHOOL                                     300.00
+201567          01/28/2025                               011510          WILLIAM (BILL) POCH                                   119.67
+201568          01/28/2025                               013424          JOHN POEHLER                                          264.38
+201569          01/28/2025                               014719          SHANE REMINGTON                                       120.00
+201570          01/28/2025                               008663          PHIL RITCHIE                                           91.99
+201571          01/28/2025                               008673          ADAM ROY                                              106.16
+201572          01/28/2025                               015991          TERRY SCHNEEKLOTH                                     202.85
+201573          01/28/2025                               013560          MATTHEW SHANNON                                       949.00
+201574          01/28/2025                               016037          BRENT SHARFF                                          168.11
+201575          01/28/2025                               000072          SKEETER KELL SPORTING GOODS                         6,064.10
+201576          01/28/2025                               009227          SOLON HIGH SCHOOL                                     180.00
+201577          01/28/2025                               014766          BOB SQUIERS                                           120.00
+201578          01/28/2025                               007320          TRACY STONE                                           339.26
+201579          01/28/2025                               008421          THEODORE SUEPPEL                                      120.00
+201580          01/28/2025                               017722          RICK SWAN                                             427.98
+201581          01/28/2025                               008676          RODNEY TELSROW                                        120.00
+201582          01/28/2025                               106302          VAUGHN THADA                                           83.73
+201583          01/28/2025                               020478          JAMES TORVIK                                          189.00
+201584          01/28/2025                               107006          HENRY TROYKA                                          984.83
+201585          01/28/2025                               000220          BRIAN MILLER                                        3,651.00
+201586          01/28/2025                               106328          ALEXANDER TUTTLE                                      206.05
+201587          01/28/2025                               014197          UNIVERSITY OF IOWA                                    500.00
+201588          01/28/2025                               107530          SYLVIA VAUPEL                                         218.76
+201589          01/28/2025                               020477          FRANCIS WEBER                                         295.63
+201590          01/28/2025                               002492          WEST MUSIC CO INC                                     728.42
+201591          01/28/2025                               012192          CHET WIELAND                                          107.24
+201592          01/28/2025                               107532          JOHN WOODWARD                                         209.71
+                Check Type Total:      Check                         Void Total:          0.00 Total without Voids:         52,632.56
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       52,632.56
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9028235         01/28/2025                               105197          ADVANCED BUSINESS SYSTEMS INC                         368.00
+9028236         01/28/2025                               106841          IMON COMMUNICATIONS LLC                               400.00
+9028237         01/28/2025                               015021          VERIZON WIRELESS SERVICES LLC                          80.02
+                Check Type Total:      Check                         Void Total:        0.00  Total without Voids:             848.02
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:          848.02
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:      197,241.24
+

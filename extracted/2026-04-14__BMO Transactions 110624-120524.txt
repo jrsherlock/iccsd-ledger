@@ -1,0 +1,1454 @@
+Transaction Search - Company
+BMO - Mastercard, 11/06/2024 to 12/05/2024
+
+Posting Date   Tran Date         Account                     Supplier        Amount USD
+  11/6/2024     11/6/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Lw1fs5ci3   $         96.28
+  11/6/2024     11/6/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Je0hk4813   $        483.23
+  11/6/2024     11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ta1mg97k3   $         66.90
+  11/6/2024     11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl By1s71ud3   $        102.20
+  11/6/2024     11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Fh0s369b3   $      1,018.50
+  11/6/2024     11/6/2024 XXXX-XXXX-XXXX-3317   Gih Globalindustrialeq   $        708.58
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-5166   Wm Supercenter #1721     $         21.16
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-6555   Office Express           $         22.61
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-6555   Office Express           $        512.64
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Target.Com               $         10.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Amzn Digital 2u5le48h3   $         10.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Target.Com               $         10.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Target.Com               $         10.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Target.Com               $         10.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Target.Com               $         10.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Target.Com               $         10.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Amazon.Com B96dr9sm3     $         12.96
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Sq Block 16              $         15.49
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-1801   Tst Upstream Brewing C   $         36.52
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-7754   Panera Bread #203219 O   $        138.29
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-7128   Fastenal Company 01iai   $        225.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-8046   Wm Supercenter #1721     $         48.59
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-8046   Bravajazz.Com            $         55.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-8046   Tapspace Publications    $         55.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-8046   Www.Alfred.Com           $         55.00
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-8046   Ejazzlines.Com           $         70.38
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-8046   Steve Weiss Music Inc    $         83.93
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-8046   Johnmackey.Com           $        511.17
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1285    $          7.96
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-2093   Wm Supercenter #1721     $        217.86
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US F965l9m23   $         86.28
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $         63.20
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-4783   Google Cloud Zw96n5      $        371.89
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ik3o92qz3   $         13.96
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ww19x7vz3   $         48.13
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Om0fd4i13   $         61.06
+  11/7/2024     11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl To2pg4863   $        125.48
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Xb1gr0js3   $     170.95
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zh8t91rx0   $     188.99
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0a95b7rq3   $     209.82
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 875023fi3   $     299.94
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 5n4sn3wd3   $     939.68
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-5203   Alphagraphics N Libert   $      51.35
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-9219   Alphagraphics N Libert   $      43.90
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $      30.36
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-3897   24hourwristbands.Com     $     184.94
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-4892   Hy-Vee Iowa City 1288    $      31.61
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-9678   Doors Inc Iowa City      $   1,125.79
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-1880   Trpts.Me/Amstar          $      45.00
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-7228   Staples 00106260         $      22.78
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-6061   Strp.Midwestclinic.Org   $     220.00
+11/7/2024   11/6/2024 XXXX-XXXX-XXXX-0021   Prusa Research           $   1,820.12
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-5166   Amazon Mktpl 296m20p83   $      21.98
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Fh7lu0c03   $      14.99
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US 6i38z54k3   $      19.00
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zh8r31b71   $      29.99
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Ms9s563p3   $      34.99
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Jf1fa7ws3   $      43.97
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-7754   American 0012189695921   $     519.95
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Rx0f25kh3     $     283.01
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0d98l5to3   $       4.33
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Ew8w35xo3     $      14.73
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Op7tu1tc3     $      17.22
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0b8pz06n3   $      19.77
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Qi74i85c3   $      25.23
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl C773t37x3   $      25.99
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ec5kx5jj3   $      29.99
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 1s8gt3ql3   $      48.45
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Cy8h38hu3     $      51.58
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0g2ef0l03   $      93.60
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ss81n47y3   $     147.98
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Mg8v67zj3   $     196.17
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US De85c7wa3   $     197.98
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Fh2ra5wk3   $     320.18
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Mw0mt6rg3     $     516.00
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-9938   Amazon Mktpl Px6f19d53   $   2,299.99
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-4706   Vernier Science Educat   $     613.00
+11/7/2024   11/7/2024 XXXX-XXXX-XXXX-3317   Gih Globalindustrialeq   $     124.42
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-1801   Jackson St. Tavern       $     220.20
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-5110   Van Meter Inc - Iowa C   $      54.21
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $     132.04
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-0883   Menards Iowa City Ia     $    53.82
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 8n7xg48h3    $    (6.16)
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 8n7xg48h3    $    (9.58)
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 8n7xg48h3    $   (10.98)
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-5774   Menards Iowa City Ia     $     5.99
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-9041   Menards Iowa City Ia     $    11.97
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-6253   Casey S #4367            $    46.69
+11/8/2024   11/6/2024 XXXX-XXXX-XXXX-6253   Casey S #4367            $    47.47
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-5166   Cheersounds              $   151.00
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $    29.45
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Tst Let It Fly Omaha     $   206.38
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-9828   Carlsvanrentals          $   100.00
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-9828   Niaaa                    $   295.00
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-9828   Carlsvanrentals          $   500.00
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-8113   Hardware Distributors    $   600.40
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-7128   Lenoch & Cilek Ace #1    $    25.47
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-8046   Sq Press Coffee Compa    $    31.80
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $     3.99
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1285    $    31.92
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-7615   Staples 00106260         $   535.95
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $    33.37
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $   154.37
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 5788a9yr3   $     3.38
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US H75j18273   $     8.60
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US A80mx5iz3   $    27.81
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Xy29k3vu3   $    39.53
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Gw4es8vg3   $    59.99
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Gc5jq70t3     $   302.60
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-3818   Greenwood Cleaning Sys   $   188.00
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4706   Hy-Vee Coralville 1085   $   135.00
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-4892   J.W. Pepper              $   134.99
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-9678   Grainger                 $    88.82
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-9482   Hy-Vee Iowa City 1288    $    34.95
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-0891   Wal-Mart #2827           $    13.90
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-2934   McDonalds F28677         $    35.00
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-2934   McDonalds F28677         $    90.99
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-6253   Walmart.Com              $    28.14
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-6253   Walmart.Com              $   423.58
+11/8/2024   11/7/2024 XXXX-XXXX-XXXX-6253   Usps.Com Postal Store    $   903.50
+11/8/2024   11/8/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Tj8o21q93     $    21.50
+11/8/2024   11/8/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $   (27.77)
+11/8/2024   11/8/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 4w5oc3sp3   $    79.98
+11/8/2024   11/8/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Q49390nh3   $   637.12
+11/8/2024   11/8/2024 XXXX-XXXX-XXXX-4247   L & L Kiln Mfg., Inc.    $   704.61
+11/11/2024   11/7/2024 XXXX-XXXX-XXXX-1801   Twisted Fork             $    161.91
+11/11/2024   11/7/2024 XXXX-XXXX-XXXX-0362   Blick Art 800 447 1892   $     22.04
+11/11/2024   11/7/2024 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $    173.97
+11/11/2024   11/7/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     50.40
+11/11/2024   11/7/2024 XXXX-XXXX-XXXX-6061   Brookstoneinn & Suites   $   (144.48)
+11/11/2024   11/7/2024 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $    187.59
+11/11/2024   11/7/2024 XXXX-XXXX-XXXX-6253   Walmart.Com 8009256278   $     49.31
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-6555   Stapls7644986560000002   $    154.62
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-1801   B-Bops Altoona           $     12.80
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-1801   Hilton Garden Inn Omh    $    363.94
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-1801   Hilton Garden Inn Omh    $    363.94
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-1801   Hilton Garden Inn Omh    $    363.94
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-1801   Hilton Garden Inn Omh    $    363.94
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-1801   Hilton Garden Inn Omh    $    363.94
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-1801   Hilton Garden Inn Omh    $    413.94
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-9828   Usps Po 1866150317       $     13.40
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-9828   North Liberty Ace Hard   $     24.37
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-5110   Van Meter Inc - Iowa C   $     95.91
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-5110   Plumb Supply - Ioc - 0   $    227.99
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $    191.14
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-8046   C.L. Barnhouse Company   $    105.00
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-8046   Sp Robotshop Inc. Us     $    619.95
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-0362   Wendys #48               $     43.21
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-0362   Menards Iowa City Ia     $     51.97
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-2093   Wm Supercenter #2827     $    314.77
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-9999   Osi Batteriescom         $    116.97
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-0835   Sp Raygun Custom         $    171.34
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-5280   Menards Iowa City Ia     $     26.38
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-0883   Menards Iowa City Ia     $     22.98
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z56tk840396596846   $     20.38
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z56tk840395546035   $     20.38
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z56tk840399842056   $     20.38
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0397526128   $     22.38
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0391330073   $     26.60
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0390153105   $     26.60
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0391945463   $     26.60
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0393016883   $     26.60
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0391330519   $     26.60
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0399094538   $     26.60
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-4783   Ups 1z28t93f0390249897   $     26.60
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $    213.92
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-5273   Safelite Autoglass       $    619.96
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $      7.73
+11/11/2024   11/8/2024 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $    112.43
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-5019   Plumb Supply - Ioc - 0   $   323.99
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-3905   Zio Johnos Iowa City     $   353.90
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-8011   White Cap #105           $    60.16
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-5108   Nichols Controls &supp   $   228.85
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $    70.54
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-2934   Discount Dance           $   477.68
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6061   Www.Iahsaa.Org           $     9.58
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6061   Www.Iahsaa.Org           $     9.58
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6061   Jersey Mikes 38013       $   246.22
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6061   Papa Johns #2066         $   394.29
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-5320   Panda Express #2052 P    $    48.23
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6253   Dd Doordash Chick-Fil    $    19.61
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6253   Acmetools.Com            $    54.18
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6253   Icda Inc.                $    96.00
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6253   Ls Geoffs Bike And Ski   $   158.78
+11/11/2024    11/8/2024 XXXX-XXXX-XXXX-6889   Walgreens #10985         $     9.92
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-6555   Marriott Philad Dtown    $   834.36
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-6555   Marriott Philad Dtown    $   834.36
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-6555   Marriott Philad Dtown    $   834.36
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-0362   Sq Donutland             $    39.68
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-0362   Papa Johns #1560         $    54.00
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-4783   Microsoft Msbill.Info    $    22.20
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl R094v6xj3   $    14.67
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl I28iq3903   $    34.82
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $   811.44
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-3317   Gih Globalindustrialeq   $   263.00
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-8234   Sp Shop 4-H              $    37.45
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-2934   Tst Coachs Corner Spor   $    74.75
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-6061   Www.Iahsaa.Org           $     9.58
+11/11/2024    11/9/2024 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $    82.80
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-5166   Hy-Vee Iowa City 1285    $    36.20
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-5166   Tst Estelas Fresh Mex    $   395.14
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-0134   Brycer, Llc              $    15.00
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Ot7bf5qz3     $   227.85
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-2677   Pilot 043                $    28.88
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-2677   Speedway 06604 Mattawa   $    31.68
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-2677   Hampton Inns             $   420.91
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-2677   Hampton Inns             $   491.95
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-4783   Ups Adj00401790264541    $     4.67
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $   (24.49)
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl G768b2kq3   $    38.99
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Vy4gh19z3   $    49.74
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-1462   Quality Inns             $   211.12
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-1462   Quality Inns             $   211.12
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-1462   Quality Inns             $   211.12
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-1462   Quality Inns             $   211.12
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-1462   Quality Inns             $   211.12
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-1462   Quality Inns             $   211.12
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-1462   Quality Inns             $   211.12
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-5372   Amazon Mktpl Yk1ah5i63   $    69.97
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-2934   Wm Supercenter #1721     $    81.48
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-2934   Flowrestling.Org         $   159.00
+11/11/2024   11/10/2024 XXXX-XXXX-XXXX-5320   Wal-Mart #1721           $    99.00
+11/11/2024   11/11/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Qr2vu25e3   $     7.79
+11/11/2024   11/11/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Uu0c59p43   $   133.47
+11/12/2024   11/10/2024 XXXX-XXXX-XXXX-3905   Menards Marion Ia        $    31.17
+11/12/2024   11/10/2024 XXXX-XXXX-XXXX-7228   Menards Iowa City Ia     $   423.08
+11/12/2024   11/10/2024 XXXX-XXXX-XXXX-8234   Hy-Vee Aisles Online 4   $   126.56
+11/12/2024   11/10/2024 XXXX-XXXX-XXXX-2934   Aldi 68067               $    16.29
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $   120.21
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-6384   Hy-Vee Iowa City 1281    $   240.00
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-1801   Hy-Vee Iowa City 1288    $     3.58
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Rh6ea7sp3   $    39.95
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US Wd2sc6ct3   $    52.99
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-1801   Amazon.Com 196dd9f33     $    54.43
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-8113   Woodcraft 586            $    99.98
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-8046   Hy-Vee Iowa City 1285    $    26.50
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-8046   Dollar Tree              $    35.78
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-8046   Ollies Bargain Outlet    $    67.76
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-8046   Hy-Vee Iowa City 1285    $   158.28
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $   373.16
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-3288   Plumb Supply - Ioc - 0   $   249.00
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US 6o2qq4nb3   $    18.35
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4984   Amazon.Com 6o0wb54x3     $    67.93
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4984   Amazon.Com 978634ay3     $   105.00
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl He2vf0p33   $     7.69
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl U30686kp3   $     8.99
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Us5ra5wy3   $    13.83
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Gt8kp6ba3   $    14.90
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Li02y14a3   $    23.98
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Y840p5xk3   $    46.57
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 5r13z1zn3     $    70.78
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Tp1z82m03   $    93.53
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amzn Digital Wh7z30xc3   $   109.00
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Nh8gs8te3   $   155.94
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Sl5oo44r3   $   169.90
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Pc6r01643   $   257.98
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     9.25
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     12.34
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    (72.34)
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-7634   Nichols Controls &supp   $     55.08
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-7634   Johnstone Supply - Ced   $   (203.77)
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-7634   Johnstone Supply - Ced   $    284.78
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    122.66
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-3897   Hugh Obrian Leadership   $    285.00
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-9410   Alphagraphics N Libert   $     30.42
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4892   J.W. Pepper              $     15.00
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-4892   J.W. Pepper              $     80.99
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-5372   Amazon.Com As3zb81r3     $     40.65
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-8234   Harbor Freight Tools30   $    238.09
+11/12/2024   11/11/2024 XXXX-XXXX-XXXX-6253   Pancheros                $     23.05
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Gy2cs0b63     $      4.67
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl U237u8gx3   $      9.98
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Amazon.Com G91sf5703     $     15.16
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Amazon.Com A37fw4in3     $     29.88
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US S11qg3b33   $     34.97
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Gh4491cq3   $     42.92
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Ll8mq5073   $     67.89
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Lt6b81zw3     $      5.58
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Iq4o377e3     $     14.23
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Kq4gi3li3     $     18.59
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pa2bp2ab3   $      1.51
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl E519k4v13   $      8.99
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ng1pu87v3   $      9.48
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ts8wf3y83   $      9.99
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Bg0yc1gl3   $     12.69
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z18im5vs3   $     13.98
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon.Com F34w92ux3     $     14.33
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 6e8ey7wi3   $     16.99
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Rw7fw7ya3   $     17.38
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 2m3z84te3   $     17.99
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 9x2ez83s3   $     18.99
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Wa56t7qu3   $     19.98
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Vz5qo5xw3     $     25.95
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Pi33p86c3     $     28.04
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Tc2zi51k3   $     31.34
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 5g6he3363   $     35.94
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 8x9yn3ku3   $     44.95
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pj1i213m3   $     65.31
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl V25hp1uk3   $     81.57
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ix1wj8pt3   $     97.02
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Mb7fu7an3   $     99.93
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 4v99z2di3   $     107.94
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Q15o91m83   $     112.21
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Kg7he4h63   $     123.46
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Mn2tq6gp3   $     131.28
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Oa7ij8r63   $     146.99
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 4k12j24z3   $     148.95
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 748q453q3   $     155.15
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 4b3y49843   $     207.92
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Tr3586v33   $     224.75
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 5x21074s3   $     260.73
+11/12/2024   11/12/2024 XXXX-XXXX-XXXX-6253   Sportsmith Llc           $      78.19
+11/13/2024    11/8/2024 XXXX-XXXX-XXXX-0021   Walmart.Com 8009256278   $     695.69
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-8046   Big 10 University Towi   $     148.40
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $     212.45
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-5280   Menards Iowa City Ia     $      11.65
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $      34.26
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-7634   Menards Iowa City Ia     $       8.00
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-8234   Innovative Label Techn   $     104.29
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $      63.26
+11/13/2024   11/11/2024 XXXX-XXXX-XXXX-2934   Holiday Inn & Suites     $   2,553.60
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-5166   Bowlifi                  $   1,604.08
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-6555   Office Express           $     202.64
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $     (19.59)
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $      37.26
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-8046   Sq Cookies & Dreams C    $      81.49
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-2093   Wm Supercenter #1721     $      52.96
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-2093   Wm Supercenter #1721     $     159.69
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US 1w0tf7y73   $      13.00
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $     197.94
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-9535   Usps.Com Postal Store    $     114.55
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4783   Ups Adj00401790264441    $       2.77
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 325ko3wu3   $       8.42
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 4m7gm8dm3   $      15.98
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Gq2xh81m3   $      26.92
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl B96xz0rf3   $      29.98
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Sn4ua4yr3   $      57.00
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yd0w34uj3   $      57.78
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ej8qw39j3   $      62.91
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Nc3gg1h93   $      84.95
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (91.71)
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 1e1wu5f33   $      93.98
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US S430q7as3   $      94.66
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3j7ac9cz3   $     164.54
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Jv6ep1u03   $     169.90
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Af5313713   $     189.70
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6r3260iv3   $     225.90
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $      57.64
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $     124.57
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $     235.37
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $      58.07
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-5019   Ccl Supply, Llc          $     156.60
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $     169.98
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-1462   Enterprise Rent-A-Car    $     408.92
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-7262   Dollartree               $      26.25
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-7262   Walgreens #11710         $     111.98
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-3897   Gobilda                  $     119.01
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-3050   Usps Po 1866150317       $      11.01
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-8234   J.W. Pepper              $     128.40
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-0891   Wm Supercenter #2827     $     134.31
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-9659   The Ceramic Shop         $      46.38
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-6061   Iowa Chop House          $   1,477.50
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-6253   Acmetools.Com            $      54.18
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-6253   Acmetools.Com            $      54.18
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-6253   Paypal Mathleague        $     100.00
+11/13/2024   11/12/2024 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $     151.15
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Tu43n3vx3   $      36.91
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl C54tk3893   $     123.46
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl X15z33gn3   $       8.85
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Vo5re36i3     $       9.95
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ah7qh3dm3   $      32.24
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl D78644lz3   $      78.21
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ze32j6373   $     119.99
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 9o4rr5g63   $     122.71
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-3317   Gih Globalindustrialeq   $     534.55
+11/13/2024   11/13/2024 XXXX-XXXX-XXXX-5372   Amazon Mktpl 9b7zw94c3   $     169.82
+11/14/2024   11/12/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     278.10
+11/14/2024   11/12/2024 XXXX-XXXX-XXXX-7670   Aldi 68067               $      15.44
+11/14/2024   11/12/2024 XXXX-XXXX-XXXX-9041   Menards Iowa City Ia     $      17.96
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-1805   Integrated Medicine Of   $      20.00
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      13.26
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1059   $      24.18
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-6384   Pizza Hut 004333         $      20.12
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-6384   Voyager Sopris Learng    $     303.60
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Uw1sw78x3     $       7.49
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $       9.80
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4815   Sherwin-Williams703783   $      43.20
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Xc7725w23   $      13.96
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl 984i82903   $     188.00
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $     156.74
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4783   Tesmart                  $     730.84
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $      (8.41)
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (23.98)
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Wf9to6yv3   $      31.89
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ie3wj0fy3   $      36.98
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon.Com               $     (59.15)
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $     (70.22)
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon.Com               $    (118.30)
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Yb7c585i3   $     244.08
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $     115.07
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     311.70
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-4706   Brook Publ               $      56.45
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-9678   Grainger                 $     204.83
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-5396   Hv Iowa City #2 Strbuc   $       7.37
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-6253   Association For Career   $     465.00
+11/14/2024   11/13/2024 XXXX-XXXX-XXXX-6253   Hotel Contessa           $   1,129.32
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US W275p5hv3   $      15.99
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Qi43262v3   $      21.55
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Vi7r56763     $   1,423.94
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Ze8e80t33     $      19.09
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Dw0a04td3     $      30.06
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Gp4sw8uu3   $      41.51
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $      39.00
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $      39.00
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $      39.00
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $      39.00
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com N51811p03     $      11.32
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl C80186dm3   $      13.99
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 309pi1zv3   $      14.99
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Yc4as7xb3   $      24.32
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Rf4kd8c43   $      29.99
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl L25wd6td3   $      34.59
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com E13bk3nc3     $      38.13
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Tq5i16py3   $      38.98
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 7c4md7033   $      39.30
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US M59e74ou3   $      46.00
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 484gt6p03   $      50.88
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Rf39y10d3   $      78.21
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 4e5le0p53     $      80.42
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com               $     (82.81)
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Hm2s56bh3   $      85.92
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Dp1bi3na3   $     107.88
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com               $    (118.30)
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com               $   (118.30)
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl G17pw8i83   $    119.98
+11/14/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Cz1na7iw3   $    230.00
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     16.29
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235800    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235730    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235833    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235796    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235936    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235866    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235811    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235763    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235774    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235752    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235940    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235995    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235962    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235951    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235914    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235925    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235785    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235844    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235855    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235903    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235741    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235973    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235870    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235881    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235822    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235984    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6555   United 01624359235892    $    457.75
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-4984   Innovative Label Techn   $     46.30
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-4783   Xps Ship Llc             $    100.00
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-3905   Menards Cedar Rapids S   $     95.73
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6061   Championship Productio   $    245.00
+11/15/2024   11/13/2024 XXXX-XXXX-XXXX-6889   Olive Garden 0021559     $     90.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6555   Rev.Com                  $    385.56
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6384   Wm Supercenter #1721     $     10.98
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Amzn Digital Vg60c19l3   $      9.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Target.Com               $     10.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Target.Com               $     10.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Target.Com               $     10.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Target.Com               $     10.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Target.Com               $     10.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Target.Com               $      10.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Www.Heartmath.Com        $      29.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $      91.42
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $      22.24
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Bq5n05mi3     $      75.36
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Rj50853a3     $     607.89
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-7858   Wm Supercenter #2827     $     116.31
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ua8qu59u3   $       9.58
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nr6yo0vu3   $      14.84
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US B958m4cl3   $      17.84
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US L74wq99t3   $      19.65
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 8j1py8xn3   $      20.69
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Af8wc40r3   $      21.86
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 880w86bs3   $      24.98
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2z71595k3   $      31.68
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 7z3zr8x53   $      37.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 7k2xq9wv3   $      59.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 675em2yj3   $      59.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com U03a68b73     $      78.06
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Tb78i2ck3     $      81.83
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ka6o62zs3   $      89.85
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Rj0zz21e3   $     153.68
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-5019   Hi-Line, Inc.            $     296.50
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-7634   Nichols Controls &supp   $   1,093.22
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-9219   Unitix Web               $      25.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-9219   Unitix Web               $      30.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-3897   Dollartree               $       2.50
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-3897   24hourwristbands.Com     $      14.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-8349   Hy-Vee Iowa City 1288    $       5.19
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $     246.10
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-8234   Dollar Tree              $      22.53
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-5396   Hy-Vee I Cty Mkt Grl 4   $      14.30
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1285    $       6.57
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1288    $      66.22
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6061   Ui Athletic Tickets      $      28.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6061   Sq Iowa High School B    $     550.00
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6253   Tidal.Com                $      21.19
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6253   Papa Johns #2512         $     157.12
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6253   Bio Rad Laboratories     $     321.95
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-6253   Focusrite Group          $     559.96
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-5669   Usps Po 1843930899       $      62.62
+11/15/2024   11/14/2024 XXXX-XXXX-XXXX-4270   Knebel Windows           $     215.60
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Am1kc7mh3     $       9.94
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amazon.Com 186la2mk3     $      10.90
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Ow6t57hb3     $      12.99
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amazon.Com 3x87i90l3     $      12.99
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Qh42r19z3     $      79.97
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-9923   First Book               $     362.08
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Je72g1vc3   $       9.59
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0k3915523   $      12.60
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Tt5ek69f3   $      12.90
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon.Com V35jd48z3     $      15.74
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl P04453ef3   $      22.69
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon.Com I64wo9fm3     $      24.49
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Fu25o5sk3   $      25.96
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Fg46450r3   $      30.78
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US G886165x3   $      37.81
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Au4pz81v3     $      37.83
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Lp42i61s3   $      39.98
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Fo0o07dv3   $      40.28
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Tg0uo7we3   $      45.38
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl T05ux5f83   $      56.97
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Ti7e79wt3     $      89.46
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Kh8ht6ng3   $     209.14
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0j46v3kb3   $     252.75
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 003ub72y3   $     274.00
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z20uf4ho3   $     450.97
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 7g8tp9073   $     839.30
+11/15/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Gg4w08v43   $   1,108.92
+11/18/2024   11/13/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $      55.07
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $      86.07
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-7894   Menards Iowa City Ia     $     172.17
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $     148.38
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $     167.92
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-0021   Walmart.Com 8009256278   $     (15.42)
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $     119.59
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-6253   United 01644491903025    $      14.99
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-6253   United 01644491903003    $      14.99
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-6253   United 01644491903040    $      20.99
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-6253   United 01644491903014    $      24.99
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-6253   United 01644491903036    $      31.99
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-6253   United 01624362663442    $     562.35
+11/18/2024   11/14/2024 XXXX-XXXX-XXXX-6253   United 01624362663453    $     562.35
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6555   Rockisland Inn & Suite   $      75.00
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6555   Rockisland Inn & Suite   $      75.00
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6555   Rockisland Inn & Suite   $      75.00
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6555   Rockisland Inn & Suite   $      75.00
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6555   Rockisland Inn & Suite   $      75.00
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6555   Rockisland Inn & Suite   $       75.00
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Iq2qg9kf3   $       20.23
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl V60wg6p73   $       27.99
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US Dq0x059e3   $       56.00
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-8046   Brueggers 3693           $       22.78
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Po0805xo3   $       10.99
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-0883   Foster Appliance         $      109.95
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mark Wg47h7wt3    $        6.57
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US W40tx4vy3   $        9.31
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US H38wc7hq3   $       13.74
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 8n7xg48h3    $      (24.64)
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Pa83k4wj3   $       31.98
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 9v8kd8nd3   $       35.88
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 8n7xg48h3    $      (55.44)
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zg8h09g73   $       63.79
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3s67e5h73   $       63.79
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US P26ed27g3   $       79.98
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Op4ld8m93   $      134.27
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Sr4wg8hv3   $      185.52
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ag0db5ot3   $      311.12
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-7634   Johnstone Supply - Ced   $      141.47
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-9860   Hy-Vee Iowa City 1288    $      123.31
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-9219   The Depot Express #9     $       25.54
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-7262   Alphagraphics N Libert   $       30.02
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4706   Hy-Vee Iowa City 1285    $        4.02
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4706   Sq Donutland             $       19.84
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-3317   Gih Globalindustrialeq   $   (2,076.00)
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-1390   Hy-Vee Coralville 1080   $        6.98
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-8234   Kum&go 3502r Iowa Cit    $        2.89
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-8234   Sq Donutland             $       57.82
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-8234   Lenoch & Cilek Ace Llc   $      307.38
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-0891   Wal-Mart #2827           $       22.67
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $      247.90
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6253   J.W. Pepper              $       64.20
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-6253   Zicato Music Llc         $       81.50
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-5669   Taylors Maid-Rite        $       14.95
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4270   Menards Iowa City Ia     $      104.43
+11/18/2024   11/15/2024 XXXX-XXXX-XXXX-4270   Grainger                 $      901.07
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl 5z9gl38z3   $       13.77
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Jimmy Johns - 2490       $       13.34
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $      198.58
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $      203.06
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $      203.06
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $      203.06
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $   203.06
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $   203.06
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $   203.06
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   Country Inn & Suites -   $   203.06
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-0362   U-Haul Moving & Storag   $   293.07
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Gq99l37l3     $    22.70
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4984   Amazon Reta N521i14q3    $    76.43
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Tx08c6hk3     $   343.35
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $    55.49
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl E760p4ap3   $    37.40
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Uv9xt6m43   $    57.98
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl J23h10ys3   $    60.40
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon.Com So0u77703     $    67.84
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl P29cf0g33   $    69.99
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ax6k79j63   $    69.99
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Gx53m3hv3   $   113.91
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 018vr2lr3    $   119.96
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl J73yj0ja3   $   282.93
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-4746   Amazon.Com We4lf0333     $   455.62
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-1462   Quality Inn              $   136.45
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-1462   Quality Inn              $   137.51
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-1462   Quality Inn              $   137.51
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-1462   Quality Inn              $   137.51
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-1462   Quality Inn              $   137.51
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-2934   Hy-Vee F&f Mrshltwn 54   $     0.43
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-2934   Hy-Vee F&f Mrshltwn 54   $    54.51
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-6061   Rockisland Inn & Suite   $    70.00
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-6061   Rockisland Inn & Suite   $    70.00
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-6061   Rockisland Inn & Suite   $    70.00
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-6061   Rockisland Inn & Suite   $    70.00
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-6061   Rockisland Inn & Suite   $    70.00
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-6061   Rockisland Inn & Suite   $    70.00
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-6061   Rockisland Inn & Suite   $    70.00
+11/18/2024   11/16/2024 XXXX-XXXX-XXXX-5320   Panera Bread #203219 O   $   257.10
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-1801   Amazon.Com X47wj1f13     $    21.86
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US 7t8vl11o3   $    22.99
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Cd2h14cv3   $    24.99
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-1801   Amazon.Com 0r5mr2ub3     $    30.96
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Mo3v30md3     $    30.98
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Kl4gv14t3   $    32.87
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4783   Atlassian                $   444.00
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0g7y70ey3   $     7.54
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 2g72542x3   $     9.45
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl No4z39l33   $    14.98
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Qz8ij80l3   $    19.99
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Kb4qa2qj3   $    25.98
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Tq0gz25i3     $    28.99
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Fv42k0np3   $    30.71
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Lo5u90vd3   $    65.51
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mark Rv6ne3hz3    $    68.97
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 083dn1y93   $   125.97
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Reta Ev0h299g3    $   125.98
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Xv77b2p23   $   145.69
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl F04pc4hx3   $   209.53
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl V614h54m3   $   262.89
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-2934   Culvers Of Ames          $    55.47
+11/18/2024   11/17/2024 XXXX-XXXX-XXXX-6061   Kum&go 0521r Coralvil    $    45.13
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Hx4g481h3   $    24.99
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-1801   Amazon Reta 0e5kq0463    $    44.65
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Kl67352r3     $    94.57
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Reta E56gm38h3    $     8.04
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon.Com La2n43sr3     $    15.99
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Cq2720jj3   $    24.49
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 1o3te9oj3     $    24.49
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0t60f9k43   $    30.87
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 8i3567343     $    42.38
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ad6l55ov3   $   222.20
+11/18/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Bx5nz4sq3   $   413.86
+11/19/2024    11/8/2024 XXXX-XXXX-XXXX-9999   Osi Batteriescom         $    (6.62)
+11/19/2024   11/17/2024 XXXX-XXXX-XXXX-0030   Menards Iowa City Ia     $   233.31
+11/19/2024   11/17/2024 XXXX-XXXX-XXXX-2934   Scooters Coffee #533     $    36.57
+11/19/2024   11/17/2024 XXXX-XXXX-XXXX-2934   Kwik Star #283           $    58.35
+11/19/2024   11/17/2024 XXXX-XXXX-XXXX-6061   Caseys #2781             $    38.16
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-5166   Ia Fb Coaches Assn.      $    57.88
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-6555   Rev.Com                  $   437.40
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-6384   Teacherspayteachers.Co   $    47.69
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $    15.96
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-1801   Amazon Reta 1q1tc16x3    $    21.86
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-1801   Amazon Mktplace Pmts     $   (29.99)
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $   109.94
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-7754   Travelocity 7296696945   $    46.72
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-7754   Vrbo Fee                 $    85.00
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $   158.28
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-9506   Prentke Romich Co        $    30.00
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-0134   City Of North Liberty    $    23.50
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-9946   White Cap #105           $   103.96
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-8040   Eb 2024 Iowa Refugee     $    81.88
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1281    $    25.40
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mark Is7d55yf3    $    26.50
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 8d7ko9cy3   $    27.99
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 2c24h1dg3    $    27.99
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Jl2tp0y33   $    50.76
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mark 2u5bg3sc3    $    57.70
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ir6a10tv3   $    85.99
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5v8no0743   $   121.39
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mark C35bn6523    $   176.86
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 160313ll3   $   237.34
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $   146.35
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-3897   Bt Revrobotics           $   265.14
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-9584   Wal-Mart #1721           $    42.04
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-3050   Wm Supercenter #2827     $    92.86
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $    97.88
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-5372   Amzn Mktp US Rz6i52r53   $    23.38
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-6061   Ia Fb Coaches Assn.      $    57.88
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-6061   Booking.Com              $   175.40
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-6061   Sq Iowa State Dance/D    $   876.00
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-5320   Edpuzzle Pro Teacher     $    12.50
+11/19/2024   11/18/2024 XXXX-XXXX-XXXX-4270   White Cap #105           $   198.69
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Nh06l4qy3   $    23.99
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Ve1rm8933     $    18.00
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4984   Amazon.Com 546xr0me3     $    62.05
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $    39.00
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $    39.00
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $    39.00
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $    39.00
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ii77p8d43   $    28.69
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mark Km6d60lb3    $    49.22
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 3m4lv6vd3     $    89.99
+11/19/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Kp29o4653     $   249.00
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-1801   Samsclub.Com             $    28.88
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $     5.98
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    33.40
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-9999   Menards Iowa City Ia     $    89.82
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-7634   Van Meter Inc - Iowa C   $    21.84
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-1808   Tst Bluebird Diner - I   $    50.29
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-9678   Menards Iowa City Ia     $    42.21
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-8234   Hy-Vee Aisles Online 4   $    62.62
+11/20/2024   11/18/2024 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $    43.45
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1010   $    12.80
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1010   $    15.01
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $    22.11
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $    23.53
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     373.60
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     411.53
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl 318wy41g3   $      15.63
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-1801   Amazon Mark Gt35f9263    $      29.86
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-7754   Vrbo Fee                 $     (85.00)
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-8046   Iowa Music Educators A   $     120.00
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-8046   Acda St Internet         $     125.00
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-0362   The Salvation Army 060   $       6.99
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-0362   Goodwill Industries Of   $      28.96
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-0134   Psc Distribution Inc     $      86.28
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4984   Amazon Reta O57pp1id3    $      26.32
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4984   Amazon Reta Qq7lc2c13    $      28.51
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4984   Amazon Mark Dw71c1k23    $      49.09
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Rt73v4ve3   $      89.99
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1281    $       3.49
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $     697.22
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mark Jp69g1ym3    $       5.99
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl L10y062u3   $       9.98
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 5g3d30063   $      10.12
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl G813l18g3   $      39.92
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mark On35b57n3    $      39.99
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Reta 5b25p8ds3    $      42.00
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl I40x53vx3   $      54.70
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mark V03080fj3    $      59.99
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 978hm3t13   $      71.58
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Rz4iy4ar3   $      90.91
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl G29kr8jp3   $     129.95
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl K29490nm3   $     139.99
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mark N03u87jo3    $     205.65
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4746   Amazon Mark Gr3471gp3    $     357.89
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-4656   Paddle.Net Motionvfx     $      58.62
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-1808   Uber Trip                $      19.15
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-1808   Uber Trip                $      33.77
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-1808   American 0010261617952   $      40.00
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-9584   Wal-Mart #1721           $      11.24
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-5923   Amazon Reta H96d36d73    $   4,887.40
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-5372   Amazon Mark Eg21z3fl3    $     246.94
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-9447   Mailboxes Of Iowa City   $      29.20
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-6253   Acmetools.Com            $     (47.69)
+11/20/2024   11/19/2024 XXXX-XXXX-XXXX-5669   Jimmy Johns - 1755 - E   $      27.02
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Nb7q354u3   $      16.50
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon Mark Ve43f76t3    $      27.99
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Ei9ws93n3   $      31.59
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Ej3bj5g83     $     279.31
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Cs2ey7tu3     $      27.88
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4984   Amazon.Com 6f2hq1ad3     $     103.91
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 9f5ar3bq3     $       7.49
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z091662a3   $      12.69
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 2271a7qs3   $      14.95
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 1d89e3sa3     $      47.96
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon.Com L346c4vd3     $      49.44
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Mh85z75f3   $      53.86
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US K02zd0q43   $      55.08
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Su9nc7nh3   $      85.88
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon.Com C64ah3083     $      89.97
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon Mark Zh77q7t33    $     105.30
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Uv8yi4ql3   $     526.84
+11/20/2024   11/20/2024 XXXX-XXXX-XXXX-1808   Uber Trip                $      55.48
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-5110   Menards Iowa City Ia     $      13.96
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $       8.48
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-0362   Stuff Etc - Iowa City    $      21.12
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $     354.79
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-1808   Tst Suite Food Lounge    $     118.90
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $      89.99
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     268.70
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-7228   Menards Iowa City Ia     $     196.76
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-2934   Menards Iowa City Ia     $      63.05
+11/21/2024   11/19/2024 XXXX-XXXX-XXXX-6061   Aldi 68067               $      14.98
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $       4.83
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Zv2oh4rt3     $       4.98
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon Reta Jx7sw1ou3    $      11.49
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon.Com 0740b3lg3     $      18.39
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US J818p66v3   $      19.59
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Amazon Mark Gy7ts1ya3    $      35.96
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $      41.08
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $      59.68
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $      63.97
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-9473   Wal-Mart #2827           $      27.45
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5110   Psc Distribution Inc     $     112.54
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5420   Crackens Grill N Chil    $     212.50
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-8046   Graphitepublishing.Com   $      33.00
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-4984   Amazon Reta Ah4gi7yz3    $      32.39
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-4984   Amazon Mark Dk71h11k3    $      74.73
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-2677   Pacific Columns, Inc.    $   1,505.40
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1281    $      53.88
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $     218.53
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0s22g6k53   $      49.74
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qh8x702e3   $      75.62
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl B02yw7wr3   $   101.81
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Nt0q31853   $   230.76
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5273   Fastenal Company 01iai   $    36.24
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    14.37
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5019   Linder Tire - Iowa Cit   $    78.00
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5019   Hawkeye Weld Repair In   $   134.13
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $   177.98
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5019   Tifco Industries Inc     $   336.24
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5019   Tifco Industries Inc     $   353.51
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1808   Signia Atlanta Conv Lo   $    40.85
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-1808   Tst Suite Food Lounge    $    87.43
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-2619   Dollartree               $    10.00
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-3897   Pilot 495                $    42.77
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-9584   Papa Johns #1560         $   112.89
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-3050   The Instrumentalist Aw   $   236.00
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $    28.40
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-0063   Altorfer Inc             $   209.12
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-5256   Www.Vmug.Com             $   210.00
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-6061   Bsn Sports Llc           $   549.07
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-6061   Adcraft / Hawkadelic     $   630.00
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-0021   Sticker Mule             $   171.18
+11/21/2024   11/20/2024 XXXX-XXXX-XXXX-6253   Rdl Bathandbodyworks.C   $    35.61
+11/21/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Amazon.Com 832jp6i83     $    14.88
+11/21/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl 3s3he6hx3   $    16.88
+11/21/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Amazon.Com A25745t43     $    26.73
+11/21/2024   11/21/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nh3jr7583   $   189.96
+11/22/2024   11/19/2024 XXXX-XXXX-XXXX-0021   Walmart.Com 8009256278   $   215.37
+11/22/2024   11/20/2024 XXXX-XXXX-XXXX-5420   Paypal Nisca             $    75.00
+11/22/2024   11/20/2024 XXXX-XXXX-XXXX-4706   Sleep Inn Ia207          $    79.74
+11/22/2024   11/20/2024 XXXX-XXXX-XXXX-4706   Sleep Inn Ia207          $    86.02
+11/22/2024   11/20/2024 XXXX-XXXX-XXXX-4706   Sleep Inn Ia207          $    86.02
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-1805   Staples 00106260         $    32.99
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6555   Hilton Hotels            $   188.60
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6555   Hilton Hotels            $   188.60
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6555   Hilton Hotels            $   216.60
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6555   Hilton Hotels            $   621.80
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6384   Lakeshore Learning Mat   $   182.85
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Hy-Vee Iowa City 1288    $     4.24
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl J93e152y3   $     8.99
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US 1d7n407v3   $   177.66
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Incstores Llc            $   902.94
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-8113   Plumb Supply - Ioc - 0   $   837.00
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-2938   Jimmy Johns # 011        $    12.87
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-2938   Jimmy Johns 011 - E      $   287.46
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-0134   White Cap #105           $      32.99
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-0134   Psc Distribution Inc     $      52.75
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Xr2rb66c3     $      12.29
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Tr6fr5sf3     $      12.74
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-2677   Gobilda                  $      18.50
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $      25.67
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $     (52.88)
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $       5.92
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $      76.49
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $      94.10
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $     798.10
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $      41.35
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $      44.52
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $     160.80
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-4656   Openai Chatgpt Subscr    $      20.00
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-1808   Signia Atlanta Conv Fr   $      36.80
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-9410   Lowes #01688             $     128.86
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5642   Hilton Hotels            $     188.94
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-4892   Culvers Of Newton        $      11.55
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-5128   Autotoyz                 $     450.00
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $     145.20
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-0891   Wal-Mart #2827           $      13.39
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6061   Unitix Web               $      17.50
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6253   Dd Doordash McDonalds    $      23.08
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6253   Vistaprint               $      47.67
+11/22/2024   11/21/2024 XXXX-XXXX-XXXX-6253   Sticker Mule             $   1,069.50
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Yg5bb7r63   $      23.99
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Ll8gn5f53     $      24.95
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Av8fd0th3   $      27.19
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Amazon.Com L80xf4g93     $      30.99
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Amazon.Com 8m5ll0963     $      31.99
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-2938   Dd Doordash Buffalowi    $      25.74
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Ve64i3bz3   $      24.39
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Rm74y0753     $      34.40
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $     238.50
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 993yr4sn3   $       9.86
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 779v01nc3     $      14.19
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ny2q82q83   $      16.69
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Sx7vz4rg3   $      17.90
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 5c1qs0ql3   $      21.88
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Bx01u4p13     $      22.96
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 375ux7063   $      23.18
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 429w01u83     $      30.74
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Nz7rp4re3   $      35.95
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zq84u1o61   $     43.76
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ol1m229g3   $     43.95
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl V82fc0th3   $     50.97
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ts9h99sb3   $     59.98
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl I21aw0553   $     67.25
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zy6d49bt3     $     69.96
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0k05h3zx3   $     69.98
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Wr4ub8903   $    112.47
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Re3cn3c73   $    161.97
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 5j30z6dn3     $    635.88
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-1808   Uber Trip                $     38.56
+11/22/2024   11/22/2024 XXXX-XXXX-XXXX-4706   Makestickers.Com         $     37.17
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-1801   Council For Exceptiona   $    310.00
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-7894   Menards Iowa City Ia     $     25.94
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-3697   Championship Productio   $    245.00
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    193.89
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-0883   Foster Appliance         $    309.73
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $   (347.62)
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    456.55
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    521.43
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    986.06
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-4706   Menards Iowa City Ia     $     96.87
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     70.71
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-4892   Pizza Hut 004304         $    156.12
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $     27.99
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $    299.03
+11/25/2024   11/21/2024 XXXX-XXXX-XXXX-4270   Menards Iowa City Ia     $      4.49
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $    211.33
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $      0.17
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $      6.89
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $      7.85
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $      7.93
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $     16.75
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $     23.91
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Walmart.Com 8009256278   $     83.86
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Oz2lt4xe3   $     98.08
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-9473   Usps Po 1843930899       $     73.00
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-5110   Plumb Supply - Ioc - 0   $    124.42
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-7754   Tst Breakfast At Barn    $     89.73
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2938   Sq Cornbred Barbecue     $     18.05
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2938   Wal-Mart #4256           $     19.31
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2938   Tst Wasabi Ames          $     25.01
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2938   Scheels All Sports Inc   $    159.00
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-0362   Menards Iowa City Ia     $     22.97
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-0134   Lowes #01688             $    69.49
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4984   Amazon.Com 618zh9lx3     $    15.19
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Tc2jr9ff3   $    29.92
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4984   Amazon Reta Tq0d14cp3    $   215.49
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2677   Pilot 043                $    25.92
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-7615   Staples 00106260         $    15.89
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-9736   American Heart Shopcpr   $   113.42
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon.Com C61q18jb3     $    49.98
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Ft6ug42x3     $    52.29
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $   257.40
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    15.69
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $    55.69
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-3818   Tifco Industries Inc     $   720.79
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1808   Grubhub Theflyingbiscu   $    57.12
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-1808   1040 M&s Atlanta Cnn     $   209.80
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2619   Kwik Star #1158          $    37.72
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    57.01
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $    13.63
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $    54.82
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4892   J.W. Pepper              $     9.00
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4892   Hickory Park Restauran   $    22.00
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-8349   Hy-Vee Iowa City 1288    $    24.15
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $    25.14
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-4383   West Music - Coralvill   $   185.20
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-8234   J.W. Pepper              $   810.54
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-8234   Carolina Biologic Supp   $   938.16
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-7350   Theisens Of Coralville   $   139.00
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-7350   Hawkeye Weld Repair In   $   450.00
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2934   Lowes #01688             $    84.29
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-2934   Tst Bluebird Cafe - Nl   $   304.90
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-6061   Sq G & G Concessions,    $    24.00
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-6061   Caseys #3880             $    33.09
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-6061   Howard Johnson           $    99.56
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-6061   Howard Johnson           $    99.56
+11/25/2024   11/22/2024 XXXX-XXXX-XXXX-6253   Jarir Book Store         $   127.55
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Bk36y7653   $   113.32
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Si4nc6zi3   $   118.91
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-2938   Sq Cornbred Barbecue     $    30.00
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-2938   Sq Cornbred Barbecue     $    34.96
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-0362   Sq Donutland             $    39.68
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-0362   Figure 53 Qlab           $    68.00
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-0362   Papa Johns #1560         $    90.09
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4984   Amazon.Com R18xd6ia3     $    15.19
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $   102.82
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $     279.84
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Lf1v10kr3   $      30.16
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Jm9576as3   $      41.96
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 881go7943   $      61.09
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 0t2i090x3   $      84.49
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Or0i620v3   $     156.28
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Hz19d5gx3     $     242.50
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 932go4hf3     $     293.70
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4746   Amazon.Com B11ma4ho3     $     352.62
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $      87.15
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-1462   Uk Debate                $     350.00
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-1808   Uber Trip                $      43.93
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-2619   Kwik Star #1158          $      33.75
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-2619   Hy-Vee F&f Ames 5018     $      41.41
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-2619   Sweet Carolines          $      48.84
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-3897   Kwik Star #283           $      19.60
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-3897   Caseys Store 4314        $      35.56
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-3897   Sweet Carolines          $      42.47
+11/25/2024   11/23/2024 XXXX-XXXX-XXXX-4892   Kum&go 0227r Ames        $      26.92
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-7754   Tst Gypsy Kitchen Atl    $     128.70
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-7754   Signia Atlanta Conv      $   1,231.08
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-0362   Soundly Pro Monthly      $      14.99
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-0362   Wendys #48               $      52.72
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4984   Amazon.Com 6y7qc2ft3     $     176.64
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-2677   Hampton Inns             $     335.50
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-2677   Hampton Inns             $     335.50
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-2677   Hampton Inns             $     356.59
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Xp3zf1bk3   $      16.50
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl U10km33w3   $      51.24
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Y841528i3   $      86.97
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Ic3qa4203   $      87.46
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Yi18w9kq3   $     114.96
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Xi98j4hh3   $     212.14
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Q58r69az3   $     224.85
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-4746   Amazon.Com 9s9my93v3     $     412.40
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-1808   Uber Trip                $       6.58
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-1808   Burger Fed Conc L Ord    $      27.92
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-1808   American 0010261880936   $      40.00
+11/25/2024   11/24/2024 XXXX-XXXX-XXXX-1808   Uber Trip                $      40.20
+11/25/2024   11/25/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Yb9n278a3   $      29.32
+11/25/2024   11/25/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 5n36x3h43   $     254.62
+11/26/2024   11/22/2024 XXXX-XXXX-XXXX-6253   Hy-Vee Aisles Online 4   $     146.29
+11/26/2024   11/23/2024 XXXX-XXXX-XXXX-2619   Caseys #2788             $      22.24
+11/26/2024   11/24/2024 XXXX-XXXX-XXXX-1808   Reggios H/K Ord          $      44.61
+11/26/2024   11/24/2024 XXXX-XXXX-XXXX-1808   Eastern Iowa Airport P              $      108.00
+11/26/2024   11/24/2024 XXXX-XXXX-XXXX-6061   Olive Garden 0021559                $      746.82
+11/26/2024   11/24/2024 XXXX-XXXX-XXXX-0021   Tools For Stagecraft                $      658.27
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-5110   White Cap #105                      $      215.64
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-5420   Sp T-Shirt Mill                     $      162.00
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-8046   Eai Education                       $      174.24
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1285               $       94.29
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288               $      177.24
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Gp5j32qr3                $       42.36
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-3556   Wal-Mart #1721                      $        7.29
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl T59oc8d83              $       95.94
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts                $     (161.97)
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-3818   Greenwood Cleaning Sys              $       71.80
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City                $        9.99
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-7262   Bound Tickets                       $        7.00
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-7262   Alphagraphics N Libert              $       79.00
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-2619   Vco Secura Insurance C              $      528.00
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-3897   Wm Supercenter #2827                $      164.14
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-9584   Staples 00106260                    $        8.53
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783              $        5.32
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-6253   Hy-Vee Coralville 1080              $       31.36
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-6253   Hy-Vee Coralville 1080              $       31.89
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-6253   Hy-Vee Coralville 1080              $       32.29
+11/26/2024   11/25/2024 XXXX-XXXX-XXXX-6253   Deltamath Solutions                 $      170.00
+11/26/2024   11/26/2024 XXXX-XXXX-XXXX-5670   Payment - Automatic Pymt Received   $ (214,123.08)
+11/26/2024   11/26/2024 XXXX-XXXX-XXXX-6384   Dbc Blick Art Material              $      236.88
+11/26/2024   11/26/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Qu4m40c33              $       66.80
+11/26/2024   11/26/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z34dm83o0              $      305.46
+11/27/2024   11/25/2024 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia                $       62.14
+11/27/2024   11/25/2024 XXXX-XXXX-XXXX-3905   Menards Iowa City Ia                $       55.99
+11/27/2024   11/25/2024 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia                $       13.36
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-1801   Mailboxes Of Iowa City              $        4.66
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Q26t78u53              $       53.67
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-9828   Spotify Usa                         $       21.19
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-5110   White Cap #105                      $       71.88
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-2938   Uiowa Online Payments               $       45.00
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-4984   Amazon.Com I39iu1qe3                $       21.90
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-7615   Pku Perspectives Llc                $      153.60
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-9736   Uiowa Online Payments               $      144.50
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-7634   Nichols Controls &supp              $       86.40
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-7634   Nichols Controls &supp              $      621.66
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-4706   Usps Po 1866150317                  $       10.75
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-3050   Alphagraphics N Libert              $       44.64
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827                $      130.38
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-8234   Teacherspayteachers.Co   $     11.66
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-5396   Wal-Mart #1721           $     85.66
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-0021   Sp Stage Makeup Onli     $     45.63
+11/27/2024   11/26/2024 XXXX-XXXX-XXXX-6253   Papa Johns #2512         $    224.75
+11/27/2024   11/27/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US Z38fu9px0   $     28.98
+11/27/2024   11/27/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl 9m85h8me3   $     27.92
+11/27/2024   11/27/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z37601322   $    107.91
+11/27/2024   11/27/2024 XXXX-XXXX-XXXX-3317   Gih Globalindustrialeq   $    445.45
+11/28/2024   11/26/2024 XXXX-XXXX-XXXX-0134   Paypal Aqua Backfl       $     19.90
+11/28/2024   11/26/2024 XXXX-XXXX-XXXX-0134   Van Meter Inc - Iowa C   $    391.00
+11/28/2024   11/26/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    194.75
+11/28/2024   11/26/2024 XXXX-XXXX-XXXX-5302   Menards Iowa City Ia     $     87.66
+11/28/2024   11/26/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    263.39
+11/28/2024   11/26/2024 XXXX-XXXX-XXXX-7634   Plumb Supply - Ioc - 0   $    131.85
+11/28/2024   11/26/2024 XXXX-XXXX-XXXX-5396   Aldi 68067               $    396.75
+11/28/2024   11/27/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     59.45
+11/28/2024   11/27/2024 XXXX-XXXX-XXXX-2938   Cspa-Columbia Univ       $     50.00
+11/28/2024   11/27/2024 XXXX-XXXX-XXXX-4746   Amazon Mktplace Pmts     $   (128.69)
+11/28/2024   11/27/2024 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     74.82
+11/28/2024   11/27/2024 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $     90.97
+11/28/2024   11/27/2024 XXXX-XXXX-XXXX-9678   Doyle Security Product   $    412.38
+11/28/2024   11/27/2024 XXXX-XXXX-XXXX-6061   Wal-Mart #1721           $    168.19
+11/28/2024   11/28/2024 XXXX-XXXX-XXXX-6384   Ixl School Subscript     $    349.00
+11/28/2024   11/28/2024 XXXX-XXXX-XXXX-6253   Pro+&courses Lite Muse   $     54.99
+11/29/2024   11/27/2024 XXXX-XXXX-XXXX-5110   Plumb Supply - Ioc - 0   $    249.00
+11/29/2024   11/27/2024 XXXX-XXXX-XXXX-6061   Aldi 68067               $     14.99
+11/29/2024   11/28/2024 XXXX-XXXX-XXXX-5372   Amazon Mktpl Z36t425k2   $     54.72
+11/29/2024   11/28/2024 XXXX-XXXX-XXXX-6061   B&b Theatres - Bloomin   $    127.96
+11/29/2024   11/28/2024 XXXX-XXXX-XXXX-6061   B&b Theatres - Bloomin   $    182.80
+11/29/2024   11/29/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $    (15.98)
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-5420   Sp Allbirds              $     59.06
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z32z289o0   $    127.92
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-6061   Loves #0670 Inside       $      5.55
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-6061   Loves #0670 Outside      $     31.63
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-6061   Holiday Stations 0480    $     40.23
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-6061   Loves #0670 Outside      $     56.46
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-6061   Loves #0670 Inside       $    144.70
+ 12/2/2024   11/29/2024 XXXX-XXXX-XXXX-6061   Order.Noodles.Com        $    226.92
+ 12/2/2024   11/30/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Z39ld2ye0   $     20.66
+ 12/2/2024   11/30/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z32pw5xr1   $     15.08
+ 12/2/2024   11/30/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Z37655uq2   $    279.93
+ 12/2/2024   11/30/2024 XXXX-XXXX-XXXX-7262   The Depot Express #9     $     25.00
+ 12/2/2024   11/30/2024 XXXX-XXXX-XXXX-7262   The Depot Express #9     $     28.83
+ 12/2/2024   11/30/2024 XXXX-XXXX-XXXX-7262   Caseys #2900             $     45.00
+12/2/2024   11/30/2024 XXXX-XXXX-XXXX-8011   Lowes #01688             $    33.96
+12/2/2024   11/30/2024 XXXX-XXXX-XXXX-6061   Culvers Vadnais Height   $    27.17
+12/2/2024   11/30/2024 XXXX-XXXX-XXXX-6061   Pizza Hut 039348         $   104.35
+12/2/2024   11/30/2024 XXXX-XXXX-XXXX-6061   Pizza Hut 039348         $   166.04
+12/2/2024   11/30/2024 XXXX-XXXX-XXXX-6061   Culvers Vadnais Height   $   200.94
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-5420   Google Gsuite Littleha   $    19.08
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl29064k0   $    15.75
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $   238.50
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $   248.04
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $   248.04
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $   321.18
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-4783   Google Cloud Qrlgkv      $   387.72
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $   403.86
+12/2/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Loves #0670 Inside       $   149.69
+12/2/2024    12/2/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Z34543uu1     $   101.98
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-2938   Blick Art 800 447 1892   $   208.41
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-8234   Hy-Vee Aisles Online 4   $    73.79
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   306.32
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   306.32
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   306.32
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   306.32
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   306.32
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   328.02
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   328.02
+12/3/2024    12/1/2024 XXXX-XXXX-XXXX-6061   Courtyard Bloomington    $   328.02
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-1801   Target.Com               $    10.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-1801   Target.Com               $    10.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-1801   Target.Com               $    10.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-1801   Target.Com               $    10.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-1801   Target.Com               $    10.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-1801   Target.Com               $    10.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-1801   Target.Com               $    10.05
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-2938   Theisens Of Coralville   $    39.99
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-8046   Www.Alfred.Com           $    55.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $     6.00
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-2093   Wm Supercenter #1721     $    29.50
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $   264.86
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-0134   Psc Distribution Inc     $   166.42
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl9on8eo0   $     9.76
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl77s10c0     $    10.69
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl04f30j2   $    10.98
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl59s0gl0     $    20.98
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl8h46p80     $    20.98
+12/3/2024    12/2/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Z37hh9y01     $    20.98
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl51x9g90   $    26.42
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl5hq1pj0     $    41.96
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Z339i2rg1   $    59.75
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-3556   Hy-Vee Iowa City 1281    $     4.92
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-3556   Simplicity.Com Copy 1    $    60.00
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $   446.96
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl4x97xn0   $     9.99
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl0b96v82   $    87.32
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl1y96x52   $    89.99
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl1jf4g92   $   245.88
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl6v19gj2   $   299.95
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Z32a26yu1   $   305.46
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-6261   Novel Effect, Inc.       $    29.99
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-1808   Hy-Vee Iowa City 1288    $    63.58
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    33.80
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4706   Wm Supercenter #1721     $     5.53
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-4706   Dollar Tree              $    13.75
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-9584   Staples 00106260         $    11.95
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-9410   Alphagraphics N Libert   $   113.65
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-3050   Teacherspayteachers.Co   $    31.38
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $    63.74
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-5396   Wal-Mart #1721           $    50.14
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-6061   Sp Zvtee                 $   107.95
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-6061   Blt Mizuno Usa, Inc.     $   318.00
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-6061   Kendra Scott 265159      $   489.72
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-6253   Grammarly Co Qhatchj     $   144.00
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-6253   Amzn Mktp US Zl3vh2gm0   $   348.69
+12/3/2024   12/2/2024 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $   112.81
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl4b464i1     $    10.49
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl2kv8h32   $    57.01
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl27r0xe0   $    69.95
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl5zx3b72     $   189.96
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl0s665w2     $   297.80
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-9410   Uline Ship Supplies      $   260.50
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-6061   Booking.Com              $    (5.48)
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-6061   Booking.Com              $    (5.48)
+12/3/2024   12/3/2024 XXXX-XXXX-XXXX-5320   American 0012195534311   $   363.45
+12/4/2024   12/2/2024 XXXX-XXXX-XXXX-0134   Menards Iowa City Ia     $    10.48
+12/4/2024   12/2/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    55.99
+12/4/2024   12/2/2024 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $   127.40
+12/4/2024   12/2/2024 XXXX-XXXX-XXXX-0063   Diamond Vogel Paint #2   $    28.49
+12/4/2024   12/2/2024 XXXX-XXXX-XXXX-8234   Taylor Music - Moto      $   465.00
+12/4/2024   12/2/2024 XXXX-XXXX-XXXX-6061   Rawlings.Com             $   423.99
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zl3hq4361   $     7.99
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US Zl5fk3nc1   $       21.46
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Zl3ii12w2     $       32.41
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zl7pt33c1   $       33.87
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zl52h18d0   $      230.97
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl6xo7qb0   $        7.53
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl6qs78w2   $       10.91
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl9o87870   $       37.59
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl4bj1zn1   $       47.94
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl1fa8hk0   $       60.91
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl8rg1j81     $       90.10
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $       99.00
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-7615   Wal-Mart #1721           $      103.83
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-9923   Schoolsin                $      252.85
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl3ar2qs0   $        8.51
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl3og13a1   $        9.99
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl3up3k52     $       12.22
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl1aj6391     $       19.03
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl3f69k92     $       27.68
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl5k03q00   $       31.25
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl5lq8bs0   $       39.99
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl4ui8dv2     $       48.85
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl0vw38f2   $       72.26
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl6t862v2     $      900.60
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-5273   Safelite Autoglass       $      941.02
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4706   Forninemusic.Com         $      196.00
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-3897   Fevoinc Iowawild         $       72.44
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-3897   Uiowa Online Payments    $       75.00
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-3897   In Haus Of Lanoue        $    3,728.40
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4892   Etsy.Com Feltshirefore   $      311.18
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-3317   Gih Globalindustrialeq   $     (102.00)
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $      (13.78)
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $       54.17
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703783   $      149.31
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-4823   North Liberty Ace Hard   $       10.99
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-5774   North Liberty Ace Hard   $        7.62
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-6061   Sp Plunge                $   10,091.50
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Zazzle Inc               $       92.57
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Walmart.Com              $      104.18
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Amazon Mktpl Zl81e78o0   $      177.87
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Dominos 1733             $      414.78
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Gilcrest Jewett Coralv   $      466.20
+12/4/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Amazon Mktpl Zl4rp7ja1   $      656.40
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zl4ex96c0   $       10.66
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-1801   Amzn Mktp US Zl0q28af1   $       16.90
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl75a7sk0   $       6.10
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl6do9722     $      11.32
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl8hv76c0   $      12.21
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl0376702   $      17.59
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amazon.Com Zl6x09uo2     $      41.96
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl1jx8to1   $     350.30
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $      39.00
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4783   Dmi Dell Bus Online      $      39.00
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl93r67k2     $       5.69
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl09o8dp0     $      10.72
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl2uw97v2   $      35.97
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl9ib27e2   $      66.39
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl6ad7av1   $      77.56
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl9w95i02   $      82.96
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl1zn5220   $     130.61
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl4lq9un2   $     464.45
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-6253   Kuta Software, Llc       $     150.00
+12/4/2024   12/4/2024 XXXX-XXXX-XXXX-6253   Kuta Software, Llc       $     150.00
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     226.15
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $     758.71
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $      12.94
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $      10.33
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-5280   Menards Iowa City Ia     $     101.95
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-0883   Menards Iowa City Ia     $      70.81
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $      32.81
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-2619   Menards Iowa City Ia     $      34.98
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     402.54
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-5108   Menards Iowa City Ia     $      58.66
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $      40.31
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Research Press Co        $      69.99
+12/5/2024   12/3/2024 XXXX-XXXX-XXXX-6253   Hy-Vee Aisles Online 4   $     262.66
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-5166   Wave - Creative Canv     $      40.00
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-5166   In A3 Performance        $     604.17
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6555   Walmart.Com              $       3.94
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6555   Target.Com               $       8.29
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6555   Stapls7646818592000001   $      38.05
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zl1zg7xx1   $      11.14
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-1801   Walmart.Com              $      70.43
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-1801   Sp Pam Harris Consul     $     143.24
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-5110   Habegger Rcr             $     382.50
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-2938   Sq Donutland             $      57.75
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-8046   Erockets                 $      12.19
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-8046   Carolina Biologic Supp   $     127.81
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-8046   Sp Warehouselighting     $   1,047.98
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1285    $      21.93
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4815   Siteone Landscape Supp   $     302.75
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4815   Siteone Landscape Supp   $     725.00
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl1mz7ku0   $       6.13
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl6jc5g91   $      11.56
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl47q7rb2   $      74.20
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl7ty0xh1   $     350.56
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl2d089w0   $     682.98
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-9923   Target Plus              $     174.37
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl1986uw0   $      13.99
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl0fh1uy0   $      22.58
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr9hg8c52   $      31.54
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zr67g5cr2   $      35.99
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr3r88fo2   $      36.98
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl4cf6xd1   $      41.27
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl7q14gx1   $     129.98
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl4yx2ph1   $     240.00
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl60m17j0   $     349.93
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl07m1y62   $     759.15
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $      38.71
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-5273   Pyramid Services         $      76.70
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $     177.24
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-5273   Sinclair Tractor         $     776.45
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-7634   Plumb Supply - Ioc - 0   $      44.00
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4706   Iowa Events Center       $      12.00
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4706   Iowa Events Center       $      12.00
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-4706   Iowa Events Center       $      12.00
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-9774   Walmart.Com              $     173.22
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-7350   Tamarack Materials Inc   $     350.30
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6061   Wilson Sporting Goods    $     476.95
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6253   Fedex31518248            $      53.33
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6253   J.W. Pepper              $     128.90
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6253   Walmart.Com              $     586.39
+12/5/2024   12/4/2024 XXXX-XXXX-XXXX-6253   Tst Estelas Fresh Mex    $   2,064.25
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Zl8dp8mv1     $      19.76
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Zr5rx64q2     $      23.88
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl4579md1     $      16.99
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl1uf5i80   $      22.99
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl5so2xr1   $      29.97
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl6f14r00     $      31.98
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr2rv04c2   $      49.84
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl6j75x31   $     108.99
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl7ho7vr1   $     341.32
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-6061   Wilson Sporting Goods    $     476.95
+12/5/2024   12/5/2024 XXXX-XXXX-XXXX-5320   American 0010615288811   $    30.23
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $    49.51
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-7894   Menards Iowa City Ia     $   108.95
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $    46.46
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-8046   Paypal Mathleague        $   100.00
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-4815   Menards Iowa City Ia     $    22.47
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    61.57
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $   212.13
+12/6/2024   12/4/2024 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $    58.64
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1805   Staples 00106260         $    99.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-3816   Gan-Ia Localiq Adv2      $    67.80
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-6555   Office Express           $    11.68
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Zr1n69ai2     $     7.98
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1801   Wal-Mart #1721           $    17.12
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zr8um0j42   $    55.17
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1801   Amazon Mktpl Zr9kw2t12   $    63.94
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1801   Amazon.Com Zr4my5e72     $   437.40
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-5420   Cheesecake Des Moine     $   437.48
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-2938   Target 00011130          $   199.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-8046   Gobilda                  $    27.86
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-8046   Gobilda                  $   310.08
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-3697   Hy-Vee Iowa City 1288    $    32.00
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-0134   Psc Distribution Inc     $    97.01
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zl6wq0hk1   $     6.17
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zr7pg03g2   $    30.39
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zl2m36bk1   $    49.96
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zr2ra0fs0   $   284.25
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4984   Amazon Mktpl Zr81a7fs0   $   341.46
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-7615   Hawkeye Weld Repair In   $    75.00
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-9923   Staples Inc              $   155.10
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr2jf6no2   $     7.79
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr1i82fs0   $     8.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zr02g9eh2     $     9.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zr0ww20b2     $     9.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl3qt2yp0   $    10.83
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr91v5f60   $    20.97
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl1bp7qj1   $    21.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zr85w8jo2   $    29.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr6645ew2   $    35.97
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl9i53w40   $    36.63
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl9a65q01     $    37.18
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zr30r3tk2     $    38.08
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl8uc8bb1     $    46.99
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr51k1oc0   $    47.96
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr8pq4f20   $      51.35
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zr66b33k2   $      52.36
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr77z1c70   $      55.98
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr5dn3a52   $      59.21
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl87x7h01   $      65.85
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl7kg5851   $      68.96
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zr8kj5jw2     $      72.60
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl1eh2w30   $      80.52
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zr5ij1o10   $      88.98
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl8xz4qt1   $      96.24
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zr8su5f30   $     106.90
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zr0gx74p0     $     130.22
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr6ai3fz0   $     131.03
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr57c2f60   $     145.71
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr7c13e92   $     167.98
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zr28v6zv2   $     169.74
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zl3a51bv1   $     184.12
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl79j2q41     $     186.26
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon.Com Zl14w6yz0     $     287.68
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zl9ar9ya0   $     326.10
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4746   Amazon Mktpl Zr65f34g0   $     405.09
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1808   Walgreens #10985         $      46.62
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-5203   Bravo Jordan Creek       $     504.52
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-7262   The Depot Express #1     $      32.76
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4706   The Depot Express #9     $      43.70
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-4706   The Depot Express #9     $      50.94
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-3905   Dollar Tree              $      58.75
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-9482   Hy-Vee Iowa City 1288    $      31.96
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827     $      81.24
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-0063   Sherwin-Williams703280   $      99.54
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-5108   Psc Distribution Inc     $     604.71
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-5774   The Depot Express #9     $     (13.54)
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-5774   The Depot Express #9     $      40.00
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-0021   Walgreens #5977          $      27.55
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-6253   Walgreens #5977          $      99.84
+12/6/2024   12/5/2024 XXXX-XXXX-XXXX-6253   Sq Molly S Cupcakes      $     426.00
+12/9/2024   12/4/2024 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      68.98
+12/9/2024   12/4/2024 XXXX-XXXX-XXXX-9923   Walmart.Com 8009256278   $     145.18
+12/9/2024   12/5/2024 XXXX-XXXX-XXXX-1805   Menards Iowa City Ia     $      13.48
+12/9/2024   12/5/2024 XXXX-XXXX-XXXX-2938   Menards Iowa City Ia     $      24.99
+12/9/2024   12/5/2024 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $      14.13
+12/9/2024   12/5/2024 XXXX-XXXX-XXXX-7228   Menards.Com              $   1,028.60
+12/9/2024   12/5/2024 XXXX-XXXX-XXXX-5108   Menards Iowa City Ia     $     144.65
+12/9/2024   12/5/2024 XXXX-XXXX-XXXX-8234   Lenoch & Cilek Ace Llc   $    (307.38)
+12/9/2024   12/5/2024 XXXX-XXXX-XXXX-6061   Pf Changs #9961 Cp   $       65.70
+                                            Debit Total          $ 224,866.75
+                                            Credit Total         $ (218,829.02)
+                                            Total                $    6,037.73
+

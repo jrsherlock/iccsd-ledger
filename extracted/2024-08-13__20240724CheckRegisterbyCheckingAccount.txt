@@ -1,0 +1,57 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                     Page: 1
+07/24/2024 7:45 AM                                                                                                       User ID: 12031
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+407828          07/24/2024                               008203          ALLIANT ENERGY                                      14,897.09
+407829          07/24/2024                               012290          CENTURYLINK COMMUNICATIONS, LLC                      1,433.47
+407830          07/24/2024                               000465          CITY OF IOWA CITY                                      312.50
+407831          07/24/2024                               003588          CITY OF IOWA CITY                                   20,689.04
+407832          07/24/2024                               005199          MIDAMERICAN ENERGY                                      91.92
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:           37,424.02
+                Checking Account Total: 1                            Void Total:          0.00    Total without Voids:       37,424.02
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+199985          07/24/2024                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                    813.20
+199986          07/24/2024                               015057          BSN SPORTS LLC                                       2,942.79
+199987          07/24/2024                               011893          CITY OF NORTH LIBERTY                                  552.50
+199988          07/24/2024                               008774          COPYWORKS                                              672.00
+199989          07/24/2024                               012513          DECKER SPORTING GOODS INC                           12,794.50
+199990          07/24/2024                               012513          DECKER SPORTING GOODS INC                              300.00
+199991          07/24/2024                               105693          CHAD DERLEIN                                           183.11
+199992          07/24/2024                               000031          ELITE SPORTS                                         1,364.50
+199993          07/24/2024                               014951          JERRY FANNON                                           210.00
+199994          07/24/2024                               012146          GINA FERREL                                             49.25
+199995          07/24/2024                               014712          KEVIN FERRIS                                           100.00
+199996          07/24/2024                               105279          ERIC FISCHER                                            67.25
+199997          07/24/2024                               012862          HAROLD HART                                            135.00
+199998          07/24/2024                               003771          JAY HONOHAN                                             98.59
+199999          07/24/2024                               016332          HY-VEE, INC.                                         3,212.56
+200000          07/24/2024                               105683          IOWA CITY AREA SPORTS COMMISSION                       500.00
+200001          07/24/2024                               004587          IOWA CITY ATHLETIC OFFICIALS ASSN.                   1,500.00
+200002          07/24/2024                               107285          DE'JAH JORDAN                                           59.75
+200003          07/24/2024                               013823          SHANE KRON                                             114.46
+200004          07/24/2024                               019833          CANDACE BRUCE                                          448.50
+200005          07/24/2024                               006667          MONTICELLO SPORTS                                      240.00
+200006          07/24/2024                               012905          CHIN NGUYEN                                              5.07
+200007          07/24/2024                               015577          OLD CAPITOL SCREEN PRINTERS                            496.00
+200008          07/24/2024                               107281          PRAIRIE TRAIL SPORTS COMPLEX LLC                       450.00
+200009          07/24/2024                               004941          RIDDELL ALL AMERICAN                                   823.95
+200010          07/24/2024                               008673          ADAM ROY                                               113.05
+200011          07/24/2024                               000749          ROBERT (BOB) SAUNDERS                                  336.46
+200012          07/24/2024                               019814          SUBWAY - MUSCATINE AVE                                 223.72
+200013          07/24/2024                               107282          THINK IOWA CITY                                      2,000.00
+200014          07/24/2024                               000220          BRIAN MILLER                                         7,389.00
+200015          07/24/2024                               010880          WINDSTAR LINES INC                                   1,442.00
+200016          07/24/2024                               106421          KALEY WITTHOFT                                          90.00
+                Check Type Total:      Check                         Void Total:         0.00   Total without Voids:         39,727.21
+                Checking Account Total: 3                            Void Total:          0.00    Total without Voids:       39,727.21
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+9027529         07/24/2024                               105197          ADVANCED BUSINESS SYSTEMS INC                        2,945.00
+9027530         07/24/2024                               106841          IMON COMMUNICATIONS LLC                                400.00
+9027531         07/24/2024                               015021          VERIZON WIRELESS SERVICES LLC                       25,318.76
+                Check Type Total:      Check                         Void Total:        0.00  Total without Voids:           28,663.76
+                Checking Account Total: 5                            Void Total:          0.00    Total without Voids:       28,663.76
+
+                                       Grand Total:                  Void Total:          0.00    Total without Voids:      105,814.99
+

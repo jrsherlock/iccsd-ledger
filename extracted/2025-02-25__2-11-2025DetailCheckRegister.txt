@@ -1,0 +1,522 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                            Page: 1
+02/11/2025 1:16 PM                                                                                                                                  User ID: 16976
+Checking Account:      1                  1
+Check Number: 409858           Check Type: Check      Check Date: 02/11/2025    Vendor: 008904    CIT CHARTERS INC                   Check Total:       10,659.93
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  20825                    01/18/2025                    1/18 LIB SHOW CHR                        10 0114 2700 950 7208 515            10,659.93
+
+Check Number: 409859           Check Type: Check      Check Date: 02/11/2025    Vendor: 000465    CITY OF IOWA CITY                  Check Total:          287.89
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020525                   02/05/2025                    1084380-325896 - WATER/TYLER             10 0080 2620 000 0000 411                87.49
+  020525                   02/05/2025                    1084381-325896 - WATER/TYLER             10 0080 2620 000 0000 411                81.64
+  020525                   02/05/2025                    1084384-325896 - WATER/TYLER             10 0080 2620 000 0000 411               118.76
+
+Check Number: 409860           Check Type: Check      Check Date: 02/11/2025    Vendor: 002987    CITY OF IOWA CITY                  Check Total:        5,994.24
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020425                   02/04/2025                    JAN REFUSE                               10 0000 2610 000 0000 421             4,396.69
+  020425A                  02/04/2025                    MAINT DEPT - LANDFILL                    10 0000 2610 000 0000 421             1,541.97
+  020425B                  02/04/2025                    LUCAS - LANDFILL                         10 0000 2610 000 0000 421                55.58
+
+Check Number: 409861           Check Type: Check      Check Date: 02/11/2025    Vendor: 107512    DANA DEGEETER                      Check Total:          219.29
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  010725                   01/07/2025                    LIFEGUARD CERTIFICATION                  10 0213 1900 920 6770 320               219.29
+
+Check Number: 409862           Check Type: Check      Check Date: 02/11/2025    Vendor: 012004    GREATAMERICA FINANCIAL SVCS CORP Check Total:            273.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  38532386                 02/10/2025     2100121        Sharp MX-M7570 LIBERTY Copier Lease      10 0114 1100 100 8550 612               273.00
+
+Check Number: 409863           Check Type: Check      Check Date: 02/11/2025    Vendor: 007501    LINN COUNTY REC                    Check Total:       43,076.42
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020425                   02/04/2025                    ELEC - NC                                10 0209 2620 000 0000 622            23,632.59
+  020425                   02/04/2025                    ELEC - NC PORTABLE                       10 0209 2620 000 0000 622             1,899.42
+  020425                   02/04/2025                    ELEC - GRANT                             10 0475 2620 000 0000 622             8,025.55
+  020425                   02/04/2025                    ELEC - WICKHAM                           10 0493 2620 000 0000 622             2,746.75
+  020425                   02/04/2025                    ELEC - VAN ALLEN                         10 0497 2620 000 0000 622             6,772.11
+
+Check Number: 409864           Check Type: Check      Check Date: 02/11/2025    Vendor: 005199    MIDAMERICAN ENERGY                 Check Total:       39,793.99
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  013025                   01/30/2025                    ELEC-SPEC ED                             10 0025 2620 000 0000 622                56.82
+  013025                   01/30/2025                    ELEC-CITY                                10 0109 2620 000 0000 622             1,467.06
+  013025                   01/30/2025                    ELEC-LIBERTY                             10 0114 2620 000 0000 622            21,875.68
+  013025                   01/30/2025                    ELEC-WEST                                10 0118 2620 000 0000 622               166.87
+  013025                   01/30/2025                    ELEC-TATE                                10 0136 2620 000 0000 622             3,041.66
+  013025                   01/30/2025                    ELEC-KIRKWOOD                            10 0406 2620 000 0000 622                15.20
+  013025                   01/30/2025                    ELEC-LEMME                               10 0417 2620 000 0000 622                38.73
+  013025                   01/30/2025                    ELEC-LINCOLN                             10 0418 2620 000 0000 622             2,555.91
+  013025                   01/30/2025                    ELEC-BORLAUG                             10 0432 2620 000 0000 622             3,966.28
+  013025                   01/30/2025                    ELEC-MANN                                10 0445 2620 000 0000 622                11.58
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                       Page: 2
+02/11/2025 1:16 PM                                                                                                                                             User ID: 16976
+Checking Account:      1                  1
+  013025                   01/30/2025                    ELEC-HOOVER                                       10 0463 2620 000 0000 622               5,771.76
+  013025                   01/30/2025                    ELEC-SHIMEK                                       10 0468 2620 000 0000 622                 826.44
+
+Check Number: 409865           Check Type: Check      Check Date: 02/11/2025    Vendor: 012358             PITNEY BOWES GLOBAL FINANCIAL       Check Total:           926.76
+                                                                                                           SVCS
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  3320321605               02/05/2025                    METER LEASE                                       10 0000 2610 000 0000 442                 926.76
+  3320321605               02/05/2025                    12/27/24 - 3/26/25                                10 0000 2610 000 0000 442                    0.00
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   1                           Total without Voids:       101,231.52
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                        Page: 3
+02/11/2025 1:16 PM                                                                                                                              User ID: 16976
+Checking Account:      3                  3
+Check Number: 201661           Check Type: Check      Check Date: 02/11/2025    Vendor: 106546    AE OUTDOOR POWER               Check Total:          117.72
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  151233                   01/10/2025                    BB EQUIP RPR                             21 0114 1900 921 6730 611           117.72
+
+Check Number: 201662           Check Type: Check      Check Date: 02/11/2025    Vendor: 106442    CHRISTOPHER ANDERSON           Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  020425                   02/11/2025                    2/4 LIB BBB                              21 0114 1900 920 6710 345           120.00
+
+Check Number: 201663           Check Type: Check      Check Date: 02/11/2025    Vendor: 107034    ZACH ARMSTRONG                 Check Total:          480.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  021025                   02/10/2025                    2/14-15 WEST BSW STATE MEAL MONEY        21 0118 1900 920 6770 582           480.00
+
+Check Number: 201664           Check Type: Check      Check Date: 02/11/2025    Vendor: 008026    ATLANTIC COCA-COLA BOTTLING    Check Total:          814.80
+                                                                                                  COMPANY
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  4985375                  02/05/2025                    FB FAIRLIFE MILK                         21 0118 1900 921 6720 611           814.80
+
+Check Number: 201665           Check Type: Check      Check Date: 02/11/2025    Vendor: 020580    ANNA BASILE WEHNER             Check Total:          483.20
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  020625                   02/06/2025                    INTERACT CLUB SPLS                       21 0109 1900 950 7041 611           483.20
+
+Check Number: 201666           Check Type: Check      Check Date: 02/11/2025    Vendor: 107561    BRENT BEHRENS                  Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  020725                   02/11/2025                    2/7 WEST BBB                             21 0118 1900 920 6710 345           120.00
+
+Check Number: 201667           Check Type: Check      Check Date: 02/11/2025    Vendor: 106840    RYAN BOBST                     Check Total:          116.67
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  020625                   02/11/2025                    2/6 WEST BBB                             21 0118 1900 920 6710 345           116.67
+
+Check Number: 201668           Check Type: Check      Check Date: 02/11/2025    Vendor: 019601    CAREY BOSTIAN, II              Check Total:          100.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  012825                   01/28/2025                    STARBURST - EDITING                      21 0118 1900 950 7222 611           100.00
+
+Check Number: 201669           Check Type: Check      Check Date: 02/11/2025    Vendor: 015057    BSN SPORTS LLC                 Check Total:        6,813.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  928754523                02/07/2025     2500642        NIKE True Flex Fit Custom Hat - White    21 0109 1900 923 6730 611         1,325.00
+  928754523                02/07/2025     2500642        NIKE True Flex Fit Custom Hat - Red      21 0109 1900 923 6730 611         3,312.50
+  928754523                02/07/2025     2500642        NIKE True Flex Fit Custom Hat - Gray     21 0109 1900 923 6730 611         2,040.50
+  928754523                02/07/2025     2500642        Freight                                  21 0109 1900 923 6730 611           135.00
+
+Check Number: 201670           Check Type: Check      Check Date: 02/11/2025    Vendor: 005587    RAY CARLEY                     Check Total:          113.34
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+  020425                   02/11/2025                    2/4 LIB BBB                              21 0114 1900 920 6710 345           113.34
+
+Check Number: 201671           Check Type: Check      Check Date: 02/11/2025    Vendor: 013446    CEDAR RAPIDS KENNEDY HS        Check Total:          325.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number       Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                       Page: 4
+02/11/2025 1:16 PM                                                                                                                             User ID: 16976
+Checking Account:      3                  3
+  092624                   02/11/2025                    9/26 WEST BXC                             21 0118 1900 920 6745 811         100.00
+  092624                   02/11/2025                    9/26 WEST GXC                             21 0118 1900 920 6845 811         100.00
+  092824A                  02/11/2025                    9/28 WEST GSW                             21 0118 1900 920 6870 811         125.00
+
+Check Number: 201672           Check Type: Check      Check Date: 02/11/2025    Vendor: 020192     JOSHUA CHRISTENSEN           Check Total:          183.46
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  020425                   02/11/2025                    2/4 LIB BBB                               21 0114 1900 920 6710 345         101.73
+  020625                   02/11/2025                    2/6 LIB BBB                               21 0114 1900 920 6710 345          81.73
+
+Check Number: 201673           Check Type: Check      Check Date: 02/11/2025    Vendor: 107548     ZAC CLARK                    Check Total:          161.96
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  020425                   02/11/2025                    2/4 LIB BBB                               21 0114 1900 920 6710 345         161.96
+
+Check Number: 201674           Check Type: Check      Check Date: 02/11/2025    Vendor: 010917     COLONIAL BOWLING LANES       Check Total:        3,575.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  109                      01/08/2025                    BBWL STATE LINEAGE                        21 0109 1900 920 6785 811         800.00
+  109                      01/08/2025                    GBWL STATE LINEAGE                        21 0109 1900 920 6885 811         800.00
+  110                      01/30/2024                    24-25 WEST BBWL LINEAGE                   21 0118 1900 923 6785 611       1,975.00
+
+Check Number: 201675           Check Type: Check      Check Date: 02/11/2025    Vendor: 008774     COPYWORKS                    Check Total:          624.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  81341                    01/02/2025                    BWR BANNERS                               21 0109 1900 923 6790 611          22.00
+  81341                    01/02/2025                    GWR BANNERS                               21 0109 1900 923 6890 611         308.00
+  81347                    01/07/2025                    BSW COPIES                                21 0109 1900 923 6770 611         120.00
+  81347                    01/07/2025                    BWR BANNER                                21 0109 1900 923 6790 611          44.00
+  81372                    01/15/2025                    CITY DANCE BANNERS                        21 0109 1900 923 6601 611          88.00
+  81372                    01/15/2025                    GBB COPIES                                21 0109 1900 923 6810 611          42.00
+
+Check Number: 201676           Check Type: Check      Check Date: 02/11/2025    Vendor: 104295     CALVIN CORRIN                Check Total:          140.85
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  021725                   02/11/2025                    2/17 SE GWR                               21 0218 1900 920 6890 345         140.85
+
+Check Number: 201677           Check Type: Check      Check Date: 02/11/2025    Vendor: 106253     TRISHUL DAHYA                Check Total:           70.81
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  020725                   02/11/2025                    2/7 LIB GBB                               21 0114 1900 920 6810 345          70.81
+
+Check Number: 201678           Check Type: Check      Check Date: 02/11/2025    Vendor: 012513     DECKER SPORTING GOODS INC    Check Total:        6,636.95
+  Invoice Number           Invoice Date   PO Number      Detail Description                        Chart of Account Number     Detail Amount
+  AAC005757-AN03           07/30/2024     2500069        4 x 8 x 8 Landing Mat Forrest Green       21 0118 1900 923 6601 611         799.00
+  AAF006523-AJ02           12/23/2024     2500648        Champion Adult Dive Jacket Embroidered    21 0118 1900 920 6770 611         740.00
+  AAF006523-AJ02           12/23/2024     2500648        Champion Adult Dive Jacket Embroidered    21 0118 1900 920 6870 611         740.00
+  AAN031497-AJ05           01/31/2025     2500110        Womens Nike Digital Dri Fit Hyper Elite   21 0109 1900 922 6810 611         798.00
+  AAN031497-AJ05           01/31/2025     2500110        Womens Nike Digital Dri Fit Hyper Elite   21 0109 1900 922 6810 611         198.00
+  AAN032388-AJ02           01/31/2025     2500595        Custom Tops Irish Design - Red S-3,4 M-   21 0109 1900 922 6710 611         270.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                        Page: 5
+02/11/2025 1:16 PM                                                                                                                              User ID: 16976
+Checking Account:      3                  3
+  AAN032388-AJ02           01/31/2025     2500595        Cusom Tops Irish Design - White M- 11,30   21 0109 1900 922 6710 611         270.00
+  AAN032388-AJ02           01/31/2025     2500595        Custom Sublimated Shorts - Red             21 0109 1900 922 6710 611         210.00
+  AAN032388-AJ02           01/31/2025     2500595        Custom Sublimated Shorts - White           21 0109 1900 922 6710 611         210.00
+  AAN032388-AJ02           01/31/2025     2500595        SHIPPING                                   21 0109 1900 922 6710 611          20.00
+  AAN032392-AJ02           01/31/2025     2500655        Lazer Engraved Basketballs                 21 0109 1900 921 6810 611         450.00
+  AAN032392-AJ02           01/31/2025     2500655        Shipping                                   21 0109 1900 921 6810 611          17.95
+  AAN032410-AF04           01/06/2025     2500724        Mens UA Warmup Full Zip – Black            21 0109 1900 920 6601 611         957.00
+  AAN032410-AF04           01/06/2025     2500724        Mens UA Warmup Pants – Black               21 0109 1900 920 6601 611         957.00
+
+Check Number: 201679           Check Type: Check      Check Date: 02/11/2025    Vendor: 012513      DECKER SPORTING GOODS INC    Check Total:        5,135.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number     Detail Amount
+  AAN032712-AJ01           01/07/2025     2500719        Shorts 1-XXL 1 XXXL                        21 0118 1900 920 6710 611          60.00
+  AAN032712-AJ01           01/07/2025     2500719        Shorts 2-XXL 1-XXXL                        21 0118 1900 920 6710 611          90.00
+  AAN032712-AJ01           01/07/2025     2500719        SHIPPING                                   21 0118 1900 920 6710 611          15.00
+  AAN032829-AJ02           01/27/2025     2500721        12’x28’ Landing Zone Covers with 2 color   21 0118 1900 923 6601 611       2,650.00
+  AAN032829-AJ02           01/27/2025     2500721        Shipping                                   21 0118 1900 923 6601 611         159.50
+  AAQ027959-AJ01           12/17/2024     2500720        Portable shot clock set-BISON              21 0118 1900 923 6601 611         900.00
+  AAQ027959-AJ01           12/17/2024     2500720        Portable shot clock stand-BISON            21 0118 1900 923 6601 611         700.00
+  AAQ027959-AJ01           12/17/2024     2500720        Shipping                                   21 0118 1900 923 6601 611         300.00
+  AAQ028005-AJ01           01/31/2025     2500775        4"Mat Tape                                 21 0209 1900 950 7010 611         216.00
+  AAQ028005-AJ01           01/31/2025     2500775        Kennedy Mat Cleaner - Gallon               21 0209 1900 950 7010 611          45.00
+
+Check Number: 201680           Check Type: Check      Check Date: 02/11/2025    Vendor: 012127      MATTHEW DICICCO              Check Total:          171.34
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number     Detail Amount
+  020725                   02/11/2025                    2/7 LIB BBB                                21 0114 1900 920 6710 345          85.67
+  021025                   02/11/2025                    2/10 LIB BBB                               21 0114 1900 920 6710 345          85.67
+
+Check Number: 201681           Check Type: Check      Check Date: 02/11/2025    Vendor: 107562      RYAN DIXON                   Check Total:          174.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number     Detail Amount
+  020725                   02/11/2025                    2/7 WEST BBB                               21 0118 1900 920 6710 345         174.00
+
+Check Number: 201682           Check Type: Check      Check Date: 02/11/2025    Vendor: 009715      STACY DUNBAR                 Check Total:          165.47
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number     Detail Amount
+  020725                   02/11/2025                    2/7 LIB GBB                                21 0114 1900 920 6810 345         165.47
+
+Check Number: 201683           Check Type: Check      Check Date: 02/11/2025    Vendor: 005647      ECISOA                       Check Total:          170.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number     Detail Amount
+  202515                   02/05/2025                    CITY BSC SCHEDULING FEE                    21 0109 1900 920 6725 811          85.00
+  202515                   02/05/2025                    CITY GSC SCHEDULING FEE                    21 0109 1900 920 6825 811          85.00
+
+Check Number: 201684           Check Type: Check      Check Date: 02/11/2025    Vendor: 000031      ELITE SPORTS                 Check Total:          351.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                         Chart of Account Number     Detail Amount
+  41882                    02/10/2025                    GWR STATE SHIRTS                           21 0118 1900 921 6890 611         351.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                      Page: 6
+02/11/2025 1:16 PM                                                                                                                            User ID: 16976
+Checking Account:      3                  3
+Check Number: 201685           Check Type: Check      Check Date: 02/11/2025    Vendor: 107559    EMBASSY SUITES MADISON       Check Total:        9,834.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  02072025                 02/07/2025                    2/14 CITY HS MUSIC HOTEL                 21 0109 1900 950 7152 611       9,834.00
+
+Check Number: 201686           Check Type: Check      Check Date: 02/11/2025    Vendor: 014660    PATRICK ENSMINGER            Check Total:          240.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020425                   02/11/2025                    2/4 WEST BBB                             21 0118 1900 920 6710 345         120.00
+  020725                   02/11/2025                    2/7 WEST GBB                             21 0118 1900 920 6810 345         120.00
+
+Check Number: 201687           Check Type: Check      Check Date: 02/11/2025    Vendor: 005169    FAREWAY STORES               Check Total:          212.31
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  00272097                 01/08/2025                    ACCT: 950023 WEST SPEC PROJ              21 0118 1900 950 7180 611          79.75
+  00277448                 01/27/2025                    ACCT: 950023 WEST SPEC PROJ              21 0118 1900 950 7180 611         132.56
+
+Check Number: 201688           Check Type: Check      Check Date: 02/11/2025    Vendor: 014712    KEVIN FERRIS                 Check Total:          156.07
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020725                   02/11/2025                    2/7 LIB BBB                              21 0114 1900 920 6710 345         156.07
+
+Check Number: 201689           Check Type: Check      Check Date: 02/11/2025    Vendor: 107538    JAYSON GERTH                 Check Total:          400.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  022125                   02/05/2025                    LIBERTY JAZZ FESTIVAL JUDGE              21 0114 1900 950 7220 611         400.00
+
+Check Number: 201690           Check Type: Check      Check Date: 02/11/2025    Vendor: 013174    AARON GRANQUIST              Check Total:           74.59
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020425                   02/11/2025                    2/4 WEST BBB                             21 0118 1900 920 6710 345          74.59
+
+Check Number: 201691           Check Type: Check      Check Date: 02/11/2025    Vendor: 016008    TROY GREENE                  Check Total:          151.32
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020825                   02/11/2025                    2/8 CITY BBB                             21 0109 1900 920 6710 345         151.32
+
+Check Number: 201692           Check Type: Check      Check Date: 02/11/2025    Vendor: 105173    PAUL HAGEMAN                 Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020725                   02/11/2025                    2/7 LIB GBB                              21 0114 1900 920 6810 345         120.00
+
+Check Number: 201693           Check Type: Check      Check Date: 02/11/2025    Vendor: 106297    SPENCER HINTZ                Check Total:           72.11
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020725                   02/11/2025                    2/7 WEST BBB                             21 0118 1900 920 6710 345          72.11
+
+Check Number: 201694           Check Type: Check      Check Date: 02/11/2025    Vendor: 003771    JAY HONOHAN                  Check Total:          219.70
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020425                   02/11/2025                    2/4 WEST BBB                             21 0118 1900 920 6710 345          74.21
+  020825                   02/11/2025                    2/8 CITY BBB                             21 0109 1900 920 6710 345         145.49
+
+Check Number: 201695           Check Type: Check      Check Date: 02/11/2025    Vendor: 008064    SETH ICKOWITZ                Check Total:          152.99
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  020825                   02/11/2025                    2/8 CITY BBB                             21 0109 1900 920 6710 345         152.99
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                            Page: 7
+02/11/2025 1:16 PM                                                                                                                                  User ID: 16976
+Checking Account:      3                  3
+
+Check Number: 201696           Check Type: Check      Check Date: 02/11/2025    Vendor: 005774    IOWA CITY COMM SCH DIST            Check Total:        1,000.00
+                                                                                                  FOUNDATION
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020625                   02/06/2025                    LIBERTY VENDING MACH REPAYMENT           21 0114 1900 950 7180 611             1,000.00
+
+Check Number: 201697           Check Type: Check      Check Date: 02/11/2025    Vendor: 000251    IOWA HIGH SCHOOL ATHLETIC ASSOC    Check Total:          225.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  INV6955                  12/18/2024                    BXC PLAQUE                               21 0109 1900 923 6745 611               225.00
+
+Check Number: 201698           Check Type: Check      Check Date: 02/11/2025    Vendor: 001834    J.W. PEPPER & SON, INC.            Check Total:            5.80
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  367101236                01/06/2025                    BYE BYE BYE                              21 0213 1900 950 7220 611                 5.80
+
+Check Number: 201699           Check Type: Check      Check Date: 02/11/2025    Vendor: 107560    DERECK KLAASSEN                    Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020725                   02/11/2025                    2/7 WEST BBB                             21 0118 1900 920 6710 345               120.00
+
+Check Number: 201700           Check Type: Check      Check Date: 02/11/2025    Vendor: 009404    BLAIR KLINEFELTER                  Check Total:           70.76
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020425                   02/11/2025                    2/4 CITY GBB                             21 0109 1900 920 6810 345                70.76
+
+Check Number: 201701           Check Type: Check      Check Date: 02/11/2025    Vendor: 106941    ANDREW KLOSER                      Check Total:           72.11
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020725                   02/11/2025                    2/7 WEST BBB                             21 0118 1900 920 6710 345                72.11
+
+Check Number: 201702           Check Type: Check      Check Date: 02/11/2025    Vendor: 002449    PATRICK KNOBBE                     Check Total:          119.21
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  020325                   02/11/2025                    2/3 WEST BBB                             21 0118 1900 920 6710 345               119.21
+
+Check Number: 201703           Check Type: Check      Check Date: 02/11/2025    Vendor: 107537    DAVID KOBBERDAHL                   Check Total:          400.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  022125                   02/05/2025                    LIBERTY JAZZ FESTIVAL JUDGE              21 0114 1900 950 7220 611               400.00
+
+Check Number: 201704           Check Type: Check      Check Date: 02/11/2025    Vendor: 105195    MANDI KOWAL                        Check Total:          240.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  021024                   02/10/2024                    2/14-15 CITY BSW STATE MEAL MONEY        21 0109 1900 920 6770 582               240.00
+
+Check Number: 201705           Check Type: Check      Check Date: 02/11/2025    Vendor: 014135    RICHARD KUNC                       Check Total:          130.92
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  021725                   02/11/2025                    2/17 SE GWR                              21 0218 1900 920 6890 345               130.92
+
+Check Number: 201706           Check Type: Check      Check Date: 02/11/2025    Vendor: 017495    LINN-MAR HIGH SCHOOL               Check Total:          600.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number           Detail Amount
+  011825                   11/09/2025                    1/18 CITY SUPERNOVA                      21 0109 1900 950 7152 611               600.00
+
+Check Number: 201707           Check Type: Check      Check Date: 02/11/2025    Vendor: 107541    ERIC LINS                          Check Total:          300.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                             Page: 8
+02/11/2025 1:16 PM                                                                                                                                   User ID: 16976
+Checking Account:      3                  3
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  022125                   02/05/2025                    LIBERTY JAZZ FESTIVAL JUDGE              21 0114 1900 950 7220 611                300.00
+
+Check Number: 201708           Check Type: Check      Check Date: 02/11/2025    Vendor: 012696    JASON MARLOW                        Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  020425                   02/11/2025                    2/4 CITY GBB                             21 0109 1900 920 6810 345                120.00
+
+Check Number: 201709           Check Type: Check      Check Date: 02/11/2025    Vendor: 011056    MARTIN BROS. DISTRIBUTING CO INC    Check Total:        1,307.63
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  1906821                  01/29/2025                    VENDING SPLS                             21 0114 1900 950 7180 611                959.30
+  1917325                  02/05/2025                    VENDING SPLS                             21 0114 1900 950 7180 611                348.33
+
+Check Number: 201710           Check Type: Check      Check Date: 02/11/2025    Vendor: 107552    JENNA MASSEY                        Check Total:           59.40
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  020725                   02/07/2025                    AP TEST REFUND                           21 0118 1900 950 7250 611                 59.40
+
+Check Number: 201711           Check Type: Check      Check Date: 02/11/2025    Vendor: 011485    STEVEN MCDOWELL                     Check Total:           81.08
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  020725                   02/11/2025                    2/7 LIB BBB                              21 0114 1900 920 6710 345                 81.08
+
+Check Number: 201712           Check Type: Check      Check Date: 02/11/2025    Vendor: 105650    ADAM MCLAUGHLIN                     Check Total:          392.39
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  020325                   02/11/2025                    2/3 WEST BBB                             21 0118 1900 920 6710 345                120.40
+  020625                   02/11/2025                    2/6 WEST BBB                             21 0118 1900 920 6710 345                120.40
+  020825                   02/11/2025                    2/8 CITY BBB                             21 0109 1900 920 6710 345                151.59
+
+Check Number: 201713           Check Type: Check      Check Date: 02/11/2025    Vendor: 017598    RICHARD MEDD                        Check Total:          375.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  022125                   02/05/2025                    LIBERTY JAZZ FESTIVAL JUDGE              21 0114 1900 950 7220 611                375.00
+
+Check Number: 201714           Check Type: Check      Check Date: 02/11/2025    Vendor: 107416    MARCUS MILLARD                      Check Total:           85.23
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  020725                   02/11/2025                    2/7 WEST GBB                             21 0118 1900 920 6810 345                 85.23
+
+Check Number: 201715           Check Type: Check      Check Date: 02/11/2025    Vendor: 107558    ALEXANDER MILTON                    Check Total:          302.38
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  011725                   02/11/2025                    1/17 CITY GBB                            21 0109 1900 920 6810 345                 81.19
+  012125                   02/11/2025                    1/21 CITY BBB                            21 0109 1900 920 6710 345                101.19
+  020725                   02/11/2025                    2/7 LIB BBB                              21 0114 1900 920 6710 345                120.00
+
+Check Number: 201716           Check Type: Check      Check Date: 02/11/2025    Vendor: 017019    ANDREW MILTON                       Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  020725                   02/11/2025                    2/7 LIB BBB                              21 0114 1900 920 6710 345                120.00
+
+Check Number: 201717           Check Type: Check      Check Date: 02/11/2025    Vendor: 105750    MOUNT VERNON HIGH SCHOOL            Check Total:          100.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                         Page: 9
+02/11/2025 1:16 PM                                                                                                                               User ID: 16976
+Checking Account:      3                  3
+  020425                   02/04/2025                    2/22 WEST HS OLYMPIAD REG                21 0118 1900 950 7027 611            100.00
+
+Check Number: 201718           Check Type: Check      Check Date: 02/11/2025    Vendor: 019782    NORTH DODGE ATHLETIC CLUB       Check Total:        3,791.25
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  686172                   02/01/2025                    SPORTS TRAINING - JAN                    21 0109 1900 923 6601 611          3,581.25
+  686173                   02/01/2025                    JH LIFTING - JAN                         21 0109 1900 923 6601 611            210.00
+
+Check Number: 201719           Check Type: Check      Check Date: 02/11/2025    Vendor: 107556    CONNOR OLSON                    Check Total:          132.97
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  020625                   02/11/2025                    2/6 SE BWR                               21 0218 1900 920 6790 345            132.97
+
+Check Number: 201720           Check Type: Check      Check Date: 02/11/2025    Vendor: 107556    CONNOR OLSON                    Check Total:          132.97
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  021825                   02/11/2025                    2/18 SE GWR                              21 0218 1900 920 6890 345            132.97
+
+Check Number: 201721           Check Type: Check      Check Date: 02/11/2025    Vendor: 021048    ERIC OLSON                      Check Total:          132.75
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  021725                   02/11/2025                    2/17 SE GWR                              21 0218 1900 920 6890 345            132.75
+
+Check Number: 201722           Check Type: Check      Check Date: 02/11/2025    Vendor: 007348    KIM PATIK                       Check Total:           82.64
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  020425                   02/11/2025                    2/4 CITY GBB                             21 0109 1900 920 6810 345             82.64
+
+Check Number: 201723           Check Type: Check      Check Date: 02/11/2025    Vendor: 105552    JAMAAL PEEPLES                  Check Total:           83.77
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  020725                   02/11/2025                    2/7 WEST GBB                             21 0118 1900 920 6810 345             83.77
+
+Check Number: 201724           Check Type: Check      Check Date: 02/11/2025    Vendor: 020306    PERFORMANCE HEALTH & FITNESS    Check Total:        1,910.76
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  921                      02/03/2025                    STRENGTH/CONDITIONING - JAN              21 0118 1900 924 6900 611            480.01
+  923                      02/03/2025                    STRENGTH/CONDITIONIN - JAN               21 0114 1900 923 6601 611          1,430.75
+
+Check Number: 201725           Check Type: Check      Check Date: 02/11/2025    Vendor: 012225    ANDREW PETERSEN                 Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  020725                   02/11/2025                    2/7 LIB GBB                              21 0114 1900 920 6810 345            120.00
+
+Check Number: 201726           Check Type: Check      Check Date: 02/11/2025    Vendor: 010693    JOSHUA RAGAR                    Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  020425                   02/11/2025                    2/4 CITY GBB                             21 0109 1900 920 6810 345            120.00
+
+Check Number: 201727           Check Type: Check      Check Date: 02/11/2025    Vendor: 107555    TRAVIS REICHTER                 Check Total:          130.54
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+  020625                   02/11/2025                    2/6 SE BWR                               21 0218 1900 920 6790 345            130.54
+
+Check Number: 201728           Check Type: Check      Check Date: 02/11/2025    Vendor: 004941    RIDDELL ALL AMERICAN            Check Total:        7,515.22
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number        Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                         Page: 10
+02/11/2025 1:16 PM                                                                                                                                User ID: 16976
+Checking Account:      3                  3
+  60527045                 12/11/2024                    FB HELMET RECONDITION                    21 0213 1900 920 6601 433           7,515.22
+
+Check Number: 201729           Check Type: Check      Check Date: 02/11/2025    Vendor: 008663    PHIL RITCHIE                     Check Total:           81.99
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  020725                   02/11/2025                    2/7 LIB GBB                              21 0114 1900 920 6810 345              81.99
+
+Check Number: 201730           Check Type: Check      Check Date: 02/11/2025    Vendor: 107539    MATTHEW SANDERS                  Check Total:          375.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  022125                   02/05/2025                    LIBERTY JAZZ FESTIVAL JUDGE              21 0114 1900 950 7220 611             375.00
+
+Check Number: 201731           Check Type: Check      Check Date: 02/11/2025    Vendor: 000749    ROBERT (BOB) SAUNDERS            Check Total:          145.86
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  020825                   02/11/2025                    2/8 CITY BBB                             21 0109 1900 920 6710 345             145.86
+
+Check Number: 201732           Check Type: Check      Check Date: 02/11/2025    Vendor: 011576    MATTHEW SHULL                    Check Total:          240.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  020425                   02/11/2025                    2/4 WEST BBB                             21 0118 1900 920 6710 345             120.00
+  020725                   02/11/2025                    2/7 WEST GBB                             21 0118 1900 920 6810 345             120.00
+
+Check Number: 201733           Check Type: Check      Check Date: 02/11/2025    Vendor: 008622    SHEA STAMP                       Check Total:          141.88
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  021825                   02/11/2025                    2/18 SE GWR                              21 0218 1900 920 6890 345             141.88
+
+Check Number: 201734           Check Type: Check      Check Date: 02/11/2025    Vendor: 007320    TRACY STONE                      Check Total:          336.17
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  020425                   02/11/2025                    2/4 CITY GBB                             21 0109 1900 920 6810 345              80.58
+  020625                   02/11/2025                    2/6 LIB BBB                              21 0114 1900 920 6710 345              88.53
+  020725                   02/11/2025                    2/7 LIB GBB                              21 0114 1900 920 6810 345              78.53
+  021025                   02/11/2025                    2/10 LIB BBB                             21 0114 1900 920 6710 345              88.53
+
+Check Number: 201735           Check Type: Check      Check Date: 02/11/2025    Vendor: 105769    BRYAN SYLVESTER                  Check Total:          148.90
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  021825                   02/11/2025                    2/18 SE GWR                              21 0218 1900 920 6890 345             148.90
+
+Check Number: 201736           Check Type: Check      Check Date: 02/11/2025    Vendor: 107039    SYNERGY SPORTS TECHNOLOGY LLC    Check Total:        3,000.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  2485670-1                02/07/2025     2400759        Foundation Services - Baseball Non D1    21 0109 1900 923 6730 611           2,500.00
+  2485670-1                02/07/2025     2400759        Team Logger App - Non D1                 21 0109 1900 923 6730 611             500.00
+
+Check Number: 201737           Check Type: Check      Check Date: 02/11/2025    Vendor: 106302    VAUGHN THADA                     Check Total:          148.54
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  020425                   02/11/2025                    2/4 WEST BBB                             21 0118 1900 920 6710 345              74.27
+  020725                   02/11/2025                    2/7 WEST GBB                             21 0118 1900 920 6810 345              74.27
+
+Check Number: 201738           Check Type: Check      Check Date: 02/11/2025    Vendor: 107540    JENNIFER TIEDE                   Check Total:          300.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                      Page: 11
+02/11/2025 1:16 PM                                                                                                                             User ID: 16976
+Checking Account:      3                  3
+  022125                   02/05/2025                    LIBERTY JAZZ FESTIVAL JUDGE              21 0114 1900 950 7220 611          300.00
+
+Check Number: 201739           Check Type: Check      Check Date: 02/11/2025    Vendor: 017315    TRESONA MULTIMEDIA LLC        Check Total:          270.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  421058                   01/31/2025                    COMING HOME                              21 0118 1900 950 7220 611          270.00
+
+Check Number: 201740           Check Type: Check      Check Date: 02/11/2025    Vendor: 107006    HENRY TROYKA                  Check Total:          461.59
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  020725                   02/07/2025                    GUEST ARTIST TRAVEL CHARGES              21 0118 1900 950 7220 611          461.59
+
+Check Number: 201741           Check Type: Check      Check Date: 02/11/2025    Vendor: 106328    ALEXANDER TUTTLE              Check Total:          218.19
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  020725                   02/11/2025                    2/7 WEST BBB                             21 0118 1900 920 6710 345           70.76
+  020825                   02/11/2025                    2/8 CITY BBB                             21 0109 1900 920 6710 345          147.43
+
+Check Number: 201742           Check Type: Check      Check Date: 02/11/2025    Vendor: 107557    UNIV OF IA SPORTS MEDICINE    Check Total:          930.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  3100                     02/05/2025                    MS ATHLETIC TRAINER SVCS                 21 0000 1900 920 6601 345          930.00
+
+Check Number: 201743           Check Type: Check      Check Date: 02/11/2025    Vendor: 008491    JEFF WACHTER                  Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  010725                   02/11/2025                    1/7 WEST BBB                             21 0118 1900 920 6710 345          120.00
+
+Check Number: 201744           Check Type: Check      Check Date: 02/11/2025    Vendor: 011575    MARK WARTH                    Check Total:          310.20
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  020425                   02/11/2025                    2/4 WEST BBB                             21 0118 1900 920 6710 345          155.10
+  020725                   02/11/2025                    2/7 WEST GBB                             21 0118 1900 920 6810 345          155.10
+
+Check Number: 201745           Check Type: Check      Check Date: 02/11/2025    Vendor: 008754    ROBERT WASHUT                 Check Total:          500.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  022125                   02/05/2025                    LIBERTY JAZZ FESTIVAL JUDGE              21 0114 1900 950 7220 611          500.00
+
+Check Number: 201746           Check Type: Check      Check Date: 02/11/2025    Vendor: 002492    WEST MUSIC CO INC             Check Total:           11.99
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  SI2491971                02/06/2025                    RUBANK ADV METHOD 1 OBOE                 21 0213 1900 950 7220 611           11.99
+
+Check Number: 201747           Check Type: Check      Check Date: 02/11/2025    Vendor: 012192    CHET WIELAND                  Check Total:          112.26
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  020425                   02/11/2025                    2/4 LIB BBB                              21 0114 1900 920 6710 345          112.26
+
+Check Number: 201748           Check Type: Check      Check Date: 02/11/2025    Vendor: 107549    ASTOR WILLIAMS                Check Total:          120.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+  020425                   02/11/2025                    2/4 LIB BBB                              21 0114 1900 920 6710 345          120.00
+
+Check Number: 201749           Check Type: Check      Check Date: 02/11/2025    Vendor: 010880    WINDSTAR LINES INC            Check Total:        3,090.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number      Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                     Page: 12
+02/11/2025 1:16 PM                                                                                                                                            User ID: 16976
+Checking Account:      3                  3
+  158121                   01/28/2025                    1/25 CITY GBB                                     21 0109 2700 920 6810 515               1,596.50
+  158122                   01/30/2025                    1/30 CITY BBWL                                    21 0109 2700 920 6785 515                 746.75
+  158122                   01/30/2025                    1/30 CITY GBWL                                    21 0109 2700 920 6885 515                 746.75
+
+Check Number: 201750           Check Type: Check      Check Date: 02/11/2025    Vendor: 015159             STEPHEN WORSTER                     Check Total:          171.19
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  020425                   02/11/2025                    2/4 CITY GBB                                      21 0109 1900 920 6810 345                 171.19
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   3                           Total without Voids:       70,410.70
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                                     Page: 13
+02/11/2025 1:16 PM                                                                                                                                           User ID: 16976
+Checking Account:     5                  5
+Check Number: 9028275         Check Type: Check      Check Date: 02/11/2025    Vendor: 010509             CENTURYLINK COMMUNICATIONS, LLC     Check Total:           80.91
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  020125                  02/01/2025                    SECURITY/FIRE LINE                                33 0000 4700 000 8999 450                  80.91
+
+Check Number: 9028276         Check Type: Check      Check Date: 02/11/2025    Vendor: 012004             GREATAMERICA FINANCIAL SVCS CORP Check Total:             230.00
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  38532385                02/10/2025     20001890       SHARP MX-M6071 TATE COPIER LEASE                  33 0000 4500 000 8999 733                 230.00
+
+  *Denotes Expensed Invoice Item                                                   Checking Account ID:   5                           Total without Voids:          310.91
+

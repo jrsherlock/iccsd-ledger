@@ -1,0 +1,82 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+11/12/2024 2:15 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+408951          11/12/2024                               002987          CITY OF IOWA CITY                                   7,706.94
+408952          11/12/2024                               107425          LINDSAY MCDERMOTT                                     200.00
+408953          11/12/2024                               107430          JACK DELANEY                                          600.00
+408954          11/12/2024                               007501          LINN COUNTY REC                                    27,414.71
+408955          11/12/2024                               005199          MIDAMERICAN ENERGY                                     12.14
+408956          11/12/2024                               012358          PITNEY BOWES GLOBAL FINANCIAL SVCS                    926.76
+408957          11/12/2024                               017023          SYMMETRY ENERGY SOLUTIONS LLC                       3,685.10
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:          40,545.65
+                Checking Account Total: 1                            Void Total:         0.00    Total without Voids:       40,545.65
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200835          11/12/2024                               106313          OWEN AANESTAD                                         420.00
+200836          11/12/2024                               103904          ADCRAFT PRINTWEAR CO                                3,306.00
+200837          11/12/2024                               000133          AERO RENTAL                                           486.00
+200838          11/12/2024                               107354          BLUE SKY MANAGEMENT LLC                             1,728.60
+200839          11/12/2024                               106838          CENTER POINT-URBANA CSD                                75.00
+200840          11/12/2024                               107429          SCOTT CHANDLER                                        760.00
+200841          11/12/2024                               008904          CIT CHARTERS INC                                    1,864.58
+200842          11/12/2024                               019574          COE COLLEGE                                           180.00
+200843          11/12/2024                               017671          COE COLLEGE MUSIC DEPT                                405.00
+200844          11/12/2024                               008774          COPYWORKS                                              29.70
+200845          11/12/2024                               002264          DANIEL CRAIG                                          110.49
+200846          11/12/2024                               107430          JACK DELANEY                                           50.00
+200847          11/12/2024                               017736          TRAVIS DILLAVOU                                       111.03
+200848          11/12/2024                               014635          LINDSEY DOWNES                                        348.05
+200849          11/12/2024                               106272          SARA DOWNES                                           370.80
+200850          11/12/2024                               000031          ELITE SPORTS                                        1,886.75
+200851          11/12/2024                               005169          FAREWAY STORES                                        309.09
+200852          11/12/2024                               107384          GAME ONE                                              480.00
+200853          11/12/2024                               016008          TROY GREENE                                           110.97
+200854          11/12/2024                               016112          KIM HALL                                              130.52
+200855          11/12/2024                               020820          RICHARD HAMMES                                        111.30
+200856          11/12/2024                               106789          ALLYSON HERMAN                                         52.97
+200857          11/12/2024                               013104          STEVEN HOLLAN                                         117.24
+200858          11/12/2024                               017257          HOSPERS & BROTHER PRINTERS                            116.23
+200859          11/12/2024                               013990          IOWA GIRLS COACHES ASSOCIATION                         60.00
+200860          11/12/2024                               000066          IOWA HIGH SCHOOL MUSIC ASSOCIATION                  1,470.00
+200861          11/12/2024                               009404          BLAIR KLINEFELTER                                     110.32
+200862          11/12/2024                               002449          PATRICK KNOBBE                                        225.13
+200863          11/12/2024                               105195          MANDI KOWAL                                           528.00
+200864          11/12/2024                               013243          DOUG LESTINA                                          109.90
+200865          11/12/2024                               019147          LIGHT THIS PRODUCTIONS LLC                            750.00
+200866          11/12/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                      143.15
+200867          11/12/2024                               017221          BJ MAYER                                              816.00
+200868          11/12/2024                               105650          ADAM MCLAUGHLIN                                       112.54
+200869          11/12/2024                               107416          MARCUS MILLARD                                        247.76
+200870          11/12/2024                               010315          JOHN MURPHY III                                       111.78
+200871          11/12/2024                               019782          NORTH DODGE ATHLETIC CLUB                           3,731.25
+200872          11/12/2024                               000194          PETER NOTHNAGLE                                        75.00
+200873          11/12/2024                               107134          MOLLY PAGE                                             58.92
+200874          11/12/2024                               107427          ANDREA PALMERSHEIM                                  1,597.88
+200875          11/12/2024                               020306          PERFORMANCE HEALTH & FITNESS                        1,470.75
+200876          11/12/2024                               107428          MARC ROOD                                             250.00
+200877          11/12/2024                               105664          SCOTT SEAGREN                                         115.62
+200878          11/12/2024                               017331          STITCH IN TIME INC                                    445.00
+200879          11/12/2024                               007320          TRACY STONE                                           120.15
+200880          11/12/2024                               010304          TIMOTHY SULLIVAN                                      121.07
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+11/12/2024 2:15 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200881          11/12/2024                               000220          BRIAN MILLER                                          330.00
+200882          11/12/2024                               091308          UNIVERSITY OF WISCONSIN-PLATTEVILLE                    60.00
+200883          11/12/2024                               017217          VARSITY SPIRIT FASHIONS                               768.50
+200884          11/12/2024                               105167          STEVEN WAGNER                                         115.56
+200885          11/12/2024                               005206          THEODORE (TED) WERNIMONT                              114.16
+200886          11/12/2024                               010880          WINDSTAR LINES INC                                  9,192.75
+200887          11/12/2024                               017382          ZIO JOHNO'S INC                                       834.84
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         37,646.35
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       37,646.35
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9027975         11/12/2024                               010509          CENTURYLINK COMMUNICATIONS, LLC                        80.86
+                Check Type Total:      Check                         Void Total:       0.00  Total without Voids:               80.86
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:           80.86
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:       78,272.86
+

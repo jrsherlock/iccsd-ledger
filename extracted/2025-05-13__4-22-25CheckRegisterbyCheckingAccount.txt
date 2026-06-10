@@ -1,0 +1,97 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+04/22/2025 1:35 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+410461          04/22/2025                               008203          ALLIANT ENERGY                                      8,599.32
+410462          04/22/2025                               012290          CENTURYLINK COMMUNICATIONS, LLC                     2,830.69
+410463          04/22/2025                               000465          CITY OF IOWA CITY                                     242.17
+410464          04/22/2025                               005199          MIDAMERICAN ENERGY                                 77,851.19
+410465          04/22/2025                               005199          MIDAMERICAN ENERGY                                  9,226.97
+410466          04/22/2025                               010880          WINDSTAR LINES INC                                  9,620.20
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:         108,370.54
+                Checking Account Total: 1                            Void Total:         0.00    Total without Voids:      108,370.54
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+202207          04/22/2025                               012794          LATIF AL YASSIRI                                      126.74
+202208          04/22/2025                               020187          ALPHAGRAPHICS OF NORTH LIBERTY                      1,392.04
+202209          04/22/2025                               012363          ALTORFER INC.                                       1,242.00
+202210          04/22/2025                               013083          HAZIM AL-YASIRI                                       141.09
+202211          04/22/2025                               008193          ALI AL-YASSERY                                        257.22
+202212          04/22/2025                               015432          FALAH AL-YASSERY                                      308.01
+202213          04/22/2025                               019938          GREGORY BEST                                          124.80
+202214          04/22/2025                               106242          MEGAN BILDNER                                         177.03
+202215          04/22/2025                               012970          ERROL BONTRAGER                                       152.45
+202216          04/22/2025                               015057          BSN SPORTS LLC                                        254.00
+202217          04/22/2025                               011665          CENTRAL DEWITT HIGH SCHOOL                            150.00
+202218          04/22/2025                               009300          JEREMY COHEN                                          262.78
+202219          04/22/2025                               004715          TERRY COLEMAN                                         153.76
+202220          04/22/2025                               016774          TRAVIS CRAIG                                        1,500.00
+202221          04/22/2025                               012492          REBECCA (BECKY) DAGLE                               2,343.18
+202222          04/22/2025                               011726          JOHN DODGE                                            155.92
+202223          04/22/2025                               014635          LINDSEY DOWNES                                        364.37
+202224          04/22/2025                               009303          DRAKE UNIVERSITY ATHLETICS                            225.00
+202225          04/22/2025                               009303          DRAKE UNIVERSITY ATHLETICS                            225.00
+202226          04/22/2025                               009303          DRAKE UNIVERSITY ATHLETICS                            465.00
+202227          04/22/2025                               019723          KEVIN DUGGAN                                          650.00
+202228          04/22/2025                               019491          ELITE AWARDS LLC                                      125.92
+202229          04/22/2025                               107607          JAMES FEENEY                                           61.78
+202230          04/22/2025                               105279          ERIC FISCHER                                          122.28
+202231          04/22/2025                               013631          MELANIE GIBBENS                                       141.17
+202232          04/22/2025                               015605          JOSEPH GRAF                                         1,160.00
+202233          04/22/2025                               107610          JOHN HARKER                                           242.98
+202234          04/22/2025                               105835          THAD HARKER                                            80.23
+202235          04/22/2025                               013552          JOSH HILDEBRAND                                         0.00
+202236          04/22/2025                               013552          JOSH HILDEBRAND                                       480.00
+202237          04/22/2025                               107625          JACOB HOLLAND                                         228.13
+202238          04/22/2025                               105270          CALEB IEHL                                            235.13
+202239          04/22/2025                               105309          DEAN JANDIK                                           125.39
+202240          04/22/2025                               105278          JIMMY JOHN'S                                          446.14
+202241          04/22/2025                               107117          BRANDON JOLY                                          162.92
+202242          04/22/2025                               107268          BRADYN KOHL                                           133.46
+202243          04/22/2025                               000543          LITTLE HAWKS CLUB                                     366.77
+202244          04/22/2025                               106899          ANNA MARINE                                           200.00
+202245          04/22/2025                               106308          MARION HIGH SCHOOL                                    225.00
+202246          04/22/2025                               105834          ROBERT MARKUT                                         129.87
+202247          04/22/2025                               010739          JOHN MATHIAS                                          171.78
+202248          04/22/2025                               004731          MIKE MOORE                                          2,160.00
+202249          04/22/2025                               105521          MUSCATINE BAND BOOSTERS                               200.00
+202250          04/22/2025                               106495          TREVOR NASH                                           121.51
+202251          04/22/2025                               015351          WILLIAM NEAL Jr                                       241.84
+202252          04/22/2025                               107102          KEVIN NIESE                                           150.00
+202253          04/22/2025                               107112          NORTH LIBERTY ACE HARDWARE                            474.76
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+04/22/2025 1:35 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+202254          04/22/2025                               005171          MIKE PARKER                                           500.00
+202255          04/22/2025                               002801          PLEASANT VALLEY GOLF COURSE                         2,359.70
+202256          04/22/2025                               107627          IGNACIO QUERENCIA                                     124.20
+202257          04/22/2025                               013765          CIRILO SALINAS RODRIGUEZ                              142.67
+202258          04/22/2025                               107624          MICHAEL SHAW                                          196.35
+202259          04/22/2025                               013693          TIMOTHY SMITH                                         290.21
+202260          04/22/2025                               012454          GARY STEGER                                           254.46
+202261          04/22/2025                               107626          TASHINA STEGGALL                                      240.00
+202262          04/22/2025                               000136          STERN RECOGNITION                                   5,740.00
+202263          04/22/2025                               008701          STEVE WEISS MUSIC INC                               1,967.95
+202264          04/22/2025                               014682          TIPTON COMM SCHOOLS DIST                              125.00
+202265          04/22/2025                               107622          TOWNEPLACE SUITES BY MARRIOTT                       2,681.23
+                                                                         MINNEAPOLIS
+202266          04/22/2025                               008206          ALAN TRIBBLE                                          242.79
+202267          04/22/2025                               000220          BRIAN MILLER                                        1,169.00
+202268          04/22/2025                               004198          U OF IOWA ATHLETIC DEPARTMENT                         800.00
+202269          04/22/2025                               102979          UNIVERSAL CHEERLEADERS ASSOCIATION                    950.00
+202270          04/22/2025                               105681          SHELBY ZUKIN                                        2,650.00
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         39,291.01
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       39,291.01
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9028514         04/22/2025                               105197          ADVANCED BUSINESS SYSTEMS INC                       2,945.00
+9028515         04/22/2025                               010509          CENTURYLINK COMMUNICATIONS, LLC                       141.00
+9028516         04/22/2025                               008339          KIRKWOOD KARES, INC                                 1,760.00
+9028517         04/22/2025                               105111          U.S. CELLULAR                                       2,264.04
+9028518         04/22/2025                               015021          VERIZON WIRELESS SERVICES LLC                      36,626.63
+                Check Type Total:      Check                         Void Total:        0.00  Total without Voids:          43,736.67
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:       43,736.67
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:      191,398.22
+

@@ -1,0 +1,501 @@
+                                                                                                                  Page 1 of 8
+
+
+
+
+                                                   Statement
+Account Name:                    CITY COMM SCH D, IOWA     Card Number:                                  xxxx-xxxx-xxxx-9199
+Company Name:                  IOWA CITY COMM SCH DIST     Account Limit:                                        $ 200,000.00
+Employee ID:                            7999994414003147
+Statement Date (MM/DD/YYYY):                  04/05/2026   Currency:                                            U.S. DOLLAR
+
+Statement Summary:
+Report any items which do not agree with your records      Payments:                                                    $ 0.00
+within 30 days of the statement date.                      Adjustments:                                                 $ 0.00
+                                                           Net Purchases:                                         $ 13,884.08
+                                                           Cash Advance:                                                $ 0.00
+                                                           Fees:                                                        $ 0.00
+                                                           Other Charges:                                               $ 0.00
+                                                           New Account Balance:                                   $ 13,884.08
+
+For your records only. No payment required.
+
+Transaction Summary:
+
+ Trans Date     Posting Date    Description                                       Pre-Tax Amount    Total Tax   Trans Amount
+                  Trans ID                                                                 Auth #
+
+    03/05           03/06        AMAZON MKTPL BE48Q9NS0 SEATTLE WA                      $ 327.88      $ 0.00        $ 327.88
+                  639843380                                                              044408
+
+    03/05           03/06        AMAZON MKTPL BP73T9XJ2 SEATTLE WA                       $ 39.77      $ 0.00          $ 39.77
+                  639843330                                                              067200
+
+    03/05           03/06        AMAZON MKTPL BP4YJ7VK2 SEATTLE WA                       $ 26.99      $ 0.00          $ 26.99
+                  639843381                                                              030717
+
+    03/06           03/06        AMAZON MKTPL BP4SJ4512 SEATTLE WA                       $ 16.69      $ 0.00          $ 16.69
+                  639843383                                                              053927
+
+    03/06           03/06        AMAZON.COM BP3IJ15I2 SEATTLE WA                         $ 33.99      $ 0.00          $ 33.99
+                  639843382                                                              029748
+
+    03/06           03/09        AMAZON.COM SEATTLE WA                                    $ -7.99     $ 0.00          $ -7.99
+                  640194286                                                              000000
+
+    03/06           03/09        AMAZON.COM SEATTLE WA                                  $ -15.98      $ 0.00         $ -15.98
+                  640194285                                                              000000
+
+    03/07           03/09        AMAZON MKTPL BP1MT1KJ2 SEATTLE WA                       $ 12.97      $ 0.00          $ 12.97
+                  640194363                                                              023816
+
+    03/07           03/09        AMAZON.COM BE5220U71 SEATTLE WA                         $ 94.97      $ 0.00          $ 94.97
+                  640194362                                                              077258
+
+    03/08           03/09        AMAZON MKTPL BE8PV8QT0 SEATTLE WA                        $ 9.90      $ 0.00           $ 9.90
+                  640194366                                                              081670
+
+    03/08           03/09        AMAZON MKTPL BP8WP0932 SEATTLE WA                       $ 12.98      $ 0.00          $ 12.98
+                  640194364                                                              008209
+
+    03/08           03/09        AMAZON MKTPL BP1M04OF1 SEATTLE WA                        $ 9.98      $ 0.00           $ 9.98
+                  640194365                                                              085084
+
+    03/09           03/09        AMAZON MKTPL BE1NF1DP0 SEATTLE WA                      $ 133.84      $ 0.00        $ 133.84
+                  640194443                                                              087907
+                                                                            Page 2 of 8
+03/09     03/09     AMAZON.COM BP9VA4YA2 SEATTLE WA     $ 174.08   $ 0.00     $ 174.08
+        640194442                                        008248
+
+03/09     03/10     AMAZON MKTPLACE PMTS SEATTLE WA     $ -91.19   $ 0.00      $ -91.19
+        640540503                                        000000
+
+03/09     03/10     AMAZON.COM BE9IS9KL0 SEATTLE WA     $ 293.51   $ 0.00     $ 293.51
+        640540504                                        080306
+
+03/09     03/10     AMAZON MKTPL BD6XT4CB2 SEATTLE WA   $ 148.35   $ 0.00     $ 148.35
+        640540502                                        059842
+
+03/09     03/10     AMAZON MKTPL BD5DC74J2 SEATTLE WA   $ 394.74   $ 0.00     $ 394.74
+        640540580                                        073933
+
+03/10     03/10     AMAZON MKTPL BD4CP9N72 SEATTLE WA    $ 23.02   $ 0.00      $ 23.02
+        640540583                                        093077
+
+03/10     03/10     AMAZON MKTPL BP30Y50Q1 SEATTLE WA   $ 118.76   $ 0.00     $ 118.76
+        640540582                                        083474
+
+03/10     03/10     AMAZON.COM BD8K63ZF2 SEATTLE WA      $ 26.99   $ 0.00      $ 26.99
+        640540581                                        089556
+
+03/10     03/11     AMAZON.COM BP7JV2PQ1 SEATTLE WA      $ 23.97   $ 0.00      $ 23.97
+        640660399                                        028363
+
+03/12     03/12     AMAZON MKTPL BD2CH85D2 SEATTLE WA    $ 30.39   $ 0.00      $ 30.39
+        640866533                                        005631
+
+03/12     03/12     AMAZON MKTPL BP1202Z90 SEATTLE WA    $ 14.99   $ 0.00      $ 14.99
+        640866532                                        013262
+
+03/12     03/12     AMAZON MKTPL BP4IY5ZN0 SEATTLE WA   $ 128.96   $ 0.00     $ 128.96
+        640866456                                        088288
+
+03/12     03/13     AMAZON MKTPL BD1NB5BK2 SEATTLE WA    $ 26.59   $ 0.00      $ 26.59
+        641008517                                        040675
+
+03/12     03/13     AMAZON MKTPL BP1UP1330 SEATTLE WA   $ 151.99   $ 0.00     $ 151.99
+        641008516                                        016490
+
+03/13     03/13     AMAZON MKTPL BP1387KM1 SEATTLE WA    $ 94.50   $ 0.00      $ 94.50
+        641008518                                        021358
+
+03/16     03/17     AMAZON MKTPL BD7DB9JT1 SEATTLE WA     $ 8.39   $ 0.00        $ 8.39
+        641689934                                        005365
+
+03/17     03/17     AMAZON MKTPL BD7ZR7AV1 SEATTLE WA   $ 107.00   $ 0.00     $ 107.00
+        641689935                                        080450
+
+03/17     03/18     AMAZON MKTPL B58P12V62 SEATTLE WA    $ 27.99   $ 0.00      $ 27.99
+        641910904                                        047876
+
+03/18     03/18     AMAZON MKTPL BD58T8GI1 SEATTLE WA     $ 7.79   $ 0.00        $ 7.79
+        641910905                                        024975
+
+03/24     03/25     AMAZON MKTPL BG9ZX08J2 SEATTLE WA    $ 14.96   $ 0.00      $ 14.96
+        643094765                                        007203
+
+03/25     03/25     AMAZON MKTPL B55L55FD0 SEATTLE WA     $ 7.99   $ 0.00        $ 7.99
+        643094766                                        035399
+
+03/25     03/26     AMAZON MKTPL B563C6N20 SEATTLE WA   $ 713.42   $ 0.00     $ 713.42
+        643290918                                        044273
+
+03/26     03/26     AMAZON MKTPL B59QO53C0 SEATTLE WA    $ 11.98   $ 0.00       $ 11.98
+        643290921                                        019272
+
+03/26     03/26     AMAZON MKTPL BG6FJ8UY2 SEATTLE WA    $ 20.93   $ 0.00      $ 20.93
+        643291074                                        070907
+
+03/26     03/26     AMAZON MKTPL B56VJ4H21 SEATTLE WA    $ 32.56   $ 0.00      $ 32.56
+        643290920                                        013454
+                                                                            Page 3 of 8
+03/26     03/26     AMAZON MKTPL B52378BF1 SEATTLE WA    $ 62.64   $ 0.00      $ 62.64
+        643290998                                        067189
+
+03/26     03/26     AMAZON MKTPL B58RQ0JU0 SEATTLE WA   $ 296.65   $ 0.00     $ 296.65
+        643291001                                        020154
+
+03/26     03/26     AMAZON MKTPL BG4UJ37L2 SEATTLE WA   $ 101.86   $ 0.00     $ 101.86
+        643290919                                        032951
+
+03/26     03/26     AMAZON MKTPL B57724TI0 SEATTLE WA    $ 25.47   $ 0.00      $ 25.47
+        643291075                                        086622
+
+03/26     03/26     AMAZON MKTPL BG5XC07A2 SEATTLE WA    $ 47.69   $ 0.00      $ 47.69
+        643290997                                        050883
+
+03/26     03/26     AMAZON MKTPL B512L0J30 SEATTLE WA    $ 45.75   $ 0.00      $ 45.75
+        643291000                                        081506
+
+03/26     03/26     AMAZON.COM BG7WR79S2 SEATTLE WA      $ 21.94   $ 0.00      $ 21.94
+        643290999                                        095009
+
+03/26     03/27     AMAZON MKTPL B55HY8AD0 SEATTLE WA   $ 229.57   $ 0.00     $ 229.57
+        643440194                                        080402
+
+03/26     03/27     AMAZON MKTPL B54UO8AT0 SEATTLE WA   $ 219.98   $ 0.00     $ 219.98
+        643440191                                        015756
+
+03/26     03/27     AMAZON MKTPL B54T900I0 SEATTLE WA   $ 239.70   $ 0.00     $ 239.70
+        643440349                                        087962
+
+03/26     03/27     AMAZON.COM B574X5DQ1 SEATTLE WA     $ 119.82   $ 0.00     $ 119.82
+        643440432                                        089864
+
+03/26     03/27     AMAZON MKTPL BG9GG3IV2 SEATTLE WA   $ 112.30   $ 0.00     $ 112.30
+        643440193                                        002108
+
+03/26     03/27     AMAZON MKTPL B56PO1DI1 SEATTLE WA    $ 34.67   $ 0.00      $ 34.67
+        643440433                                        065929
+
+03/26     03/27     AMAZON MKTPL B538E60X0 SEATTLE WA    $ 17.48   $ 0.00      $ 17.48
+        643440430                                        079410
+
+03/26     03/27     AMAZON.COM BG0RV2W22 SEATTLE WA      $ 15.78   $ 0.00      $ 15.78
+        643440353                                        085803
+
+03/26     03/27     AMAZON MKTPL B59K97E70 SEATTLE WA    $ 84.99   $ 0.00      $ 84.99
+        643440274                                        001032
+
+03/26     03/27     AMAZON.COM BG68L7WR2 SEATTLE WA      $ 15.67   $ 0.00      $ 15.67
+        643440351                                        059183
+
+03/26     03/27     AMAZON MKTPL B50Q32A70 SEATTLE WA    $ 75.95   $ 0.00      $ 75.95
+        643440270                                        017429
+
+03/26     03/27     AMAZON MKTPL B58JE5TZ0 SEATTLE WA     $ 8.80   $ 0.00        $ 8.80
+        643440190                                        094527
+
+03/26     03/27     AMAZON MKTPL B59YB2AL0 SEATTLE WA    $ 23.99   $ 0.00      $ 23.99
+        643440192                                        062808
+
+03/26     03/27     AMAZON MKTPL BG6J90U42 SEATTLE WA    $ 54.95   $ 0.00      $ 54.95
+        643440114                                        030320
+
+03/26     03/27     AMAZON MKTPL B54RO60C0 SEATTLE WA    $ 24.88   $ 0.00      $ 24.88
+        643440429                                        005770
+
+03/26     03/27     AMAZON MKTPLACE PMTS SEATTLE WA     $ -16.95   $ 0.00      $ -16.95
+        643440271                                        000000
+
+03/26     03/27     AMAZON MKTPL B514X5DQ1 SEATTLE WA     $ 8.67   $ 0.00        $ 8.67
+        643440352                                        045737
+
+03/26     03/27     AMAZON MKTPL BG0HE9WV2 SEATTLE WA     $ 2.49   $ 0.00        $ 2.49
+        643440350                                        079716
+                                                                            Page 4 of 8
+03/26     03/27     AMAZON.COM BG2NX2RI2 SEATTLE WA      $ 11.19   $ 0.00      $ 11.19
+        643440273                                        069324
+
+03/26     03/27     AMAZON MKTPL B58VX3EH0 SEATTLE WA   $ 165.49   $ 0.00     $ 165.49
+        643440272                                        007431
+
+03/26     03/27     AMAZON MKTPL B56H91DR1 SEATTLE WA    $ 17.46   $ 0.00      $ 17.46
+        643440431                                        013708
+
+03/27     03/27     AMAZON MKTPL B51K581V0 SEATTLE WA    $ 52.14   $ 0.00      $ 52.14
+        643440511                                        066043
+
+03/27     03/27     AMAZON MKTPL B57OE62C1 SEATTLE WA    $ 47.99   $ 0.00      $ 47.99
+        643440589                                        000136
+
+03/27     03/27     AMAZON MKTPL B52Z43PY0 SEATTLE WA    $ 14.28   $ 0.00      $ 14.28
+        643440512                                        067119
+
+03/27     03/27     AMAZON MKTPL B52IO21V0 SEATTLE WA    $ 71.98   $ 0.00      $ 71.98
+        643440509                                        093828
+
+03/27     03/27     AMAZON MKTPL B58017SB1 SEATTLE WA    $ 29.75   $ 0.00      $ 29.75
+        643440510                                        082268
+
+03/27     03/27     AMAZON.COM BC6H97CX2 SEATTLE WA      $ 18.89   $ 0.00      $ 18.89
+        643440590                                        098004
+
+03/27     03/27     AMAZON MKTPL B589N12C1 SEATTLE WA    $ 36.99   $ 0.00      $ 36.99
+        643440513                                        095998
+
+03/27     03/30     AMAZON MKTPL B53R18G40 SEATTLE WA     $ 8.99   $ 0.00        $ 8.99
+        644078651                                        045718
+
+03/27     03/30     AMAZON.COM B547D27F1 SEATTLE WA      $ 59.18   $ 0.00      $ 59.18
+        644078654                                        025157
+
+03/27     03/30     AMAZON MKTPL B56JU6KF1 SEATTLE WA   $ 139.99   $ 0.00     $ 139.99
+        644078653                                        044853
+
+03/27     03/30     AMAZON MKTPL B506G5XY0 SEATTLE WA   $ 139.99   $ 0.00     $ 139.99
+        644078652                                        008756
+
+03/28     03/30     AMAZON MKTPL B51YC3R41 SEATTLE WA    $ 72.97   $ 0.00      $ 72.97
+        644078655                                        013032
+
+03/28     03/30     AMAZON MKTPL B50JX9BU0 SEATTLE WA    $ 47.67   $ 0.00      $ 47.67
+        644078201                                        096304
+
+03/29     03/30     AMAZON MKTPL B542L9KM0 SEATTLE WA   $ 158.04   $ 0.00     $ 158.04
+        644078204                                        064180
+
+03/29     03/30     AMAZON.COM BC2TO0GG2 SEATTLE WA     $ 900.00   $ 0.00     $ 900.00
+        644078205                                        039839
+
+03/29     03/30     AMAZON MKTPL B56OR1SZ0 SEATTLE WA    $ 40.00   $ 0.00      $ 40.00
+        644078202                                        026845
+
+03/29     03/30     AMAZON MKTPL BC1015P42 SEATTLE WA   $ 344.11   $ 0.00     $ 344.11
+        644078203                                        063180
+
+03/30     03/30     AMAZON.COM BC8YE0VW2 SEATTLE WA      $ 53.46   $ 0.00      $ 53.46
+        644078277                                        000010
+
+03/30     03/30     AMAZON MKTPL BC04E8V02 SEATTLE WA   $ 212.89   $ 0.00     $ 212.89
+        644078279                                        036408
+
+03/30     03/30     AMAZON MKTPL BC6ER0VD2 SEATTLE WA    $ 16.99   $ 0.00      $ 16.99
+        644078278                                        072578
+
+03/30     03/30     AMAZON MKTPL BC7CC3VY2 SEATTLE WA    $ 16.95   $ 0.00      $ 16.95
+        644078276                                        072005
+
+03/30     03/31     AMAZON MKTPL BC85C4B32 SEATTLE WA     $ 8.99   $ 0.00        $ 8.99
+        644281383                                        054667
+                                                                              Page 5 of 8
+03/30     03/31     AMAZON MKTPL BG1UH1A61 SEATTLE WA     $ 33.49    $ 0.00      $ 33.49
+        644281384                                         042022
+
+03/30     03/31     AMAZON MKTPL BG1RB4A01 SEATTLE WA     $ 49.50    $ 0.00      $ 49.50
+        644281386                                         003276
+
+03/30     03/31     AMAZON MKTPL BC51U58K2 SEATTLE WA       $ 9.99   $ 0.00        $ 9.99
+        644281464                                         084314
+
+03/30     03/31     AMAZON.COM BC2DX58N2 SEATTLE WA      $ 249.00    $ 0.00     $ 249.00
+        644281385                                         062897
+
+03/30     03/31     AMAZON MKTPL BG23Q1TY1 SEATTLE WA     $ 19.90    $ 0.00      $ 19.90
+        644281307                                         021587
+
+03/30     03/31     AMAZON MKTPL B58CF0Y60 SEATTLE WA     $ 26.41    $ 0.00      $ 26.41
+        644281387                                         093690
+
+03/30     03/31     AMAZON.COM BG5S64AS1 SEATTLE WA         $ 5.17   $ 0.00        $ 5.17
+        644281463                                         090718
+
+03/31     03/31     AMAZON MKTPL BG1EV9OK0 SEATTLE WA     $ 60.40    $ 0.00      $ 60.40
+        644280349                                         037526
+
+03/31     03/31     AMAZON.COM BC5MP6QQ2 SEATTLE WA       $ 49.17    $ 0.00      $ 49.17
+        644281466                                         045843
+
+03/31     03/31     AMAZON MKTPL BC76O4DG2 SEATTLE WA     $ 42.96    $ 0.00      $ 42.96
+        644281546                                         021336
+
+03/31     03/31     AMAZON MKTPL BC4AG4DQ2 SEATTLE WA     $ 71.49    $ 0.00      $ 71.49
+        644280430                                         006438
+
+03/31     03/31     AMAZON.COM BG4C92OO0 SEATTLE WA       $ 18.99    $ 0.00      $ 18.99
+        644281467                                         026980
+
+03/31     03/31     AMAZON MKTPL BC6Y23D12 SEATTLE WA    $ 239.98    $ 0.00     $ 239.98
+        644280353                                         084601
+
+03/31     03/31     AMAZON MKTPL BC7903DZ2 SEATTLE WA    $ 116.43    $ 0.00     $ 116.43
+        644281544                                         032320
+
+03/31     03/31     AMAZON MKTPL BC0ZW2D62 SEATTLE WA    $ 100.00    $ 0.00     $ 100.00
+        644281545                                         002899
+
+03/31     03/31     AMAZON MKTPL BG1VZ0OW0 SEATTLE WA     $ 44.97    $ 0.00      $ 44.97
+        644280350                                         020532
+
+03/31     03/31     AMAZON MKTPL BC3ZH5DF2 SEATTLE WA     $ 69.07    $ 0.00      $ 69.07
+        644281547                                         057678
+
+03/31     03/31     AMAZON MKTPL BG7IO9EG1 SEATTLE WA     $ 28.98    $ 0.00      $ 28.98
+        644281465                                         009105
+
+03/31     03/31     AMAZON MKTPL BG21B91I1 SEATTLE WA    $ 198.50    $ 0.00     $ 198.50
+        644280431                                         020508
+
+03/31     03/31     AMAZON MKTPL BG5AV81Y1 SEATTLE WA     $ 95.94    $ 0.00      $ 95.94
+        644280429                                         084196
+
+03/31     03/31     AMAZON MKTPL BG4DF91H1 SEATTLE WA     $ 26.85    $ 0.00      $ 26.85
+        644280352                                         039917
+
+03/31     03/31     AMAZON MKTPL BG3AD0OK0 SEATTLE WA     $ 73.26    $ 0.00      $ 73.26
+        644281543                                         042384
+
+03/31     03/31     AMAZON MKTPL BG2UC71X1 SEATTLE WA    $ 136.99    $ 0.00     $ 136.99
+        644280351                                         092645
+
+03/31     04/01     AMAZON MKTPL BG0YB6ZL0 SEATTLE WA   $ 2,079.84   $ 0.00    $ 2,079.84
+        644456132                                         073375
+
+03/31     04/01     AMAZON MKTPL BC13802U2 SEATTLE WA    $ 120.30    $ 0.00     $ 120.30
+        644456130                                         063407
+                                                                                                   Page 6 of 8
+03/31     04/01     AMAZON.COM BC23832I2 SEATTLE WA                         $ 547.00      $ 0.00     $ 547.00
+        644456131                                                            018309
+
+03/31     04/01     AMAZON MKTPL BG09O4PB1 SEATTLE WA                       $ 329.99      $ 0.00      $ 329.99
+        644456133                                                            029571
+
+03/31     04/01     AMAZON MKTPL BC85R1242 SEATTLE WA                        $ 21.87      $ 0.00       $ 21.87
+        644456058                                                            042373
+
+03/31     04/01     AMAZON MKTPL BG78Y2PM1 SEATTLE WA                       $ 104.99      $ 0.00      $ 104.99
+        644456129                                                            074607
+
+04/01     04/01     AMAZON MKTPL BG73Q23R0 SEATTLE WA                       $ 422.20      $ 0.00      $ 422.20
+        644456204                                                            043214
+
+04/01     04/02     AMAZON MKTPL BG62J8T70 SEATTLE WA                        $ 34.18      $ 0.00       $ 34.18
+        644523844                                                            096006
+
+04/01     04/02     AMAZON MKTPL BG6LS7EP0 SEATTLE WA                         $ 8.95      $ 0.00        $ 8.95
+        644523845                                                            094410
+
+04/01     04/02     AMAZON MKTPL BG7E33EA0 SEATTLE WA                        $ 69.82      $ 0.00       $ 69.82
+        644523847                                                            026940
+
+04/01     04/02     AMAZON MKTPL BC95E7RW2 SEATTLE WA                        $ 54.90      $ 0.00       $ 54.90
+        644523774                                                            003482
+
+04/01     04/02     AMAZON MKTPL BG7DW2TU0 SEATTLE WA                        $ 18.89      $ 0.00       $ 18.89
+        644523773                                                            065460
+
+04/01     04/02     AMAZON MKTPL BG6J31BD1 SEATTLE WA                       $ 121.98      $ 0.00      $ 121.98
+        644523846                                                            018018
+
+04/02     04/02     AMAZON MKTPL BG3YD4PN0 SEATTLE WA                        $ 35.14      $ 0.00       $ 35.14
+        644523921                                                            056255
+
+04/02     04/02     AMAZON.COM BG8RG16A1 SEATTLE WA                          $ 41.00      $ 0.00       $ 41.00
+        644523920                                                            019742
+
+04/02     04/02     AMAZON MKTPL BG0033Q01 SEATTLE WA                        $ 99.14      $ 0.00       $ 99.14
+        644523919                                                            001931
+
+04/02     04/02     AMAZON MKTPL B791R6C42 SEATTLE WA                        $ 30.41      $ 0.00       $ 30.41
+        644523848                                                            052030
+
+04/02     04/03     AMAZON MKTPL B71XM8FT2 SEATTLE WA                        $ 49.36      $ 0.00       $ 49.36
+        644874657                                                            017494
+
+04/02     04/03     AMAZON MKTPL BG2T04VS0 SEATTLE WA                        $ 92.94      $ 0.00       $ 92.94
+        644874658                                                            003933
+
+04/03     04/03     AMAZON MKTPL BG9H06MC0 SEATTLE WA                        $ 16.99      $ 0.00       $ 16.99
+        644874660                                                            011666
+
+04/03     04/03     AMAZON MKTPL BG9HF9V40 SEATTLE WA                        $ 51.98      $ 0.00       $ 51.98
+        644874659                                                            092002
+
+04/03     04/03     AMAZON MKTPLACE PMTS SEATTLE WA                           $ -5.00     $ 0.00       $ -5.00
+        644874735                                                            000000
+
+
+                                                      TOTAL CREDITS xxxx-xxxx-xxxx-9199              $ -137.11
+                                                       TOTAL DEBITS xxxx-xxxx-xxxx-9199            $ 14,021.19
+                                                                                                                                       Page 7 of 8
+
+
+
+
+CUSTOMER SERVICE:
+
+
+Service Representatives are available to assist you 24 hours a day, seven days a week. Please have account number information ready.
+
+BMO
+Telephone Inquiries: 1-855-825-9234
+Lost/Stolen cards: 1-844-227-0528
+Outside USA and Canada call collect: 262-780-8662
+TTY (For the Deaf and Hard of Hearing): 1-866-859-2089
+Internet: bmo.com/treasuryandpayment
+
+
+
+Diners Club
+Telephone Inquiries: 1-800-2-DINERS (1-800-234-6377)
+Lost/Stolen cards: 1-800-234-6377
+Outside USA and Canada call collect: 1-514-877-1577
+TTY (For the Deaf and Hard of Hearing): 1-866-859-2089
+Internet: dinersclubnorthamerica.com
+                                                                                                                                                Page 8 of 8
+
+
+
+
+    PAYMENT INFORMATION:
+
+                                                                            BMO                                        Diners Club
+     You can mail your payment to:                                          BMO                                        Diners Club
+                                                                            P.O. Box 5732                              P.O. Box 5732
+                                                                            Carol Stream, IL 60197-5732                Carol Stream, IL 60197-5732
+
+     You may send your payment via overnight mail to:                       FIS                                        FIS
+                                                                            BMO Attn: Lockbox# 5732                    BMO Attn: Lockbox# 5732
+                                                                            270 Remington Blvd, Suite B                270 Remington Blvd, Suite B
+                                                                            Bolingbrook, IL 60440                      Bolingbrook, IL 60440
+
+     IMPORTANT PAYMENT INFORMATION:                                         For BMO accounts, please make your         For Diners Club accounts, please make
+                                                                            cheque or money order payable to:          your cheque or money order payable to:
+                                                                            BMO                                        Diners Club
+
+
+
+
+    If you are paying by mail:
+    Remember
+        Enclose your cheque or money order, payable in US dollars, with this payment coupon, but do not staple or tape them together.
+        Write your account number on the front of your cheque or money order.
+        Please do not send cash.
+
+
+
+    A fee will be assessed against returned cheques.
+
+
+
+
+    ® Registered trade-mark of Bank of Montreal.
+
+
+-------------------------------------------------------------------------------------------------
+
+
+
+
+                                                   For your records only. No payment required.
+

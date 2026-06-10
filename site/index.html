@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The ICCSD Ledger — Iowa City Schools Spending Explorer</title>
+<meta name="description" content="Explore two years of Iowa City Community School District accounts-payable and purchasing-card spending, parsed from public board documents.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600;9..144,700;9..144,900&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<div id="loader" class="loader">
+  <div class="loader-card">
+    <div class="loader-stamp">PUBLIC RECORD</div>
+    <h1 class="loader-title">The ICCSD Ledger</h1>
+    <p class="loader-sub">Opening the books&hellip;</p>
+    <div class="loader-bar"><div id="loader-fill" class="loader-fill"></div></div>
+    <p class="loader-note" id="loader-note">Fetching 84,874 line items from 41 board meetings</p>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-rule-top"></div>
+    <div class="masthead-row">
+      <div class="masthead-meta mono">VOL. I &middot; FY 2024&ndash;FY 2026</div>
+      <h1 class="masthead-title">The <em>ICCSD</em> Ledger</h1>
+      <div class="masthead-meta mono right">IOWA CITY, IOWA</div>
+    </div>
+    <p class="masthead-sub">An independent, line-by-line account of how the Iowa City Community School District spends public money &mdash; rebuilt from <span class="hl">280 board documents</span> into one searchable ledger.</p>
+    <nav class="tabs" id="tabs">
+      <a href="#overview" data-tab="overview" class="tab active">Overview</a>
+      <a href="#explore" data-tab="explore" class="tab">Explore<span class="tab-hint mono">86k rows</span></a>
+      <a href="#vendors" data-tab="vendors" class="tab">Vendors</a>
+      <a href="#schools" data-tab="schools" class="tab">Schools</a>
+      <a href="#categories" data-tab="categories" class="tab">Categories</a>
+      <a href="#about" data-tab="about" class="tab">About the Data</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ OVERVIEW ============ -->
+  <section id="view-overview" class="view active">
+    <div class="hero">
+      <div class="hero-main">
+        <div class="hero-kicker mono">TOTAL TRACKED SPENDING &middot; <span id="hero-range"></span></div>
+        <div class="hero-amount mono" id="hero-total">$0</div>
+        <div class="hero-foot">
+          across <strong id="hero-count">0</strong> payment line items &middot;
+          <strong id="hero-vendors">0</strong> vendors &middot;
+          <strong id="hero-batches">102</strong> check runs
+          <span class="stamp stamp-green" title="Every parsed check batch sums exactly to the totals printed on the district's own reports">RECONCILED ✓</span>
+        </div>
+      </div>
+      <div class="hero-cards" id="hero-cards"></div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head">
+        <h2>Monthly spending, stacked by fund</h2>
+        <p class="panel-sub">Each bar is one calendar month. Click any segment to see its transactions. Iowa school fiscal years run July&ndash;June.</p>
+      </div>
+      <div id="chart-monthly" class="chart-monthly"></div>
+      <div id="legend-monthly" class="legend"></div>
+    </div>
+
+    <div class="grid-2">
+      <div class="panel">
+        <div class="panel-head">
+          <h2>Where the money goes</h2>
+          <p class="panel-sub">Top payees, both check runs and purchasing cards combined. Click to drill in.</p>
+        </div>
+        <div id="top-vendors" class="barlist"></div>
+        <a class="more-link" href="#vendors">Full vendor index &rarr;</a>
+      </div>
+      <div class="panel">
+        <div class="panel-head">
+          <h2>Largest single payments</h2>
+          <p class="panel-sub">The biggest individual line items in the ledger.</p>
+        </div>
+        <table class="mini-table" id="biggest-table"></table>
+      </div>
+    </div>
+
+    <div class="grid-2">
+      <div class="panel">
+        <div class="panel-head">
+          <h2>Checks vs. purchasing cards</h2>
+          <p class="panel-sub">Most spending moves by board-approved check run; day-to-day purchases ride on district credit cards.</p>
+        </div>
+        <div id="source-split"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">
+          <h2>Fiscal year comparison</h2>
+          <p class="panel-sub">July&ndash;June fiscal years. FY24 card data only; FY26 through early June.</p>
+        </div>
+        <div id="fy-compare" class="barlist"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ EXPLORE ============ -->
+  <section id="view-explore" class="view">
+    <div class="explore-head">
+      <h2>Transaction Explorer</h2>
+      <p class="panel-sub">Search every line item the district paid &mdash; by vendor, description, school, fund, or amount.</p>
+    </div>
+    <div class="search-row">
+      <input type="search" id="q" class="search-box" placeholder="Search vendors &amp; descriptions — try &ldquo;pizza&rdquo;, &ldquo;chromebook&rdquo;, &ldquo;legal&rdquo;, &ldquo;turf&rdquo;&hellip;" autocomplete="off">
+      <button id="export-csv" class="btn">Export CSV</button>
+    </div>
+    <div class="filter-row" id="filter-row">
+      <select id="f-fund" class="filt"><option value="">All funds</option></select>
+      <select id="f-src" class="filt">
+        <option value="">Checks + cards</option>
+        <option value="a">Check runs only</option>
+        <option value="c">Purchasing cards only</option>
+      </select>
+      <select id="f-fy" class="filt"><option value="">All fiscal years</option></select>
+      <select id="f-loc" class="filt"><option value="">All schools/locations</option></select>
+      <select id="f-obj" class="filt"><option value="">All purchase types</option></select>
+      <select id="f-amt" class="filt">
+        <option value="">Any amount</option>
+        <option value="100000">Over $100,000</option>
+        <option value="10000">Over $10,000</option>
+        <option value="1000">Over $1,000</option>
+        <option value="neg">Credits / refunds only</option>
+      </select>
+      <button id="f-clear" class="btn btn-ghost">Clear</button>
+    </div>
+    <div class="result-strip mono" id="result-strip"></div>
+    <div class="table-wrap">
+      <table class="ledger-table" id="results-table">
+        <thead>
+          <tr>
+            <th data-sort="date" class="sortable">Date</th>
+            <th data-sort="vendor" class="sortable">Vendor</th>
+            <th>Description</th>
+            <th>Fund</th>
+            <th>Location</th>
+            <th data-sort="amount" class="sortable num">Amount</th>
+          </tr>
+        </thead>
+        <tbody id="results-body"></tbody>
+      </table>
+      <button id="load-more" class="btn btn-wide">Show more rows</button>
+    </div>
+  </section>
+
+  <!-- ============ VENDORS ============ -->
+  <section id="view-vendors" class="view">
+    <div class="explore-head">
+      <h2>Vendor Index</h2>
+      <p class="panel-sub">Every payee, ranked by total received. Card merchants are grouped (all Amazon storefronts count as one).</p>
+    </div>
+    <div class="search-row">
+      <input type="search" id="vq" class="search-box" placeholder="Find a vendor&hellip;" autocomplete="off">
+    </div>
+    <div id="vendor-detail"></div>
+    <div class="table-wrap">
+      <table class="ledger-table" id="vendor-table">
+        <thead><tr><th class="num mono">#</th><th>Vendor</th><th class="num">Payments</th><th class="num">First seen</th><th class="num">Last seen</th><th class="num">Total</th></tr></thead>
+        <tbody id="vendor-body"></tbody>
+      </table>
+      <button id="vendor-more" class="btn btn-wide">Show more vendors</button>
+    </div>
+  </section>
+
+  <!-- ============ SCHOOLS ============ -->
+  <section id="view-schools" class="view">
+    <div class="explore-head">
+      <h2>Spending by School &amp; Building</h2>
+      <p class="panel-sub">Iowa account codes tag most purchases with a building. Names below were derived from the district's own utility-bill line items; codes without a confident name are grouped as district-wide or program codes.</p>
+    </div>
+    <div id="school-list" class="school-grid"></div>
+  </section>
+
+  <!-- ============ CATEGORIES ============ -->
+  <section id="view-categories" class="view">
+    <div class="explore-head">
+      <h2>What the money buys</h2>
+      <p class="panel-sub">Two lenses from Iowa's uniform school accounting: the <strong>function</strong> (what activity the spending supports) and the <strong>object</strong> (what was actually purchased).</p>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><h2>By function</h2><p class="panel-sub">Click any block to see its transactions.</p></div>
+      <div id="treemap-func" class="treemap"></div>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><h2>By object &mdash; what was bought</h2></div>
+      <div id="obj-bars" class="barlist"></div>
+    </div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section id="view-about" class="view">
+    <div class="about-cols">
+      <div class="about-main">
+        <h2>About this ledger</h2>
+        <p>Twice a month, the ICCSD school board approves a consent-agenda packet listing every accounts-payable check the district has cut. This site rebuilds <strong>two years of those packets</strong> &mdash; 280 PDF documents from 41 board meetings (June&nbsp;2024 &ndash; June&nbsp;2026) &mdash; into a single searchable dataset.</p>
+
+        <h3>The source documents</h3>
+        <table class="doc-table">
+          <tr><th>Board Report 10003</th><td>The master invoice-level report behind each check run: vendor, invoice, PO number, line-item description, and full account code. Present at all 41 meetings; this is the backbone of the ledger (44,280 line items across 102 check runs).</td></tr>
+          <tr><th>Check registers</th><td>One row per physical check, with check numbers and void flags. Published only for the first year; redundant with the board reports, so not loaded.</td></tr>
+          <tr><th>BMO Mastercard statements</th><td>Monthly purchasing-card transaction lists (July&nbsp;2023 &ndash; June&nbsp;2026). 41,521 card swipes by district staff.</td></tr>
+          <tr><th>Coded P-Card reports</th><td>For spring 2026, the district began publishing card transactions <em>with account codes and purchase descriptions</em>. Where these match a raw card row, the ledger shows the richer version; April&nbsp;2026 exists only in this source.</td></tr>
+          <tr><th>AP summary sheets</th><td>One-page fund totals presented to the board. Used here only to cross-check the parse (see below).</td></tr>
+        </table>
+
+        <h3>Reading an Iowa school account code</h3>
+        <p>Every dollar carries a code like <span class="mono acct-demo">10&nbsp;0109&nbsp;1100&nbsp;100&nbsp;0000&nbsp;612</span>. It unpacks left to right:</p>
+        <div id="coa-decoder" class="coa-decoder"></div>
+
+        <h3>How trustworthy is this?</h3>
+        <p>Every one of the <strong>102 check batches</strong> parsed from the board reports sums <em>exactly</em> &mdash; to the penny &mdash; to the total printed on the district's own report. The table below also compares each batch against the one-page summary sheets the board sees. Where they disagree, the detailed reports are usually right: the summary sheets are assembled by hand and contain occasional copy-paste slips (the Jan&nbsp;28,&nbsp;2025 sheet, for instance, omits a $1.45M General-Fund line for the Jan&nbsp;21 run and lists a stray October date instead).</p>
+        <div id="validation-table"></div>
+
+        <h3>What's <em>not</em> in here</h3>
+        <ul>
+          <li><strong>Payroll.</strong> Salaries and benefits (the majority of any district's budget) are paid through a separate payroll system and never appear in AP packets.</li>
+          <li><strong>Four small check runs</strong> listed on summary sheets whose detailed reports were never uploaded (Oct&nbsp;22 &amp; 24, 2024; Feb&nbsp;16 &amp; Mar&nbsp;24, 2026 &mdash; about $6.8M, mostly the missing Oct&nbsp;22 run).</li>
+          <li><strong>The January 2026 card statement</strong> (postings Jan&nbsp;6&ndash;Feb&nbsp;5) was never published with an agenda, so card spending that month shows artificially low. April&nbsp;2026 card data comes from the coded P-Card report instead of a raw statement.</li>
+          <li><strong>Card-bill payments</strong> (the district paying its own Mastercard balance, ~$183K/month) are excluded so card purchases aren't double-counted or canceled out; 65 unmatched coded rows were dropped as reconciliation noise.</li>
+        </ul>
+
+        <h3>Methodology &amp; caveats</h3>
+        <ul>
+          <li>Built by parsing the text layer of the district's public PDFs. Dates shown for check runs are the batch dates; card rows use transaction dates.</li>
+          <li>Negative amounts in <span class="neg mono">(parentheses)</span> are credits and refunds.</li>
+          <li>School names for location codes were mined from utility line items (&ldquo;ELEC&nbsp;&ndash;&nbsp;SE&rdquo; on a bill coded to 0218 names the building). Codes that never appear on a utility bill stay unnamed.</li>
+          <li>Function/object groupings follow Iowa's Uniform Financial Accounting standard at the family level.</li>
+          <li>This is an unofficial, independent rebuild for public understanding &mdash; not an audited financial statement.</li>
+        </ul>
+      </div>
+      <div class="about-side">
+        <div class="stamp-box">
+          <div class="stamp stamp-big">UNOFFICIAL<br>EXTRACT</div>
+          <p class="mono small">Compiled 2026-06-10 from documents published with ICCSD board agendas.</p>
+        </div>
+        <div class="side-stats mono" id="about-stats"></div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="foot-rule"></div>
+  <p class="mono">THE ICCSD LEDGER &middot; an independent public-records project &middot; not affiliated with the Iowa City Community School District</p>
+</footer>
+
+<div id="tooltip" class="tooltip"></div>
+
+<script src="js/lookups.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

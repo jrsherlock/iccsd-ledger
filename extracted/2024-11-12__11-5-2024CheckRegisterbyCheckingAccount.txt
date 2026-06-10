@@ -1,0 +1,350 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                       Page: 1
+11/05/2024 2:09 PM                                                                                         User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID   Entity Name                                   Amount
+408785         11/05/2024                              021021      ACME ELECTRIC MOTOR INC                      2,756.13
+408786         11/05/2024                              021021      ACME ELECTRIC MOTOR INC                     13,322.23
+408787         11/05/2024                              021021      ACME ELECTRIC MOTOR INC                      5,081.02
+408788         11/05/2024                              016820      AD MARKET PRODUCTIONS INC                      450.00
+408789         11/05/2024                              105815      LAUREN ADAMS                                   726.15
+408790         11/05/2024                              103939      ADVANCED BUSINESS SYSTEMS INC                1,078.00
+408791         11/05/2024                              103939      ADVANCED BUSINESS SYSTEMS INC                  784.00
+408792         11/05/2024                              000230      ADVANCED ELECTRICAL SERVICES                 1,150.00
+408793         11/05/2024                              000133      AERO RENTAL                                     77.00
+408794         11/05/2024                              011874      AHLERS & COONEY, P.C.                        3,352.50
+408795         11/05/2024                              020187      ALPHAGRAPHICS OF NORTH LIBERTY                 313.49
+408796         11/05/2024                              107311      ALRO STEEL CORPORATION                       2,242.10
+408797         11/05/2024                              016014      AMERICAN PRINTING HOUSE FOR THE BLIND          113.48
+408798         11/05/2024                              006372      APPLE INC.                                   1,794.00
+408799         11/05/2024                              010773      ARGO TRANSLATION INC                         4,658.56
+408800         11/05/2024                              010773      ARGO TRANSLATION INC                         1,045.00
+408801         11/05/2024                              107407      HANNAH ARMSTRONG                               154.10
+408802         11/05/2024                              106431      ARNOLD MOTOR SUPPLY LLP                         61.18
+408803         11/05/2024                              010974      AVID CENTER                                 12,600.00
+408804         11/05/2024                              003676      B&H PHOTO - VIDEO INC.                          32.12
+408805         11/05/2024                              012834      BARNARD INSTRUMENT REPAIR INC                2,191.14
+408806         11/05/2024                              002414      BIG 10 RENTALS INC                           1,474.70
+408807         11/05/2024                              014354      BILLION AUTO                                    36.30
+408808         11/05/2024                              015488      BLACKHAWK AUTOMATIC SPRINKLERS, INC            974.00
+408809         11/05/2024                              000307      BLICK ART MATERIALS                          1,549.57
+408810         11/05/2024                              106905      JENNY BRENNER                                  288.30
+408811         11/05/2024                              017836      CENTURY LAUNDRY DISTRIBUTING INC               233.75
+408812         11/05/2024                              008159      CHAMBERS ELECTRIC INC                          900.00
+408813         11/05/2024                              011752      CINTAS CORPORATION NO. 2                       288.37
+408814         11/05/2024                              002328      CITY OF HILLS                                  144.44
+408815         11/05/2024                              000465      CITY OF IOWA CITY                            6,642.64
+408816         11/05/2024                              000465      CITY OF IOWA CITY                           11,843.65
+408817         11/05/2024                              000465      CITY OF IOWA CITY                            2,946.37
+408818         11/05/2024                              002987      CITY OF IOWA CITY                            1,628.42
+408819         11/05/2024                              001752      CITY OF NORTH LIBERTY                       20,694.20
+408820         11/05/2024                              014022      ANNE COATAR                                    308.20
+408821         11/05/2024                              015077      CORRIDOR RADIOLOGY                              99.00
+408822         11/05/2024                              008212      CROWN EQUIPMENT CORPORATION                    555.50
+408823         11/05/2024                              000573      CURRICULUM ASSOCIATES LLC                      470.40
+408824         11/05/2024                              000726      DAN'S OVERHEAD DOOR                            925.52
+408825         11/05/2024                              017345      MATT DEGNER                                    139.02
+408826         11/05/2024                              000605      DEMCO INC                                      692.24
+408827         11/05/2024                              000605      DEMCO INC                                       19.26
+408828         11/05/2024                              017800      DEMOULIN BROS. AND CO.                      23,776.00
+408829         11/05/2024                              008545      LYNDSEE DETRA                                  142.04
+408830         11/05/2024                              104309      DIGITAL PROMISE GLOBAL                       3,500.00
+408831         11/05/2024                              106469      ERIC DUGDALE                                   275.95
+408832         11/05/2024                              009425      FAREWAY STORES                                  22.86
+408833         11/05/2024                              104961      FAULKS BROS CONSTRUCTION INC                   932.66
+408834         11/05/2024                              106234      FCCLA                                        3,825.00
+408835         11/05/2024                              105677      FIRST BOOK                                     311.85
+408836         11/05/2024                              008929      FIRST ROBOTICS COMPETITION                   1,492.90
+408837         11/05/2024                              000912      FOLLETT CONTENT SOLUTIONS LLC               11,380.71
+408838         11/05/2024                              000912      FOLLETT CONTENT SOLUTIONS LLC                  161.04
+408839         11/05/2024                              105544      FRANZ REPROGRAPHICS, INC                       204.99
+408840         11/05/2024                              011086      GETZ FIRE EQUIPMENT CO                       1,172.60
+408841         11/05/2024                              106664      SOMMER GILBERT                                 121.52
+408842         11/05/2024                              001004      GOPHER SPORT                                   903.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                       Page: 2
+11/05/2024 2:09 PM                                                                                         User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID   Entity Name                                   Amount
+408843         11/05/2024                              011649      HANDS UP COMMUNICATIONS                     10,464.40
+408844         11/05/2024                              011649      HANDS UP COMMUNICATIONS                      1,681.77
+408845         11/05/2024                              014140      HARDY LAWN FURNITURE LC                        453.00
+408846         11/05/2024                              106788      ADAM HARRIS                                     55.01
+408847         11/05/2024                              012418      HENRY SCHEIN INC.                            1,931.19
+408848         11/05/2024                              014417      HILLYARD/DES MOINES SANITARY                 8,522.98
+408849         11/05/2024                              014417      HILLYARD/DES MOINES SANITARY                10,200.36
+408850         11/05/2024                              014417      HILLYARD/DES MOINES SANITARY                   807.61
+408851         11/05/2024                              017257      HOSPERS & BROTHER PRINTERS                     395.98
+408852         11/05/2024                              011234      IA HOME SCHOOL ASSISTANCE PROGRAMS              30.00
+408853         11/05/2024                              015504      IA SCHOOL FINANCE INFO SERVICES              6,390.00
+408854         11/05/2024                              014187      ILLINOIS CENTRAL SCHOOL BUS LLC              6,901.33
+408855         11/05/2024                              104758      INSTITUTE FOR MULTI-SENSORY EDUCATION        2,422.50
+                                                                   LLC
+408856         11/05/2024                              006809      IOWA COMMUNICATIONS NETWORK                  1,723.10
+408857         11/05/2024                              001952      IOWA DEPT OF NATURAL RES.                      115.00
+408858         11/05/2024                              000066      IOWA HIGH SCHOOL MUSIC ASSOCIATION             180.00
+408859         11/05/2024                              012743      ISU JOHNSON CO AG EXTENSION DIST               505.00
+408860         11/05/2024                              001738      J. P. GASWAY COMPANY INC                       191.29
+408861         11/05/2024                              001834      J.W. PEPPER & SON, INC.                        543.56
+408862         11/05/2024                              001834      J.W. PEPPER & SON, INC.                         26.59
+408863         11/05/2024                              002142      JOHNSON CONTROLS FIRE PROTECTION LP          4,711.69
+408864         11/05/2024                              001285      JOHNSON CONTROLS INC                         1,294.60
+408865         11/05/2024                              106903      JOSIE JOHNSON                                  475.39
+408866         11/05/2024                              019986      JOSTENS                                      2,649.95
+408867         11/05/2024                              102189      JVA MOBILITY, INC.                          10,083.28
+408868         11/05/2024                              102189      JVA MOBILITY, INC.                           4,233.66
+408869         11/05/2024                              017690      STACIE KAUFFMAN                                 53.87
+408870         11/05/2024                              019427      KENWOOD RECORDS MANAGEMENT INC                 946.25
+408871         11/05/2024                              019427      KENWOOD RECORDS MANAGEMENT INC                 235.93
+408872         11/05/2024                              004191      KING'S MATERIAL INC.                           814.91
+408873         11/05/2024                              014117      DANIEL KNIGHT                                  413.13
+408874         11/05/2024                              012854      KEITH KRAEPLIN                               1,791.93
+408875         11/05/2024                              012206      LABORATORY CORPORATION OF AMERICA              747.65
+408876         11/05/2024                              011663      LANGUAGE LINE SERVICES                       7,437.49
+408877         11/05/2024                              015256      LEXIA LEARNING SYSTEMS LLC                  15,317.72
+408878         11/05/2024                              105549      LIBERTY HARDWOODS INC                          719.05
+408879         11/05/2024                              106530      LYNCH DALLAS P.C.                            5,275.12
+408880         11/05/2024                              011202      MACKIN EDUCATIONAL RESOURCES                    44.98
+408881         11/05/2024                              011331      MADISON NATIONAL LIFE                       57,692.67
+408882         11/05/2024                              002338      MAXWELL CONSTRUCTION INC                       182.85
+408883         11/05/2024                              001991      MENARD INC                                     282.29
+408884         11/05/2024                              005199      MIDAMERICAN ENERGY                          42,963.04
+408885         11/05/2024                              007537      MIDWEST ALARM SERVICES                         425.00
+408886         11/05/2024                              107292      MULTI-HEALTH SYSTEMS INC                    12,000.00
+408887         11/05/2024                              007419      NEIGHBORHOOD CENTERS OF JOHNSO              15,423.63
+408888         11/05/2024                              016781      AMY NOLTE                                      309.28
+408889         11/05/2024                              011426      NOTEWORTHY MUSIC SVCS, INC                     150.00
+408890         11/05/2024                              010839      OHARCO                                       1,154.06
+408891         11/05/2024                              105471      PANORAMA EDUCATION INC                      18,750.00
+408892         11/05/2024                              001927      PASCO SCIENTIFIC                             1,226.56
+408893         11/05/2024                              016943      KRISTIN PEDERSEN                               164.82
+408894         11/05/2024                              105866      PHELAN TUCKER LAW LLP TRUST ACCOUNT            205.00
+408895         11/05/2024                              017520      PITNEY BOWES                                   248.98
+408896         11/05/2024                              106416      PLAYAWAY PRODUCTS LLC                          305.95
+408897         11/05/2024                              005842      PLUMB SUPPLY CO                              2,421.33
+408898         11/05/2024                              017481      PLUMBMASTER INC                              3,738.76
+408899         11/05/2024                              013876      POLAR ELECTRO INC                            1,500.00
+408900         11/05/2024                              107139      PRAIRIE NURSERY INC                          2,574.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                     Page: 3
+11/05/2024 2:09 PM                                                                                                       User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+408901          11/05/2024                               015718          PROJECT LEAD THE WAY                                   130.00
+408902          11/05/2024                               012118          LUCAS PTACEK                                           296.14
+408903          11/05/2024                               011898          QBS LLC                                              4,100.00
+408904          11/05/2024                               012391          RAPIDS REPRODUCTIONS INC                                14.50
+408905          11/05/2024                               015870          RAYNER & RINN-SCOTT, INC.                            1,081.20
+408906          11/05/2024                               000793          JAMES RECK                                           1,370.00
+408907          11/05/2024                               106786          REPUBLIC SERVICES INC #897                           4,543.08
+408908          11/05/2024                               107081          SAMANTHA REYNOLDS                                      606.17
+408909          11/05/2024                               016134          RIFTON EQUIPMENT                                       333.75
+408910          11/05/2024                               015569          RITTENMEYER TRUCKING CO                                960.00
+408911          11/05/2024                               002002          RIVER PRODUCTS CO INC                                  513.56
+408912          11/05/2024                               010698          SCHEELS ALL SPORTS                                     342.00
+408913          11/05/2024                               005433          SCHOLASTIC                                             430.00
+408914          11/05/2024                               005412          SCHOLASTIC MAGAZINES                                   994.08
+408915          11/05/2024                               002073          SCHOOL HEALTH CORP.                                  2,965.34
+408916          11/05/2024                               016339          SCHULTZ STRINGS INC                                  3,472.35
+408917          11/05/2024                               010312          SCHUMACHER ELEVATOR CO.                                361.50
+408918          11/05/2024                               002626          SHIVE-HATTERY & ASSOC                                6,683.66
+408919          11/05/2024                               014233          SHOE SHOW INC                                          580.35
+408920          11/05/2024                               106879          SKAY AUTOMOTIVE SERVICE INC                          1,177.21
+408921          11/05/2024                               106922          SPENLER TIRE                                         5,490.59
+408922          11/05/2024                               003201          TIMOTHY STRANG                                       1,710.00
+408923          11/05/2024                               008759          SUMMIT FIRE PROTECTION                               1,104.00
+408924          11/05/2024                               015267          TELETRAC NAVMAN US LTD                                  19.95
+408925          11/05/2024                               013619          TIFCO INDUSTRIES INC                                 1,383.11
+408926          11/05/2024                               106873          THE TORO COMPANY                                       999.00
+408927          11/05/2024                               107363          TOWNCREST PHARMACY                                     311.47
+408928          11/05/2024                               005388          TRANE                                                2,946.71
+408929          11/05/2024                               014400          TRI-CITY ELECTRIC                                      260.00
+408930          11/05/2024                               107374          TRITECH CORPORATION OF AMERICA                      10,096.69
+408931          11/05/2024                               006028          U.S. GAMES                                             121.42
+408932          11/05/2024                               010660          UNITED WAYS OF IOWA                                 20,100.00
+408933          11/05/2024                               015286          UNIVERSITY OF IOWA HEALTH CARE                       2,558.06
+408934          11/05/2024                               016528          USIC LOCATING SERVICE LLC                              903.60
+408935          11/05/2024                               008394          DUANE VAN HEMERT                                     3,343.32
+408936          11/05/2024                               004205          VAN METER INDUSTRIAL                                 2,164.64
+408937          11/05/2024                               107162          VARSITY YEARBOOK                                    12,645.00
+408938          11/05/2024                               106122          VENTRIS LEARNING LLC                                    90.00
+408939          11/05/2024                               015688          VSP                                                 21,309.71
+408940          11/05/2024                               008936          WATER SHOP, INC.                                       373.50
+408941          11/05/2024                               002492          WEST MUSIC CO INC                                      562.73
+408942          11/05/2024                               002492          WEST MUSIC CO INC                                      703.17
+408943          11/05/2024                               002492          WEST MUSIC CO INC                                    1,430.72
+408944          11/05/2024                               002492          WEST MUSIC CO INC                                      250.50
+408945          11/05/2024                               010880          WINDSTAR LINES INC                                   1,982.75
+408946          11/05/2024                               107411          WRIGHT HOUSE OF FASHION                              3,500.00
+408947          11/05/2024                               013569          YELLOW CAB OF IOWA CITY                                120.25
+408948          11/05/2024                               107409          IBRAHIM YOGUE ESUKE                                     25.00
+408949          11/05/2024                               006823          RUSSELL ZOOK Jr                                         89.60
+408950          11/05/2024                               106904          LISA ZORTMAN                                           445.70
+                Check Type Total:      Check                         Void Total:         0.00   Total without Voids:        555,560.74
+                Checking Account Total: 1                            Void Total:          0.00    Total without Voids:      555,560.74
+Checking Account ID: 2                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                           Amount
+333319          11/05/2024                               006637          AMERICAN BOTTLING CO., INC.                            139.70
+333320          11/05/2024                               015049          ANDERSON ERICKSON DAIRY                             48,562.84
+333321          11/05/2024                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                    628.73
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 4
+11/05/2024 2:09 PM                                                                                                      User ID: 16976
+Checking Account ID: 2              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+333322          11/05/2024                               107403          ALESHA CARTER                                          66.75
+333323          11/05/2024                               107404          JESSICA CHURCH                                          7.30
+333324          11/05/2024                               013420          BOB DUEKER                                             10.95
+333325          11/05/2024                               014193          FIELD TO FAMILY                                     4,806.00
+333326          11/05/2024                               007879          GOODWIN TUCKER                                      3,660.98
+333327          11/05/2024                               003630          ITW FOOD EQUIPMENT GROUP LLC                        1,828.43
+333328          11/05/2024                               105011          GERALD LANGE                                           84.80
+333329          11/05/2024                               011729          KRISTI LOBB                                            63.59
+333330          11/05/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                   42,201.93
+333331          11/05/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                   33,874.79
+333332          11/05/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                   36,707.91
+333333          11/05/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                   43,095.52
+333334          11/05/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                   18,749.68
+333335          11/05/2024                               105970          PIZZA BRAKE INC                                    58,949.75
+333336          11/05/2024                               014440          RAPIDS WHOLESALE EQUIPMENT CO.                      3,344.70
+333337          11/05/2024                               017421          RING'S APPLIANCE INC                                  120.00
+333338          11/05/2024                               105293          MARGARITA RODRIGUEZ                                   150.00
+333339          11/05/2024                               004014          SINK PAPER & PACKAGING                              7,046.65
+333340          11/05/2024                               017662          WILSON RESTAURANT SUPPLY INC                       33,317.00
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:        337,418.00
+                Checking Account Total: 2                            Void Total:          0.00   Total without Voids:      337,418.00
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200796          11/05/2024                               019368          ANAMOSA MUSIC BOOSTERS                                150.00
+200797          11/05/2024                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                 1,056.10
+200798          11/05/2024                               009801          BAND SHOPPE                                           798.70
+200799          11/05/2024                               107354          BLUE SKY MANAGEMENT LLC                             1,052.70
+200800          11/05/2024                               000701          RYLEE BODE                                            247.80
+200801          11/05/2024                               014396          BURLINGTON TRAILWAYS                                2,387.00
+200802          11/05/2024                               000425          CEDAR RAPIDS COMM SCH DIST                            480.00
+200803          11/05/2024                               020436          CEDAR VALLEY WORLD TRAVEL                           4,494.00
+200804          11/05/2024                               008904          CIT CHARTERS INC                                    3,897.17
+200805          11/05/2024                               008774          COPYWORKS                                             217.00
+200806          11/05/2024                               002264          DANIEL CRAIG                                          290.49
+200807          11/05/2024                               000031          ELITE SPORTS                                          652.00
+200808          11/05/2024                               001004          GOPHER SPORT                                          478.57
+200809          11/05/2024                               016008          TROY GREENE                                           260.97
+200810          11/05/2024                               106789          ALLYSON HERMAN                                        106.04
+200811          11/05/2024                               008064          SETH ICKOWITZ                                         120.00
+200812          11/05/2024                               014187          ILLINOIS CENTRAL SCHOOL BUS LLC                    25,821.60
+200813          11/05/2024                               014187          ILLINOIS CENTRAL SCHOOL BUS LLC                    16,377.43
+200814          11/05/2024                               105683          IOWA CITY AREA SPORTS COMMISSION                    1,000.00
+200815          11/05/2024                               000066          IOWA HIGH SCHOOL MUSIC ASSOCIATION                  4,203.50
+200816          11/05/2024                               107317          JETHROS BBQ IOWA CITY INC                             222.10
+200817          11/05/2024                               019986          JOSTENS                                                14.75
+200818          11/05/2024                               002449          PATRICK KNOBBE                                        200.92
+200819          11/05/2024                               008813          JOSEPH LORIA                                           85.49
+200820          11/05/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                      602.19
+200821          11/05/2024                               105650          ADAM MCLAUGHLIN                                       110.70
+200822          11/05/2024                               107416          MARCUS MILLARD                                        100.23
+200823          11/05/2024                               010315          JOHN MURPHY III                                       113.29
+200824          11/05/2024                               106427          OSL PRODUCTIONS                                     3,450.00
+200825          11/05/2024                               105600          PEPPERCORN FOOD COMPANY INC                           628.52
+200826          11/05/2024                               020306          PERFORMANCE HEALTH & FITNESS                          636.41
+200827          11/05/2024                               004941          RIDDELL ALL AMERICAN                                  685.45
+200828          11/05/2024                               107355          SHOOT A WAY INC                                     7,000.00
+200829          11/05/2024                               014305          SIMPSON COLLEGE JAZZ FESTIVAL                         360.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 5
+11/05/2024 2:09 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200830          11/05/2024                               014766          BOB SQUIERS                                           240.00
+200831          11/05/2024                               007320          TRACY STONE                                           122.31
+200832          11/05/2024                               017217          VARSITY SPIRIT FASHIONS                             6,925.00
+200833          11/05/2024                               002492          WEST MUSIC CO INC                                     649.99
+200834          11/05/2024                               010880          WINDSTAR LINES INC                                  1,570.75
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         87,809.17
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       87,809.17
+Checking Account ID: 4                      Check Type: Automatic Payment
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+                11/05/2024                            008952             DELTA DENTAL                                       83,263.78
+                Check Type Total:      Automatic Payment             Void Total:          0.00   Total without Voids:       83,263.78
+Checking Account ID: 4                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+1659            11/05/2024                               010516          GALLAGHER BENEFIT SERVICES INC                      2,500.00
+                Check Type Total:      Check                         Void Total:       0.00   Total without Voids:           2,500.00
+                Checking Account Total: 4                            Void Total:          0.00   Total without Voids:       85,763.78
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9027904         11/05/2024                               107370          1EDTECH CONSORTIUM, INC                             2,000.00
+9027905         11/05/2024                               104924          A & H ELECTRIC INC                                  6,660.43
+9027906         11/05/2024                               105197          ADVANCED BUSINESS SYSTEMS INC                       3,105.00
+9027907         11/05/2024                               000517          ANIXTER INC.                                       10,367.56
+9027908         11/05/2024                               014918          AONE GEOTHERMAL                                    11,527.50
+9027909         11/05/2024                               020625          BLUUM OF MINNESOTA INC                              3,915.55
+9027910         11/05/2024                               107819          STEVE CARSON                                          365.18
+9027911         11/05/2024                               008508          CDW GOVERNMENT LLC                                  5,090.53
+9027912         11/05/2024                               010509          CENTURYLINK COMMUNICATIONS, LLC                       301.71
+9027913         11/05/2024                               105104          CHROMEBOOKPARTS.COM                                31,367.78
+9027914         11/05/2024                               013531          CITY CONSTRUCTION GROUP                           904,845.40
+9027915         11/05/2024                               000461          CITY OF CORALVILLE                                 10,572.11
+9027916         11/05/2024                               014988          COMINFRA GROUP INC                                 58,195.88
+9027917         11/05/2024                               013961          CONFERENCE TECHNOLOGIES INC                        43,790.00
+9027918         11/05/2024                               002595          D.I.A.L / ELEVATOR SAFETY BUREAU                      175.00
+9027919         11/05/2024                               013280          DAKTRONICS, INC.                                      631.00
+9027920         11/05/2024                               000145          DOORS INC                                           1,672.00
+9027921         11/05/2024                               014036          DOYLE SECURITY PRODUCTS                             5,552.00
+9027922         11/05/2024                               106241          EFAX CORPORATE                                        110.65
+9027923         11/05/2024                               105962          FEH ASSOCIATES INC                                 16,819.46
+9027924         11/05/2024                               004117          GRAYBAR ELECTRIC CO INC                            19,137.67
+9027925         11/05/2024                               007919          GROUT ELECTRIC                                      3,144.65
+9027926         11/05/2024                               014989          HEARTLAND BUSINESS SYSTEMS                         56,362.70
+9027927         11/05/2024                               017250          HUDL                                               13,900.00
+9027928         11/05/2024                               014845          INSTRUCTURE                                        91,867.00
+9027929         11/05/2024                               002339          JIM'S INSTRUMENT MFG INC.                           1,100.00
+9027930         11/05/2024                               004191          KING'S MATERIAL INC.                                3,077.66
+9027931         11/05/2024                               106304          KNUTSON CONSTRUCTION SERVICES                      58,608.72
+                                                                         MIDWEST INC
+9027932         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                        2,397.71
+9027933         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                        2,134.52
+9027934         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                          751.16
+9027935         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                        1,172.84
+9027936         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                        8,879.42
+9027937         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                          928.46
+9027938         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                        1,227.11
+9027939         11/05/2024                               007193          LAKESHORE LEARNING MATERIALS                        2,575.82
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                  Page: 6
+11/05/2024 2:09 PM                                                                                                    User ID: 16976
+Checking Account ID: 5              Check Type: Check
+Check Number   Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                          Amount
+9027940        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                          963.50
+9027941        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        1,939.09
+9027942        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        1,332.68
+9027943        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                          791.06
+9027944        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        6,295.36
+9027945        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        2,401.40
+9027946        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        2,512.64
+9027947        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                          826.21
+9027948        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        1,107.07
+9027949        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        6,436.22
+9027950        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        2,512.64
+9027951        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                          826.21
+9027952        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        1,191.62
+9027953        11/05/2024                              007193          LAKESHORE LEARNING MATERIALS                        3,557.73
+9027954        11/05/2024                              007846          LARSON CONSTRUCTION CO INC                        374,490.51
+9027955        11/05/2024                              016783          LIFE TIME FENCE COMPANY                            24,665.00
+9027956        11/05/2024                              002338          MAXWELL CONSTRUCTION INC                            3,555.77
+9027957        11/05/2024                              104886          PEAK CONSTRUCTION GROUP INC                     1,353,416.47
+9027958        11/05/2024                              107265          PEERLESS WELL & PUMP INC                           21,390.00
+9027959        11/05/2024                              106680          POLY VINYL ROOFING INC                             30,278.75
+9027960        11/05/2024                              012459          PORTZEN CONSTRUCTION, INC                          21,119.36
+9027961        11/05/2024                              001885          PSC DISTRIBUTION INC                                5,995.31
+9027962        11/05/2024                              015638          ROBERT HALF TECHNOLOGY                             27,984.05
+9027963        11/05/2024                              020917          RUSHTON SHEET METAL LLC                             6,300.00
+9027964        11/05/2024                              010698          SCHEELS ALL SPORTS                                 44,751.96
+9027965        11/05/2024                              002626          SHIVE-HATTERY & ASSOC                              14,817.82
+9027966        11/05/2024                              103079          STERLING COMPUTERS CORPORATION                     43,680.00
+9027967        11/05/2024                              106435          STEW HANSEN CDJR                                   51,318.00
+9027968        11/05/2024                              008395          SYSTEMWORKS LLC                                   130,920.00
+9027969        11/05/2024                              008395          SYSTEMWORKS LLC                                    58,135.00
+9027970        11/05/2024                              014400          TRI-CITY ELECTRIC                                  50,646.38
+9027971        11/05/2024                              014400          TRI-CITY ELECTRIC                                   5,045.00
+9027972        11/05/2024                              013307          ULINE                                               3,017.23
+9027973        11/05/2024                              013792          UNITE PRIVATE NETWORKS LLC                          3,756.00
+9027974        11/05/2024                              106988          WORKFORCE JUNCTION LLC                             14,828.50
+               Check Type Total:      Check                        Void Total:         0.00  Total without Voids:      3,707,134.72
+               Checking Account Total: 5                           Void Total:          0.00   Total without Voids:    3,707,134.72
+
+                                      Grand Total:                 Void Total:          0.00   Total without Voids:    4,773,686.41
+

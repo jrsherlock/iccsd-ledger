@@ -1,0 +1,104 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+02/25/2025 1:18 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+409991          02/25/2025                               008203          ALLIANT ENERGY                                     13,803.68
+409992          02/25/2025                               012290          CENTURYLINK COMMUNICATIONS, LLC                     2,827.33
+409993          02/25/2025                               000465          CITY OF IOWA CITY                                     378.09
+409994          02/25/2025                               020309          FARMTEK                                               195.47
+409995          02/25/2025                               005199          MIDAMERICAN ENERGY                                 13,452.50
+409996          02/25/2025                               005199          MIDAMERICAN ENERGY                                     70.11
+409997          02/25/2025                               107073          VALLEY ORCHESTRA GUILD                                350.00
+409998          02/25/2025                               010880          WINDSTAR LINES INC                                 14,548.80
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:          45,625.98
+                Checking Account Total: 1                            Void Total:         0.00    Total without Voids:       45,625.98
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201846          02/25/2025                               016820          AD MARKET PRODUCTIONS INC                             450.00
+201847          02/25/2025                               008668          JACK ADOLPHSON                                        167.90
+201848          02/25/2025                               107570          BRANDON BALL                                          179.03
+201849          02/25/2025                               107570          BRANDON BALL                                          176.49
+201850          02/25/2025                               017143          MARK BEGEY                                            120.00
+201851          02/25/2025                               015210          JORDAN BLEIL                                          131.57
+201852          02/25/2025                               015210          JORDAN BLEIL                                          130.76
+201853          02/25/2025                               106192          BLUE SKY PRODUCTIONS                                5,315.00
+201854          02/25/2025                               106376          EUGENE (EJ) BRINK Jr                                  120.00
+201855          02/25/2025                               015057          BSN SPORTS LLC                                      1,117.81
+201856          02/25/2025                               014396          BURLINGTON TRAILWAYS                                5,784.00
+201857          02/25/2025                               009714          STEPHEN BUTLER                                         99.81
+201858          02/25/2025                               000425          CEDAR RAPIDS COMM SCH DIST                            725.00
+201859          02/25/2025                               005921          CEDAR RAPIDS WASHINGTON                                60.00
+201860          02/25/2025                               020192          JOSHUA CHRISTENSEN                                     74.32
+201861          02/25/2025                               017671          COE COLLEGE MUSIC DEPT                                400.00
+201862          02/25/2025                               019748          COMFORT INN & SUITES - DSM                          5,900.85
+201863          02/25/2025                               107573          ANDREA COOPER                                         500.00
+201864          02/25/2025                               104295          CALVIN CORRIN                                         139.99
+201865          02/25/2025                               014810          MARSHALL COTTON                                       120.00
+201866          02/25/2025                               106747          MARAH COVER                                           500.00
+201867          02/25/2025                               002264          DANIEL CRAIG                                           72.00
+201868          02/25/2025                               106253          TRISHUL DAHYA                                         106.64
+201869          02/25/2025                               000127          DIAMOND DREAMS                                        750.00
+201870          02/25/2025                               010950          BRADLEY DOERRING                                       90.79
+201871          02/25/2025                               107572          ALICE DORESCA                                         125.00
+201872          02/25/2025                               014635          LINDSEY DOWNES                                        358.60
+201873          02/25/2025                               005647          ECISOA                                                310.00
+201874          02/25/2025                               000031          ELITE SPORTS                                          181.00
+201875          02/25/2025                               014444          FORT DODGE HIGH SCHOOL                                200.00
+201876          02/25/2025                               009201          FORTRESS SOFTWARE INC                                 157.00
+201877          02/25/2025                               008601          JOSEPH GATTO                                          120.00
+201878          02/25/2025                               106990          GRAZE IOWA CITY LLC                                   400.00
+201879          02/25/2025                               016008          TROY GREENE                                           161.29
+201880          02/25/2025                               010550          GREG GROVE                                            500.00
+201881          02/25/2025                               105731          NIKOLAS HAHN                                          120.00
+201882          02/25/2025                               106740          ERIC HAYES Jr                                         500.00
+201883          02/25/2025                               003771          JAY HONOHAN                                           105.02
+201884          02/25/2025                               004587          IOWA CITY ATHLETIC OFFICIALS ASSN.                  2,400.00
+201885          02/25/2025                               000251          IOWA HIGH SCHOOL ATHLETIC ASSOC                        40.00
+201886          02/25/2025                               107482          MICHAEL JOENSEN                                       120.00
+201887          02/25/2025                               016987          ADAM KAUFMAN                                          120.00
+201888          02/25/2025                               000071          GERALD KREITZER                                       500.00
+201889          02/25/2025                               014135          RICHARD KUNC                                          133.46
+201890          02/25/2025                               107037          LANE LEBAHN                                           132.54
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+02/25/2025 1:18 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201891          02/25/2025                               008813          JOSEPH LORIA                                           70.49
+201892          02/25/2025                               011056          MARTIN BROS. DISTRIBUTING CO INC                      384.17
+201893          02/25/2025                               105650          ADAM MCLAUGHLIN                                        76.59
+201894          02/25/2025                               012338          MICHAEL MELLECKER                                      48.00
+201895          02/25/2025                               010883          MARK MURPHY                                           140.68
+201896          02/25/2025                               020136          NASSP                                                 385.00
+201897          02/25/2025                               000194          PETER NOTHNAGLE                                        75.00
+201898          02/25/2025                               021048          ERIC OLSON                                            133.56
+201899          02/25/2025                               021048          ERIC OLSON                                            133.51
+201900          02/25/2025                               014719          SHANE REMINGTON                                       120.00
+201901          02/25/2025                               008673          ADAM ROY                                               78.05
+201902          02/25/2025                               017684          RICK SARTORIUS                                        148.19
+201903          02/25/2025                               000749          ROBERT (BOB) SAUNDERS                                  73.08
+201904          02/25/2025                               011584          SCHOLASTIC BOOK FAIRS, INC.                           793.10
+201905          02/25/2025                               104922          SCHROEDER BASEBALL                                    209.00
+201906          02/25/2025                               016037          BRENT SHARFF                                          165.79
+201907          02/25/2025                               107568          SKILLSUSA INC                                         145.00
+201908          02/25/2025                               015930          SPORTS IMPORTS                                      2,549.30
+201909          02/25/2025                               012735          MATTHEW STEITZER                                      119.28
+201910          02/25/2025                               007320          TRACY STONE                                           364.39
+201911          02/25/2025                               013976          ANDREW STOVER                                          70.81
+201912          02/25/2025                               008676          RODNEY TELSROW                                        120.00
+201913          02/25/2025                               106302          VAUGHN THADA                                          107.24
+201914          02/25/2025                               106676          LEIGHTON TJADEN                                       121.44
+201915          02/25/2025                               000220          BRIAN MILLER                                          300.00
+201916          02/25/2025                               107493          SCOTT VAN BECK                                        185.23
+201917          02/25/2025                               002492          WEST MUSIC CO INC                                     379.99
+201918          02/25/2025                               010880          WINDSTAR LINES INC                                 10,550.00
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         47,962.76
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       47,962.76
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9028322         02/25/2025                               105197          ADVANCED BUSINESS SYSTEMS INC                         368.00
+9028323         02/25/2025                               106841          IMON COMMUNICATIONS LLC                               400.00
+                Check Type Total:      Check                         Void Total:       0.00  Total without Voids:              768.00
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:          768.00
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:       94,356.74
+

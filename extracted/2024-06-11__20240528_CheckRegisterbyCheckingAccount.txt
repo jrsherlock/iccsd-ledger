@@ -1,0 +1,72 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+05/28/2024 2:08 PM                  Unposted; Batch Description Print Checks 5/28/2024                                  User ID: 13254
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+407290          05/28/2024                               105906          AWARDS PROGRAM SERVICES INC                           192.00
+407291          05/28/2024                               005199          MIDAMERICAN ENERGY                                     61.76
+                Check Type Total:      Check                         Void Total:       0.00 Total without Voids:               253.76
+                Checking Account Total: 1                            Void Total:          0.00   Total without Voids:          253.76
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+199465          05/28/2024                               020187          ALPHAGRAPHICS OF NORTH LIBERTY                        852.50
+199466          05/28/2024                               015432          FALAH AL-YASSERY                                      139.96
+199467          05/28/2024                               020705          ROB BOWMAN                                              2.54
+199468          05/28/2024                               014289          DON BRISTOW                                            96.00
+199469          05/28/2024                               003741          CAMP COURAGEOUS OF IOWA                             2,837.25
+199470          05/28/2024                               105924          DANIEL (JACK) CARRELL                                 146.73
+199471          05/28/2024                               008904          CIT CHARTERS INC                                    1,172.72
+199472          05/28/2024                               003334          CLINTON COMM SCHOOL DIST                              275.00
+199473          05/28/2024                               011868          COLLEGE ENTRANCE EXAMINATION BOARD                176,142.00
+199474          05/28/2024                               008774          COPYWORKS                                             232.50
+199475          05/28/2024                               012513          DECKER SPORTING GOODS INC                             875.00
+199476          05/28/2024                               000031          ELITE SPORTS                                          192.50
+199477          05/28/2024                               001507          JOSE FAJARDO                                          448.00
+199478          05/28/2024                               001507          JOSE FAJARDO                                          240.00
+199479          05/28/2024                               001507          JOSE FAJARDO                                          240.00
+199480          05/28/2024                               020538          FRANK FIORDELLISI                                     720.00
+199481          05/28/2024                               020538          FRANK FIORDELLISI                                     720.00
+199482          05/28/2024                               009745          NATE FRESE                                            256.53
+199483          05/28/2024                               011024          DOUGLAS HORRAS                                        500.00
+199484          05/28/2024                               105978          WOLFGANG FULLENKAMP                                   148.83
+199485          05/28/2024                               104878          TRAVIS FULLER                                          15.00
+199486          05/28/2024                               012786          AMIR HADZIC                                           125.11
+199487          05/28/2024                               105270          CALEB IEHL                                            173.88
+199488          05/28/2024                               004827          IOWA GIRLS HIGH SCHOOL ATH UNION                       10.00
+199489          05/28/2024                               013591          STEPHEN JANSSEN                                       132.88
+199490          05/28/2024                               105278          JIMMY JOHN'S                                          325.72
+199491          05/28/2024                               019986          JOSTENS                                               571.77
+199492          05/28/2024                               106732          KY KAUFMANN                                           165.90
+199493          05/28/2024                               017346          BENJAMIN LUSTIG                                       125.76
+199494          05/28/2024                               011056          MARTIN BROS. DISTRIBUTING CO INC                      470.78
+199495          05/28/2024                               013682          SENAD MRZLJAK                                         178.04
+199496          05/28/2024                               010832          DAN-DJIBRIL MWAMBA                                    135.39
+199497          05/28/2024                               005171          MIKE PARKER                                         2,100.00
+199498          05/28/2024                               103906          POWER LIFT ACQUISITION INC                            395.00
+199499          05/28/2024                               013765          CIRILO SALINAS RODRIGUEZ                              152.29
+199500          05/28/2024                               011060          STEVE SCHROEDER                                       151.09
+199501          05/28/2024                               106196          COREY SEYMOUR                                         126.46
+199502          05/28/2024                               000072          SKEETER KELL SPORTING GOODS                         1,065.60
+199503          05/28/2024                               103787          JOHN HENDERSON                                        817.00
+199504          05/28/2024                               000136          STERN RECOGNITION                                   3,125.00
+199505          05/28/2024                               000530          BRAD STILES                                           280.00
+199506          05/28/2024                               000530          BRAD STILES                                           528.00
+199507          05/28/2024                               000530          BRAD STILES                                           280.00
+199508          05/28/2024                               010304          TIMOTHY SULLIVAN                                       15.00
+199509          05/28/2024                               000220          BRIAN MILLER                                        3,405.00
+199510          05/28/2024                               008903          UNIVERSAL DANCE ASSOCIATION                         6,702.00
+199511          05/28/2024                               010880          WINDSTAR LINES INC                                 12,315.80
+199512          05/28/2024                               106171          YOTTYS INC                                             72.00
+199513          05/28/2024                               106601          MELISSA ZIEGLOWSKY                                     31.80
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:        220,230.33
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:      220,230.33
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                   Page: 2
+05/28/2024 2:08 PM                  Unposted; Batch Description Print Checks 5/28/2024                                 User ID: 13254
+Checking Account ID: 5              Check Type: Check
+Check Number    Check Date   Cleared Void   Void Date   Entity ID       Entity Name                                          Amount
+9027347         05/28/2024                              105197          ADVANCED BUSINESS SYSTEMS INC                         368.00
+9027348         05/28/2024                              000461          CITY OF CORALVILLE                                 19,319.28
+                Check Type Total:      Check                        Void Total:         0.00 Total without Voids:          19,687.28
+                Checking Account Total: 5                           Void Total:          0.00   Total without Voids:       19,687.28
+
+                                       Grand Total:                 Void Total:          0.00   Total without Voids:      240,171.37
+

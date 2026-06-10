@@ -1,0 +1,66 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+08/27/2024 2:38 PM                                                                                                      User ID: 16345
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+408130          08/27/2024                               106989          CALAMUS WHEATLAND COMM SCH DIST                     1,407.56
+408131          08/27/2024                               000425          CEDAR RAPIDS COMM SCH DIST                         11,455.06
+408132          08/27/2024                               012290          CENTURYLINK COMMUNICATIONS, LLC                     1,433.48
+408133          08/27/2024                               000465          CITY OF IOWA CITY                                     327.12
+408134          08/27/2024                               001284          CLEAR CREEK AMANA COMM. SCHOOL                    302,262.31
+408135          08/27/2024                               000637          COLLEGE COMM. SCHOOL DISTRICT                      48,624.32
+408136          08/27/2024                               006356          DES MOINES INDEPENDENT COMM SCH DIST                7,461.84
+408137          08/27/2024                               005199          MIDAMERICAN ENERGY                                     73.19
+408138          08/27/2024                               006770          MID-PRAIRIE COMM SCHOOL DIST                       53,943.39
+408139          08/27/2024                               002123          WEST LIBERTY COMMUNITY SCHOOLS                     27,005.33
+408140          08/27/2024                               005494          WOODWARD-GRANGER COMM SCHOOL                        8,933.52
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:         462,927.12
+                Checking Account Total: 1                            Void Total:          0.00   Total without Voids:      462,927.12
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200118          08/27/2024                               008423          ANKENY CENTENNIAL HIGH SCHOOL                         150.00
+200119          08/27/2024                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                 1,626.40
+200120          08/27/2024                               009801          BAND SHOPPE                                         1,041.80
+200121          08/27/2024                               009376          JOSH BERKA                                             75.00
+200122          08/27/2024                               015057          BSN SPORTS LLC                                      1,089.14
+200123          08/27/2024                               004591          CEDAR RAPIDS JEFFERSON H.S.                           250.00
+200124          08/27/2024                               002733          CEDAR RAPIDS PRAIRIE                                  100.00
+200125          08/27/2024                               008774          COPYWORKS                                           2,833.31
+200126          08/27/2024                               008774          COPYWORKS                                           2,271.29
+200127          08/27/2024                               008774          COPYWORKS                                             225.81
+200128          08/27/2024                               019491          ELITE AWARDS LLC                                       76.92
+200129          08/27/2024                               009520          JEFF FRESE                                             75.00
+200130          08/27/2024                               010654          DANIEL GRAWE                                          135.00
+200131          08/27/2024                               014076          ALAN GRUWELL                                           75.00
+200132          08/27/2024                               106740          ERIC HAYES Jr                                       7,183.98
+200133          08/27/2024                               013633          HILLCREST ACADEMY                                      75.00
+200134          08/27/2024                               007562          DARRELL HOBBS                                         135.00
+200135          08/27/2024                               004827          IOWA GIRLS HIGH SCHOOL ATH UNION                      156.00
+200136          08/27/2024                               012509          IRONSIDE APPAREL & PROMOTIONS INC                   2,947.00
+200137          08/27/2024                               013647          MICHELLE KOLLER                                       119.67
+200138          08/27/2024                               107312          MADILYN LYNCH                                          89.27
+200139          08/27/2024                               017658          MATH LEAGUE PRESS                                     100.00
+200140          08/27/2024                               011950          BRET MIELL                                             75.00
+200141          08/27/2024                               004611          MISSISSIPPI VALLEY CONF                             3,200.00
+200142          08/27/2024                               010883          MARK MURPHY                                           135.00
+200143          08/27/2024                               014184          READ PHOTOGRAPHY                                      920.00
+200144          08/27/2024                               106196          COREY SEYMOUR                                          75.00
+200145          08/27/2024                               017445          JAYME SKAY                                            150.83
+200146          08/27/2024                               012998          DAVID THOMA                                           128.14
+200147          08/27/2024                               004970          KEVIN THORP                                           154.28
+200148          08/27/2024                               000220          BRIAN MILLER                                        2,075.00
+200149          08/27/2024                               002492          WEST MUSIC CO INC                                   1,145.00
+200150          08/27/2024                               107308          TAYLOR WIGGINS                                        135.00
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         29,023.84
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       29,023.84
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9027671         08/27/2024                               105197          ADVANCED BUSINESS SYSTEMS INC                       8,302.00
+9027672         08/27/2024                               106841          IMON COMMUNICATIONS LLC                               400.00
+9027673         08/27/2024                               015021          VERIZON WIRELESS SERVICES LLC                          80.02
+                Check Type Total:      Check                         Void Total:        0.00  Total without Voids:           8,782.02
+IOWA CITY COMMUNITY SCHOOL DISTRICT              Check Register by Checking Account                                        Page: 2
+08/27/2024 2:38 PM                                                                                                  User ID: 16345
+                 Checking Account Total: 5                         Void Total:        0.00   Total without Voids:        8,782.02
+
+                                        Grand Total:               Void Total:        0.00   Total without Voids:      500,732.98
+

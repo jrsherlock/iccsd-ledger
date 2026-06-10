@@ -1,0 +1,92 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+09/11/2024 9:08 AM                   Unposted; Batch Description 20240910 AP Checks                                     User ID: 12031
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+408292          09/11/2024                               002328          CITY OF HILLS                                         144.44
+408293          09/11/2024                               000465          CITY OF IOWA CITY                                   2,394.42
+408294          09/11/2024                               000465          CITY OF IOWA CITY                                   5,379.78
+408295          09/11/2024                               000465          CITY OF IOWA CITY                                   1,442.67
+408296          09/11/2024                               002987          CITY OF IOWA CITY                                   4,315.59
+408297          09/11/2024                               016102          INDEPENDENCE COMM. SCHOOL                          27,674.92
+408298          09/11/2024                               007501          LINN COUNTY REC                                    24,978.77
+408299          09/11/2024                               005199          MIDAMERICAN ENERGY                                    242.02
+408300          09/11/2024                               002119          SHARON TELEPHONE CO                                    73.22
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:          66,645.83
+                Checking Account Total: 1                            Void Total:         0.00    Total without Voids:       66,645.83
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200198          09/11/2024                               012794          LATIF AL YASSIRI                                       86.74
+200199          09/11/2024                               010968          STEVEN ALLISON                                        245.04
+200200          09/11/2024                               013083          HAZIM AL-YASIRI                                        86.52
+200201          09/11/2024                               012041          SCOTT ANDERSON                                        135.00
+200202          09/11/2024                               008410          DAVE ANNEN                                            101.69
+200203          09/11/2024                               020126          CHRIS ARMSTRONG                                       210.69
+200204          09/11/2024                               009801          BAND SHOPPE                                         4,435.65
+200205          09/11/2024                               107331          ANNIE BOOTH                                           350.00
+200206          09/11/2024                               015057          BSN SPORTS LLC                                      1,888.80
+200207          09/11/2024                               016350          THOMAS BURGER                                          75.13
+200208          09/11/2024                               004591          CEDAR RAPIDS JEFFERSON H.S.                           650.00
+200209          09/11/2024                               005921          CEDAR RAPIDS WASHINGTON                               130.00
+200210          09/11/2024                               008904          CIT CHARTERS INC                                    2,252.63
+200211          09/11/2024                               019842          CLINTON HIGH SCHOOL BAND BOOSTERS                     175.00
+200212          09/11/2024                               106939          COACHING BUDDE LLC                                  1,440.00
+200213          09/11/2024                               013280          DAKTRONICS, INC.                                    8,842.50
+200214          09/11/2024                               001566          DUBUQUE SENIOR HIGH SCHOOL                            375.00
+200215          09/11/2024                               107330          FRANCES HUNGERFORD                                    250.00
+200216          09/11/2024                               005169          FAREWAY STORES                                        100.53
+200217          09/11/2024                               010656          JOE FONTENOT                                          104.22
+200218          09/11/2024                               006210          CARL GLOE                                             115.09
+200219          09/11/2024                               001058          HARRY'S CUSTOM TROPHIES                                85.00
+200220          09/11/2024                               020124          RONALD HARTWIG                                        141.82
+200221          09/11/2024                               020374          HOLLYWOOD GRAPHICS                                  1,425.00
+200222          09/11/2024                               003771          JAY HONOHAN                                           174.70
+200223          09/11/2024                               013990          IOWA GIRLS COACHES ASSOCIATION                        115.00
+200224          09/11/2024                               001834          J.W. PEPPER & SON, INC.                               127.70
+200225          09/11/2024                               017544          BOYD JAMES                                             72.27
+200226          09/11/2024                               107327          ATIRA JELLS                                            70.81
+200227          09/11/2024                               020481          DOUG KNICKREHM                                        135.00
+200228          09/11/2024                               008458          SCOTT KREMER                                           90.36
+200229          09/11/2024                               013599          DENNIS (MICK) LANGGUTH                                135.00
+200230          09/11/2024                               017346          BENJAMIN LUSTIG                                       176.70
+200231          09/11/2024                               107312          MADILYN LYNCH                                         253.73
+200232          09/11/2024                               010739          JOHN MATHIAS                                           71.73
+200233          09/11/2024                               009658          CHRIS MEINECKE                                        181.33
+200234          09/11/2024                               012863          TED MOSER                                             137.23
+200235          09/11/2024                               013634          MOUNT VERNON COMM SCH DIST                            100.00
+200236          09/11/2024                               010315          JOHN MURPHY III                                        70.22
+200237          09/11/2024                               019782          NORTH DODGE ATHLETIC CLUB                           3,581.25
+200238          09/11/2024                               007348          KIM PATIK                                             286.91
+200239          09/11/2024                               105600          PEPPERCORN FOOD COMPANY INC                           417.08
+200240          09/11/2024                               000463          PETTY CASH - CITY HIGH                                340.00
+200241          09/11/2024                               002310          MICHAEL PIPER                                          87.81
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+09/11/2024 9:08 AM                   Unposted; Batch Description 20240910 AP Checks                                     User ID: 12031
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+200242          09/11/2024                               004941          RIDDELL ALL AMERICAN                                4,087.18
+200243          09/11/2024                               008663          PHIL RITCHIE                                           84.63
+200244          09/11/2024                               007940          NATHAN ROBINSON                                        86.67
+200245          09/11/2024                               020127          STEVEN ROHACH                                         245.09
+200246          09/11/2024                               000749          ROBERT (BOB) SAUNDERS                                  85.86
+200247          09/11/2024                               005771          DAVE SEVERSON                                          89.00
+200248          09/11/2024                               017440          SIGMA MATH CONTEST                                     75.00
+200249          09/11/2024                               008701          STEVE WEISS MUSIC INC                                 523.95
+200250          09/11/2024                               007320          TRACY STONE                                            95.58
+200251          09/11/2024                               008421          THEODORE SUEPPEL                                       71.30
+200252          09/11/2024                               106924          TANNER SWENSON                                         70.70
+200253          09/11/2024                               105612          TIFFANY THIESSEN                                      104.12
+200254          09/11/2024                               014495          RON VAN HOECK                                         135.00
+200255          09/11/2024                               106729          THE VERNON CO                                       1,744.18
+200256          09/11/2024                               015694          DEMARRO WALTON                                         82.37
+200257          09/11/2024                               010880          WINDSTAR LINES INC                                 10,928.30
+200258          09/11/2024                               009721          DOUGLAS YANECEK                                       191.76
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         49,027.57
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       49,027.57
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9027733         09/11/2024                               010509          CENTURYLINK COMMUNICATIONS, LLC                       146.61
+                Check Type Total:      Check                         Void Total:       0.00  Total without Voids:              146.61
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:          146.61
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:      115,820.01
+

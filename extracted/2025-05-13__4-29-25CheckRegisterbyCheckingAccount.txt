@@ -1,0 +1,93 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                   Page: 1
+04/29/2025 2:56 PM                                                                                                     User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                         Amount
+410467          04/29/2025                               008904          CIT CHARTERS INC                                   2,177.12
+410468          04/29/2025                               000461          CITY OF CORALVILLE                                 2,484.92
+410469          04/29/2025                               000465          CITY OF IOWA CITY                                  2,934.20
+410470          04/29/2025                               000465          CITY OF IOWA CITY                                  6,260.80
+410471          04/29/2025                               000465          CITY OF IOWA CITY                                  1,961.79
+410472          04/29/2025                               003588          CITY OF IOWA CITY                                 26,619.63
+410473          04/29/2025                               005199          MIDAMERICAN ENERGY                                    69.22
+410474          04/29/2025                               106293          MIDWAY VAN RENTAL                                    323.66
+410475          04/29/2025                               107611          RISHI KOLUSU                                         500.00
+410476          04/29/2025                               010880          WINDSTAR LINES INC                                 4,665.00
+                Check Type Total:      Check                         Void Total:         0.00   Total without Voids:       47,996.34
+                Checking Account Total: 1                            Void Total:        0.00    Total without Voids:       47,996.34
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                         Amount
+202271          04/29/2025                               011779          ANTONIO AGUILAR                                      140.25
+202272          04/29/2025                               013083          HAZIM AL-YASIRI                                      141.09
+202273          04/29/2025                               008193          ALI AL-YASSERY                                       297.94
+202274          04/29/2025                               015432          FALAH AL-YASSERY                                     312.20
+202275          04/29/2025                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                  814.80
+202276          04/29/2025                               010830          JOHN BACON                                           299.39
+202277          04/29/2025                               107628          CHLOE BAUMGARTNER                                    140.36
+202278          04/29/2025                               012970          ERROL BONTRAGER                                      282.06
+202279          04/29/2025                               105822          PAUL BOWKER                                          136.91
+202280          04/29/2025                               107477          ISMENIA CASTELAN                                      83.29
+202281          04/29/2025                               002733          CEDAR RAPIDS PRAIRIE                                 160.00
+202282          04/29/2025                               106670          CLIFE DJ COMPANY LLC                               5,000.00
+202283          04/29/2025                               105816          BRIAN COHEN                                          142.60
+202284          04/29/2025                               009300          JEREMY COHEN                                         120.81
+202285          04/29/2025                               008774          COPYWORKS                                              9.08
+202286          04/29/2025                               012513          DECKER SPORTING GOODS INC                            147.00
+202287          04/29/2025                               000031          ELITE SPORTS                                         120.00
+202288          04/29/2025                               107607          JAMES FEENEY                                         271.05
+202289          04/29/2025                               105279          ERIC FISCHER                                         142.28
+202290          04/29/2025                               012786          AMIR HADZIC                                          132.27
+202291          04/29/2025                               001058          HARRY'S CUSTOM TROPHIES                              849.00
+202292          04/29/2025                               107625          JACOB HOLLAND                                        106.51
+202293          04/29/2025                               107634          DEREK HOLLISTER                                      139.28
+202294          04/29/2025                               105270          CALEB IEHL                                           126.94
+202295          04/29/2025                               017325          IOWA HIGH SCHOOL SPEECH ASSOCIATION                  190.00
+202296          04/29/2025                               001834          J.W. PEPPER & SON, INC.                               15.00
+202297          04/29/2025                               105278          JIMMY JOHN'S                                         250.50
+202298          04/29/2025                               107117          BRANDON JOLY                                         144.32
+202299          04/29/2025                               019986          JOSTENS                                            1,809.67
+202300          04/29/2025                               107633          BOUMEDIEN KASHA                                      220.09
+202301          04/29/2025                               008640          KEVIN KOFFRON                                          0.00
+202302          04/29/2025                               107268          BRADYN KOHL                                          106.46
+202303          04/29/2025                               107118          TIYABE KONLANI                                       133.39
+202304          04/29/2025                               012578          PAUL LASSANCE                                        148.52
+202305          04/29/2025                               019147          LIGHT THIS PRODUCTIONS LLC                         2,800.00
+202306          04/29/2025                               011056          MARTIN BROS. DISTRIBUTING CO INC                     239.39
+202307          04/29/2025                               011706          KINOGONO MATAMURA                                     70.72
+202308          04/29/2025                               107631          STEPHEN MICKELSON                                     77.20
+202309          04/29/2025                               106293          MIDWAY VAN RENTAL                                    323.68
+202310          04/29/2025                               009003          MT PLEASANT HIGH SCHOOL                              250.00
+202311          04/29/2025                               010832          DAN-DJIBRIL MWAMBA                                   158.36
+202312          04/29/2025                               106495          TREVOR NASH                                          131.08
+202313          04/29/2025                               004738          NORTH SCOTT HIGH SCHOOL                              170.00
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+04/29/2025 2:56 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+202314          04/29/2025                               009426          LUIS PARRAGUEZ                                        303.82
+202315          04/29/2025                               107627          IGNACIO QUERENCIA                                     117.58
+202316          04/29/2025                               107605          EDWARD RICHARDSON                                     250.00
+202317          04/29/2025                               106200          ANDREW ROBINSON                                       450.00
+202318          04/29/2025                               015389          JOSEPH SAMPLE                                         157.01
+202319          04/29/2025                               013560          MATTHEW SHANNON                                       691.00
+202320          04/29/2025                               013693          TIMOTHY SMITH                                         137.39
+202321          04/29/2025                               014682          TIPTON COMM SCHOOLS DIST                              125.00
+202322          04/29/2025                               106154          ULTIMATE ENTERTAINMENT IOWA LLC                     1,095.00
+202323          04/29/2025                               013602          UNIVERSITY CATERING                                 2,407.20
+202324          04/29/2025                               015404          UNIVERSITY OF IOWA ATHLETICS                        1,005.00
+202325          04/29/2025                               107630          JARED WALKER                                          178.84
+202326          04/29/2025                               107632          JILL LASHMIT                                          363.00
+202327          04/29/2025                               107629          THEODORE WILLIAMS                                     150.00
+202328          04/29/2025                               020121          XAVIER HIGH SCHOOL                                    125.00
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         24,909.33
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       24,909.33
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9028519         04/29/2025                               003588          CITY OF IOWA CITY                                   5,000.00
+9028520         04/29/2025                               106841          IMON COMMUNICATIONS LLC                               400.00
+9028521         04/29/2025                               015100          MEDIACOM                                            3,749.99
+9028522         04/29/2025                               015021          VERIZON WIRELESS SERVICES LLC                          80.02
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:           9,230.01
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:        9,230.01
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:       82,135.68
+

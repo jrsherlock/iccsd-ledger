@@ -1,0 +1,947 @@
+Transaction Search - Company
+
+
+BMO - Mastercard, Statement Period 05/06/2026 to 06/05/2026
+
+
+ Posting Date     Tran Date            Account                       Supplier                                                 Narrative Details                                           Amount USD
+      5/6/2026        5/4/2026 XXXX-XXXX-XXXX-9219 Kwik Star #1927               Gas for van to travel to away meet.                                                                            $45.26
+      5/6/2026        5/4/2026 XXXX-XXXX-XXXX-7350 Menards Iowa City Ia          WO 214664 sealant, plywood                                                                                    $100.97
+      5/6/2026        5/4/2026 XXXX-XXXX-XXXX-6061 Kwik Star #1213               Purchase Kwik Star #1213                                                                                       $79.96
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Bf3790482        Edibles for SID: 6374981402                                                                                    $32.98
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-5173 Walmart.Com                   Edibles for SID: 5324425386                                                                                    $34.64
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-5173 Walmart.Com                   Edibles for SIDs: 4466555139, 4317828834, 4766578834, 8797737312                                               $40.81
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-5173 Sp Childtherapytoys           "Big Idea Grant" 5012267                                                                                      $127.09
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-5173 Sp Testa Seat Inc             Adaptive equipment for SID: 4255387970                                                                        $649.00
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-4815 North Liberty Ace Hard        Irrigation parts                                                                                                $8.98
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv5782nd1          Cor Central Library books                                                                                       $7.14
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bf2cp2ft2          Lucas Library books                                                                                             $8.68
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf36w4la2        City HS Library graduation supplies                                                                           $110.55
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv5g23zs1          Lucas Library books                                                                                           $231.14
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj3jx6m60        GBC Thermal Laminating Film Roll                                                                               $71.76
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bv34x0zv1          M&M's/Snickers/3 Muskateers Variety Pack-Ten Eyck/Student Council-Approved by Lucas                            $98.94
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bj2bf8h50          Big Idea Grant for School Garden-Gardening Supplies                                                           $206.98
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj92n3bx0        Math Games, Writing Tools, Numer lines, Handwriting Lines Stamp Roller, Reading Games, Markers-Title *        $250.48
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf5p26lu2        Construction Paper, Index Cards, Binding Combs, Storage Bags, EXPO Markers, Book Rings, Post-its, Ta *        $279.27
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv9688ni1        Preschool Supplies for Pam Polman - Shared Visions Twain                                                      $444.91
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4         Unit 123 parking brake actuator                                                                               $224.71
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-1519 Hi-Line, Inc.                 Stock cable ties, hardware                                                                                    $245.75
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-7634 Plumb Supply - Ioc - 0        Borlaug fittings, abrasive cloth                                                                              $128.40
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-4656 Animoto Inc                   Purchase Animoto Inc                                                                                          $241.68
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-2619 Executive Travel Of Na        Shuttle for BPA Nationals                                                                                     $350.00
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-2619 Executive Travel Of Na        Shuttle for BPA Nationals                                                                                     $350.00
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-2619 Executive Travel Of Na        Shuttle for BPA Nationals                                                                                     $350.00
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-9774 Walmart.Com                   Purchase Walmart.Com-Food labs                                                                                 $77.58
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-1390 Hy-Vee Coralville 1080        Purchase Hy-Vee Coralville 1080FCS II Chef's hat, Demo for Food and nutrition                                  $27.11
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033            Purchase Jersey Mikes 38033                                                                                   $213.43
+      5/6/2026        5/5/2026 XXXX-XXXX-XXXX-6889 Ikea 492878705                Purchase Ikea 492878705                                                                                       $291.86
+      5/6/2026        5/6/2026 XXXX-XXXX-XXXX-2677 Panera Bread #203208 O        Last Staff Teacher Meeting Snacks and Drinks - Foundation General Fund - J. Bacon                             $424.05
+      5/6/2026        5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj1ig6qi0        Arteza Black Dry Erase Markers                                                                                 $59.52
+      5/6/2026        5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj0px2qo0        Assorted office Supplies                                                                                      $157.59
+      5/6/2026        5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj7228q90        Paperclips, Pens, Post-its, Envelopes, Elec. Pencil Sharpener, Sharpies, Homework Folders                     $357.71
+      5/6/2026        5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj13p68t0        3-Ring Binders, Single Roll Blank Tickets                                                                     $534.15
+      5/7/2026        5/4/2026 XXXX-XXXX-XXXX-9199 Hy-Vee Aisles Online 4        Kirkwood Cooking Club - Pillbury Crescent Rolls, Beef Hotdogs, Popcorn Kernels                                 $43.79
+      5/7/2026        5/5/2026 XXXX-XXXX-XXXX-5420 Caseys #1599                  Gas for Tennis Van                                                                                             $43.10
+      5/7/2026        5/5/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Aisles Online 4        Purchase Hy-Vee Aisles Online 4 FCS G-Westfall, K-Schopf LTS                                                   $23.76
+      5/7/2026        5/5/2026 XXXX-XXXX-XXXX-8011      Van Meter Inc - Iowa C   West Press Box LEDs                                                                                            $36.22
+      5/7/2026        5/5/2026 XXXX-XXXX-XXXX-9774 Hy-Vee Aisles Online 4        Purchase Hy-Vee Aisles Online 4-Food Labs                                                                      $20.77
+      5/7/2026        5/5/2026 XXXX-XXXX-XXXX-3050 Ab Abebooks.Co Liwtgs         Credit Voucher Ab Abebooks.Co Liwtgs - Books                                                                   -$4.50
+5/7/2026   5/5/2026 XXXX-XXXX-XXXX-6061 Twin Pines Golf Course      Purchase Twin Pines Golf Course                                                                            $32.96
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-5173 Walmart.Com                 Purchase Walmart.Com                                                                                       $36.86
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Bj16792k0      Purchase Amazon Mktpl Bj16792k0                                                                           $212.90
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Aisles Online 4      FCS Classroom Supplies and Materials                                                                      $204.71
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-0134 Plumb Supply - Ioc - 0      WO 214628 toilet, caulk                                                                                   $164.23
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf9u74tu2      Purchase Amazon Mktpl Bf9u74tu2                                                                           $104.01
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv4ts81u1      Shipping Labels - STEAM Field Trip                                                                          $6.85
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj1af5sd0      32pk Clear 12" Rulers x2 - Levi Wood/Ind Tech                                                              $19.98
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf3kq8jg2      Unprimed Canvas Roll, Acrylic Paint Sets - Art Room/Joe Bacon                                              $53.88
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv2bq1ei1      40pk Pool Noodles x2 - Sakinah Ellickson/Senior Sendoff Assembly                                          $119.98
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf50g33a2      Honors Graduation Cord (Royal Blue/Kelly Green) x3 - Victor Diaz Galindo                                  $175.00
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4       Unit 123 limited slip additive                                                                              $9.28
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-7262 Sp The Tib Bar Guy          Purchase weight sled for use in strength training and lifting workouts.                                   $139.95
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-0007 Doyle Security Product      WO 211928 & 214735 door stops/holders                                                                     $387.53
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-3050 Ab Abebooks.Co Liwtgs       Credit Voucher Ab Abebooks.Co Liwtgs-Books                                                                  -$4.49
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-3556 Usps Po 1843930899          Purchase Usps Po 1843930899USPS postage for certified letter to student's guardians                         $5.30
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-1390 Wm Supercenter #2827        Purchase Wm Supercenter #2827FCS I monkey bread and cheese alfredo                                        $155.19
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-4001 Office Express              Purchase Office Express | Envelopes                                                                        $25.76
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-4001 Office Express              Garner Elementary Order -Index Cards, Binder Clips, Staples, Message Pads                                  $52.64
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-4001 Office Express              Michelle Morey - Library Supplies                                                                          $80.93
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-4001 Office Express              NCJH-Glue Sticks, Post-its, Scissors, Highlighters, EXPO Markers                                          $316.69
+5/7/2026   5/6/2026 XXXX-XXXX-XXXX-6253 Technology Student Ass      Purchase Technology Student Ass                                                                          $1,200.00
+5/7/2026   5/7/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf8it7ep2      Purchase Amazon Mktpl Bf8it7ep2                                                                            $14.20
+5/7/2026   5/7/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf0xj10g2      10pk 8" Heavy Duty Scissors - Levi Wood/Ind Tech                                                           $18.89
+5/7/2026   5/7/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv4fw4gv1      Velcro Dots - Emily Quaye                                                                                  $24.27
+5/7/2026   5/7/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf1yk41j2        AdTech Hot Glue Sticks 550pk x2 - Ind Arts/V.Harris                                                        $38.38
+5/7/2026   5/7/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj1rw17x0      Whiteboard Cleaner, Whiteboard Erasers, Blue/Black Bulk Pen Pack                                           $86.22
+5/7/2026   5/7/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj03h47d0      2pc Inflatable Bumper Balls x4, 36pk Soccer Cones for Training - Sakinah Ellickson/Senior Sendoff As *    $695.84
+5/7/2026   5/7/2026 XXXX-XXXX-XXXX-9584 Mu Assessment Res Ctr       Purchase Mu Assessment Res Ctr. ESSA materials as requested by Kelli Webb and Laura Walthart. Note: *     $199.80
+5/8/2026   5/6/2026 XXXX-XXXX-XXXX-5173 Burger King #6104 Q07       Purchase Burger King #6104 Q07                                                                             $14.82
+5/8/2026   5/6/2026 XXXX-XXXX-XXXX-9860 High Noon Books Atp         LIttle Idea Grant Purchase from High Noon Books (Little Sprouts Sets 1-2 Qty 3, 5/7/26.                   $184.80
+5/8/2026   5/6/2026 XXXX-XXXX-XXXX-2589 Kwik Star #1927             Purchase Kwik Star #1927                                                                                   $65.77
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-6384 Dominos 1750                Dominoes for 4th Grade Classroom - Pizza with the Principal + Tip                                          $64.28
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-6384 Aero Rental And Party       Aero Rental - Dunk Tank for end of year celebration                                                       $311.58
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-5110    Nichols Controls &supp   Unit 119 oxygen refill                                                                                     $52.14
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-2938 Printing Center Usa         Little hawk review printing                                                                               $626.00
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-6083 Maverik #5361               Mock Trial State Competition Travel                                                                        $95.23
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-0980 Sq Iowa Choral Direct       Vocal Music Medals and Certificates                                                                       $109.00
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-0980 In Luke McMillan Musi       Band Sheet Music Supplies                                                                                $1,220.00
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-0980 In Luke McMillan Musi       Band Classroom Sheet Music Supplies                                                                      $1,250.00
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv59e7xu1        Cor Central Library books                                                                                 $130.41
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-3556 Wal-Mart #1721              Purchase Wal-Mart #1721 FCS K. Schopf                                                                     $133.63
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-5273 Pyramid Services            Unit 412 hydraulic filters                                                                                 $94.98
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-5108 Psc Distribution, Inc.      WO 214329 gaskets                                                                                           $6.79
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-8548 Kruger Prof Resources       Backflow course                                                                                           $900.00
+5/8/2026   5/7/2026 XXXX-XXXX-XXXX-1909 Rememberme Yearbooks C      Purchase Rememberme Yearbooks CFor Senior yearbooksRO: 2601202Kristina Brown                              $666.90
+5/8/2026    5/7/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                $213.43
+5/8/2026    5/8/2026 XXXX-XXXX-XXXX-5173 Amazon.Com Bj2p10w60     Purchase Amazon.Com Bj2p10w60                                                               $79.99
+5/8/2026    5/8/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bj8fu5yu0   Solder Wire x6 - Levi Wood/Ind Tech                                                         $90.24
+5/8/2026    5/8/2026 XXXX-XXXX-XXXX-6253 Rio Grande Inc           Purchase Rio Grande Inc                                                                     $97.05
+5/11/2026   5/7/2026 XXXX-XXXX-XXXX-5420 Caseys #2421             Team Meal                                                                                  $268.27
+5/11/2026   5/7/2026 XXXX-XXXX-XXXX-4247 Van Meter Inc - Iowa C   Shop LED panels                                                                            $625.04
+5/11/2026   5/7/2026 XXXX-XXXX-XXXX-1519 Napa Store 3137142       Stock oil                                                                                   $20.97
+5/11/2026   5/7/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines    Purchase Hotel Fort Des Moines                                                             $267.50
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-5166 Maverik #5075            Gas for B Tennis Van                                                                        $33.01
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-5173 Culvers                  Purchase Culvers                                                                            $75.76
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-3697 Subway 28736             Team Meal                                                                                  $457.50
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-0134 Psc Distribution, Inc.   WO 214082 bottle filler cooler unit                                                        $919.30
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9999 Pc 3325 3e Co            WO 214660 locking plug                                                                      $31.43
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9999 Van Meter Inc - Iowa C   WO 214748 LED panels                                                                       $174.96
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS K. Schopf                                                 $9.07
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-7615 Menards Iowa City Ia     parts to repair NW dishmachine                                                              $45.52
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9547 Dri Signs                5th grade quote sign                                                                       $168.60
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Office Express           60pk Blue Pens, 60pk Black Pens - Mail Room supply cabinet                                  $13.75
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Walmart.Com 8009256278   SEMS/Ind Tech - 1 Gallone Polyurethane                                                      $21.96
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf01g3b02   Baseball Concessions-REESE'S Milk Chocolate Peanut Butter                                   $31.99
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf7a17b92   Science Fair Trophies - Little Idea Grant funds                                             $37.60
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf62q0hw2   Cardstock, Lam Pouches, Clear Binding Covers - Michelle Nourski/LA                          $99.03
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 School Specialty Ecomm   Playground Balls                                                                           $175.19
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Hal Leonard Corporatio   SEMS/Pier Debes-Music -Golden x30, Dream On x30, Never Enough x30 - Sheet Music            $259.40
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Stapls7679519554000002   Binder Clips, Lam Pouches, Mechanical Pencils, Batteries, Label Maker Tape, EXPO Markers   $274.25
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Odp Bus Sol Llc# 10686   PO Books, Pens, Correction Tape, Address Labels, Packing Tape - Nutrition Dept.            $298.69
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9199 Stapls7915473678000002   Folders, Cardstock, Construction Paper, Envelopes, Lam Pouches, EXPO Markers, Easel Pads   $960.24
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-5273 Linder Tire - Iowa Cit   Unit 97 replace valve stem/rotate tires                                                     $66.80
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-1519 Napa Store 3137142       Unit 445 trailer plug                                                                       $15.99
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-1519 Sinclair Tractor         Unit SB0773 pins                                                                            $20.44
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-1519 Hi-Line, Inc.            Stock hardware                                                                             $311.91
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-7634 Nichols Controls &supp   Unit 96 vacuum pump oil                                                                     $50.75
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-7634 Johnstone Supply - 614   WO 214626 valve                                                                            $502.73
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-9219 Jimmy Johns - 2101 Mot   Purchase of meal for interview panel- Girls Basketball head Coach position                 $164.33
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-7262 Kwik Star #1927          Gas for vans - travel to away match                                                         $46.18
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-8011    White Cap #105        Unit 107 gloves                                                                             $14.09
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-3050 Usps Po 1866150317       Purchase Usps Po 1866150317-IEP Mailing                                                      $2.44
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-5774 Psc Distribution, Inc.   City Baseball irrigation parts                                                              $10.66
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-6253 Electric Motors Of Ic    Purchase Electric Motors Of Ic                                                              $79.02
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-6253 Sq African American H    Purchase Sq African American H                                                             $150.00
+5/11/2026   5/8/2026 XXXX-XXXX-XXXX-6253 Sq Moo Moos Ice Crea     Purchase Sq Moo Moos Ice Crea                                                              $716.25
+5/11/2026   5/9/2026 XXXX-XXXX-XXXX-2309 National Registry Emt    EMT Fee Voucher for West High Student taking Kirkwood EMT Class                            $104.00
+5/11/2026   5/9/2026 XXXX-XXXX-XXXX-6083 Shell Oil 12654405005    Mock Trial State Competition Travel                                                         $82.21
+5/11/2026   5/9/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv79g17f1     District Media Library books                                                                $21.46
+5/11/2026   5/9/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv84g9ib1     Mann Library books                                                                         $109.68
+5/11/2026   5/9/2026 XXXX-XXXX-XXXX-4783 Microsoft-G157765640     Microsoft-G157765640 invoiced services                                                      $23.47
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Hl2tc5df3   20pcs Transparent Spinners Math Game -Title 1 Order -Borlaug c/o Deanna Kleinsmith: Family Night          $63.55
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv86r1991   Baseball Concessions-Candy                                                                                $71.14
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-9199 Stapls7915473678000005   Butcher paper                                                                                            $153.15
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-6061 Dominos 1756             Purchase Dominos 1756                                                                                     $89.57
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Wingstop     Purchase Dd Doordash Wingstop                                                                             $24.74
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Thesweets    Purchase Dd Doordash Thesweets                                                                            $32.59
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Nashville    Purchase Dd Doordash Nashville                                                                            $47.13
+5/11/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Shakeshac    Purchase Dd Doordash Shakeshac                                                                           $109.06
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bf57c84c1     Mann Library books                                                                                        $10.94
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9167 Amazon Mktplace Pmts     NWMS Library Maker space items credit                                                                    -$14.36
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv76q10u0     Kirkwood Library books                                                                                    $18.99
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv0517es0     District Media Library books                                                                             $131.06
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bf5r39f81     Purchase Amazon.Com Bf5r39f81                                                                            $161.33
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bv27x8re1   West HS Library books                                                                                    $369.87
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv74h00f0   20ct CR2016 Battery pack - Title 1 - Twain c/o Bethany Bombei                                              $6.49
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv2dq8es0   White Cardstock w/scored Fold - cards for Seniors                                                         $29.69
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv65n5ws1   Clipboards with Storage x3 - SPED Teacher                                                                 $29.94
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf7cc04o1   Kogrew 7Feet 25Pcs Plant Stakes                                                                           $59.99
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl R518f8sp3   Tunisia May - Men's Athletic Shorts x13                                                                   $77.87
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bv7wp6060     Classroom Books - Michelle Beninga - Little Idea Hunt                                                     $82.67
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf0iz5fo1   Trellis Netting for Plants, Garden Twine, Wooden Stix, Blood Meal, Plant Stakes-Ben Smith/Gro More G *    $89.59
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 1t08g27p3   HD Pastry Cutter, Parchment Paper, Silicone Spatulas - Jana Warning                                      $119.99
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Stapls7915473678000004   Office Supplies                                                                                          $179.14
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv04q50z0   Bandage refill pack x4, Shipping Labels x2, #10 Envelopes, 6x9 Clasp Envelopes x4                        $192.25
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv5802eu0   Phonics Magnetic letter tiles, Reading Decodable Book Sets, Montessori Sand Tray - Annika Buell/LIH      $197.12
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-2619 Executive Travel Of Na   Shuttle for BPA Nationals                                                                                $300.00
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-2619 Executive Travel Of Na   Shuttle for BPA Nationals                                                                                $300.00
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-2619 Executive Travel Of Na   Shuttle for BPA Nationals                                                                                $300.00
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-3897 Hy-Vee Coralville 1085   Esports awards banquet food purchase                                                                     $197.96
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Ihop         Purchase Dd Doordash Ihop                                                                                 $31.12
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Beignetsb    Purchase Dd Doordash Beignetsb                                                                            $31.37
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Uber Eats                Purchase Uber Eats                                                                                        $40.75
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Storechick-Fil-A      Purchase Dd Storechick-Fil-A                                                                              $48.67
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Doordash 05/09-2 Order   Purchase Doordash 05/09-2 Order                                                                           $49.19
+5/11/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Nashville    Purchase Dd Doordash Nashville                                                                            $95.23
+5/11/2026   5/11/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl 5r1ir3xd3   Purchase Amazon Mktpl 5r1ir3xd3                                                                           $24.99
+5/11/2026   5/11/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf9ei2l51   Kirkwood Library books                                                                                   $139.41
+5/11/2026   5/11/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Q51227zy3     Mann Library books                                                                                       $653.29
+5/11/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf8ny84u1   Zip Ties for Soccer Goals - Oscar Gonzalez                                                                 $6.99
+5/11/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf29o8zn1   6x9 Self Seal Catalog Security Envelopes                                                                  $25.69
+5/11/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf48n1lc1     Braun ThermoScan 7 Digital Ear Thermometer for Adults x2 - Health Services                               $103.98
+5/12/2026   5/10/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                     $347.75
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Bf5vd1tm1   Purchase Amazon Mktpl Bf5vd1tm1                                                                           $32.00
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-2938 Pay Smash Park           Band Meal                                                                                                $480.92
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-2093 Wal-Mart #1721           FCS Classroom Supplies                                                                                   $105.78
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-0134 City Of North Liberty    WO 214795 FOG permit                                                                                      $50.00
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-0134 City Of North Liberty    WO 214795 FOG permit                                                                     $50.00
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-0134 City Of North Liberty    WO 214795 FOG permit                                                                     $50.00
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf6pq13n1   Purchase Amazon Mktpl Bf6pq13n1                                                           $7.07
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bf8bh6tc1     West HS Library books                                                                    $11.39
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bf34e6jg1     District Media Library books                                                             $21.98
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9167 Amazon.Com 027z01c03     Mann Library books                                                                      $115.79
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Lowes #00907             SEMS/Ind Tech - 6pk Corded Earplugs x3                                                   $22.20
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf0383to1     MilkyWay Candy Milk Chocolate Bars - Baseball Concessions                                $39.98
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv6e90vd0   Baseball Concessions- SMACKIN' Sunflower Seeds, Roasted J                                $51.71
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ka44q6nh3   Books and Stickers - Title 1 Family Night- Lucas c/o Amy Cummer                         $430.32
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv7t78g90   Baseball Concessions-Candy, Popcorn Kits, Popcorn Boxes                                 $530.80
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Unit 814 bolt, seal                                                                      $48.48
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Unit 814 brake parts                                                                    $388.64
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-3050 Sp World Of Books        Purchase Sp World Of Books-Donation for Literacy Books purchase                          $69.26
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-3050 Sp World Of Books        Purchase Sp World Of Books-Literacy book donation purchases                              $86.85
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-1390 Hy-Vee Coralville 1080   Purchase Hy-Vee Coralville 1080Food and nutrition blueberry muffins, FCS I Crazy cake    $76.33
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-0891 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285Janelle Roberts, FCS supplies                              $12.32
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-4001 Clearwater Butterfly     Purchase Clearwater Butterfly                                                            $49.90
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-2934 Athleticlive             Purchase Athleticlive                                                                    $29.00
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-6253 Paypal Mathleague        Purchase Paypal Mathleague                                                              $345.00
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-2589 Papa Johns #2512         Purchase Papa Johns #2512                                                               $183.75
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9782 Fareway Meat And Groce   Food Lab Groceries                                                                        $5.57
+5/12/2026   5/11/2026 XXXX-XXXX-XXXX-9782 Fareway Meat And Groce   Food Lab Groceries                                                                      $138.41
+5/12/2026   5/12/2026 XXXX-XXXX-XXXX-9828 Tst Divots               Hospitality meal for coaches MVC girls Golf meet.                                        $16.96
+5/12/2026   5/12/2026 XXXX-XXXX-XXXX-9828 Tst Divots               Hospitality meal for coaches MVC girls Golf meet.                                        $64.13
+5/12/2026   5/12/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv1u935c0     West HS Library books                                                                    $41.98
+5/12/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl De0kr8tx3   Books and Stickers - Title 1 Family Night- Lucas c/o Amy Cummer                          $48.85
+5/13/2026   4/24/2026 XXXX-XXXX-XXXX-6061 Fairfield Inn & Suites   Credit Voucher Fairfield Inn & Suites                                                   -$145.60
+5/13/2026   4/28/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Awrestaur    Credit Voucher Dd Doordash Awrestaur                                                     -$23.47
+5/13/2026    5/2/2026 XXXX-XXXX-XXXX-6253 Dd Doordashdashpass      Credit Voucher Dd Doordashdashpass                                                        -$9.99
+5/13/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Wingstop     Credit Voucher Dd Doordash Wingstop                                                      -$24.74
+5/13/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Thesweets    Credit Voucher Dd Doordash Thesweets                                                     -$32.59
+5/13/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Nashville    Credit Voucher Dd Doordash Nashville                                                     -$47.13
+5/13/2026    5/9/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Shakeshac    Credit Voucher Dd Doordash Shakeshac                                                    -$109.06
+5/13/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Ihop         Credit Voucher Dd Doordash Ihop                                                          -$31.12
+5/13/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Beignetsb    Credit Voucher Dd Doordash Beignetsb                                                     -$31.37
+5/13/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Uber Eats                Credit Voucher Uber Eats                                                                 -$40.75
+5/13/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Storechick-Fil-A      Credit Voucher Dd Storechick-Fil-A                                                       -$48.67
+5/13/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Dd Doordash Nashville    Credit Voucher Dd Doordash Nashville                                                     -$95.23
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-5166 Caseys #1695             Gas for Golf Van                                                                         $38.27
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-5166 Caseys #1695             Gas for Van for State Mock Trial                                                         $73.64
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-7128 Menards Iowa City Ia     WO 214710 lumber                                                                         $38.40
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927          Gas for Vans - Travel to away game                                                       $29.46
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927          Gas for van - travel to away game                                                        $47.47
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927          Gas for van - travel to away game                                                        $95.24
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-7262 Kwik Star #1927          Gas for vans - travel to away match                                                      $44.71
+5/13/2026   5/11/2026 XXXX-XXXX-XXXX-8011    Van Meter Inc - Iowa C   City receptacles/covers                                                                                 $26.38
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-5173 Amazon.Com 9z54o5i83        Purchase Amazon.Com 9z54o5i83                                                                          $285.84
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-5420 Amoco#1054000dodge Qps      Gas for Golf Van                                                                                        $53.40
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-3697 Subway 28736                Team Meal                                                                                              $202.50
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-1432 National Speech Debat       Nationals Registration Payment                                                                        $1,120.50
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bv1bo18c0      Lucas Library books                                                                                     $18.94
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf66w8gx1      Kirkwood Library books                                                                                  $37.60
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf2fr2mc2      Borlaug Library books & supplies                                                                        $40.37
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bv0zk78y0      Wickham Library supplies & MakerSpace items                                                            $187.10
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-2677 Sq Kona Ice Of Easter       IASAPS testing                                                                                        $1,350.00
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon Mktplace Pmts        Credit Lithium Button Cell Battery                                                                       -$6.49
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Xp5yq1693      3pk 12oz Condiment Squeeze Bottles - Ind Tech/Levi Wood - Lab Supplies                                   $8.99
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl R802f62j3      TruBind Aluminum Chicago Screw and Post Sets                                                            $12.38
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Mx6b07eq3        Tostitos, Crispy Rounds - Softball Concession Stand                                                     $27.95
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv4lz38d0      Plastic Golden Cup Trophies 24pk x3 - NHS/Sakinah Ellickson                                             $65.97
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv42j38k0      Clear Report Covers, Hanging File Folders, Report Covers w/Clip-Mock Trial/Mimi Vukelich               $113.57
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 J.W. Pepper                 Sheet Music for Northwest Middle School - Reimbursement from Music Aux                                 $128.20
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv2ij9bg0      Lockable File Box Organizer w/Handle-Mock Trial/Mimi Vukelich                                          $154.99
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-3818 Arnold Motor Supply 4       WO 214734 batteries                                                                                    $762.66
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4       Unit 801 oxygen sensor, bulbs                                                                           $56.43
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-7262 Golf Headquarters           Purchase of range balls for warmup before a meet                                                        $30.00
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-9774 Walmart.Com                 Purchase Walmart.Com-Food labs                                                                          $69.15
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-5320 Jjb Jibjab Ecards           Purchase Jjb Jibjab Ecards                                                                              $25.44
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033          Purchase Jersey Mikes 38033                                                                            $533.59
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033          Purchase Jersey Mikes 38033                                                                            $627.75
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-6054 National Scholastic Pr      Purchase National Scholastic Pr                                                                        $228.00
+5/13/2026   5/12/2026 XXXX-XXXX-XXXX-6054 National Scholastic Pr      Purchase National Scholastic Pr                                                                        $357.00
+5/13/2026   5/13/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 7r1yr4803        ArtBin Quick View Deep Base Carrying Case - for Track timing system                                     $17.79
+5/13/2026   5/13/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv0th4840      World Flag Stickers, Arch Covers, Mini World Flags, Disposable Table Cloths - T.Scudder/Intntl Club    $174.81
+5/14/2026   5/10/2026 XXXX-XXXX-XXXX-6253 Doordash 05/09-2 Order      Credit Voucher Doordash 05/09-2 Order                                                                   -$49.19
+5/14/2026   5/11/2026 XXXX-XXXX-XXXX-9199 Hy-Vee Aisles Online 4      Kirkwood Cooking Club - Bananas, Eggs, Vanilla Extract, Flour, Chocolate Chips                          $32.84
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-5420 Twin Pines Golf Course      Range Balls                                                                                              $8.24
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-0980 Staples 0626                Band Printing Supplies                                                                                  $22.78
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-9999 Van Meter Inc - Iowa C      WO 214818 plates                                                                                        $16.59
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-1519 Napa Store 3137142          Stock washer fluid                                                                                      $29.94
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-7262 Kwik Star #1927             Gas for van- travel to away meet                                                                        $35.48
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-4383 High Noon Books Atp         Purchase High Noon Books for classroom from foundation grant from Kopp family for Vicki Cupp           $360.00
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-7350 Menards Iowa City Ia        WO 214811 concrete mix, assorted hardware                                                               $11.90
+5/14/2026   5/12/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033          Credit Voucher Jersey Mikes 38033                                                                      -$627.75
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-0722 American 0012342497592      Ed Rising Conference June 19-23, 2026 - Airfare - Ella Krupp                                           $554.21
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-0722 American 0012342497591      Ed Rising Conference June 19-23, 2026 - Airfare - Christy Weitz                                        $554.21
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-0722 Rev.Com                     Closed Captioning Board Mtg 5/12/26 - 2hours 54minutes                                                 $563.76
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-5173 Walmart.Com                 Purchase Walmart.Com                                                                                    $68.22
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-5173 Inclusive Tlc Special       Purchase Inclusive Tlc Special                                                                         $125.00
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-2309 Resources For Teachers      Title lll Purchase for Regina Secondary 29.00 29.00Instructional Materials- Kagan: SecondLanguage *     $35.00
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-0980 Mailboxes Of Iowa City      Sale of Vintage Yearbook - Mailing                                                                      $28.16
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Iowa City 1288    FCS Classroom Supplies                                                                        $6.99
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-5585 Iowa Insurance Divisio   509A Application Fee/Renewal                                                                $104.13
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv7on3k70     District Media Library supplies - laminating film                                            $66.79
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-3556 Wm Supercenter #1721     Purchase Wm Supercenter #1721 FCS K. Schopf                                                  $15.66
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9547 Alphagraphics N Libert   Grant Grizzly Postcards                                                                     $211.70
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9547 Smartsign                Signs to have students walk their bikes at the front of the school                          $337.43
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9199 J.W. Pepper              O Love Sheet Music for Northwest Middle School - PO2601257                                    $8.49
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9199 Amazon Mktplace Pmts     Credit Aoasur 1-Pack 18V 5.0Ah Replacement for Milwaukee M-18 Battery and 1 Charger（Red）     -$55.99
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 7l6ia1613   Desktop Reference Plates                                                                     $62.70
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Hm6180va3   Carpet Spots, Desktop Reference Plates, Carpet Numbers                                      $233.83
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-9199 Walmart.Com              Grant Elementary - LCD TV's x2, TV Mounts x2                                                $613.92
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-7634 Plumb Supply - Ioc - 0   WO 214782 fittings                                                                           $14.27
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-0063 Sherwin-Williams703783   WO 214683 paint                                                                             $105.08
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-0891 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285FCS suppliesJanelle RobertsTook a photo of two receipts.       $73.62
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-7670 Wm Supercenter #1721     Purchase Wm Supercenter #1721                                                                 $8.72
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-6061 Sp Gamedaysignals        Purchase Sp Gamedaysignals                                                                 $3,485.00
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-5320 Wingstop 1965            Purchase Wingstop 1965                                                                       $24.03
+5/14/2026   5/13/2026 XXXX-XXXX-XXXX-6253 Printing Center Usa      Purchase Printing Center Usa                                                                $776.06
+5/14/2026   5/14/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Bw50a4163   Purchase Amazon Mktpl Bw50a4163                                                               $8.69
+5/14/2026   5/14/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl 6i8la4iw3   Purchase Amazon Mktpl 6i8la4iw3                                                              $27.18
+5/14/2026   5/14/2026 XXXX-XXXX-XXXX-2096 Guilford Publications    Purchase Guilford Publications                                                              $864.00
+5/15/2026    5/7/2026 XXXX-XXXX-XXXX-9410 Decker Equip School Fi   WO 213638 threshold shipping refund                                                         -$180.45
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-0722 United 01621023427726    Ed Rising Conference Plane Tickets -Ella Krupp - June 19, 2026                              $440.53
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-0722 United 01621023427715    Ed Rising Conference Plane Tickets - Christy Weitz - June 19, 2026                          $440.53
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-5173 Burger King #6104 Q07    Purchase Burger King #6104 Q07                                                                $8.68
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-5420 Caseys #3858             Gas for Golf Van                                                                             $31.11
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                         $51.99
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 Taste Of China           Purchase Taste Of China                                                                     $227.90
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292711    Purchase United 01621023292711                                                              $878.95
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292652    Purchase United 01621023292652                                                              $878.95
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292700    Purchase United 01621023292700                                                              $878.95
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292685    Purchase United 01621023292685                                                              $878.95
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292641    Purchase United 01621023292641                                                              $878.95
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292674    Purchase United 01621023292674                                                              $878.95
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292663    Purchase United 01621023292663                                                              $878.95
+5/15/2026   5/13/2026 XXXX-XXXX-XXXX-6054 United 01621023292696    Purchase United 01621023292696                                                              $878.95
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-0722 American 0012342497591   Credit Plane Ticket -Ed Rising Conference Itinerary Change - Ella Krupp                     -$554.21
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-0722 American 0012342497592   Credit Ticket for Ed Rising - Itinerary Change - Chrisy Weitz                               -$554.21
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-6384 Curric Asso              Curriculum Associates - Phonics for Reading for our IDS - Beth Madden                       $364.00
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-5173 Panda Express 2052       Purchase Panda Express 2052                                                                   $7.21
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-5173 Walmart.Com              Purchase Walmart.Com                                                                         $28.92
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-5173 Amazon.Com               Credit Voucher Amazon.Com                                                                    -$79.99
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-5420 Sp Golf Team Products    Polo Shirts for GGolf Team                                                                  $178.25
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-2938 Tst Court Avenue Brewi   Band Competition Meals                                                                      $800.00
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-6083 Etsy.Com Therapybluepr   DBT Classroom Supplies and Materials                                                          $4.45
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-6083 Wal-Mart #1721           General Classroom Supplies and Materials                                                     $71.64
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-6083 Etsy.Com Buzzminimalis   Vocal Music End of Year Awards and Supplies                                $576.73
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-0980 Fernandos Mexican Gri    Band Competition Meals                                                      $17.35
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-0980 Ui Performing Arts       Digital Music Classroom Registration                                       $175.00
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-2093 Wm Supercenter #1721     FCS Classroom Supplies                                                      $94.20
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bv4wc1wq0   Purchase Amazon Mktpl Bv4wc1wq0                                              $9.99
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon.Com At1te5ua3     Mann Library books                                                          $16.94
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Va36d1yk3   Borlaug Library books & supplies                                            $30.98
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bv0j99ih0   Cor Central Library books & laminating film                                 $43.15
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bv8om6wd0     District Media Library books                                                $64.81
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 The Reading League       Purchase The Reading League                                                $100.00
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Hm8s76c63     NWMS Library MakerSpace items                                              $102.31
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl 8a0ma1ie3   Wood Library PBIS activity supplies                                        $118.91
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9167 Amazon.Com 5g86g3ms3     Lucas Library books                                                        $316.96
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS K. Schopf                                $21.67
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-7615 Harbor Freight Tools30   glue and chisel set for warehouse repairs                                   $17.98
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-2096 Wm Supercenter #2827     family night supplies Purchase Wm Supercenter #2827,                       $266.34
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-2096 Simplify Writing         Purchase Simplify Writing                                                 $3,307.33
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv8632iz0   Bloom (The Overthrow)                                                       $12.98
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Qk21a89x3   Paper Clips, Rainbow Duct Tape, Cotton String - Smith/Science Lab           $31.00
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 0m2gd2j33   XLR Cables x2 - David Haas                                                  $31.98
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv8x13io0   50pk Glass Test Tubes x2 - Smith/Science Lab                                $46.88
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv1gh4yr0   Extra large Blood Pressure Cuff x2, Pulse Oximeter x5 - Health Services     $88.18
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv81d1910   1 Gallon Pill Terminator xx3 - Health Services                             $119.85
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv97p4rp0   PE Supplies and Equipment - Big Ideas Grant/Frank Fiordellisi              $138.00
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv55r3uc3   PE Supplies and Equipment - Big Ideas Grant/Frank Fiordellisi              $149.94
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 160fv73m3   Tools and Supplies - Tom Soat                                              $336.77
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Q86ga16j3   Tools and Supplies - Tom Soat                                              $375.99
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-5273 Pyramid Services         Unit 416 starter                                                           $275.60
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-3818 Harbor Freight Tools30   WO 214635 tape measure                                                       $5.99
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-7634 Electric Motors Of Ic    Unit 96 nitrogen                                                            $24.07
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-1390 Hy-Vee Coralville 1080   Purchase Hy-Vee Coralville 1080FCS II Snickerdoodle cookies                 $36.06
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-6253 Sp The Master Teacher    Purchase Sp The Master Teacher                                             $173.85
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-2589 Sq Dan & Debbies Cre     Purchase Sq Dan & Debbies Cre                                               $52.43
+5/15/2026   5/14/2026 XXXX-XXXX-XXXX-6054 Tst Saj Grill - Iowa C   Purchase Tst Saj Grill - Iowa C                                            $250.00
+5/15/2026   5/15/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl 6w0qe6y53   Purchase Amazon Mktpl 6w0qe6y53                                            $451.80
+5/15/2026   5/15/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Xg4fa4s93     Cor Central Library books & laminating film                                $107.59
+5/15/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf82w4cs0   Graduation Cords                                                            $28.99
+5/15/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bv9o70wo0   Napkins, Paper Cups - Jess Mehegan                                          $72.66
+5/15/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bv84e8wk0     18pk Facial Tissues                                                        $112.35
+5/15/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bk1zp9493   Fitness Workout Cami, Shorts, Pants - Dance Team                          $1,215.00
+5/15/2026   5/15/2026 XXXX-XXXX-XXXX-5372 Amazon Mktpl Rv3it59b3   HVAC brazing rods                                                          $347.94
+5/18/2026   5/12/2026 XXXX-XXXX-XXXX-6054 Hy-Vee Aisles Online 4   Purchase Hy-Vee Aisles Online 4                                             $23.94
+5/18/2026   5/13/2026 XXXX-XXXX-XXXX-2934 Zio Johnos Iowa City     Purchase Zio Johnos Iowa City                                              $271.01
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-5173 Walmart.Com 8009256278   Purchase Walmart.Com 8009256278                                             $18.08
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-0980 Marriott Des Moines F&   Band IBA Conference Meal                                                     $3.25
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-0980 Starbucks Store 02680    Band IBA Conference Meal                                                    $10.84
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-0134 Van Meter Inc - Iowa C    WO 214894 fuses                                                                                          $57.18
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Aisles Online 4    Purchase Hy-Vee Aisles Online 4 FCS K. Schopf                                                            $48.15
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-7615 Menards Iowa City Ia      work light and air blower to clean walk ins                                                             $219.97
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-3897 Menards Marion Ia         Lumber for Intro to ACE class                                                                           $447.42
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-1199    The Home Depot #2108   Bags of rocks from Home Depot for garden for BIH '25 Inclusion and Community Empowerment grant           $35.91
+5/18/2026   5/14/2026 XXXX-XXXX-XXXX-3556 Papa Johns #2170          Purchase Papa Johns #2170band trip to IBA (Iowa Band Assocation) concert in Des Moines, dinner for *    $281.01
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-0722 United 01621023427726     Credit Plane Ticket refund - Itinerary change                                                           -$440.53
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-0722 United 01621023427715     Credit Plane Ticket refund - Itinerary change                                                           -$440.53
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-5173 Dollar Tree               Purchase Dollar Tree                                                                                     $14.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-5173 Amzn Digital Oy2pf7fb3    Purchase Amzn Digital Oy2pf7fb3                                                                          $30.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-5173 Popeyes 12240             Purchase Popeyes 12240                                                                                   $67.88
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9828 Gamechanger Media, Inc    Subscription to Gamechanger Media for baseball to keep stats throughout the season                      $239.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $156.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $156.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $156.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $156.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $156.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $156.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $156.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Staybridge Suites         Band IBA Lodging                                                                                        $176.41
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2938 Tst Smash Park            Band IBA Conference Meal                                                                                $804.15
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6083 Caseys #3858              Supervisory Team Meals                                                                                   $52.37
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6083 Steak-N-Shake#0365 Q99    Party After Prom Award Winners Meal                                                                      $57.11
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6083 National Scholastic Pr    Newspaper Renewal                                                                                       $228.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6083 National Scholastic Pr    Little Hawk Renewal                                                                                     $258.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-0980 Marriott Des Moines F&    Band IBA Conference Meal                                                                                  $3.75
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-0134 Plumb Supply - Ioc - 0    WO 214320 water heater element, fittings                                                                $969.90
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bf80h5l30      Lucas Library books                                                                                      $23.99
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf4m02lc0    NCMS Library books                                                                                       $25.05
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl P02ud9ib3    Purchase Amazon Mktpl P02ud9ib3                                                                         $604.05
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2677 Educational Theatre As    Drama Thespian Membership Renewal                                                                       $126.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2677 National Speech Debat     Debate Competition Registration                                                                         $489.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Iowa City 1285     Purchase Hy-Vee Iowa City 1285 FCS K. Schopf                                                             $12.25
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl K03j21ac3    Pacon Tru-Ray Heavyweight Construction Paper x2                                                          $14.28
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ox22o9ka3    Pacon 103041 Tru-Ray Construction Paper x2                                                               $16.36
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Yo8ve5xi3    Safety Glasses Over Eyeglasses 12- Ind Tech/Levi Wood                                                    $22.79
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Xt5n36wu3    4pcs MT1 Steel Wood Lathe Live Center Drive Spur Cup Arbor with Wood Case - Levi Wood/Ind Tech           $25.99
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl K10z76ii3    Graduation Honor Cords - Maureen Head                                                                    $31.80
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf6dc2om0    Adventure Awaits Begin Arch Backdrop- T.Scudder/Intntl Club                                              $32.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf0831lz0    Livewire SPDI Passive Direct Box- Bill Scheidecker                                                       $38.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf5dp24p0    Graduation Cords Royal Blue/Kelly Green                                                                  $61.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl M46pq3zv3    Shure SM57 Dynamic Microphone- Bill Scheidecker                                                         $184.24
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Mt82r4x43      Language Art Books - Literacy Donation/Karen Clark                                                      $268.70
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Qr2sc8pg3    8" Increment Borers - -Ashley Hansen/Witinok Award Recipient                                            $306.74
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf8wn5460      Fitvids Olympic Bumper Plates Set x5- Big Ideas Grant/Frank Fiordellisi                                 $449.95
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Az91n0ga3    Tools and Supplies - Tom Soat                                                                          $1,012.78
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-9938 Fumex Llc                City dust collector filters                                                                              $1,192.57
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-4247 Van Meter Inc - Iowa C   WO 214299 receptacle, plug                                                                                 $37.53
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-1519 Napa Store 3137142       Stock grease                                                                                               $23.98
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-4706 Loves #0669 Outside      Fuel for van - Math League competition in St. Louis - Liberty                                              $69.75
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-4706 Drury Plaza Chesterfd    Hotel room for Math League competition in St. Louis                                                       $160.88
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-4706 Drury Plaza Chesterfd    Hotel room for Math League competition in St. Louis                                                       $160.88
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-4706 Drury Plaza Chesterfd    Hotel room for Math League competition in St. Louis                                                       $160.88
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-3309 Arbor Day Foundation     Purchase Arbor Day Foundation                                                                             $132.45
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-0063 Sherwin-Williams703783   WO 214960 paint                                                                                            $81.04
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-0312 Sq The Wedge Pizzeria    Purchase Sq The Wedge Pizzeria School Party at night. Student Council                                     $396.90
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2934 International E-Z Up,    Purchase International E-Z Up,                                                                            $280.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-2934 Hibachi Grill Supreme    Purchase Hibachi Grill Supreme                                                                           $1,379.71
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6061 Jfi Iahssca              Purchase Jfi Iahssca                                                                                       $55.42
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6061 Py Elite Sports          Purchase Py Elite Sports                                                                                  $295.32
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-5320 The Latin King           Purchase The Latin King                                                                                    $61.36
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6054 Chilis Florissant #17    Purchase Chilis Florissant #17                                                                             $29.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6054 Gran Rio                 Purchase Gran Rio                                                                                          $30.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6054 Sq Paradise Indian Gr    Purchase Sq Paradise Indian Gr                                                                            $250.00
+5/18/2026   5/15/2026 XXXX-XXXX-XXXX-6054 Sp Wayside Publishin     Purchase Sp Wayside Publishin                                                                             $336.73
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-5166 Hampton Inn Ottumwa      Hotel for State Qualifier (Ottumwa)                                                                       $144.48
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-5166 Hampton Inn Ottumwa      Hotel for State Qualifier (Ottumwa)                                                                       $155.68
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-5166 Hampton Inn Ottumwa      Hotel for State Qualifier (Ottumwa)                                                                       $166.88
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Bf72y0jr0   Purchase Amazon Mktpl Bf72y0jr0                                                                            $28.99
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-5173 Amazon.Com Se80h5z63     Purchase Amazon.Com Se80h5z63                                                                              $43.14
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-0980 Marriott Des Moines F&   Band IBA Conference Meal                                                                                   $12.31
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-0980 Panera Bread #203215 K   Band IBA Conference Meal                                                                                   $16.03
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-0980 Tst Lua Brewing Compan   Band IBA Conference Meal                                                                                   $24.37
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-0980 801 Locust Ramp          Band IBA Conference Parking                                                                                $36.00
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-0980 Marriott Des Moines      Band IBA Conference Lodging                                                                               $503.66
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl 1i6lw79i3   NCMS Library books                                                                                         $17.40
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Lw10w3a33   Purchase Amazon Mktpl Lw10w3a33                                                                           $111.16
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf4p88ar0   Wickham Library supplies                                                                                  $183.91
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl T13jq7jk3   600pk Tyvek Wristbands for Events - 8th Grade Fly Up to City High                                           $8.88
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ht5x08tb3   2000mAh Battery                                                                                            $10.99
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf8ai0n10   LRTOJVS Large Storage Bin, 66 Quart                                                                        $12.49
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf5pn6nb0   MusicNomad Premium Cymbal Cleaner- Bill Scheidecker                                                        $13.99
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf6th2zv0   Biotakeware 300 Pack 8 oz Disposable                                                                       $16.99
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Vl77t3103   3-Ring Binders, Color Coding labels                                                                        $20.97
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf67763r0   Dixon Colored Pencils                                                                                      $29.70
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf1z83tu0     9x12 Clasp Envelopes                                                                                       $39.18
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 7g4cu51m3   The Hobbit: A Graphic Novel ( x2                                                                           $52.91
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 7e9ns9yx3   Award Ribbons, Plastic Trophies                                                                            $56.63
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf4oh9jj0   Bobcat Mouthpiece Puller- Bill Scheidecker                                                                 $58.79
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf77a1tw0   Portable Wi-Fi Router, Compatible TP-Link Roam travel Router - C.Mons/PLTW Classroom                       $61.98
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Cl1xc0jq3   Storage Snack bags, Raffle Ticket Rolls, Velcro Dots, Shipping Tape, Badge Holders, Quart Storage ba *     $98.56
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927          Gas for vans- travel to away match                                                                         $51.89
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-4706 Loves #0669 Outside      Fuel for van - Math League competition in St. Louis - Liberty                                              $48.08
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-4706 Jersey Mikes 38030       Meal at Math League St. Louis competition                                                                  $74.54
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-4001 Gopher Family Brands     Purchase Gopher Family Brands                                                                             $569.12
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-6054 Chick-Fil-A #03497       Purchase Chick-Fil-A #03497                                                                                $23.24
+5/18/2026   5/16/2026 XXXX-XXXX-XXXX-6054 Sq Brick Oven            Purchase Sq Brick Oven                                                                                     $39.76
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-5166 Maverik #5336            Gas for Tennis Van                                                                                         $60.68
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-5173 Amazon.Com 9m5gn35p3     Purchase Amazon.Com 9m5gn35p3                                                                              $21.86
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-5173 Amazon.Com 8e1ti4vj3     Purchase Amazon.Com 8e1ti4vj3                                                                              $28.23
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-2938 Soundly Pro Monthly      Drama Sounding Software Monthly Subscription                                                               $19.99
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-3697 Chipotle Online          Boys TF Banquet Dinner                                                                                   $2,073.57
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Er4tx7zd3   Purchase Amazon Mktpl Er4tx7zd3                                                                            $82.32
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Bf4fz2x70   Horn Library supplies                                                                                     $255.82
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bf94t1xv0     Purchase Amazon.Com Bf94t1xv0                                                                             $343.74
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl E51w00zc3   Purchase Amazon Mktpl E51w00zc3                                                                           $518.00
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-4783 Atlassian                Purchase Confluence by Atlassian subscription                                                             $730.80
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Jj3zz7tp3   Sharpies - 5th grade                                                                                       $12.73
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf6m35m20   ELL Title III Purchase for Regina Elementary - Kelley Latimer                                              $46.11
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl W993g46t3   Foil Pie Pans, Glow Sticks, Shower Caps, Light Up Glasses, Disposable Tablecloths-End of Year PBIS         $60.04
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf9d24v60     Little Horse x4- Title III for Regina Secondary Instructional materials                                    $71.16
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf3vz2gt0     Language Arts Books - Literacy donation/Hannah Armstrong                                                   $90.16
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf4yx1v80   Sticky notes, Tape, digital timers, Dry erase Markers                                                      $92.23
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl N60va4ru3   4pk Acrylic Wall Organizer                                                                                 $94.99
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Fd25x1xj3   Toys for PBIS School Store                                                                                $105.17
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf7sq1gx0   6x9 Envelopes, 9x12 Envelopes, AA Batteries, AAA Batteries                                                $114.62
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf9s94gl0   Science Supplies - Shishonee Hughes - Cheese Cloth/Chalk Markers/Rainbow Balloons/Plastic Cups/Filte *    $162.83
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ap8zi1wq3   Digital Infrared Thermometer gun for cooker, 3pc Aquarium Thermometer-Ashley Hansen/Witinok Award Re *    $193.61
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 8j11t4m63   Clear Acrylic Floating Frames/Various sizes                                                               $368.91
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf8n49v70     Board Games, Novels, English Literature - Title III for Regina Secondary Instructional materials          $424.73
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf79e4vs0   PE Supplies and Equipment - Big Ideas Grant/Frank Fiordellisi                                            $1,574.39
+5/18/2026   5/17/2026 XXXX-XXXX-XXXX-4706 Tst Nami Ramen           Meal at Math League St. Louis competition                                                                 $150.19
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-5173 Amazon.Com 5h1ce6583     Purchase Amazon.Com 5h1ce6583                                                                               $5.64
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Bf3dn0bd0   Purchase Amazon Mktpl Bf3dn0bd0                                                                            $71.64
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Ak83b7703     Purchase Amazon.Com Ak83b7703                                                                             $342.47
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 3g9cf6ku3   Visitor Stickers                                                                                            $9.29
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf66p6b40   Heavy Duty Velcro Tape                                                                                     $18.09
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Po3s79n33   Trend 1000pcs Beechwood - Ind Tech/Levi Wood                                                               $39.19
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Zw2704id3   Mens Athletic Shorts - City High Unified Sports Uniform bottoms - ordered by Tunisia May                   $69.80
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Rz45r8v53   Notebook, DE Markers, Marker holder, Zip Ties, Cable ties                                                  $70.45
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 5z25b0jg3   Pencils, Wired Headsets, Markers, Blue Folders w/Pockets - C.Lewers/Learning Support                      $109.84
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf4a52hj0   Guitar Strap, Guitar Gig Bag, Guitar Wall Hanger, Uke picks - Diane Miller                                $109.91
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Bf44485i0     Electric Stapler, Blanket Ticket Rolls, Electric Pencil Sharpeners - Office/PBIS                          $115.32
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf4lk9b80   PE Supplies and Equipment - Big Ideas Grant/Frank Fiordellisi                                             $211.69
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf8jp3hj0   Giant Bubble Solution, Sidewalk Chalk, 60pk Big Bubble Wands x4                                           $265.64
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf8h69hs0   PE Supplies and Equipment - Big Ideas Grant/Frank Fiordellisi                                             $424.46
+5/18/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf3d58b80   ELL Title III Purchase for Regina Elementary - Kelley Latimer                                             $883.18
+5/19/2026   5/15/2026 XXXX-XXXX-XXXX-1909 Aero Rental And Party    Purchase Aero Rental And PartyFor graduationRO: 2601206Kristina Brown                                      $72.23
+5/19/2026   5/17/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                     $107.66
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-0722 American 0012343811482   Ed Rising Conference Plane Tickets - Christy Weitz - June 23, 2026                                       $692.40
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-0722 American 0012343811483   Ed Rising Conference Plane Tickets - Ella Krupp - June 23, 2026                                          $692.40
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5173 Walmart.Com              Purchase Walmart.Com                                                                                       $1.66
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5173 Walmart.Com              Purchase Walmart.Com                                                                                      $23.88
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5173 Wal-Mart #2827           Purchase Wal-Mart #2827                                                                                   $34.84
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5173 Walmart.Com 8009256278   Purchase Walmart.Com 8009256278                                                                           $58.48
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5173 Walmart.Com              Purchase Walmart.Com                                                                                     $160.52
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5420 Qlt Airport National G   Range Balls                                                                                               $15.59
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5420 Bp#3299700iowa Cityqps   Gas for Golf Van                                                                                          $24.35
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-6083 Lowes #01688             AP Environmental Science Classroom Supplies                                                               $51.86
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-6083 Hy-Vee Iowa City 7042    AP Environmental Science Classroom Supplies                                                               $54.00
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-2093 Wm Supercenter #1721     Culinary Club Supplies and Materials                                                                      $29.46
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-2093 Wm Supercenter #1721     FCS Classroom Supplies and Materials                                                                     $171.65
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-0134 Paypal Aqua Backfl       WO 213827 backflow testing submission fees                                                                $99.50
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Em75t2di3   Purchase Amazon Mktpl Em75t2di3                                                                           $12.25
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9167 Amazon Mktpl Mx8bo8nt3   Purchase Amazon Mktpl Mx8bo8nt3                                                                           $66.35
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9167 Amazon.Com 5s6fs5vv3     Purchase Amazon.Com 5s6fs5vv3                                                                            $198.43
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9167 Amazon.Com 3p4uo8lb3     Purchase Amazon.Com 3p4uo8lb3                                                                            $561.02
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl V957f1f43   Prang Washable Glue Stick, Blue                                                                           $12.73
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Sl3hn0sd3   Post-its                                                                                                  $20.33
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 6s1ro7sz3   Fun Express Take Note Vibrant 12Ct                                                                        $27.02
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl P91ns8ai3   Lip Balms                                                                                                 $32.00
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf7xx98l0   Ziploc 682257 Double Zipper Bags                                                                          $38.06
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Xt6ic1cz3   Tempera paint, Elmer's Liquid Glue,- Art Classroom                                                        $39.03
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Mv8zx3rx3   36 Pcs Mini Dry Erase                                                                                     $45.87
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 5e8kq92s3   Medical Supplies - Health Services                                                                        $80.74
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Zj8tt6jf3   A Library of Tree House 1-28 Complete Set ELL Title III Purchase for Regina Elementary - Kelley Lati *   $177.08
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Q59wy6om3   The Writing Rope, Highlighters, Lam Pouches, Storage Clipboards, Stress balls, Folders w/Pockets         $286.67
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Nr8151n53     Marzano Planning/Teaching Guide x15, Leading Standards-Based Learning Guide x5 - Grant Funds             $486.50
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Bf7tl8bi0   ELL Title III Purchase for Regina Elementary - Kelley Latimer                                            $581.94
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-3871 Fareway Meat And Groce   Supplies                                                                                                 $113.89
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9410 Liberty Doors            WO 214925 threshold                                                                                       $90.00
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-0891 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285FCS suppliesJanelle Roberts                                                 $53.80
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-7670 Wal-Mart #1721           Purchase Wal-Mart #1721                                                                                   $14.19
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9161 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285                                                                             $9.75
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                              $200.88
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-9782 Fareway Meat And Groce   Food Lab Groceries                                                                                        $52.31
+5/19/2026   5/18/2026 XXXX-XXXX-XXXX-5669 Harden Bros Propane In   Purchase Harden Bros Propane In                                                                          $110.94
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Wv3lu1kp3   Purchase Amazon Mktpl Wv3lu1kp3                                                                           $15.96
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-5173 Amazon Mktplace Pmts     Credit Voucher Amazon Mktplace Pmts                                                                      -$24.99
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9167 Amazon.Com W41ez6hg3     Purchase Amazon.Com W41ez6hg3                                                                             $49.32
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 3j0ao5fr3     White Cardstock                                                                                           $12.43
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon.Com S50z78dn3     Dinos Love Donuts (Mythical Feasts) x2- Title 1 Family Night- Lucas c/o Amy Cummer                        $20.78
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Rv8is9p03   DIX22480 - Dixon Colored Pencils                                                                          $23.76
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Gl15q1r83   Pathways For Learning                                                                                     $24.44
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl T35fu3z73   Curad Alcohol Prep Pads                                                                                    $25.98
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Sy4929qm3   Writing Utensils, Pencil Grips, Dot Stickers, Washi Tape, Colored Pencils,Markers- ESSA funds              $85.82
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon.Com N31ok5x83     Library and English Classroom Set Replacement - J.Chamberlain/A.Basile                                   $1,553.93
+5/19/2026   5/19/2026 XXXX-XXXX-XXXX-9219 Veo Technologies Inc.    Final month subscription fee for VEO camera software to record girls soccer games for coaches.            $240.13
+5/20/2026   5/10/2026 XXXX-XXXX-XXXX-2619 Gaylord Inn Opryland F   Meal at hotel                                                                                              $25.72
+5/20/2026   5/18/2026 XXXX-XXXX-XXXX-4247 Van Meter Inc - Iowa C   City parking lot lights                                                                                    $17.32
+5/20/2026   5/18/2026 XXXX-XXXX-XXXX-2589 Chick-Fil-A #03572       Purchase Chick-Fil-A #03572                                                                                $56.20
+5/20/2026   5/18/2026 XXXX-XXXX-XXXX-2589 Paypal Fluffypoms        Purchase Paypal Fluffypoms                                                                                $832.50
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Iowa City 1288    FCS Classroom Supplies and Materials                                                                       $18.68
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Iowa City 1285    FCS Classroom Supplies and Materials                                                                       $54.54
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Cd5308lu3     Purchase Amazon.Com Cd5308lu3                                                                              $31.71
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-3556 Wal-Mart #1721           Purchase Wal-Mart #1721 FCS K. Schopf LTS                                                                  $15.94
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Z65ux5yb3   Tempera paint                                                                                               $9.44
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 8e42e57d3   Bulk Cracker Jack 50boxes - Baseball Concessions                                                           $42.23
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Qz44c8zo3   Heavy Duty Magnetic Clips 20pk x4 - Title 1 Supplies/Alexandel Elem/Beth Ramsey                            $49.20
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ow83l9mw3   Trophies for EOY Awards                                                                                    $64.49
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Walmart.Com              Backpack and 1 pair of shorts. OK'd by Michelle Webster. NCMS Student Chromebook caught on fire in b *    $100.99
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Eo1cc8lz3   Band supplies and Instrument pieces - Bill Scheidecker                                                    $235.17
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Pc2zz15h3   Sterilite Tote IND Wheeled Black 40GA 14699002 - Nutrition Services                                       $279.99
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ak55m1xa3   Sensory Board for Wall - Kindergarten Team - Little Idea Hunt funds purchase                              $470.40
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Unit 118 plug/wires                                                                                        $67.46
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Return brake control harnesses                                                                            -$109.80
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Brake control harnesses                                                                                   $109.80
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-7634 Nichols Controls &supp   PP capacitor                                                                                                $8.51
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-9584 Www Schoolmate Com       Purchase Www Schoolmate Com Planners by request of 3rd and 5th grades                                     $476.00
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-1390 Wal-Mart #2827           Purchase Wal-Mart #2827FCS II apple turnovers                                                              $49.70
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-5372 Blinds.Com #2150         WO 213073 blinds                                                                                          $731.43
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-1909 Sq Donutland             Purchase Sq DonutlandSenior Party donutsRO: 2601209Kristina Brown                                          $70.32
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-7670 Ollies Bargain Outlet    Purchase Ollies Bargain Outlet                                                                              $5.29
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-2589 Walgreens #5977          Purchase Walgreens #5977                                                                                    $4.76
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-2589 Copyworks Coralville     Purchase Copyworks Coralville                                                                               $7.09
+5/20/2026   5/19/2026 XXXX-XXXX-XXXX-6054 Pirate Ship Postage      Purchase Pirate Ship Postage                                                                               $36.17
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-0134 Brycer, Llc              WO 213827 backflow testing submission fee                                                                  $21.00
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Jk39s6gz3   White Noise Machine - SFA Office/S.Norris                                                                  $20.89
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Lf50d22s3   Gold Plastic Forks, 100pk Green Cocktail Napkins x2                                                        $56.36
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Pc7dl6m63     Otter Pops, Giant Original 5.5oz x6 - Softball Concession                                                  $59.88
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon.Com X86ik6gc3     Classroom Books - Title III purchase for Montessori School Instructional materials                         $94.13
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl L18ha5cg3   Office Supplies                                                                                           $242.76
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl F12ql2pa3   Marzano Guide, Construction paper, Learning Standards Guide, Pocket Tissues, Stain Spray                  $428.48
+5/20/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ot2x953m3   Writing Utensils, Binders, WB Erasers, Rulers, Crayons, Markers, Slant Boards, Storage Bin, Marzano *    $1,043.79
+5/21/2026   5/19/2026 XXXX-XXXX-XXXX-5173 Burger King #6104 Q07    Purchase Burger King #6104 Q07                                                                              $8.68
+5/21/2026   5/19/2026 XXXX-XXXX-XXXX-5420 Caseys #3384             Golf Van Gas                                                                                               $21.83
+5/21/2026   5/19/2026 XXXX-XXXX-XXXX-9999 Van Meter Inc - Iowa C   WO 214809 parking lot socket, cover box                                                                    $32.57
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-5173 Walmart.Com              Credit Voucher Walmart.Com                                                                                 -$18.99
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-6083 Sp Andymark Inc.         Raw Bacon Robotics supplies and materials                                                                  $29.31
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-2093 Wal-Mart #2827           FCS Classroom Supplies and Materials                                                                       $34.43
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-3697 Subway 28736                Team Meals                                                                                             $750.00
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-4783 Ups 1z3ftd450309561033      Purchase Ups 1z3ftd450309561033 Rieslynn Goetzinger Tech Shipping                                       $15.81
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 5116m8lw3      Sugar-Free Peppermint Gum, Fidget Clickers, Stretchy Gorilla Toys - SOAR Store items/Michael Madsen    $153.62
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-5203 Glynns Creek Golf Cour      Purchase of range balls for warmup before a meet.                                                      $150.00
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-4706 Bp#2137700westside Qps      Fuel for van use for Liberty Esports going to state competition                                         $40.85
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-4706 Midway Van Rental           Liberty Esports van rental for state competition                                                       $140.49
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-1199    Awards Program Service   Seal of Biliteracy medals for graduation                                                               $160.00
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-9774 Walmart.Com                 Purchase Walmart.Com-Food Labs                                                                         $111.06
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-0891 Wal-Mart #2827              Purchase Wal-Mart #2827FCS suppliesJanelle Roberts                                                       $3.34
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-0891 Wal-Mart #2827              Purchase Wal-Mart #2827FCS suppliesJanelle Roberts                                                      $25.00
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-7670 Wm Supercenter #1721        Purchase Wm Supercenter #1721                                                                            $9.14
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-9041 Hcm Shademaster Nurser      Liberty memorial tree                                                                                  $336.19
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033          Purchase Jersey Mikes 38033                                                                            $334.80
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-6938 Jimmy Johns - 279 Moto      Purchase Jimmy Johns - 279 Moto                                                                        $108.10
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-6938 Iccaevents                  Purchase Iccaevents                                                                                    $177.00
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-6938 Jimmy Johns - 279 Moto      Purchase Jimmy Johns - 279 Moto                                                                        $249.37
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-6938 Elite Sportswear            Purchase Elite Sportswear                                                                              $347.26
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-5669 Tropical Smoothie Cafe      Purchase Tropical Smoothie Cafe                                                                         $92.28
+5/21/2026   5/20/2026 XXXX-XXXX-XXXX-6054 Hy-Vee Coralville 1080      Purchase Hy-Vee Coralville 1080                                                                        $576.67
+5/21/2026   5/21/2026 XXXX-XXXX-XXXX-2309 Vwr International Inc       A&P Classroom Models for Kirkwood Classroom                                                            $870.95
+5/21/2026   5/21/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl L49fu6lr3      Medical Supplies - Health Services                                                                     $238.59
+5/21/2026   5/21/2026 XXXX-XXXX-XXXX-6054 Dd Doordash Pandaexpr       Purchase Dd Doordash Pandaexpr                                                                          $20.89
+5/22/2026   5/20/2026 XXXX-XXXX-XXXX-9999 Van Meter Inc - Iowa C      CFI Parking socket                                                                                      $77.20
+5/22/2026   5/20/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927             Gas for van - travel to away meet                                                                       $86.07
+5/22/2026   5/20/2026 XXXX-XXXX-XXXX-9219 Kwik Star #1016             Gas for van - travel to event for Math Club, Library trip to UI, boys tennis to away match              $34.05
+5/22/2026   5/20/2026 XXXX-XXXX-XXXX-9219 Kwik Star #1927             Gas for vans - travel to away match                                                                     $65.80
+5/22/2026   5/20/2026 XXXX-XXXX-XXXX-0021 Music Theatre Intl          Rights to next years shows                                                                            $4,850.17
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Kq6bk28j3      Purchase Amazon Mktpl Kq6bk28j3                                                                         $22.30
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl 1m3n591m3      Purchase Amazon Mktpl 1m3n591m3                                                                         $22.78
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-5110    Habegger Rcr 2           WO 214002 fittings                                                                                     $808.50
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-6083 Dairy Queen                 Last Staff Meeting Treats                                                                              $260.00
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-0134 Psc Distribution, Inc.      WO 215097 sump pump                                                                                    $204.50
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 8a4kf7nn3        Cardstock (ordered for Brad and Sommer for student certificates)                                        $10.59
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Rx3lh5t03      Kindergarten Dipolomas                                                                                  $17.98
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 8934z0w83      300pk Insulated Bags for Food Delivery - Nutrition                                                     $112.99
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-9199 Amazon.Com                  Credit Crowd Control Stanchions 6pk x1 -Foundation number 4417013                                      -$132.79
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-9199 Amazon.Com                  Credit Crowd Control Stanchions 6pk x1 -Foundation number 4417013                                      -$132.79
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 9v0jd89d3      End of year classroom supplies                                                                         $177.25
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-5273 Linder Tire - Iowa Cit      Unit 426 install tire tube                                                                              $53.56
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-6316 Electric Motors Of Ic       District belts                                                                                          $42.39
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-0891 Hy-Vee Iowa City 1285       Purchase Hy-Vee Iowa City 1285FCS suppliesJanelle Roberts                                                $9.47
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-2934 Racquet Master              Purchase Racquet Master                                                                                $118.00
+5/22/2026   5/21/2026 XXXX-XXXX-XXXX-0021 Awx Concord Theatrical      rights for next years show                                                                            $1,366.32
+5/22/2026   5/22/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl Ws22i75y3      Purchase Amazon Mktpl Ws22i75y3                                                                          $4.99
+5/22/2026   5/22/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl I20hq57c3      Purchase Amazon Mktpl I20hq57c3                                                                         $44.45
+5/25/2026   5/14/2026 XXXX-XXXX-XXXX-6054 Pear Tree Inn St Louis      Purchase Pear Tree Inn St Louis                                                                        $849.44
+5/25/2026   5/19/2026 XXXX-XXXX-XXXX-1909 Hy-Vee Aisles Online 4   Purchase Hy-Vee Aisles Online 4Requisition Order: 2601207For End of Year celebration BBQKristina *        $203.95
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-5173 Pizza Hut 004315         Purchase Pizza Hut 004315                                                                                  $12.98
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-7128 Menards Iowa City Ia     WO 212961 hinge                                                                                             $6.71
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Aisles Online 4   FCS Classroom Supplies and Materials                                                                       $57.32
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Aisles Online 4   Purchase Hy-Vee Aisles Online 4 FCS Ms. Schopf                                                             $69.83
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-5302 Menards Iowa City Ia     WO 215071 silicone sprays                                                                                  $11.47
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-9410 Decker Equip School Fi   WO 215077 security mirror                                                                                  $70.04
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-1665 Awards Rec               Purchase Awards Rec                                                                                       $234.14
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-5669 Keck Parking             Purchase Keck Parking                                                                                       $6.00
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-5669 Keck Parking             Purchase Keck Parking                                                                                      $10.00
+5/25/2026   5/21/2026 XXXX-XXXX-XXXX-6054 Iowrc Hyatt - Online F   Purchase Iowrc Hyatt - Online F                                                                          $1,337.50
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-0722 Hy-Vee Iowa City 1288    Gas Cards - MKV                                                                                          $2,000.00
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-5173 Walmart.Com              Purchase Walmart.Com                                                                                       $36.80
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-5173 Wingstop 1965            Purchase Wingstop 1965                                                                                    $101.33
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-9828 Tst Brick And Ivy        AD Meal during travel to away contest                                                                      $22.47
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-7894 Menards Iowa City Ia     Purchase Menards Iowa City Ia                                                                             $194.80
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-0134 Foster Appliance         WO 214953 washer service call                                                                             $129.95
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285 FCS Ms. Schopf                                                               $1.99
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-9199 Office Express           Label Maker Tape refills                                                                                   $25.75
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-9199 Office Express           Shipping Tape, Colored Pencils                                                                             $96.28
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-9199 Office Express           Office Supplies                                                                                           $150.88
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Unit 124 DEF filler cap                                                                                    $25.53
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-6261 Recreation City Servic   Purchase Recreation City ServicOld MacDonald's Farm Admission for 2nd grade field trip (Little Ide *      $160.00
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-4656 Grammarly Co H6jsoju     Purchase Grammarly Co H6jsoju                                                                             $152.64
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-9584 Earl May 150             Purchase Earl May 150, Live plants for our school garden using Big Idea Hunt funds awarded to Kelly *      $98.87
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-0891 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285FCS SuppliesJanelle Roberts(Left the receipts at home, sent me a ph *        $23.87
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-7670 Hy-Vee Iowa City 1285    Purchase Hy-Vee Iowa City 1285                                                                             $12.05
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-6061 Maverik #5393            Purchase Maverik #5393                                                                                     $70.00
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-9782 Fareway Meat And Groce   Food Lab Groceries                                                                                          $0.35
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-9782 Fareway Meat And Groce   Food Lab Groceries                                                                                         $73.82
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-6938 Sp Royal Gourmet Corp    Purchase Sp Royal Gourmet Corp                                                                            $457.20
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-5669 Keck Parking             Purchase Keck Parking                                                                                      $10.00
+5/25/2026   5/22/2026 XXXX-XXXX-XXXX-6054 Sonshine Dry Cleaners    Purchase Sonshine Dry Cleaners                                                                             $62.94
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5166 Amoco#1054000dodge Qps   Boys TF Van Gas                                                                                            $22.53
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5166 Maverik #5361            Boys TF Van Gas                                                                                            $45.65
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9828 Culvers Of Altoona       AD Meal during travel to away contest                                                                      $12.62
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9828 Holiday Inn Express &    Hotel rooms for Boys & Girls Track team during the State Meet                                            $4,630.08
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5420 Bp#5987524j&s Expreqps   Girls TF Van Gas                                                                                           $78.89
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Fv3pz9d93     Purchase Amazon.Com Fv3pz9d93                                                                              $10.24
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9167 Amazon.Com 2286z7ho3     Purchase Amazon.Com 2286z7ho3                                                                              $16.69
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Nq24d3xh3   Mabor 6Pcs Keyboard Fidget Clicker x9- SOAR Store items/Michael Madsen                                     $62.91
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Se0p23xq3   Industrial Tech Classroom Supplies - Schares                                                              $276.96
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Gy61c7o93   GymNext Flex Timer - Bluetooth App-Controlled Wall Mounted 23" LED Gym Clock w/Large Digits-BIH/Fran *    $289.00
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 702cq3d93   Large order of Classroom and Office Supplies                                                              $905.69
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927          Gas for vans - travel to Drake Relays                                                                      $62.08
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5203 Caseys #1025             Gas for vans - travel to Drake Relays                                                                     $102.62
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9219 Kwik Star #1738                     Gas for van - Travel to away meet                                                                             $27.12
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9219 Kwik Star #932                      Gas for vans - travel to away meet                                                                            $42.30
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-9219 Kwik Star #932                      Gas for vans - travel to away meet                                                                            $69.87
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Maverik #5019                       Purchase Maverik #5019                                                                                        $83.38
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $362.88
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $385.28
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $385.28
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $385.28
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $385.28
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $385.28
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $385.28
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $544.32
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $544.32
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $577.92
+5/25/2026   5/23/2026 XXXX-XXXX-XXXX-5669 Hotel Fort Des Moines               Purchase Hotel Fort Des Moines                                                                               $583.27
+5/25/2026   5/24/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033                  Purchase Jersey Mikes 38033                                                                                  $334.80
+5/25/2026   5/24/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033                  Purchase Jersey Mikes 38033                                                                                  $334.80
+5/25/2026   5/25/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Ai8dn8lb3              Nordic Walking Trekking Poles, 12pk Digital Stopwatch/Timers, Standing Long Jump Mat, White Duct Tap *       $140.45
+5/26/2026   5/25/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Bu8e91561                Purchase Amazon.Com Bu8e91561                                                                                 $25.78
+5/26/2026   5/25/2026 XXXX-XXXX-XXXX-9199 Amazon.Com X83k92w33                Arise: The Art of Transformational Coaching - for new Instructional Coach/Lindsay Worley                      $21.09
+5/26/2026   5/25/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Y89c93bq3              Thermal Laminating Pouches, Sensory Toys, 6pk Folders w/Pockets                                               $86.71
+5/26/2026   5/25/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl J90gs3rs3              Large White Tuff Tray - Shared Visions Preschool Twain                                                       $124.32
+5/26/2026   5/25/2026 XXXX-XXXX-XXXX-3871 Fareway Meat And Groce              Grocery supplies                                                                                               $2.87
+5/26/2026   5/25/2026 XXXX-XXXX-XXXX-3871 Fareway Meat And Groce              Grocery supplies                                                                                              $54.85
+5/26/2026   5/25/2026 XXXX-XXXX-XXXX-6054 Dd Doordash Eggrollho               Purchase Dd Doordash Eggrollho                                                                                $80.68
+5/26/2026   5/26/2026 XXXX-XXXX-XXXX-5670 Payment - Automatic Pymt Received   Payment                                                                                                  -$183,092.24
+5/26/2026   5/26/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl F84ff80x3              PBIS Panther Shuffle Event items                                                                             $206.53
+5/27/2026   5/25/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Aisles Online 4              FCS Classroom Supplies and Materials                                                                          $24.05
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-5173 Walmart.Com                         Purchase Walmart.Com                                                                                           $5.97
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-2309 Gopher Family Brands                Backboard replacements for elementary pe/field day                                                           $326.56
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-2093 Wm Supercenter #2827                FCS Classroom Supplies and Materials                                                                          $30.98
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-2093 Wm Supercenter #2827                FCS Classroom Supplies and Materials                                                                          $40.30
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-3288 Nichols Controls &supp              WO 212873 UV sensor                                                                                          $419.71
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-0134 Plumb Supply - Ioc - 0              WO 202352 fittings                                                                                           $621.94
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-3556 Wm Supercenter #1721                Purchase Wm Supercenter #1721 FCS Ms. Schopf                                                                  $46.44
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl A94nh4g53              Large White Tuff Tray - Shared Visions Preschool Twain                                                        $94.68
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-5273 Pyramid Services                    Unit 416 starter                                                                                             $260.00
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-5273 Pyramid Services                    Unit 416 starter sales tax refund                                                                           -$275.60
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4               Core returns                                                                                                -$100.00
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4     Stock filters, plugs, wipers                                                             $485.35
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-9774 Walmart.Com 8009256278    Purchase Walmart.Com 8009256278-Food Labs                                                $108.12
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-3050 Copyworks Coralville      Purchase Copyworks Coralville-Instruction copies                                         $116.80
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-1390 Wal-Mart #2827            Purchase Wal-Mart #2827FCS II cheesecake                                                  $65.30
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-1375 Wm Supercenter #2827      Purchase Wm Supercenter #2827                                                             $78.89
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-0891 Hy-Vee Iowa City 1285     Purchase Hy-Vee Iowa City 1285FCS suppliesJanelle Roberts                                  $9.25
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-7670 Wal-Mart #1721            Purchase Wal-Mart #1721                                                                    $3.48
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-9161 Fareway Stores #950       Purchase Fareway Stores #950                                                              $28.80
+5/27/2026   5/26/2026 XXXX-XXXX-XXXX-6938 Jimmy Johns - 279 Moto    Purchase Jimmy Johns - 279 Moto                                                          $212.12
+5/27/2026   5/27/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl 469c24tv3    Purchase Amazon Mktpl 469c24tv3                                                           $23.99
+5/27/2026   5/27/2026 XXXX-XXXX-XXXX-5173 Amazon Mktpl J36xk9d33    Purchase Amazon Mktpl J36xk9d33                                                           $51.85
+5/28/2026   5/22/2026 XXXX-XXXX-XXXX-6061 Fairfield Inn & Suites    Purchase Fairfield Inn & Suites                                                          $178.08
+5/28/2026   5/22/2026 XXXX-XXXX-XXXX-6061 Fairfield Inn & Suites    Purchase Fairfield Inn & Suites                                                          $178.08
+5/28/2026   5/22/2026 XXXX-XXXX-XXXX-6061 Fairfield Inn & Suites    Purchase Fairfield Inn & Suites                                                          $178.08
+5/28/2026   5/22/2026 XXXX-XXXX-XXXX-6061 Fairfield Inn & Suites    Purchase Fairfield Inn & Suites                                                          $178.08
+5/28/2026   5/22/2026 XXXX-XXXX-XXXX-6061 Fairfield Inn & Suites    Purchase Fairfield Inn & Suites                                                          $178.08
+5/28/2026   5/26/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Aisles Online 4    FCS Classroom Supplies and Materials                                                      $80.84
+5/28/2026   5/26/2026 XXXX-XXXX-XXXX-1519 Napa Store 3137142        Stock oil, filters                                                                       $332.55
+5/28/2026   5/26/2026 XXXX-XXXX-XXXX-9774 Hy-Vee Aisles Online 4    Purchase Hy-Vee Aisles Online 4-Food Labs                                                 $41.23
+5/28/2026   5/26/2026 XXXX-XXXX-XXXX-5108 Menards Iowa City Ia      District fittings                                                                          $3.78
+5/28/2026   5/26/2026 XXXX-XXXX-XXXX-5774 Menards Iowa City Ia      Mercer Park fields cable ties, lumber                                                    $235.47
+5/28/2026   5/26/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033        Purchase Jersey Mikes 38033                                                              $355.72
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-0722 Rev.Com                   ICCSD Board of Education - Closed Captioning Board Mtg 5/26/26 - 2hours 17minutes        $443.88
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-5173 Amzn Digital 7e1xp2ah3    Purchase Amzn Digital 7e1xp2ah3                                                           $30.00
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-9828 Dairy Queen #40672        AD Meal during travel to away contest                                                      $9.83
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-9828 Harrys Custom Trophies    Engraving of trophy Plate won by girls Golf team                                          $14.08
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-3288 Johnstone Supply - 614    Purchase Johnstone Supply - 614                                                          $412.72
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-0134 Psc Distribution, Inc.    WO 215216 valves                                                                         $159.32
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-0134 Plumbing Heating Cooli    W. Walters backflow certification course                                                 $676.00
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Sw12a0qf3      Purchase Amazon.Com Sw12a0qf3                                                             $28.71
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-7615 Isu Event Registration    procurement meeting - smith                                                              $105.00
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 7k9kt8qw3      EXPO Dry Erase Markers,- C.Lewers/Learning Support                                        $32.99
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-5273 Harbor Freight Tools30    Liberty chalker tires, shop gloves, gloves (returned)                                     $87.94
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4     Stock filters                                                                             $98.00
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-1199    Sq Heyns Ice Cream #   Ice cream for band social                                                                $358.60
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-1390 Hy-Vee Coralville 1080    Purchase Hy-Vee Coralville 1080FCS II cheesecake plating                                  $10.48
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-9782 Fareway Meat And Groce    Food Lab Groceries                                                                       $127.74
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-5669 Golf Headquarters         Purchase Golf Headquarters                                                                $45.00
+5/28/2026   5/27/2026 XXXX-XXXX-XXXX-6054 Hy-Vee Coralville 1080    Purchase Hy-Vee Coralville 1080                                                          $162.87
+5/28/2026   5/28/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 7b7299fg3    48pk Magnetic Whiteboard Dry Erase Erasers x2 - missed during first order - ESSA funds    $26.58
+5/28/2026   5/28/2026 XXXX-XXXX-XXXX-9199 Amazon.Com I36ak38c3      Title III Purchase - DK English Pilot Materials                                          $154.22
+5/28/2026   5/28/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl L12nh5573    Classroom Books, Sticky Notes                                                            $254.71
+5/29/2026   5/27/2026 XXXX-XXXX-XXXX-3697 2 Dogs Pub                Team Meal                                                                                $405.00
+5/29/2026   5/27/2026 XXXX-XXXX-XXXX-9199 Odp Bus Sol Llc# 10686    Address Labels, Ballpoint Pens - Nutrition dept./Kianne Lippold                          $290.54
+5/29/2026   5/27/2026 XXXX-XXXX-XXXX-3818 Menards Iowa City Ia      WO 215771 post, caps                                                                       $8.27
+5/29/2026   5/27/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927           Gas for vans- travel to away game                                                         $36.48
+5/29/2026   5/27/2026 XXXX-XXXX-XXXX-5669 Waverly Golf Course      Purchase Waverly Golf Course                                                                      $81.76
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-5173 Culvers                  Purchase Culvers                                                                                  $70.43
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Iowa City 1288    FCS Classroom Supplies and Materials                                                              $17.20
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-4815 The Ups Store 6597       Mercer soil samples shipping                                                                      $29.71
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-3288 Electric Motors Of Ic    Unit 110 refill acetylene/oxygen tanks                                                            $83.20
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-3288 Johnstone Supply - 614   WO 215285 temp sensor                                                                            $157.06
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-9167 Amazon.Com Z148x5vm3     Purchase Amazon.Com Z148x5vm3                                                                       $7.99
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-4783 Ups 1z81t2kh0320026212   Purchase Ups 1z81t2kh0320026212 Robyn Wagner Tech Shipping                                        $15.81
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-4783 Ups 1z875ty60394731060   Purchase Ups 1z875ty60394731060 Adam Krause Tech Shipping                                         $19.21
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl D98cy00l3   6Pcs Lap Desk Tray                                                                                $37.41
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-5273 Harbor Freight Tools30   Stock inner tube                                                                                    $5.99
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-5273 Harbor Freight Tools30   Liberty chalker tires, shop gloves                                                                $62.95
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-5273 Harbor Freight Tools30   Liberty chalker tires, shop gloves (refunded wrong items)                                         -$62.95
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033       Purchase Jersey Mikes 38033                                                                      $355.72
+5/29/2026   5/28/2026 XXXX-XXXX-XXXX-6054 Wal-Mart #1721           Purchase Wal-Mart #1721                                                                           $31.04
+5/29/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl A55av2ff3   Cube Seat, Storage Cabinet                                                                       $562.04
+5/29/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon.Com T74lw0wp3     English for Everyone: Level 1 Practice x75 - Title III Purchase - DK English Pilot Materials     $719.25
+5/29/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 042i25e03     Co-Teaching for English Learners - Title III Purchase for June 2026 PD                          $1,444.30
+ 6/1/2026   5/21/2026 XXXX-XXXX-XXXX-6061 Fairfield Inn & Suites   Purchase Fairfield Inn & Suites                                                                 $3,561.60
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-5173 Burger King #6104 Q07    Purchase Burger King #6104 Q07                                                                    $13.43
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-2677 Delta 00674940271795     Debate Competition Registration                                                                  $293.20
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-2677 Delta 00674940271810     Debate Competition Registration                                                                  $293.20
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-2677 Delta 00674940271806     Debate Competition Registration                                                                  $293.20
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-2677 United 01621068344474    Debate Competition Registration                                                                  $528.22
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-2677 United 01621068344496    Debate Competition Registration                                                                  $528.22
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-2677 United 01621068344485    Debate Competition Registration                                                                  $528.22
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-5669 Waverly Golf Course      Purchase Waverly Golf Course                                                                      $30.66
+ 6/1/2026   5/28/2026 XXXX-XXXX-XXXX-6054 Peking Buffet Inc        Purchase Peking Buffet Inc                                                                       $500.00
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-0722 Pdk International        Ed Rising Conference - National Conference Registrations - Christy Weitz & Ella Krupp            $630.00
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-0722 Home2 Stes Dsm Drake U   Home2 Stes Dsm Drake University-City High Athletics-G/B State Track Accommodations             $19,310.41
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-3697 Dominos 1739             Team Meal                                                                                        $141.12
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-3697 Subway 28736             Team Meal                                                                                        $517.50
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-0134 Psc Distribution, Inc.   WO 215256 cartridges                                                                             $402.86
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9999 Van Meter Inc - Iowa C   WO 215098 transformer                                                                             $44.72
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-7615 The Webstaurant Store    induction pans                                                                                   $129.99
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-7615 Academy,cdr,acend        Demory RD member dues                                                                            $264.00
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Qa7lp3ae3     Tostitos 28pk - Softbal Concessions                                                               $27.95
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Stapls7915473678001001   Credit ENVL CLASP 28 10X13 KRAFT 100                                                             -$109.35
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon Mktplace Pmts     Credit 2pc Inflatable Bumper Balls - Sakinah Ellickson/Senior Sendoff Assembly                   -$162.01
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon Mktplace Pmts     Credit 2pc Inflatable Bumper Balls - Sakinah Ellickson/Senior Sendoff Assembly                   -$162.01
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon Mktplace Pmts     Credit 2pc Inflatable Bumper Balls - Sakinah Ellickson/Senior Sendoff Assembly                   -$162.01
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon Mktplace Pmts     Credit 2pc Inflatable Bumper Balls - Sakinah Ellickson/Senior Sendoff Assembly                   -$162.01
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-9199 Amazon Mktplace Pmts     Credit Jumping Mats x2                                                                           -$175.98
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Unit 93 thermostat, seal                                                                          $15.73
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-1519 Arnold Motor Supply 4    Unit 111 hydraulic filter                                                                         $26.21
+ 6/1/2026   5/29/2026 XXXX-XXXX-XXXX-1519 Napa Store 3137142       Stock coolant                                                                                     $75.96
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-2619 Subway 64974               Subway meal for JC and BS on the way to substate soccer                                                    $25.74
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   WO 215098 fuses                                                                                            $52.37
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-1390 Wm Supercenter #2827       Purchase Wm Supercenter #2827FCS II cookie wars, food and nutrition apple salad                           $151.55
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-0063 Sherwin-Williams703280     WO 201243 clear sealant                                                                                   $101.70
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-5923 Menards Iowa City Ia       Folder chair replacement feet                                                                              $26.46
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-5774 White Cap #105             Mercer bullpens sandbags                                                                                   $21.01
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-5320 Openai Chatgpt Subscr      Purchase Openai Chatgpt Subscr                                                                             $21.20
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033         Purchase Jersey Mikes 38033                                                                               $334.80
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-5669 Kwik Star #1213            Purchase Kwik Star #1213                                                                                   $51.00
+6/1/2026   5/29/2026 XXXX-XXXX-XXXX-5669 Courtyard By Marriott      Purchase Courtyard By Marriott                                                                            $689.48
+6/1/2026   5/30/2026 XXXX-XXXX-XXXX-5173 McDonalds 34524            Purchase McDonalds 34524                                                                                   $25.00
+6/1/2026   5/30/2026 XXXX-XXXX-XXXX-4783 Ups 1zg80j1t0333581657     Purchase Ups 1zg80j1t0333581657 Greta Bahnsen Tech Shipping                                                $15.81
+6/1/2026   5/30/2026 XXXX-XXXX-XXXX-9199 Stapls7679845059000001     Presentation Boards - Scudder (order was keyed in on May 12, but Principal didn't approve until 5/28 *     $73.26
+6/1/2026   5/30/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1927            Gas for vans - Travel to Substate game                                                                     $56.17
+6/1/2026   5/30/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1738            Gas for vans - travel to Substate game                                                                     $72.16
+6/1/2026   5/30/2026 XXXX-XXXX-XXXX-5203 Kwik Star #1738            Gas for vans - Travel to Substate game                                                                     $73.62
+6/1/2026   5/30/2026 XXXX-XXXX-XXXX-5923 Uline Ship Supplies        Packing boxes, tape                                                                                      $2,079.93
+6/1/2026   5/31/2026 XXXX-XXXX-XXXX-4783 Ups Adj00401790262261      Purchase UPS Adj00401790262261 adjustment charge for excess weight                                          $3.32
+6/1/2026   5/31/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 9d0hk42q3     Jabari Jumps: (A Motivational Story                                                                         $5.62
+6/1/2026   5/31/2026 XXXX-XXXX-XXXX-9199 Amazon.Com A17j601x3       Softball Concession Stand-Doritos                                                                          $41.48
+6/1/2026   5/31/2026 XXXX-XXXX-XXXX-7262 Streamlabs Ultra           Purchase Streamlabs Ultra                                                                                 $157.94
+6/1/2026   5/31/2026 XXXX-XXXX-XXXX-6054 Hospitality Performanc     Purchase Hospitality Performanc                                                                          $1,603.10
+6/2/2026   5/31/2026 XXXX-XXXX-XXXX-7262 Menards Iowa City Ia       Purchasing tarps to cover the softball mound in order to protect it from weather and a table to use *      $93.20
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-5420 Google Workspace Littl     Football Website                                                                                           $19.08
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-3697 Dominos 1722               Team Meal                                                                                                  $94.16
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-3556 Fareway Stores #950        Purchase Fareway Stores #950 FCS Ms. Schopf                                                                $20.21
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-4783 Google Cloud C9vx9x        Purchase Google Cloud C9vx9x back up servics                                                             $1,301.74
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-1199   Awards Program Service   Seal of Biliteracy medals for graduation                                                                   $55.00
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-1390 Hy-Vee Coralville 1080     Purchase Hy-Vee Coralville 1080FCS II cookie wars                                                          $15.26
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-0063 Sherwin-Williams703783     WO 212900 pails, strainer                                                                                  $23.06
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-0891 Hy-Vee Iowa City 1285      Purchase Hy-Vee Iowa City 1285FCS suppliesJanelle Roberts                                                   $4.96
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-6061 Wm Supercenter #2827       Purchase Wm Supercenter #2827                                                                              $19.89
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-5320 Zazzle Inc                 Purchase Zazzle Inc                                                                                       $193.88
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-2589 Subway 14695               Purchase Subway 14695                                                                                     $490.91
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-6938 Papa Johns #2445           Purchase Papa Johns #2445                                                                                 $242.29
+6/2/2026    6/1/2026 XXXX-XXXX-XXXX-6938 Jersey Mikes 38033         Purchase Jersey Mikes 38033                                                                               $592.87
+6/2/2026    6/2/2026 XXXX-XXXX-XXXX-9167 Amazon.Com 0i6425a93       Purchase Amazon.Com 0i6425a93                                                                              $18.93
+6/2/2026    6/2/2026 XXXX-XXXX-XXXX-9167 Amazon.Com 8p5t06163       Purchase Amazon.Com 8p5t06163                                                                              $20.78
+6/2/2026    6/2/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 5c7t339i3     Preschool Classroom Supplies - last order                                                                 $200.16
+6/3/2026    6/1/2026 XXXX-XXXX-XXXX-5173 Burger King #6104 Q07      Purchase Burger King #6104 Q07                                                                              $8.79
+6/3/2026    6/1/2026 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     WO 215233 hardware, lumber                                                                                $102.50
+6/3/2026    6/1/2026 XXXX-XXXX-XXXX-1797 Menards Iowa City Ia       Primer for customer shed                                                                                  $168.92
+6/3/2026    6/2/2026 XXXX-XXXX-XXXX-2093 Hy-Vee Iowa City 1288      FCS Classroom Supplies                                                                                     $23.78
+6/3/2026    6/2/2026 XXXX-XXXX-XXXX-9167 Amazon.Com                 Credit Voucher Amazon.Com                                                                                  -$30.65
+6/3/2026    6/2/2026 XXXX-XXXX-XXXX-3556 Wal-Mart #1721             Purchase Wal-Mart #1721 FCS Ms. Schopf                                                                     $37.99
+6/3/2026    6/2/2026 XXXX-XXXX-XXXX-5302 Doors Inc Iowa City        Unit 92 door sweeps                                                                                       $302.82
+6/3/2026   6/2/2026 XXXX-XXXX-XXXX-7634 Nichols Controls &supp     WO 215499 capacitor                                                                             $5.97
+6/3/2026   6/2/2026 XXXX-XXXX-XXXX-5203 Alphagraphics N Libert     Printing End of season awards for Girls Soccer                                                  $5.00
+6/3/2026   6/2/2026 XXXX-XXXX-XXXX-1199    Usps Po 1866150317      Postcard stamps for PBIS postards                                                             $122.00
+6/3/2026   6/2/2026 XXXX-XXXX-XXXX-6938 Jimmy Johns - 279 Moto     Purchase Jimmy Johns - 279 Moto                                                               $212.12
+6/3/2026   6/2/2026 XXXX-XXXX-XXXX-6054 Pirate Ship Postage        Purchase Pirate Ship Postage                                                                    $5.17
+6/3/2026   6/2/2026 XXXX-XXXX-XXXX-6054 Pirate Ship Postage        Purchase Pirate Ship Postage                                                                    $5.17
+6/3/2026   6/2/2026 XXXX-XXXX-XXXX-6054 Pirate Ship Postage        Purchase Pirate Ship Postage                                                                    $5.17
+6/3/2026   6/3/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 9l9ex9zx3       BIC Xtra Strong Mechanical Pencils                                                              $5.96
+6/3/2026   6/3/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 8z1369363       English for Everyone Practice Book X44                                                        $421.96
+6/3/2026   6/3/2026 XXXX-XXXX-XXXX-9199 Amazon.Com J15a73a03       English for Everyone Course Book x28, English for Everyone Practice Book x31                  $633.01
+6/3/2026   6/3/2026 XXXX-XXXX-XXXX-9199 Amazon.Com Gr59p8rh3       English for Everyone Course Book x122                                                        $1,438.78
+6/4/2026   6/2/2026 XXXX-XXXX-XXXX-9999 Van Meter Inc - Iowa C     WO 215510 patch cable                                                                           $8.33
+6/4/2026   6/2/2026 XXXX-XXXX-XXXX-3556 Hy-Vee Aisles Online 4     Purchase Hy-Vee Aisles Online 4 FCS Ms. Schopf                                                 $20.39
+6/4/2026   6/2/2026 XXXX-XXXX-XXXX-7350 Menards Iowa City Ia       WO 215282 corner beads, joint compound                                                         $45.40
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-0722 Rev.Com                    ICCSD Board of Education-Closed Captioning Board Mtg 6/2/26 - 45minutes                       $145.80
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-5173 McDonalds M2022            Purchase McDonalds M2022                                                                        $4.76
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-5173 Amzn Digital 8i43p6cu3     Purchase Amzn Digital 8i43p6cu3                                                                $10.00
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-9828 Daktronics Inc.            Purchase Daktronics Inc.                                                                      $535.00
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-5110    Electric Motors Of Ic   Unit 119 nitrogen                                                                              $48.14
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-3697 Subway 28736               Team Meal                                                                                     $232.50
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-7615 The Webstaurant Store      monthly shipping Webstaurant                                                                   $99.00
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-7615 Wm Supercenter #1721       staff attend incentives                                                                       $140.01
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-2590 Sq Kona Ice Of Easter      Purchase Sq Kona Ice Of Easter                                                                $185.00
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-9199 Amazon.Com 6i3n360n3       Hair Like Mine (Kids Like Mine)                                                                $10.95
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 7424o5gz3     2pcs Circle Cutter, Velcro Dots - Alexander Shared Visions-PreK                                $21.98
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 3566b0u43     Erasable Gel Pens, 12pk 3-Ring Binders, 12pk Legal Pads- Nutrition Services                    $72.52
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-7634 Psc Distribution, Inc.     Purchase Psc Distribution, Inc.                                                               $139.81
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-7634 Hcm Leets Refrigeraton     Purchase Hcm Leets Refrigeraton                                                               $225.50
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-1390 Wal-Mart #2827             Purchase Wal-Mart #2827food and nutrition burritos                                             $20.88
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-5108 Psc Distribution, Inc.     SEMS elbow                                                                                     $47.31
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-5108 Electric Motors Of Ic      District belts                                                                                $140.99
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-8548 Psc Distribution, Inc.     WO 215216 bottle filling station                                                              $919.30
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-6061 Papa Johns #2512           Purchase Papa Johns #2512                                                                     $105.90
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-2589 Jersey Mikes 38033         Purchase Jersey Mikes 38033                                                                   $592.87
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-6938 Jimmy Johns - 279 Moto     Purchase Jimmy Johns - 279 Moto                                                               $249.37
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-5669 Maverik #5298              Purchase Maverik #5298                                                                         $58.33
+6/4/2026   6/3/2026 XXXX-XXXX-XXXX-5669 Maverik #5298              Purchase Maverik #5298                                                                         $69.50
+6/4/2026   6/4/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl C50nd7wv3     LAND 22-Piece Small Tool Kit with Toolbox- Alexander Shared Visions-PreK                       $12.49
+6/4/2026   6/4/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Tv2og0813     Drop Safe - Wall mountable safe for cash bag safety drops at the visitor concession stand.    $218.49
+6/4/2026   6/4/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl 6k9kw5er3     Electronic Equipment and accessories - Big Idea City Digital Musical Foundation Grant        $3,160.80
+6/4/2026   6/4/2026 XXXX-XXXX-XXXX-6938 Pro Tuff Decals            Purchase Pro Tuff Decals                                                                      $486.75
+6/5/2026   6/3/2026 XXXX-XXXX-XXXX-7128 Menards Iowa City Ia       WO 211688 angles, tapes, hardware, adhesives, lumber                                          $203.77
+6/5/2026   6/3/2026 XXXX-XXXX-XXXX-1797 Menards Iowa City Ia       Hand Seamer/Bender for metal roof                                                              $22.99
+6/5/2026   6/3/2026 XXXX-XXXX-XXXX-3288 Staples 0626               WO 215541 battery backup                                                                       $99.99
+6/5/2026   6/3/2026 XXXX-XXXX-XXXX-7350 Decker Equip School Fi     WO 215668 folding barriers                                                                    $575.43
+6/5/2026   6/3/2026 XXXX-XXXX-XXXX-6054 Dominos 1733               Purchase Dominos 1733                                                                         $179.77
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-5110    Johnstone Supply - 614   Unit 119 gloves                                                  $303.27
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-2938 Sp Stanbury Uniforms A      Summer Marching Band Supplies and Uniform                         $29.91
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-2938 Band Shoppe                 Summer Marching Band and Color Guard Supplies and Uniforms       $371.93
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-6083 J.W. Pepper                 Summer Show Choir Camp Music and Sheet Music                     $160.81
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-2093 Wal-Mart #2827              FCS Classroom Supplies and Materials                              $84.16
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-7615 Wm Supercenter #1721        staff incentives                                                  $32.26
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-4783 Ups 1z817bbt0333670034      Purchase Ups 1z817bbt0333670034                                   $15.81
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl T472m8od3      8PCS Glitter Cheer Bow 8 Large x3                                 $55.17
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-9199 Amazon Mktpl Zv51r52g3      Hair Bows - Cheer                                                 $55.99
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-5273 Linder Tire - Iowa Cit      Unit 426 mount tire                                               $20.00
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-5273 Sinclair Tractor            Unit R2 gas cap                                                   $42.01
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-1519 The Liftgate Parts Co.      Unit 104/stock latch springs                                      $65.00
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-4706 Uca Camps & Competitio      Cheer camp registration for JS-Foundation reimbursing            $227.00
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-1199    Kerry Marsh              Music purchase for Jazz Choir                                    $110.00
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-1199    Anchormusic.Com          Music purchase for Jazz Choir                                    $110.00
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-1199    Every Bloomin Thing      Graduation flowers                                               $112.00
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-9410 Lowes #01688                WO 215234 hardware                                                $37.98
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-0063 Sherwin-Williams703783      Purchase Sherwin-Williams703783                                  $108.91
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-8548 Psc Distribution, Inc.      PP water heater expansion tank                                    $63.27
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-8548 Plumbing Heating Cooli      Backflow class                                                   $676.00
+6/5/2026   6/4/2026 XXXX-XXXX-XXXX-2934 Walgreens #5977             Purchase Walgreens #5977                                          $14.28
+                                                                    Debit Total                                                  $212,475.97
+                                                                    Credit Total                                                 -$188,566.58
+                                                                    Total                                                         $23,909.39
+

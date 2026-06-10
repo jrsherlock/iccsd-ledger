@@ -1,0 +1,369 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                      Page: 1
+04/08/2025 12:19 PM                                                                                                                           User ID: 16976
+Checking Account:      1                  1
+Check Number: 410328           Check Type: Check      Check Date: 04/08/2025    Vendor: 008904    CIT CHARTERS INC             Check Total:        2,235.98
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  21030                    03/25/2025                    3/25 LIB BTK                             10 0114 2700 920 6740 515       2,235.98
+
+Check Number: 410329           Check Type: Check      Check Date: 04/08/2025    Vendor: 000465    CITY OF IOWA CITY            Check Total:        1,104.19
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  032625                   03/26/2025                    1057210-312216 Water - PP                10 0050 2620 000 0000 411           2.25
+  032625                   03/26/2025                    1200109-325899 Water - City              10 0109 2620 000 0000 411         401.60
+  032625                   03/26/2025                    1200100-312216 Water - City              10 0109 2620 000 0000 411          14.42
+  032625                   03/26/2025                    1201685-312216 Water-Lincoln             10 0418 2620 000 0000 411          17.56
+  032625                   03/26/2025                    2001718-418286 Water-Longfellow          10 0427 2620 000 0000 411           5.05
+  032625                   03/26/2025                    1111171-401826 Water-Alexander           10 0442 2620 000 0000 411         468.65
+  032625                   03/26/2025                    2001156-413384 Water-Hoover              10 0463 2620 000 0000 411           4.33
+  032625                   03/26/2025                    2002466-325903 Water-Shimek              10 0468 2620 000 0000 411         179.52
+  032625                   03/26/2025                    1201495-312216 Water - Wood              10 0481 2620 000 0000 411          10.81
+
+Check Number: 410330           Check Type: Check      Check Date: 04/08/2025    Vendor: 002987    CITY OF IOWA CITY            Check Total:        4,496.59
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040125                   04/01/2025                    MAR REFUSE                               10 0000 2610 000 0000 421       2,349.43
+  040125A                  04/01/2025                    MAINT DEPT - LANDFILL                    10 0000 2610 000 0000 421       2,147.16
+
+Check Number: 410331           Check Type: Check      Check Date: 04/08/2025    Vendor: 003588    CITY OF IOWA CITY            Check Total:       35,951.60
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  108793                   03/27/2025                    FUEL                                     10 0000 2650 000 0000 626      10,348.88
+  108793                   03/27/2025                    FUEL                                     10 0000 2700 000 0000 626      25,602.72
+
+Check Number: 410332           Check Type: Check      Check Date: 04/08/2025    Vendor: 006356    DES MOINES PUBLIC SCHOOLS    Check Total:        2,109.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  AR070961                 02/06/2025                    SPEC EDUC TUITION                        10 0000 1200 211 3301 567       2,109.00
+
+Check Number: 410333           Check Type: Check      Check Date: 04/08/2025    Vendor: 005199    MIDAMERICAN ENERGY           Check Total:       48,027.15
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  033125                   03/31/2025                    ELEC-PP                                  10 0050 2620 000 0000 622          49.98
+  033125                   03/31/2025                    ELEC-CITY                                10 0109 2620 000 0000 622       1,081.62
+  033125                   03/31/2025                    ELEC-LIBERTY                             10 0114 2620 000 0000 622      17,358.66
+  033125                   03/31/2025                    ELEC-WEST                                10 0118 2620 000 0000 622         166.57
+  033125                   03/31/2025                    ELEC-TATE                                10 0136 2620 000 0000 622       2,330.03
+  033125                   03/31/2025                    ELEC-KIRKWOOD                            10 0406 2620 000 0000 622          15.14
+  033125                   03/31/2025                    ELEC-LEMME                               10 0417 2620 000 0000 622          38.32
+  033125                   03/31/2025                    ELEC-LINCOLN                             10 0418 2620 000 0000 622       1,703.17
+  033125                   03/31/2025                    ELEC-BORLAUG                             10 0432 2620 000 0000 622       3,183.66
+  033125                   03/31/2025                    ELEC-MANN                                10 0445 2620 000 0000 622          11.41
+  033125                   03/31/2025                    ELEC-HOOVER                              10 0463 2620 000 0000 622       4,099.39
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                      Page: 2
+04/08/2025 12:19 PM                                                                                                                                           User ID: 16976
+Checking Account:      1                  1
+  033125                   03/31/2025                    ELEC-SHIMEK                                       10 0468 2620 000 0000 622                 417.57
+  565072942                03/31/2025                    ELEC - CITY                                       10 0109 2620 000 0000 622              17,571.63
+
+Check Number: 410334           Check Type: Check      Check Date: 04/08/2025    Vendor: 107609             JOSH THOMAS                         Check Total:          650.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  060524                   04/08/2025                    PAY TO RIDE REFUND                                10 0000 1411 100 0000                     650.00
+
+Check Number: 410335           Check Type: Check      Check Date: 04/08/2025    Vendor: 017645             TRI-STATE TRAVEL                    Check Total:        2,435.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  126071                   04/08/2025                    4/8 WEST MUSIC -ISU                               10 0118 2700 950 7208 515               2,435.00
+
+Check Number: 410336           Check Type: Check      Check Date: 04/08/2025    Vendor: 011467             UNITED STATE TREASURY               Check Total:        4,113.35
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  CP161                    03/24/2025                    TAX FILING PENALTY                                10 0000 1100 100 0000 320               4,113.35
+
+Check Number: 410337           Check Type: Check      Check Date: 04/08/2025    Vendor: 000707             WEST BRANCH COMMUNITY SCHOOL        Check Total:       69,416.75
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  020725                   02/07/2025                    SPEC EDUC TUITION                                 10 0000 1200 211 3301 567              36,062.25
+  020725                   02/07/2025                    SPEC EDUC TUITION                                 10 0000 1200 214 3302 567              33,354.50
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   1                           Total without Voids:      170,539.61
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                           Page: 3
+04/08/2025 12:19 PM                                                                                                                                User ID: 16976
+Checking Account:      3                  3
+Check Number: 202091           Check Type: Check      Check Date: 04/08/2025    Vendor: 012794    LATIF AL YASSIRI                  Check Total:          425.79
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  033125                   04/08/2025                    3/31 WEST GSC                            21 0118 1900 920 6825 345              133.39
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345               76.20
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345              216.20
+
+Check Number: 202092           Check Type: Check      Check Date: 04/08/2025    Vendor: 020187    ALPHAGRAPHICS OF NORTH LIBERTY    Check Total:          757.50
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  67705                    03/31/2025                    BANNER - DUGOUT SPORTS                   21 0118 1900 921 6730 611              757.50
+
+Check Number: 202093           Check Type: Check      Check Date: 04/08/2025    Vendor: 013083    HAZIM AL-YASIRI                   Check Total:          417.48
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  040125                   04/08/2025                    4/1 LIB GSC                              21 0114 1900 920 6825 345              131.12
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345               73.18
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345              213.18
+
+Check Number: 202094           Check Type: Check      Check Date: 04/08/2025    Vendor: 008193    ALI AL-YASSERY                    Check Total:          525.68
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  033125                   04/08/2025                    3/31 WEST GSC                            21 0118 1900 920 6825 345              138.07
+  040325                   04/08/2025                    4/3 CITY GSC                             21 0109 1900 920 6825 345              141.47
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345               93.07
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345              153.07
+
+Check Number: 202095           Check Type: Check      Check Date: 04/08/2025    Vendor: 015432    FALAH AL-YASSERY                  Check Total:          492.38
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345               97.55
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345              217.55
+  040725                   04/08/2025                    4/7 CITY BSC                             21 0109 1900 920 6725 345               80.00
+  040725                   04/08/2025                    4/7 CITY GSC                             21 0109 1900 920 6825 345               97.28
+
+Check Number: 202096           Check Type: Check      Check Date: 04/08/2025    Vendor: 008026    ATLANTIC COCA-COLA BOTTLING       Check Total:          814.80
+                                                                                                  COMPANY
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  5075196                  04/02/2025                    FB FAIRLIFE MILK                         21 0118 1900 921 6720 611              814.80
+
+Check Number: 202097           Check Type: Check      Check Date: 04/08/2025    Vendor: 002062    STEVE BERGMAN                     Check Total:          803.90
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  040325                   04/03/2025                    STATE BBB PARKING                        21 0118 1900 921 6710 611               24.00
+  040325                   04/03/2025                    25XXPS & 1XXPS SOFTWARE                  21 0118 1900 921 6710 611              135.00
+  040325A                  04/03/2025                    BBB MILEAGE (NO RM ON BUS)               21 0118 1900 920 6710 582              311.70
+  040325A                  04/03/2025                    STATE BBB & DCG ALL STATE GAME           21 0118 1900 921 6710 611              333.20
+
+Check Number: 202098           Check Type: Check      Check Date: 04/08/2025    Vendor: 019938    GREGORY BEST                      Check Total:          251.72
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number          Detail Amount
+  040325                   04/08/2025                    4/3 CITY GSC                             21 0109 1900 920 6825 345              123.14
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                          Page: 4
+04/08/2025 12:19 PM                                                                                                                               User ID: 16976
+Checking Account:      3                  3
+  040725                   04/08/2025                    4/7 SE BSC                               21 0218 1900 920 6725 345             128.58
+
+Check Number: 202099           Check Type: Check      Check Date: 04/08/2025    Vendor: 015057    BSN SPORTS LLC                   Check Total:        3,350.89
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  929242437                03/20/2025     2500878        Boys Soccer Uniforms                     21 0114 1900 920 6725 616           2,776.45
+  929276341                03/22/2025                    BB JERSEY                                21 0114 1900 921 6730 611              70.00
+  929423034                04/02/2025     2500800        BLACK-TEAM 10K RUNNING SHORT             21 0109 1900 920 6740 616             475.00
+  929423034                04/02/2025     2500800        Freight                                  21 0109 1900 920 6740 616              29.44
+
+Check Number: 202100           Check Type: Check      Check Date: 04/08/2025    Vendor: 002675    CEDAR FALLS HIGH SCHOOL          Check Total:          275.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  041025                   04/03/2025                    4/10 CITY BTK                            21 0109 1900 920 6740 811              75.00
+  041025                   04/03/2025                    4/10 CITY GTK                            21 0109 1900 920 6840 811              75.00
+  041425                   04/08/2025                    4/14 CITY GTK                            21 0114 1900 920 6840 811             125.00
+
+Check Number: 202101           Check Type: Check      Check Date: 04/08/2025    Vendor: 008774    COPYWORKS                        Check Total:            5.69
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  81519                    04/04/2025                    COPIES                                   21 0118 1900 923 6601 611               5.69
+
+Check Number: 202102           Check Type: Check      Check Date: 04/08/2025    Vendor: 104187    CORRIDOR EQUIPMENT RENTAL LLC    Check Total:          143.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  20281                    04/05/2025                    SOD CUTTER RENTAL                        21 0114 1900 923 6601 611             143.00
+
+Check Number: 202103           Check Type: Check      Check Date: 04/08/2025    Vendor: 008160    DAVENPORT ASSUMPTION HIGH        Check Total:          150.00
+                                                                                                  SCHOOL
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  041225                   04/07/2025                    4/12 CITY BTK                            21 0109 1900 920 6740 811             150.00
+
+Check Number: 202104           Check Type: Check      Check Date: 04/08/2025    Vendor: 107604    MICHAEL DEASE                    Check Total:        3,750.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  040225                   04/02/2025                    4/2 CITY JAZZ BAND SHOWCASE JUDGE        21 0109 1900 950 7220 611           3,750.00
+
+Check Number: 202105           Check Type: Check      Check Date: 04/08/2025    Vendor: 106272    SARA DOWNES                      Check Total:          149.63
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  040325                   04/03/2025                    DANCE TEAM BANQUET SPLS                  21 0109 1900 923 6694 611             149.63
+
+Check Number: 202106           Check Type: Check      Check Date: 04/08/2025    Vendor: 107476    JUDY DUNCAN                      Check Total:          632.26
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  040325                   04/03/2025                    DRY ICE                                  21 0114 1900 950 7213 611             317.92
+  040325                   04/03/2025                    SHOW CHOIR SPLS                          21 0114 1900 950 7213 611             112.67
+  040325                   04/03/2025                    CONCESSION SPLS                          21 0114 1900 950 7213 611             201.67
+
+Check Number: 202107           Check Type: Check      Check Date: 04/08/2025    Vendor: 019491    ELITE AWARDS LLC                 Check Total:          185.38
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number         Detail Amount
+  38872                    04/04/2025                    JV TRACK MEDALS                          21 0114 1900 923 6601 611             185.38
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                      Page: 5
+04/08/2025 12:19 PM                                                                                                                           User ID: 16976
+Checking Account:      3                  3
+Check Number: 202108           Check Type: Check      Check Date: 04/08/2025    Vendor: 000031    ELITE SPORTS                 Check Total:          630.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  42778                    04/04/2025                    TRACK/SOCCER SHIRTS                      21 0213 1900 950 7010 611         630.00
+
+Check Number: 202109           Check Type: Check      Check Date: 04/08/2025    Vendor: 007878    SAKINAH ELLICKSON            Check Total:          149.85
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040225                   04/02/2025                    NHS FLOWERS FUNDRAISER                   21 0114 1900 950 7073 611         149.85
+
+Check Number: 202110           Check Type: Check      Check Date: 04/08/2025    Vendor: 005169    FAREWAY STORES               Check Total:          201.51
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  00294551                 03/25/2025                    ACCT: 950023 WEST SPEC PROJ              21 0118 1900 950 7180 611         150.53
+  00295560                 03/28/2025                    ACCT: 950023 WEST SPEC PROJ              21 0118 1900 950 7180 611          50.98
+
+Check Number: 202111           Check Type: Check      Check Date: 04/08/2025    Vendor: 107607    JAMES FEENEY                 Check Total:          167.86
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345          61.08
+  040525                   04/08/2025                    4/5 CITY GSC                             21 0109 1900 920 6825 345         106.78
+
+Check Number: 202112           Check Type: Check      Check Date: 04/08/2025    Vendor: 106859    SCHUYLER FYNAARDT            Check Total:           60.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040325                   04/03/2025                    SPEECH ALL STATE BANNER                  21 0114 1900 950 7325 611          60.00
+
+Check Number: 202113           Check Type: Check      Check Date: 04/08/2025    Vendor: 010837    MALHAR GORE                  Check Total:           61.35
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345          61.35
+
+Check Number: 202114           Check Type: Check      Check Date: 04/08/2025    Vendor: 012786    AMIR HADZIC                  Check Total:          129.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040125                   04/08/2025                    4/1 LIB GSC                              21 0114 1900 920 6825 345         129.00
+
+Check Number: 202115           Check Type: Check      Check Date: 04/08/2025    Vendor: 107610    JOHN HARKER                  Check Total:          176.04
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040725                   04/08/2025                    4/7 CITY BSC                             21 0109 1900 920 6725 345          80.00
+  040725                   04/08/2025                    4/7 CITY GSC                             21 0109 1900 920 6825 345          96.04
+
+Check Number: 202116           Check Type: Check      Check Date: 04/08/2025    Vendor: 013552    JOSH HILDEBRAND              Check Total:            6.26
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  041725                   04/08/2025                    4/17 CITY BTK                            21 0109 1900 920 6740 345           6.26
+  041725                   04/08/2025                    4/17 CITY BTK                            21 0109 1900 920 6740 345           0.00
+
+Check Number: 202117           Check Type: Check      Check Date: 04/08/2025    Vendor: 102838    IOWA CITY ROBOTICS           Check Total:        1,150.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040125                   04/01/2025                    WORLDS FRC TOURNEY FEE                   21 0118 1900 950 7245 611       1,150.00
+
+Check Number: 202118           Check Type: Check      Check Date: 04/08/2025    Vendor: 007004    IOWA HIGH SCHOOL PRESS       Check Total:          470.00
+                                                                                                  ASSOCIATION
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                      Page: 6
+04/08/2025 12:19 PM                                                                                                                           User ID: 16976
+Checking Account:      3                  3
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040225                   04/02/2025                    WEST HS NEWSPAPER CONTEST                21 0118 1900 950 7175 611         334.00
+  040225                   04/02/2025                    SENIOR GRADUATION CORDS                  21 0118 1900 950 7175 611         136.00
+
+Check Number: 202119           Check Type: Check      Check Date: 04/08/2025    Vendor: 012311    IOWA SAFE SCHOOLS            Check Total:        1,050.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  032725                   03/27/2025     2501088        SE MS IA GOVERNOR CONF                   21 0218 1900 950 7020 611         135.67
+  032725                   03/27/2025     2501088        SE MS IA GOVERNOR CONF                   21 0218 1900 950 7117 611         914.33
+
+Check Number: 202120           Check Type: Check      Check Date: 04/08/2025    Vendor: 009765    IOWA/USA WRESTLING           Check Total:        1,430.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  032925                   03/29/2025                    3/29 CITY WR TOURNEY RECEIPTS            21 0109 1900 923 6790 611       1,430.00
+
+Check Number: 202121           Check Type: Check      Check Date: 04/08/2025    Vendor: 001834    J.W. PEPPER & SON, INC.      Check Total:          452.97
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  367363144                03/06/2025                    MUSIC SCORES                             21 0213 1900 950 7210 611         252.99
+  367364994                03/06/2025                    THE FOX                                  21 0213 1900 950 7210 611          60.00
+  367387104                03/13/2025                    CROSSING PIRATES COVE                    21 0209 1900 950 7222 611          10.00
+  367387104                03/13/2025                    THE RED LION                             21 0209 1900 950 7222 611          10.00
+  367423518                03/25/2025                    THE INCREDIBLES                          21 0213 1900 950 7220 611          54.99
+  367430643                03/27/2025                    ROLAND MICROPHONE CABLES                 21 0213 1900 950 7210 611          64.99
+
+Check Number: 202122           Check Type: Check      Check Date: 04/08/2025    Vendor: 013711    MIKE JAY                     Check Total:          300.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  032925                   04/03/2025                    HOLLINGSWORTH RELAYS ANNOUNCER           21 0118 1900 920 6740 811         300.00
+
+Check Number: 202123           Check Type: Check      Check Date: 04/08/2025    Vendor: 105278    JIMMY JOHN'S                 Check Total:          448.14
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040325                   04/03/2025                    4/3 WEST GSC MEAL                        21 0118 1900 921 6825 611         448.14
+
+Check Number: 202124           Check Type: Check      Check Date: 04/08/2025    Vendor: 107117    BRANDON JOLY                 Check Total:          121.46
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  040525                   04/08/2025                    4/5 CITY GSC                             21 0109 1900 920 6825 345         121.46
+
+Check Number: 202125           Check Type: Check      Check Date: 04/08/2025    Vendor: 008640    KEVIN KOFFRON                Check Total:          153.51
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  041725                   04/08/2025                    4/17 NW GTK                              21 0213 1900 920 6740 345          75.00
+  041725                   04/08/2025                    4/17 NW BTK                              21 0213 1900 920 6840 345          78.51
+
+Check Number: 202126           Check Type: Check      Check Date: 04/08/2025    Vendor: 106254    AMBER KREITER                Check Total:           36.05
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+  032425                   03/24/2025                    COFFEE BAR SPLS                          21 0218 1900 950 7020 611          36.05
+
+Check Number: 202127           Check Type: Check      Check Date: 04/08/2025    Vendor: 105585    LINDSEY MEADE                Check Total:          260.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number     Detail Amount
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                             Page: 7
+04/08/2025 12:19 PM                                                                                                                                  User ID: 16976
+Checking Account:      3                  3
+  1473                     04/05/2025                    ORCH SHIRTS                              21 0213 1900 950 7222 611                260.00
+
+Check Number: 202128           Check Type: Check      Check Date: 04/08/2025    Vendor: 017495    LINN-MAR HIGH SCHOOL                Check Total:          100.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  041425                   04/02/2025                    4/14 CITY BTK                            21 0109 1900 920 6740 811                100.00
+
+Check Number: 202129           Check Type: Check      Check Date: 04/08/2025    Vendor: 011056    MARTIN BROS. DISTRIBUTING CO INC    Check Total:          391.97
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  2001230                  04/02/2025                    VENDING SPLS                             21 0114 1900 950 7180 611                391.97
+
+Check Number: 202130           Check Type: Check      Check Date: 04/08/2025    Vendor: 011706    KINOGONO MATAMURA                   Check Total:          121.57
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  040325                   04/08/2025                    4/3 CITY GSC                             21 0109 1900 920 6825 345                121.57
+
+Check Number: 202131           Check Type: Check      Check Date: 04/08/2025    Vendor: 010739    JOHN MATHIAS                        Check Total:          153.67
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  041025                   04/08/2025                    4/10 NC BTK                              21 0209 1900 920 6740 345                 75.00
+  041025                   04/08/2025                    4/10 NC GTK                              21 0209 1900 920 6840 345                 78.67
+
+Check Number: 202132           Check Type: Check      Check Date: 04/08/2025    Vendor: 010832    DAN-DJIBRIL MWAMBA                  Check Total:          155.39
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  040425                   04/08/2025                    4/4 WEST BSC                             21 0118 1900 920 6725 345                155.39
+
+Check Number: 202133           Check Type: Check      Check Date: 04/08/2025    Vendor: 106495    TREVOR NASH                         Check Total:          126.08
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  040525                   04/08/2025                    4/5 CITY GSC                             21 0109 1900 920 6825 345                126.08
+
+Check Number: 202134           Check Type: Check      Check Date: 04/08/2025    Vendor: 019782    NORTH DODGE ATHLETIC CLUB           Check Total:        3,991.25
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  040125                   04/01/2025                    CITY GTN COURT TIME - MAR                21 0109 1900 923 6850 611                170.00
+  705376                   03/31/2025                    SPORTS TRAINING - MAR                    21 0109 1900 923 6601 611              3,581.25
+  705377                   03/31/2025                    JR HIGH LIFTING - MAR                    21 0109 1900 923 6601 611                240.00
+
+Check Number: 202135           Check Type: Check      Check Date: 04/08/2025    Vendor: 107122    VALERIJ PETRULEVICH                 Check Total:          111.13
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  040725                   04/08/2025                    4/7 NC BSC                               21 0209 1900 920 6725 345                111.13
+
+Check Number: 202136           Check Type: Check      Check Date: 04/08/2025    Vendor: 105789    CRAIG CARNEY                        Check Total:          564.96
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  3070                     04/04/2025     2501067        Wilson US Open XD Tennis Balls           21 0109 1900 923 6850 611                564.96
+
+Check Number: 202137           Check Type: Check      Check Date: 04/08/2025    Vendor: 107605    EDWARD RICHARDSON                   Check Total:          250.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                       Chart of Account Number            Detail Amount
+  040225                   04/02/2025                    WEST HS BAND CLINICIAN                   21 0118 1900 950 7220 611                250.00
+
+Check Number: 202138           Check Type: Check      Check Date: 04/08/2025    Vendor: 013765    CIRILO SALINAS RODRIGUEZ            Check Total:          155.15
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                       Detail Check Register                                                                        Page: 8
+04/08/2025 12:19 PM                                                                                                                                             User ID: 16976
+Checking Account:      3                  3
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  040425                   04/08/2025                    4/4 WEST BSC                                      21 0118 1900 920 6725 345                   155.15
+
+Check Number: 202139           Check Type: Check      Check Date: 04/08/2025    Vendor: 013693             TIMOTHY SMITH                         Check Total:          252.53
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  033125                   04/08/2025                    3/31 WEST GSC                                     21 0118 1900 920 6825 345                   124.71
+  040725                   04/08/2025                    4/7 SE BSC                                        21 0218 1900 920 6725 345                   127.82
+
+Check Number: 202140           Check Type: Check      Check Date: 04/08/2025    Vendor: 012454             GARY STEGER                           Check Total:          121.47
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  040125                   04/08/2025                    4/1 LIB GSC                                       21 0114 1900 920 6825 345                   121.47
+
+Check Number: 202141           Check Type: Check      Check Date: 04/08/2025    Vendor: 017331             STITCH IN TIME INC                    Check Total:          180.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  8466                     03/27/2025                    GGF POLOS                                         21 0118 1900 921 6860 611                   180.00
+
+Check Number: 202142           Check Type: Check      Check Date: 04/08/2025    Vendor: 106473             TERENCE COLEMAN                       Check Total:        1,600.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  0329                     03/22/2024                    3/25 & 3/29 TRACK TIMING                          21 0109 1900 920 6740 345                 1,600.00
+
+Check Number: 202143           Check Type: Check      Check Date: 04/08/2025    Vendor: 008903             UNIVERSAL DANCE ASSOCIATION           Check Total:       14,754.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  REG-0011456081           04/01/2025                    LIBERTY HS VARSITY COMP REGISTRATION              21 0114 1900 921 6694 611                 6,790.00
+  REG-0011456082           03/31/2025                    LIBERTY HS JV COMP REGISTRATION                   21 0114 1900 921 6694 611                 7,964.00
+
+Check Number: 202144           Check Type: Check      Check Date: 04/08/2025    Vendor: 107608             UNIVERSITY OF IOWA                    Check Total:        1,100.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  WLD2504                  04/03/2025                    LIBERTY WORLD LANG DAY REG                        21 0114 1900 950 7000 611                 1,100.00
+
+Check Number: 202145           Check Type: Check      Check Date: 04/08/2025    Vendor: 016222             DEL WAGNER                            Check Total:          248.90
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  041725                   04/08/2025                    4/17 CITY BTK                                     21 0109 1900 920 6740 345                   133.90
+  041725                   04/08/2025                    4/17 CITY BTK                                     21 0109 1900 920 6740 345                   115.00
+
+Check Number: 202146           Check Type: Check      Check Date: 04/08/2025    Vendor: 013696             JON WEIH                              Check Total:          250.00
+  Invoice Number           Invoice Date   PO Number      Detail Description                                Chart of Account Number              Detail Amount
+  103                      04/02/2025                    SHERWOOD RELAYS ANNOUNCER                         21 0109 1900 923 6601 611                   250.00
+
+  *Denotes Expensed Invoice Item                                                    Checking Account ID:   3                             Total without Voids:       45,213.17
+IOWA CITY COMMUNITY SCHOOL DISTRICT                                      Detail Check Register                                                                      Page: 9
+04/08/2025 12:19 PM                                                                                                                                          User ID: 16976
+Checking Account:     5                  5
+Check Number: 9028457         Check Type: Check      Check Date: 04/08/2025    Vendor: 105197             ADVANCED BUSINESS SYSTEMS INC       Check Total:        3,105.00
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  38915719                04/03/2025                    SHARP COPIER LEASES                               33 0000 4500 000 8999 733                 453.00
+  38915720                04/03/2025                    SHARP COPIER LEASES                               33 0000 4500 000 8999 733               2,652.00
+
+Check Number: 9028458         Check Type: Check      Check Date: 04/08/2025    Vendor: 010509             CENTURYLINK COMMUNICATIONS, LLC     Check Total:          150.86
+  Invoice Number          Invoice Date   PO Number      Detail Description                                Chart of Account Number            Detail Amount
+  032525A                 03/25/2025                    SECURITY/FIRE LINE                                33 0000 4700 000 8999 450                  74.98
+  032525B                 03/25/2025                    PP SECURITY/FIRE LINE                             33 0000 4700 000 8999 450                  75.88
+
+  *Denotes Expensed Invoice Item                                                   Checking Account ID:   5                           Total without Voids:        3,255.86
+

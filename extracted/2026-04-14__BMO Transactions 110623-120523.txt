@@ -1,0 +1,1305 @@
+Transaction Search - Company
+BMO - Mastercard, 11/06/2023 to 12/05/2023
+
+Posting Date   Tran Date         Account                    Supplier         Amount USD
+  11/6/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Oq8w852a3   $        376.00
+  11/6/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Qt4075ca3   $        616.77
+  11/6/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US 8o0ca1zl3   $        745.84
+  11/6/2023     11/6/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Uf2xq0dv3   $         15.29
+  11/6/2023     11/6/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 1s3aq8ej3   $         24.96
+  11/6/2023     11/6/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Z24jf2553     $         33.49
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Amazon.Com O74yk4ev3     $          6.29
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Amazon.Com O74m43xs3     $         17.99
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Amazon.Com G05oa32u3     $         21.21
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Aq0k66973     $         26.96
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-6555   Walmart.Com              $        143.38
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-7128   Lowes #01688             $         33.96
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5438   Trackwrestling.Com       $         50.00
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-0362   Mailboxes Of Iowa City   $         16.72
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-3288   Psc Distribution Inc     $         78.63
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-7615   Staples 00106260         $         71.98
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Al1f29nt3     $         11.76
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yg0zr5lk3   $         29.99
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 0r81f7qc3     $         31.24
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 131an6p53   $        208.77
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5273   Napa Parts Iowa City     $         15.98
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5273   Pa #437 - Iowa City      $         30.88
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $        (65.00)
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $       (131.20)
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $        135.60
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $        161.04
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-1462   National Speech Debat    $        229.00
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-1470   Sherwin Williams 70378   $         22.89
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $         38.32
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-1880   Usps.Com Clicknship      $          9.65
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-1880   J.W. Pepper              $         82.99
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $        111.85
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5923   Pods 9/100               $        171.23
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5108   Psc Distribution Inc     $        273.92
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-5108   Psc Distribution Inc     $        354.13
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-0021   Zenni Optical, Inc.      $        128.55
+  11/7/2023     11/6/2023 XXXX-XXXX-XXXX-6253   Wal-Mart #1721           $         68.84
+11/7/2023   11/7/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Ee2v90kj3     $      30.19
+11/7/2023   11/7/2023 XXXX-XXXX-XXXX-8046   Broadway Licensing       $      78.95
+11/7/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Qz93i7913     $       2.68
+11/7/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US R56ur7wu3   $      15.99
+11/7/2023   11/7/2023 XXXX-XXXX-XXXX-6253   Dd Doordash Pancheros    $      17.40
+11/7/2023   11/7/2023 XXXX-XXXX-XXXX-6253   Dd Doordash McDonalds    $      18.36
+11/8/2023   11/6/2023 XXXX-XXXX-XXXX-4320   Menards Iowa City Ia     $       8.48
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Z301m4vb3     $      17.99
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-0968   Study.Com 8772644033     $      31.79
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-3697   Hy-Vee Iowa City 1285    $      93.03
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-0134   Psc Distribution Inc     $      46.78
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-3344   Irl Pharmacy             $      30.60
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Mc43o7br3     $       2.68
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US A98iv4po3   $      11.44
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Mj2g90k93     $      12.99
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US K37bg8c33   $      13.94
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Vw7n22233     $      15.54
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 1c6s65ui3     $      25.28
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 9q5k39lb3   $      26.60
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ab3ug78a3   $      35.98
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Tg85p1851     $      45.24
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 6q16704i3     $      48.99
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qm7v99lm3   $      56.42
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vo48c6xs3   $      68.97
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-5273   Napa Parts Iowa City     $      29.98
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $       5.48
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $      23.97
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $      29.98
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $     (29.98)
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-0424   Decker Equip School Fi   $   1,232.93
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-3897   Hy-Vee Coralville 1085   $      85.53
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4320   North Liberty Ace Hard   $      18.97
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-4383   Usps Po 1866150317       $     102.00
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-0071   Hardware Distributors    $      25.42
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-5774   Bts Miracle Recreation   $      50.08
+11/8/2023   11/7/2023 XXXX-XXXX-XXXX-2934   In A3 Performance        $     200.00
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Dq3qy1593     $      17.99
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-6555   Amazon.Com K95o26vg3     $      92.46
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com L36xp8ym3     $       3.90
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US X453810r3   $       8.95
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vc5gt48m3   $      14.94
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Sp8829dj3   $      20.95
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US W59l97fj3   $      23.19
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Mj3fs1ky3     $      25.08
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Eh1ch1313     $     25.99
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Gp3jd5lb3   $     46.63
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 850a59lj3   $     53.96
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6n3324703   $     60.54
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US N837h9ex3   $     64.97
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Jx4sd69m3   $     76.62
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US K14e45663   $     95.90
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $   (101.96)
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qf6ti9is3   $    110.56
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 9x6n45pv3   $    293.35
+11/8/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com We7t349y3     $    779.40
+11/9/2023   11/7/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    150.59
+11/9/2023   11/7/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    649.16
+11/9/2023   11/7/2023 XXXX-XXXX-XXXX-7634   Plumb Supply - Ioc - 0   $     (0.27)
+11/9/2023   11/7/2023 XXXX-XXXX-XXXX-7092   Hobby Lobby #172         $     58.20
+11/9/2023   11/7/2023 XXXX-XXXX-XXXX-4320   Menards Iowa City Ia     $     14.98
+11/9/2023   11/7/2023 XXXX-XXXX-XXXX-4320   Menards Iowa City Ia     $     68.24
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US X966d72z3   $     25.94
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-6555   Walmart.Com 8009666546   $     34.37
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US E431z6gc3   $     36.96
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-6555   Target.Com               $     38.50
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-8046   Joann Stores #2509       $    190.69
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $    131.23
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-0134   Psc Distribution Inc     $    251.29
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com               $     (2.68)
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com               $     (2.68)
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 793lx5ka3   $      6.39
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com F96ns3vy3     $      8.00
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3j8299p43   $     15.13
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ib8pp3vz3     $     15.26
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ym4on59l3     $     15.94
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US O05tg7gt3   $     17.59
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tf7up9453   $     21.99
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US K01ul21m3   $     24.72
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 8y2ty0ux3   $     24.99
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Mn0p72xh3   $     26.62
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 6g0tu2zk3     $     28.44
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5t4af9xl3   $     29.99
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Un8l04q13   $     30.36
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Jz2iq70n3   $     39.96
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Cy4fn66o3     $     52.23
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yb52t84t3   $     59.98
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US M832z6ki3   $     69.69
+11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tm7xz8i03   $    190.80
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qc7g02533   $     217.94
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tc8mo11d0   $     276.08
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-5273   Napa Parts Iowa City     $     191.98
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $      65.82
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     159.98
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-7634   Psc Distribution Inc     $      11.29
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-7634   Plumb Supply - Ioc - 0   $      49.74
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-3897   In Sno Sites             $     850.00
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-9678   Doyle Security Product   $     144.68
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-1880   New Harbinger Publicat   $      11.99
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-5372   Idn-H Hoffman            $      93.33
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-5372   Amzn Mktp US Qk7fs66x3   $     249.90
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-9766   Joann Stores #2509       $      83.31
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-0891   Candle Science Inc.      $     264.99
+ 11/9/2023   11/8/2023 XXXX-XXXX-XXXX-6253   Customink Llc            $     844.65
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Kl4qi6dy3     $     109.72
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US 5a2zt1pk3   $     189.82
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-4783   Microsoft G032291041     $      65.90
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Wz4vz7tx3     $       4.06
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Uo1vh9bs3     $       6.96
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vk0ae99a3   $      16.98
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Zu8em1ov3     $      21.93
+ 11/9/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zu01g0j23   $      29.95
+11/10/2023   11/8/2023 XXXX-XXXX-XXXX-1805   Menards Iowa City Ia     $      22.99
+11/10/2023   11/8/2023 XXXX-XXXX-XXXX-5110   Menards Iowa City Ia     $       2.44
+11/10/2023   11/8/2023 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $      99.88
+11/10/2023   11/8/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $     100.00
+11/10/2023   11/8/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $      29.06
+11/10/2023   11/8/2023 XXXX-XXXX-XXXX-5108   Menards Iowa City Ia     $      23.36
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Qq7th0u33     $      75.54
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp Us             $    (211.20)
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-6555   School Safety Adv Cou    $   1,800.00
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-8046   Joann Stores #2509       $      10.48
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-8046   Math Assoc America       $     142.00
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $      54.37
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $     (11.98)
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tc72x6vy3   $      21.74
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ba2hf0zg3     $      21.93
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 580o15e03   $      27.88
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Hb1ph2y33   $      29.48
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Mu6gk66o3   $      75.00
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Bw7dj45m3     $      94.99
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-9938   Hy-Vee Iowa City 1281    $      50.97
+11/10/2023   11/9/2023 XXXX-XXXX-XXXX-5273   Pa #437 - Iowa City      $      24.54
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-5273   Pa #437 - Iowa City      $   286.11
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    79.54
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $   139.99
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-7634   Psc Distribution Inc     $    24.74
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-7634   White Cap #105           $   116.16
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-4656   Iowa City Ia             $    90.00
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-6243   Uber Trip                $     6.18
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-5128   Pavement Stencil, Llc    $   139.06
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-9678   Easykeyscom Inc          $    44.35
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-9678   Grainger                 $   200.36
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-3050   Sq The Java House H      $   140.00
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-1880   New Harbinger Publicat   $    10.99
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-1390   Wal-Mart #2827           $   113.58
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $    22.83
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $    30.58
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-5923   In Treadmill Heroes      $   800.00
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-5108   Harbor Freight Tools30   $     2.79
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1288    $   136.17
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-2934   Dominos 1733             $   101.63
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-2934   Iwcoa                    $   170.00
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-2934   Sp Merchology            $   374.02
+11/10/2023    11/9/2023 XXXX-XXXX-XXXX-6253   Fareway Stores #950      $    57.88
+11/10/2023   11/10/2023 XXXX-XXXX-XXXX-7754   American 0012492904799   $   471.40
+11/10/2023   11/10/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vc6o935g3   $   622.47
+11/13/2023    11/9/2023 XXXX-XXXX-XXXX-5110   Trane Supply-112603      $   103.99
+11/13/2023    11/9/2023 XXXX-XXXX-XXXX-5110   Trane Supply-112603      $   796.98
+11/13/2023    11/9/2023 XXXX-XXXX-XXXX-9999   Menards Iowa City Ia     $    30.78
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-6384   Sp Schooloutlet          $   154.10
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5110   Trane Supply-112603      $    29.44
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5110   Habegger Rcr             $   121.38
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5110   United Refrig Inc 430    $   320.28
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $   277.75
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5420   Kum&go 3502r Iowa Cit    $    63.28
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5420   Jimmy Johns - 1539 - B   $   169.95
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5420   Mama Di Grados Pasta &   $   256.47
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-2093   Wal-Mart #2827           $   174.98
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-3697   Sq Molly S Cupcakes      $    95.00
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $     8.37
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-9946   Hy-Vee F&f Crlvlle 508   $    30.89
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-9736   Enerspect Medical Solu   $   362.88
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Uw74w07i3   $     9.69
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Du8143jz3   $    83.76
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vi4aq2oz3   $   146.48
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 068d03fg3     $   238.00
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     24.38
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5273   Pa #437 - Iowa City      $      7.97
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5273   Linder Tire - Iowa Cit   $    460.22
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5816   Lowes #00907             $    180.70
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     66.58
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $    103.96
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $    191.88
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    396.28
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-7634   Theisens #19             $    284.33
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-6243   Hcm Mosaic Art Supply    $     12.18
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4706   Iowa Valley Habitat Fo   $     35.25
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-8011   (Pc) 3325 3e Co          $     27.28
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $    703.75
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5128   Vsp Advanced Drainage    $    416.10
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4320   Menards Iowa City Ia     $      5.78
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-6357   Nichols Controls &supp   $     11.52
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-6357   In K & E Distributing    $    275.54
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-3050   North Liberty Ace Hard   $      7.99
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-3050   Dunkin #356644           $    102.56
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-1390   Hy-Vee Coralville 1080   $     38.96
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $     25.48
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4383   Walmart.Com              $     45.58
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5108   Lowes #01688             $     24.98
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-2461   Menards Iowa City Ia     $     10.98
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-2461   Linder Tire - Iowa Cit   $     40.00
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-5774   Stax Ae Outdoor Po       $    188.99
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $      8.17
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-9041   Kings Material Kmi-Cor   $    450.59
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-2934   Flowrestling.Org         $    159.00
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-0021   Grosh Backdrops & Drap   $   (258.62)
+11/13/2023   11/10/2023 XXXX-XXXX-XXXX-4270   Randys Carpets Coralvi   $    340.80
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-6555   Amazon.Com U81dw6j03     $     43.03
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-6384   Moving Minds Usd         $     61.54
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-5420   Comfort Inn              $    100.79
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-5420   Comfort Inn              $    100.79
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-5420   Comfort Inn              $    100.79
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-5420   Comfort Inn              $    100.79
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-5420   Comfort Inn              $    100.79
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-5420   Culvers Marshalltown 2   $    183.40
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $    155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $    155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $    155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $    155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $    155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $   155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $   155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0968   Comfort Inn & Suites     $   155.68
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0362   Jimmy Johns - 2490       $    34.65
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-2677   Homewood Suites          $   139.65
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-2677   Homewood Suites          $   139.65
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-2677   Homewood Suites          $   150.07
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Rq6q93773   $     9.79
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 941t593z3     $     9.99
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 238nt34z3   $    15.99
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US C08qt2gm3   $    22.00
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US W72af1zr3   $    26.96
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Hb6nz5ur3     $    31.99
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0i9xz6md3   $    32.90
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ht5zc9u43   $    55.18
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cw4yi9g33   $    59.82
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6338k26f3   $    61.98
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5c5ip8c23   $    64.95
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Gy2873o13   $    79.45
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3c5nm5xj3   $    79.98
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ds45f9ko3   $   151.50
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-1808   The Leaderboard          $   195.84
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-3897   Harbor Freight Tools     $    56.94
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-3905   Sonesta Select Bettend   $    91.84
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-3905   Sonesta Select Bettend   $    91.84
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-3905   Sonesta Select Bettend   $    91.84
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-3905   Sonesta Select Bettend   $    91.84
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-7228   Menards Iowa City Ia     $    39.95
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-5372   Amzn Mktp US 5f0a57ix3   $   127.99
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-2934   Jimmy Johns - 2674 - E   $   146.75
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-0021   Menards Iowa City Ia     $    53.85
+11/13/2023   11/11/2023 XXXX-XXXX-XXXX-6253   Gobilda                  $   604.37
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-6555   Amazon.Com U61lx9z93     $    14.74
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Zm3zd8hz3   $    46.52
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Pe0vm9363   $   561.42
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-3697   Hy-Vee Iowa City 1285    $    14.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-3697   Wm Supercenter #1721     $    27.98
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-3697   Hy-Vee Iowa City 1285    $    66.00
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Tc8wv1a31     $     6.07
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Of45s26x3   $     7.50
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0v1vv51n3   $    10.00
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tc8g51dq2   $    10.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Rg4q995g3   $    10.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Kc1jh4hx3     $    11.59
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Jt17u7ca3   $    13.68
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Fj2zv9hs3   $    13.89
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 6f75w08q3     $    17.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ba2h19oj3   $    20.19
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Of3g679s3   $    20.85
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com B053592q3     $    23.24
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com S84iy0mq3     $    24.93
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zn6jc87w3   $    27.94
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 7h19j4og3     $    27.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 4s6kw3yr3   $    29.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Uy8d896f3     $    29.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 1w2od8383   $    34.82
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com E86424o43     $    41.25
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3n7st3ib3   $    45.80
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Bu73768q3   $    45.85
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US H790l4a83   $    45.98
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ku69r11m3   $    48.20
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 9s0x33pb3   $    59.95
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Wx8s55r03     $    66.40
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US O93o80ls3   $    73.94
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com G12577bk3     $    81.42
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Og2143ia3     $    93.10
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 417u388x3   $   102.69
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nt6x84hd3   $   132.12
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 1j2o44yu3   $   156.94
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Po1h18y63   $   180.99
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ei9u99fm3   $   189.00
+11/13/2023   11/12/2023 XXXX-XXXX-XXXX-2934   Wal-Mart #1721           $    29.40
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US 8e4pm7xy3   $   162.62
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ff0ne3n03     $     3.99
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Fs9nf1es3     $    23.76
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US If68807h3   $    29.99
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nu2w90qy3   $    94.48
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Hc5sq5di3   $   223.06
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qx2mt5so3   $   251.99
+11/13/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 810s196p3   $   272.21
+11/14/2023   11/12/2023 XXXX-XXXX-XXXX-2934   Aldi 68067               $    13.15
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Gu99v4dx3   $     6.99
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6555   Amazon.Com 3g28e0co3     $    15.95
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6555   Www.Ippanigp.Org         $    20.00
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6555   Amazon.Com               $   (20.03)
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6555   Office Express           $   131.52
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-5420   Playbook Tech, Inc       $   200.00
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-8046   Gobilda                  $   308.95
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $       7.99
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $      57.55
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-3344   Hy-Vee Iowa City 1281    $     145.75
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-3344   Ui Community Home Care   $     243.40
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $      (5.00)
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Www.Amazon Mc25393 10    $       5.00
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ks7di5ua3     $       9.98
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Y51eg4t93   $      12.49
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3j8ay7l63   $      16.78
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Jg1s76xr3   $      17.00
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Xq8n831w3     $      20.23
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ft4ou5z83   $      38.99
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US T78yp1ol0   $      43.00
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ln5mc6cr3   $      47.98
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vc6ky7453   $      53.46
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US U86tq6623   $      62.99
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ds4ke2d53     $      93.08
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 7m1zn7hp3   $     192.84
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    (120.00)
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6243   American 0012493645578   $     319.79
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6243   Office Express           $   1,079.73
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $     177.55
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-3050   Wm Supercenter #2827     $     121.35
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-3050   Wm Supercenter #2827     $     180.79
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-1880   McDonalds M2022          $      18.63
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-1390   Wm Supercenter #2827     $      32.97
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $     207.60
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-8234   Wm Supercenter #1721     $     257.00
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-0071   Hardware Distributors    $      98.98
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-3030   Wm Supercenter #1721     $      10.86
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6253   Walmart.Com              $     133.13
+11/14/2023   11/13/2023 XXXX-XXXX-XXXX-6253   Carolina Biologic Supp   $     166.71
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US I15bn84s3   $     447.82
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Xb2pk6wi3   $     460.32
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Jk0yf9l63     $       9.48
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Fz9gh18r3   $      17.99
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US F50ad4vt3   $      18.90
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US I90ac8sv3   $      18.99
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Af76v5gy3   $      20.99
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Xk8nj76h3   $      21.53
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Y30pt7ye3   $      23.72
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ud7ai5un3   $      28.77
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Kn9654193   $      29.99
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wt39o8mz3   $      43.36
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tc8ad1he1   $    50.00
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US A831z7vi3   $    69.25
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Lc4lv0kf3   $    95.96
+11/14/2023   11/14/2023 XXXX-XXXX-XXXX-3897   Harbor Freight Tools     $    69.93
+11/15/2023   11/13/2023 XXXX-XXXX-XXXX-4706   Menards Iowa City Ia     $    71.83
+11/15/2023   11/13/2023 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $    88.72
+11/15/2023   11/13/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $    19.72
+11/15/2023   11/13/2023 XXXX-XXXX-XXXX-5108   Van Meter Inc - Iowa C   $   175.99
+11/15/2023   11/13/2023 XXXX-XXXX-XXXX-7350   Menards Iowa City Ia     $    34.30
+11/15/2023   11/13/2023 XXXX-XXXX-XXXX-7670   Aldi 68067               $    16.60
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-5110   Plumb Supply - Ioc - 0   $   160.31
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-8113   Woodcraft 586            $    20.98
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4815   The Depot Express #9     $    50.00
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $    45.99
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $   109.80
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 414iq22u3   $     6.99
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Aq4ze3sw3     $     9.89
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5x3939rs3   $    15.84
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Kp60774j3     $    17.49
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US D48na1ce3   $    19.95
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6l2ez4sj3   $    20.00
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tc80w1891   $    24.44
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ma5876uh3   $    24.99
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Rt10p5l83   $    26.88
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US R44ou14u3   $    26.95
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zc7r282h3   $    28.78
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US D19q42cw3   $    49.99
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 256mv8lr3   $    50.97
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Xu0911su3   $    59.82
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 001in8w63   $    60.96
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US T78tp13w0   $    69.99
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Gh23n99t3     $    97.84
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3o50i7n33   $   100.15
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ze3ng1ga3   $   165.61
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Xj3c96d23   $   438.75
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-3818   Hillyard Inc Des Moine   $   198.60
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-5816   Ia Dept Of Agriculture   $    15.00
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-3050   North Liberty Ace Hard   $     7.99
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-1880   Dollartree               $    30.48
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-5108   Johnstone Supply - Ced   $    47.82
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-4823   Kum&go 0521r Coralvil    $    22.96
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1288    $    15.31
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $     5.48
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-9041   Gierke Robinson          $    95.01
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-9041   Gierke Robinson          $      95.01
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-9659   Www.Gallerynucleus.Com   $     115.00
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-6253   Sp Myavidstore Halo      $     373.39
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-9782   Wal-Mart #1721           $      41.39
+11/15/2023   11/14/2023 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $      88.02
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Ta8ad9ig3     $     154.21
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amazon.Com C56rr8ma3     $       4.06
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qv1wg11q3   $       9.99
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US T78as14y2   $      29.99
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US I150t9lu3   $      74.37
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wk0g65lk3   $      97.44
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Mk10z84r3   $     140.99
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Www.Amazon Mc25778 10    $     216.62
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Gj0mm79f3   $     299.85
+11/15/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Eh8nx51h3   $     357.00
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Walmart.Com              $      (5.28)
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Qn9z75el3   $      27.59
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   School Specialty Ecomm   $      45.73
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Walmart.Com              $     146.88
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     219.77
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     219.77
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Stapls7619355872000001   $     268.49
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Rev.Com                  $     303.16
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-7128   Tamarack Materials Inc   $      11.33
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-7128   White Cap #105           $      52.58
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-0968   Wave - Iowa Quiz Bowl    $     185.00
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-3344   Hy-Vee Iowa City 1281    $      26.24
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 9z9ps6ku3   $      22.93
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 138eb9t73   $      29.99
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    (214.34)
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6243   North Liberty Ace Hard   $     101.15
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4706   Dollartree               $      50.10
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4706   Stagespot Llc            $     109.75
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4706   B&h Photo 800-606-6969   $     115.09
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-7261   Sq One Stone, Inc.       $     776.25
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-9410   Alphagraphics N Libert   $     973.13
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $     241.94
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4383   Dollartree               $      36.25
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4383   Lowes #01688             $     440.88
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4823   North Liberty Ace Hard   $       0.92
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4823   The Depot Express #9     $      35.62
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1288    $      29.88
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-0891   Teacherspayteachers.Co   $     403.50
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-5320   Bsn Sports Llc           $   1,065.27
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-6253   Three Samurai Japanese   $      20.26
+11/16/2023   11/15/2023 XXXX-XXXX-XXXX-4270   Sp Reflect Window &      $     144.85
+11/16/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Ups 1z74zl1t0308341112   $      13.34
+11/16/2023   11/16/2023 XXXX-XXXX-XXXX-0968   Papa Johns #1560         $      89.95
+11/16/2023   11/16/2023 XXXX-XXXX-XXXX-4783   Atlassian                $     344.00
+11/16/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 068vv9hy3   $      17.98
+11/17/2023   11/15/2023 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $      44.63
+11/17/2023   11/15/2023 XXXX-XXXX-XXXX-5420   Championship Productio   $     250.00
+11/17/2023   11/15/2023 XXXX-XXXX-XXXX-0362   Casey S #4367            $      68.44
+11/17/2023   11/15/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $      68.08
+11/17/2023   11/15/2023 XXXX-XXXX-XXXX-1880   Aldi 68056               $      31.03
+11/17/2023   11/15/2023 XXXX-XXXX-XXXX-9659   The Eric Carle Museum    $     407.29
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Walmart.Com              $       2.26
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   American Thermoform Co   $      42.99
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Walmart.Com              $      57.80
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US 8i1k41h63   $     233.24
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     243.30
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     243.30
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     256.85
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     256.85
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels            $     939.20
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Comfort Inns             $   4,693.92
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6384   Dominos 1750             $      70.19
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-5110   Johnstone Supply - Ced   $     690.26
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-7128   Decker Equip School Fi   $     279.09
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-5420   Ollies Bargain Outlet    $      29.97
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-8046   Jimmy Johns 011 - E      $      48.05
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-8046   Jimmy Johns 011 - E      $     239.29
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-0362   U-Haul Moving & Storag   $     392.78
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-0362   F&OS                     $     865.58
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-3697   Akon Llc                 $     108.47
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-9946   Lenoch & Cilek Ace #1    $      22.99
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-9946   Aero Rental And Party    $      73.64
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-7615   Grainger                 $     289.71
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 9p1563qb3     $       7.69
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 1x8v72ky3     $       8.27
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Bu68n84s3     $       9.99
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Digital 443ie0gg3   $      10.00
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Digital Fk07u76f3   $      10.00
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Mp2mq06b3     $      15.98
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yg3sh51e3   $      26.50
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 614it03x3   $      29.48
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3k7js4lk3   $      31.98
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wu5i80hi3   $      31.98
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2l98o9ep3   $      44.55
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wj5k874y3   $      49.95
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5t3bi2gq3   $      62.29
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2x4mb1vk3   $      65.51
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US M54xs7lo3   $      84.98
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wn8ty8383   $      88.78
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Kj2vb2x03     $     100.37
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Od5lj0473   $     331.19
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2x1688713   $     600.00
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-7634   Plumb Supply - Ioc - 0   $     554.88
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-3905   Www.Kohls.Com #0873      $     296.75
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-5108   Nichols Controls &supp   $      34.97
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-5108   Johnstone Supply - Ced   $     (47.82)
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-8234   Gopher Family Brands     $     189.28
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-2934   Cke Tavern Blue Coralv   $   1,027.29
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6253   Gobilda                  $      42.58
+11/17/2023   11/16/2023 XXXX-XXXX-XXXX-6253   Cassill Auto Value Ren   $     187.25
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3x8079k33   $       9.95
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wq3r75xj3   $      11.95
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cv3p988p3   $      13.78
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5x1h64od3   $      14.96
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Z27vh7gw3   $      19.97
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nn2514kv3   $      29.42
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 879wi7813   $      36.99
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2u1rt1s73   $      45.03
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Xc9d09g03   $      51.54
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 1q5s690s3     $      56.26
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Aq3fk2m83     $      66.91
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Pe1nr4h83     $      70.82
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pe9eq1bk3   $     116.03
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 809uq71i3   $     267.20
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Nl92o1rt3     $     321.20
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cw5dh9343   $     354.40
+11/17/2023   11/17/2023 XXXX-XXXX-XXXX-9659   Fabric Wholesale Direc   $      42.84
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $      45.65
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-0362   Conoco - Hawkeye Star    $      59.69
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-0362   Hibachi Grill Supreme    $     990.01
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     258.18
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-4892   Pizza Hut 004304         $      89.17
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-4320   Randys Carpets Coralvi   $     415.00
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-4823   Menards Iowa City Ia     $      39.23
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-0071   Menards Iowa City Ia     $      60.94
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-6253   Homedepot.Com            $      22.73
+11/20/2023   11/16/2023 XXXX-XXXX-XXXX-6253   The Home Depot #2108     $     322.12
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US U75wt1qb3   $     12.95
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6555   Amazon.Com 169dw5nu3     $     30.99
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6555   Office Express           $    152.08
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $     39.59
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-5438   Sp Q Swimwear Online     $    642.50
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    269.10
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-0835   Scholastic, Inc.         $    430.12
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-0883   Psc Distribution Inc     $    712.48
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4783   Tritech Corp Of Americ   $     17.94
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Sn7mg9x63   $     11.24
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $    (11.44)
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Uy4ak2133   $     11.99
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US H81ro4yk3   $     12.87
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ye8xl4pq3   $     16.14
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US A32ow9gm3   $     17.86
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amazon.Com U22om4hn3     $     27.99
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 7k2ri6k03   $     31.91
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US St0yn2o13   $     37.48
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US X27ke62g3   $     62.98
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Bb5vm7dy3   $     65.50
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Il79h5ks3   $     67.95
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Md37y8x03   $     95.63
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US T776g2l73   $    127.68
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cf7xt21i3   $    206.20
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US G07ui59z3   $    209.43
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qc5qh8tp3   $    575.82
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $    313.79
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-5273   Napa Parts Iowa City     $     95.99
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-1470   Menards Iowa City Ia     $     13.57
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-5203   Walmart.Com 8009666546   $    137.78
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6243   Hertz #0103002           $    292.08
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    151.75
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-3897   Tst Burgies Coffee &     $     27.22
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-3905   Www.Kohls.Com #0873      $    127.17
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-3905   Lulzbot                  $    137.87
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-3905   Hertz #0103002           $   (292.08)
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4892   Hickory Park Restauran   $     25.20
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6357   Dpt Service              $    459.50
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-1880   Www.Mathcounts.Org       $     17.50
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-1880   Www.Mathcounts.Org       $     35.00
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-1880   Www.Mathcounts.Org       $    140.00
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-2461   Aero Rental And Party    $     90.64
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-0071   Menards Iowa City Ia     $     39.43
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-0071   Staples 00106260         $    339.98
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-2934   Soccerpro.Com            $     55.96
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6061   Uni Athletics-Concessi   $      9.50
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6253   Kwik Star 11400011460    $     44.26
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-6253   Homedepot.Com            $    125.02
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-5669   Ihop 3175                $    300.29
+11/20/2023   11/17/2023 XXXX-XXXX-XXXX-4270   Menards Iowa City Ia     $     61.20
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Rx6g83vm3   $      9.99
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-9828   Menards Iowa City Ia     $    170.14
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amazon.Com K37fo7ti3     $     11.76
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yq5896e83   $     11.99
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 8r0aa31k3   $     14.99
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US R20u09ff3   $     17.39
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amazon.Com F64i31l73     $     23.93
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 1p9687093   $     27.96
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Dn7ng81d3   $     28.66
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US J46ir4xm3   $     54.99
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pi6k85tn3   $     62.87
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 8s6zo3v03   $     66.87
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tw87q10h3   $    124.25
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 1i3rv9sr3   $    138.00
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Oh1uh9w63   $    208.82
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 1h1sw6y43   $    239.98
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 4f6jv79r3   $    417.86
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Caseys #2792             $     17.86
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Caseys #2792             $     18.17
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Hy-Vee F&f Ames 5018     $     27.62
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Hy-Vee F&f Ames 5013     $     35.58
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6243   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Tst Burgies Coffee &     $     38.31
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Hy-Vee F&f Ames 5013     $     57.26
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Caseys #1025             $     70.27
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Hertz #0103002           $    219.06
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3897   Radisson Hotel Ames      $    356.16
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-3905   Hertz #0103002           $   (219.06)
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-4892   Sq Cornbred Barbecue     $     25.80
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-5320   Edpuzzle Pro Teacher     $    12.50
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6253   Panera Bread #203219 O   $    65.88
+11/20/2023   11/18/2023 XXXX-XXXX-XXXX-6253   Gobilda                  $   187.07
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-6555   Amazon.Com 0t1he05j3     $     8.59
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Mr64i3053   $    11.99
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US E50v93kb3   $    73.23
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US P91xn7yq3   $    89.44
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Kf7hf33y3     $   319.99
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Rw3ww2713   $   478.05
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-6384   Hy-Vee Iowa City 1285    $   228.16
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-8046   Enterprise Rent-A-Car    $   202.02
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-2093   Wal-Mart #2827           $    28.19
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US C56we4wp3   $     4.99
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Nq8834x43     $    15.96
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Q78jl2mc3     $    17.49
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amazon.Com G13oq3gp3     $    23.38
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Jw7s89p13   $    23.94
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Xt62h35o3     $    25.20
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ni0nx9yq3   $    32.95
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Za7316ne3     $    41.62
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5r6975d83   $    45.81
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wy8fh3xu3   $    45.96
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Us6j032m3   $    49.99
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US X386m2n73   $    59.99
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ee6e65j73   $    76.90
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ho6nr0cb3   $    92.41
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6s64p1q93   $   223.16
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ga5ml1df3     $   255.75
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Y43n38nu3   $   272.37
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nu7x73o53   $   289.70
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-5372   Amazon.Com Bc1898ol3     $    39.98
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-5372   Amzn Mktp US Vh9yo4fe3   $    72.00
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-2934   Wm Supercenter #1721     $    39.48
+11/20/2023   11/19/2023 XXXX-XXXX-XXXX-5320   Quizizz Inc              $    96.00
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US E154c28k3   $    77.01
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amazon.Com 694xh87g3     $   183.91
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Z76gf3e83     $   265.98
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US T880y8743   $   379.30
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 4z3rc4m63     $     3.98
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US U842d1ut3   $     8.98
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yl40t00y3   $     9.97
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5d30b7lo3   $    23.85
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6a37d5vq3   $   230.76
+11/20/2023   11/20/2023 XXXX-XXXX-XXXX-5816   Sp Nutshell Stores       $   699.99
+11/21/2023   11/19/2023 XXXX-XXXX-XXXX-8046   Casey S #4367            $      62.44
+11/21/2023   11/19/2023 XXXX-XXXX-XXXX-4892   Caseys #2298             $      31.60
+11/21/2023   11/19/2023 XXXX-XXXX-XXXX-7228   Woodcraft 586            $       8.47
+11/21/2023   11/19/2023 XXXX-XXXX-XXXX-7228   Menards Iowa City Ia     $      22.20
+11/21/2023   11/19/2023 XXXX-XXXX-XXXX-2934   Aldi 68067               $      11.85
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Jl3r37gd3     $       9.58
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amazon.Com 757xj28d3     $      16.48
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Av0c99v73   $      17.99
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Ag8pb62z3   $      40.17
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Amazon.Com R18vg19m3     $      59.97
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Hy-Vee Iowa City 1288    $   2,000.00
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-5110   Lowes #01688             $      63.42
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-5110   Johnstone Supply - Ced   $     132.50
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-2093   Wm Supercenter #2827     $      29.68
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $      57.42
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-3344   Hy-Vee Iowa City 1285    $      66.00
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 782x830p3   $      10.73
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ug7pu4nc3   $      13.99
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Et3ig1u13   $      49.18
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $     (51.40)
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-5203   Jimmy Johns - 2101 Mot   $     197.63
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-9219   Walgreens.Com Photo #1   $     158.97
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6243   Midway Van Rental        $     373.60
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-7092   Ia Board Ed Examiners    $      98.00
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-7092   Hy-Vee Iowa City 1285    $     108.00
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-4892   J.W. Pepper              $       6.00
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-5128   Alphagraphics N Libert   $     253.83
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $      45.78
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-4823   North Liberty Ace Hard   $      33.98
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-8234   Nightlock                $      75.77
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-5320   Bsn Sports Llc           $     160.24
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6253   Andy Mark Inc            $      46.00
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6253   Metals Depot             $      77.74
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6253   Sp Wipebook Corp.        $     166.98
+11/21/2023   11/20/2023 XXXX-XXXX-XXXX-6253   Papa Johns #2512         $     169.49
+11/21/2023   11/21/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Ks7454lr3   $      20.26
+11/21/2023   11/21/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pw9wf9n63   $      35.94
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      87.34
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-5110   Trane Supply-112603      $   1,114.52
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $      24.92
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $      24.32
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     313.79
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-5019   Menards Iowa City Ia     $      36.74
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-7634   Trane Supply-112603      $     605.92
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-3905   Business Professionals   $   1,252.16
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-5128   Menards Iowa City Ia     $      19.36
+11/22/2023   11/20/2023 XXXX-XXXX-XXXX-6253   McMaster-Carr            $      16.98
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US 3i0zz9n03   $      10.99
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-6555   Amazon.Com 3q44t14r3     $      15.98
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US Mn89x7b43   $     166.42
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-5438   Www.Defensesoap.Com      $     239.90
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-0968   J.W. Pepper              $      40.99
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-0968   Paypal Mathleague        $     100.00
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-8046   Paypal Bio               $     405.76
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-3344   Ui Community Homecare    $      10.00
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-4746   Amazon.Com               $     (23.76)
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-4746   Amazon.Com B91mm36m3     $      64.09
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-4746   Amazon.Com U208u0gd3     $     111.96
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-3905   Allianz Travel Ins       $      29.58
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-3905   American 0012495433036   $     394.40
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-7092   Sp Wipebook Corp.        $     214.96
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-5128   Ia Dept Of Agriculture   $      15.00
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-4320   Hawkeye Weld Repair In   $      30.00
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $     111.20
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-0063   Ppg Paints 9831          $     224.88
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-2461   Aero Rental And Party    $     932.34
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-6253   Tidal                    $      10.59
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-6253   Andy Mark Inc            $     126.77
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-6253   Sp Numworks              $     999.90
+11/22/2023   11/21/2023 XXXX-XXXX-XXXX-6253   Epic Sports              $   1,765.55
+11/23/2023   11/20/2023 XXXX-XXXX-XXXX-5128   Menards Iowa City Ia     $      (3.41)
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $      19.93
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-0835   Scholastic, Inc.         $     (24.35)
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     177.08
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $     241.70
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-5019   Caseys #2792             $      36.89
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-7634   Menards Iowa City Ia     $      27.99
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-3905   Business Professionals   $      41.60
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $      78.60
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-5128   Pyramid Services         $      23.02
+11/23/2023   11/21/2023 XXXX-XXXX-XXXX-4320   Menards Iowa City Ia     $      73.80
+11/23/2023   11/22/2023 XXXX-XXXX-XXXX-6555   Amazon.Com               $      (6.00)
+11/23/2023   11/22/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $       9.49
+11/23/2023   11/22/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     (24.00)
+11/23/2023   11/22/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $     188.86
+11/23/2023   11/22/2023 XXXX-XXXX-XXXX-5019   Safelite Autoglass       $     385.19
+11/23/2023   11/22/2023 XXXX-XXXX-XXXX-7092   Ia Board Ed Examiners    $      88.00
+11/23/2023   11/22/2023 XXXX-XXXX-XXXX-5128   Alphagraphics N Libert   $     512.72
+11/23/2023   11/23/2023 XXXX-XXXX-XXXX-6555   Ups 1z74zl1t0318693349              $       13.42
+11/23/2023   11/23/2023 XXXX-XXXX-XXXX-6555   Ups 1z74zl1t0301431537              $       23.95
+11/23/2023   11/23/2023 XXXX-XXXX-XXXX-6555   Ups 1z74zl1t0301986126              $       23.95
+11/24/2023   11/22/2023 XXXX-XXXX-XXXX-4320   Randys Carpets Coralvi              $      457.00
+11/27/2023   11/24/2023 XXXX-XXXX-XXXX-8046   Joann Stores #2509                  $       22.14
+11/27/2023   11/24/2023 XXXX-XXXX-XXXX-4858   Bookdepot                           $      404.07
+11/27/2023   11/24/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 6t30449n3                $        9.86
+11/27/2023   11/24/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US T977f3tu3              $       27.99
+11/27/2023   11/24/2023 XXXX-XXXX-XXXX-9774   Wm Supercenter #750                 $       34.61
+11/27/2023   11/25/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cu0ue54f3              $       26.69
+11/27/2023   11/25/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Z312l6oo3              $       85.49
+11/27/2023   11/25/2023 XXXX-XXXX-XXXX-7228   Harbor Freight Tools30              $       33.36
+11/27/2023   11/26/2023 XXXX-XXXX-XXXX-6555   Ups Adj00345064784731               $        3.37
+11/27/2023   11/26/2023 XXXX-XXXX-XXXX-9828   Spotify Usa                         $       18.01
+11/27/2023   11/26/2023 XXXX-XXXX-XXXX-8046   Earl May 150                        $       20.59
+11/27/2023   11/26/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 877xx91h3                $       27.99
+11/27/2023   11/27/2023 XXXX-XXXX-XXXX-5670   Payment - Automatic Pymt Received   $ (209,125.11)
+11/27/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amazon.Com L20lw6yn3                $        3.78
+11/28/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels                       $     (219.77)
+11/28/2023   11/15/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels                       $     (219.77)
+11/28/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels                       $       (2.35)
+11/28/2023   11/16/2023 XXXX-XXXX-XXXX-6555   Hilton Hotels                       $       (2.35)
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-6555   Target.Com                          $       18.66
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-6555   Office Express                      $      119.98
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-5110   Johnstone Supply - Ced              $      413.57
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-7894   Lenoch & Cilek Ace #6               $      111.87
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-0968   Allianz Travel Ins                  $       29.06
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-0968   American 0012496469511              $      387.40
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-0968   Assoc Of Threat Assess              $      850.00
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288               $        6.00
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288               $      168.09
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Lv3zh3tk3              $        7.99
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Js1yw8ko3                $        9.34
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Fq5wd97d3              $        9.99
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Hc1i15u53              $       13.46
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6x1q086q3              $       17.59
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Hf8cb8ql3                $       18.94
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 0c6fh1h93                $       21.79
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 4u6ra71v3              $       22.79
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amazon.Com C527q4sy3                $       24.56
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0f0mz6cr3              $       35.59
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amazon.Com D390a1jv3                $       38.49
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ae5lf96t3              $       39.95
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vm8nt3813              $       45.12
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Kz4280fq3   $    49.99
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ty8ju1r71   $    98.41
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 9i54j6rr3     $   114.81
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-5273   Pa #437 - Iowa City      $   161.22
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-3818   Theisens #19             $   951.02
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    57.80
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    61.46
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $   609.81
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-1462   Bbtm                     $   509.75
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $    68.26
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-0021   Papa Johns #2512         $   297.06
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-6253   Musescore Pro+ & Lite    $    39.99
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $   107.03
+11/28/2023   11/27/2023 XXXX-XXXX-XXXX-6889   Usps.Com Postal Store    $   175.70
+11/29/2023   11/27/2023 XXXX-XXXX-XXXX-5110   Trane Supply-112603      $    15.20
+11/29/2023   11/27/2023 XXXX-XXXX-XXXX-7634   Menards Iowa City Ia     $     5.56
+11/29/2023   11/27/2023 XXXX-XXXX-XXXX-7020   Barnes & Noble #2917     $   700.00
+11/29/2023   11/27/2023 XXXX-XXXX-XXXX-4320   Menards Iowa City Ia     $    63.13
+11/29/2023   11/27/2023 XXXX-XXXX-XXXX-5774   Menards Iowa City Ia     $    25.20
+11/29/2023   11/27/2023 XXXX-XXXX-XXXX-9659   The Eric Carle Museum    $    40.56
+11/29/2023   11/27/2023 XXXX-XXXX-XXXX-4270   Menards Iowa City Ia     $   301.52
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-6555   Amzn Mktp US 6j7e493d3   $     8.64
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-6555   Amazon.Com 881wb8q63     $    29.98
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-6555   Office Express           $   625.00
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-7128   White Cap #105           $    74.38
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-5420   Play It Again #11298     $    29.99
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-0968   Www.Acda.Org             $   125.00
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-0968   Www.Acda.Org             $   125.00
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-0968   Www.Acda.Org             $   125.00
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-2093   Wm Supercenter #1721     $    46.20
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-7858   Hy-Vee Iowa City 1288    $    29.38
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amazon.Com H35lz7ap3     $     8.99
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Sq5ek3sz3   $    35.85
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US R53un4ih3   $    44.75
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $   (46.99)
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $   (46.99)
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $   (46.99)
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $   (46.99)
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yv52n74f3   $    53.78
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 731me2io3     $    60.22
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5r2cl7e83   $    62.97
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Fo0lu9jq3   $    65.99
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 543cx14j3     $   159.22
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    59.98
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-7634   North Liberty Ace Hard   $      18.99
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-1808   Dfw Brewed               $      18.32
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-1808   American 0010271374806   $      30.00
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-1808   Hilton Dragos            $      49.70
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-3905   Usps Po 1866150317       $     234.00
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-9678   Doyle Security Product   $   1,623.15
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-3050   Copyworks Coralville     $      16.32
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-3050   Wal-Mart #2827           $      25.26
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-1880   Dfw Brewed               $      20.85
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $      22.89
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4823   Kings Material Kmi-Cor   $      69.65
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-8234   Teacher Created Resour   $      27.98
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $       7.42
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-4001   Imse                     $     125.00
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-0021   Lowes #01688             $      77.30
+11/29/2023   11/28/2023 XXXX-XXXX-XXXX-0021   Dominos 1733             $     326.43
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ez4kk2223   $      13.99
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US P455i96z3   $      15.98
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com J41ty5ic3     $      16.99
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6m41l2673   $      22.89
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cq5qc7yv3   $      44.88
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 7f9667j93   $     124.67
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ap4475av3     $     184.52
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ee54z2bm3   $     218.70
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $    (622.47)
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-1808   Uber Trip                $      68.68
+11/29/2023   11/29/2023 XXXX-XXXX-XXXX-3897   Flinn Scientific Inc     $      38.28
+11/30/2023   11/28/2023 XXXX-XXXX-XXXX-6555   Assoc Of Threat Assess   $     850.00
+11/30/2023   11/28/2023 XXXX-XXXX-XXXX-0968   Cypress                  $     246.50
+11/30/2023   11/28/2023 XXXX-XXXX-XXXX-0134   Foster Appliance         $     119.95
+11/30/2023   11/28/2023 XXXX-XXXX-XXXX-1808   Cru Dfw Airport          $      17.07
+11/30/2023   11/28/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $      57.35
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-1801   Dollartree               $      32.50
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-0968   Carolina Biologic Supp   $      54.73
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-3697   Sp Swimoutlet.Com        $     533.87
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-3288   Electric Motors Of Ic    $      84.38
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Uy19u8073   $       8.98
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2s2jp40p3   $       8.99
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Xh0lw6g03   $       9.80
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 261cy3pg3   $      10.99
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com W72ce2h83     $      11.17
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 1351p2n73     $      12.99
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Fm5aq7z63     $      15.66
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 4n2m80bw3   $      21.59
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com T10lc9b93     $    23.76
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Us6nq8ng3     $    27.76
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Sr32e5i63     $    27.98
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US N23gi21x3   $    60.81
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6e98p5m73   $    62.86
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zq81u88l3   $   119.96
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US O69xa4at3   $   221.97
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 688vx3q23   $   260.35
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ib9m766k3   $   477.72
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Dg6md66z3   $   572.60
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-7634   Nichols Controls &supp   $   362.95
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-2076   Usps Po 1843920240       $     8.56
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-1808   Mr Eds Oyster Bar - Bi   $    28.01
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-1808   Hilton Hotels Rm Serv    $    50.45
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-3897   Michaels Stores 8757     $    39.67
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-3905   J.W. Pepper              $    80.20
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-1880   Hilton Hotels Rm Serv    $    74.71
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $    22.89
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4823   Ae Outdoor Power         $    66.98
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-4823   Gierke Robinson          $   101.26
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-0071   Hardware Distributors    $   906.50
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $    14.19
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-2934   J.W. Pepper              $    98.74
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-6061   Uda Camps & Competitio   $   684.00
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-0021   Wm Supercenter #1721     $   137.05
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-6253   Lenoch & Cilek Ace #1    $    11.96
+11/30/2023   11/29/2023 XXXX-XXXX-XXXX-9782   Fareway Stores Inc. #9   $   125.66
+11/30/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 8g77r10r3   $    12.99
+11/30/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US El6804eg3   $    19.98
+11/30/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Vn2kz07l3     $   344.08
+11/30/2023   11/30/2023 XXXX-XXXX-XXXX-1808   Uber Trip                $    11.95
+11/30/2023   11/30/2023 XXXX-XXXX-XXXX-6253   Vernier Science Educat   $   768.06
+ 12/1/2023   11/28/2023 XXXX-XXXX-XXXX-7020   Barnes & Noble #2917     $   (39.63)
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $   157.66
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    14.59
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    28.63
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-1808   Cafe Du Monde - City P   $    19.48
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-4706   Menards Marion Ia        $    93.35
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-4706   Menards Marion Ia        $   196.45
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-9410   Menards Iowa City Ia     $    47.81
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     3.50
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-4320   Menards Iowa City Ia     $     7.42
+ 12/1/2023   11/29/2023 XXXX-XXXX-XXXX-1880   Tst Two Chicks Cafe -    $    66.37
+ 12/1/2023   11/30/2023 XXXX-XXXX-XXXX-6555   - Asca -                 $    68.95
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-6555   Target.Com               $    120.61
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-6555   - Asca -                 $    129.00
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-1801   Sp Nbt Clothing          $    404.80
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-8046   Wm Supercenter #2827     $     23.88
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-8046   Sq Donutland             $     58.29
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-0362   Caseys Pizza 3858        $     42.79
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-3344   Hy-Vee Iowa City 1281    $     29.49
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 4x0ou0to3   $      6.39
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3d5fr4m83   $      7.87
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 4q6729c93     $     11.16
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Hn7150xs3     $     14.49
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Vk5fz6ll3   $     14.98
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US K137m8fm3   $     16.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com O580f69q3     $     17.15
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 375o16vw3   $     20.68
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 422n67fa3   $     20.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ki7ca2mm3   $     23.97
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Wr7k46pb3   $     24.92
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cf9d77gc3   $     26.16
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5v89d5o63   $     31.86
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Sz7wo8od3   $     35.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com V79n92ox3     $     35.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3497g07v3   $     37.94
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Qw1ob0ql3     $     38.98
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Qk61w0ep3     $     39.98
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US O32951av3   $     39.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Cp0xj5bl3     $     52.49
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com N44c559l3     $     55.08
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2d41k0f73   $     56.79
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 8s9755oe3   $     63.28
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Tj8sq1az0     $     66.98
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ql0z244a3   $     71.68
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 4x2cf9as3   $    100.73
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tz9m14ip3   $    107.80
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ts8w016l1     $    139.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0t8939z13   $    141.63
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0r4eo0hl3   $    369.82
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cr2ov1am3   $    460.85
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    129.05
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $   (129.05)
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-1808   Uber Trip                $      3.00
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-1808   Uber Trip                $      6.57
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-1808   Uber Trip                $     13.89
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-4706   Science Olympiad, Inc.   $     12.00
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-3897   Michaels Stores 8757     $     169.70
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-9678   Doyle Security Product   $     459.84
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-6357   Johnstone Supply - Ced   $      49.59
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-6357   Nichols Controls &supp   $   1,389.34
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-3050   Wm Supercenter #2827     $      36.74
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-5372   Amzn Mktp US Sm80c0hj3   $      15.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-5372   Amzn Mktp US Dn8xm1k13   $      16.99
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-5396   Amz Woot Llc             $     127.17
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-5396   Usps Po 1843920240       $     136.23
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1288    $     112.01
+12/1/2023   11/30/2023 XXXX-XXXX-XXXX-2934   Dominos 1720             $     191.00
+12/1/2023    12/1/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 869hi69w3     $       8.79
+12/1/2023    12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Of8yk5v03   $      20.97
+12/1/2023    12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Dm9sl6iq3   $      33.02
+12/1/2023    12/1/2023 XXXX-XXXX-XXXX-0021   Rio Grande Inc           $     694.50
+12/4/2023   11/28/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      (4.82)
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-8113   Menards Iowa City Ia     $       2.94
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-5438   Marriott Des Moines      $     286.72
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $      50.00
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-5019   Pyramid Services         $      76.13
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-1470   Menards Iowa City Ia     $      47.24
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-2076   Assoc Of Threat Assess   $     850.00
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-1808   Curio                    $      52.25
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9219   Marriott Des Moines      $     143.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9219   Marriott Des Moines      $     143.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9219   Marriott Des Moines      $     143.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9219   Marriott Des Moines      $     143.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9219   Marriott Des Moines      $     143.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9219   Marriott Des Moines      $     158.31
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-3897   Hobby Lobby #172         $     643.14
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9482   Marriott Des Moines      $     145.05
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9482   Marriott Des Moines      $     145.05
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9482   Marriott Des Moines      $     145.05
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9482   Marriott Des Moines      $     160.00
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9482   Marriott Des Moines      $     182.50
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-9482   Marriott Des Moines      $     182.50
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-1880   Curio                    $      63.99
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $     227.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $     227.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $     227.36
+12/4/2023   11/30/2023 XXXX-XXXX-XXXX-6061   Fairfield Inn & Suites   $     452.48
+12/4/2023    12/1/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $      25.99
+12/4/2023    12/1/2023 XXXX-XXXX-XXXX-6555   Office Express           $     231.86
+12/4/2023    12/1/2023 XXXX-XXXX-XXXX-6555   Office Express           $     233.87
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-6555   School Specialty Ecomm   $   260.24
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $    12.97
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-8046   Paypal Bio               $   195.52
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-3697   Google Gsuite_littleh    $    19.08
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-9999   White Cap #105           $    22.97
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-9999   Van Meter Inc - Iowa C   $    33.00
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-3554   Caseys #2512             $    47.08
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4783   Google Cloud Tsx4v5      $   199.66
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US K94do38r3   $     7.91
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Fv4xa3093   $    18.50
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 645bf7z73   $    28.49
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US A75sf6if3   $    37.59
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3f8ch02b3   $    37.93
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 994vv6r53   $    43.96
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Y26ns20k3   $    49.98
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US R95ur2oc3   $    59.50
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nd5ew2n03   $    98.54
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 145tk8cs3     $   120.78
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US C22ed8ml3   $   221.97
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $    14.49
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-5019   Arnold Motor Supply Lo   $    33.05
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $    83.98
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $   171.10
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $   182.92
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-7634   Nichols Controls &supp   $    82.55
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-1808   Travel Traders #3151     $    21.34
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-3897   Target 00011130          $    71.56
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-3897   Wal-Mart #2827           $   219.06
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-3905   Usps Po 1866150317       $     1.83
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-8011   Van Meter Inc - Iowa C   $     9.57
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4892   Mona Lisa Sound, Inc.    $   295.70
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-5128   Staples 00106260         $    58.97
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-4320   Lowes #01688             $    89.00
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-6357   Batteries+bulbs #0676    $   127.73
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-1880   Sq Mk                    $    12.00
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-1880   Tst Two Chicks Cafe -    $    22.70
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-1880   Hilton Hotels Rm Serv    $    47.92
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-5108   Johnstone Supply - Ced   $    41.40
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-0891   Hy-Vee Iowa City 1288    $     9.31
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-0071   Fastenal Company 01iai   $   131.11
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-9041   Menards Iowa City Ia     $    12.35
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-6061   Vine Tavern & Eatery     $   571.58
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-6253   Sp Wipebook Corp.        $    41.98
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-6253   Gobilda                  $   135.56
+12/4/2023   12/1/2023 XXXX-XXXX-XXXX-6253   Sp Wipebook Corp.        $   136.45
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-1801   Dollar Tree, Inc.        $    25.00
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-7754   Hilton Hotels            $   927.59
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-5438   Marriott Des Moines      $   286.72
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-7615   The Webstaurant Store    $    99.00
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 800nd0lb3   $    31.09
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 849f46uw3   $    68.49
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 1v5bp78k3   $   100.21
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ud1py7re3     $   223.92
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Iy0zz71p3   $   252.56
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Mr77d25f3   $   662.30
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-1808   Uber Trip                $    26.07
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-1808   Hilton Hotels Rm Serv    $    57.18
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-3897   North Liberty Ace Hard   $    48.72
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-1880   Hilton Hotels Rm Serv    $    56.21
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-5372   Amzn Mktp US Pb7gj8um3   $    99.75
+12/4/2023   12/2/2023 XXXX-XXXX-XXXX-5396   Quality Logo Products    $   425.47
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-9828   Wal-Mart #2827           $    92.83
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4783   Dmarcian Dmarcian, In    $   240.00
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Yo2ur8153     $     7.98
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 538kb1g33     $     8.04
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US A33lg8zt3   $     8.99
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com S18mo5oy3     $     9.97
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ax0ol0e93   $    12.86
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tj81q1um0   $    15.99
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cd80c8tq3   $    16.91
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Hf7pf0dp3     $    16.99
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com S095s47e3     $    18.09
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Xg34c2bq3     $    19.95
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Fj3lj2c73   $    19.98
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Aw57m4xa3     $    20.36
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 5z4y88lm3   $    22.28
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Hp9fz2db3   $    22.77
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Lk6gh3xm3     $    23.52
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Wd0rr1k43     $    23.95
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 3670t0qe3   $    25.98
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $   (26.00)
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yd0bh1pi3   $    27.99
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pe55s0u93   $    27.99
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US F24i14qs3   $    29.96
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Fr8tj83o3     $    33.49
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US R034v56i3   $    34.98
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Tg9z314z3     $    37.21
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US R91u470s3   $    44.97
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Tn3b74a03     $      62.66
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com D183g7fv3     $      72.45
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Y613l4kf3     $      83.97
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Yx5jz1pg3   $      98.84
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp Us             $    (104.00)
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Tj8wl1rf0   $     113.23
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pf47m8di3   $     114.95
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ry8dj14l3     $     115.40
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Qz7xs0133   $     122.19
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US L79al8fg3   $     125.17
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 5w7za7ka3     $     133.02
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 7s4655xi3   $     152.24
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Bj3211co3   $     154.93
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ci9ap65t3     $     172.80
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Rc0jo8to3   $     186.74
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 7v28p4cv3   $     200.59
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-1808   Sq Aa Msy Curb           $       3.00
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-1808   American 0010271618451   $      30.00
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-1808   Hilton Hotels            $   1,173.77
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-3897   Wm Supercenter #2827     $     139.03
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-1880   Py Green Market-         $       8.31
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-0021   Lowes #01688             $     (42.36)
+12/4/2023   12/3/2023 XXXX-XXXX-XXXX-0021   Walmart.Com              $     359.22
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Pb34b44c3   $      10.39
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US I581g6sk3   $      19.95
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com A68ex3o63     $      28.80
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ca35r1273   $      31.99
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 018ca8bd3   $      36.17
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US M708e1tr3   $      38.81
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 7n1lj28v3   $      59.97
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 037r82mi3     $      68.96
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 3i1hz8zj3     $      92.86
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US G35e122h3   $     111.99
+12/4/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US O33g470d3   $     241.73
+12/5/2023   12/3/2023 XXXX-XXXX-XXXX-1808   Plum Market St2167       $      22.81
+12/5/2023   12/3/2023 XXXX-XXXX-XXXX-1880   Eastern Iowa Airport P   $      45.00
+12/5/2023   12/3/2023 XXXX-XXXX-XXXX-7228   Menards Iowa City Ia     $     333.18
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-6555   Amazon.Com Yn9hr3hr3     $      24.99
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-6555   Nctm Reg                 $     419.00
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-0968   Technology Student Ass   $     245.00
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-8046   Wm Supercenter #1721     $      69.71
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $      29.90
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $      81.40
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-9946   North Liberty Ace Hard   $      17.97
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-7858   Dollartree               $    41.08
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Cr2rm8be3   $     7.29
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Er7r33wk3   $    11.99
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Sc95a7x13   $    14.99
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Xb0mk36c3   $    16.99
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Oy2md5wu3     $    24.40
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Zy6ag48j3   $    24.94
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 0j8lp5jf3   $    33.50
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Ma2qo58k3     $    49.95
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com I40hb22w3     $    57.16
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Mn7sp1ks3   $    66.54
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 2273z42t3   $    71.94
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 9s9sh1d03     $    85.50
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ic7lq9qn3   $    98.45
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Q43688n43     $   111.60
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 716nl24x3   $   159.99
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Gc3ec3093   $   173.71
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Pa3kb53n3     $   199.80
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Nd64a4ot3   $   525.00
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-5019   Tifco Industries Inc     $   695.70
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-5019   Hi-Line, Inc.            $   709.01
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-1470   Sherwin Williams 70378   $    22.89
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-7634   Psc Distribution Inc     $    23.08
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-7634   Electric Motors Of Ic    $    52.51
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-7262   Dollartree               $    27.75
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-7262   Hy-Vee Coralville 1085   $    73.95
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-3871   Fareway Stores Inc. #9   $   204.85
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-3905   Revrobotics              $    15.82
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-3905   Gobilda                  $   128.98
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-6357   Aces Truck Wash          $    41.20
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-6357   United Refrig Inc 430    $   419.20
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-6357   Johnstone Supply - Ced   $   519.85
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-3050   Wm Supercenter #2827     $   126.83
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70378   $    22.89
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-0063   Sherwin Williams 70328   $   143.17
+12/5/2023   12/4/2023 XXXX-XXXX-XXXX-6061   Wal-Mart #1721           $    31.43
+12/5/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US S62h65sq3   $    38.78
+12/5/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ts96g0wl3   $    94.89
+12/5/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6d4hn7de3   $   254.61
+12/6/2023   12/4/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc # 1059   $    13.98
+12/6/2023   12/4/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $   109.61
+12/6/2023   12/4/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $   415.78
+12/6/2023   12/4/2023 XXXX-XXXX-XXXX-7228   Menards Cedar Rapids S   $   179.62
+12/6/2023   12/4/2023 XXXX-XXXX-XXXX-7228   Menards Marion Ia        $   277.98
+12/6/2023   12/4/2023 XXXX-XXXX-XXXX-6061   Aldi 68067               $     5.68
+12/6/2023   12/4/2023 XXXX-XXXX-XXXX-6253   Hosa, Inc.               $   482.70
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-6555   Walmart.Com              $    46.79
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-9828   Jimmy Johns - 2101 Mot   $   172.16
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-7361   Ia Dept Of Agriculture   $    30.00
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-7894   Lenoch & Cilek Ace #6    $     6.99
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-0968   Hy-Vee Iowa City 7042    $    15.89
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-0968   In Sno Sites             $    22.50
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-0968   Dollar Tree              $    47.53
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-0968   Science National Honor   $    75.00
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-2093   Hy-Vee Iowa City 1288    $     7.92
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-3697   Marriott Des Moines      $   286.72
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-3697   Marriott Des Moines      $   286.72
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amazon.Com Uk3n32vq3     $     9.99
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US Zf05395i3   $    14.98
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US 582z377i3   $    22.97
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amazon.Com 7e3cy7d23     $    25.62
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US Wd1zv9of3   $    28.97
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US Tj8pg12w2   $    30.98
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amazon.Com Ec9os40v3     $    37.66
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US On1uq8rd3   $    46.96
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US 0p8gm31t3   $    77.05
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US Sf0i46y03   $   166.51
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US Ba8yq1p83   $   189.67
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amazon.Com Jc0t735u3     $   344.82
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4984   Amzn Mktp US Xk2po9fp3   $   347.42
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 892659023   $     5.99
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Iv3uo64s3   $    10.87
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Q351060t3     $    12.58
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amazon.Com               $   (23.49)
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US H40aq6243   $    24.99
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amazon.Com 5j74n3mk3     $    27.48
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Bj6ua1jy3   $    27.69
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US O77t72a63   $    36.93
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ql4eo0xm3   $    40.40
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Sd0ra8ye3   $    56.88
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ix28x8o83   $    69.98
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 426ql5b63   $   124.15
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US 6z9uw8b13   $   129.99
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amazon.Com Vj0gc9xu3     $   174.00
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Kk2sv4gq3   $   244.65
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ku6j01vi3   $   490.35
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US St4aa6283   $   565.00
+12/6/2023   12/5/2023 XXXX-XXXX-XXXX-4746   Amzn Mktp US Ry3cw7n83   $   590.00
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-5273   Midwest Frame & Axle.    $      482.76
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-3818   Tifco Industries Inc     $      180.96
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $       59.88
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-5019   Napa Parts Iowa City     $       69.48
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-7020   Fc Slidesgo Universal    $       23.99
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-5108   Staples 00106260         $       42.99
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-9766   Joann Stores #2509       $       57.43
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-4823   Gierke Robinson          $       98.91
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-8234   Carolina Biologic Supp   $      479.37
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-7670   Hy-Vee Iowa City 1285    $        4.69
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-9041   Aero Rental And Party    $      226.60
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-6061   Target 00011130          $       54.56
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-6061   In T Marie Portraits     $      200.00
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-6061   In T Marie Portraits     $      335.00
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-6061   In T Marie Portraits     $      375.00
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-6061   In T Marie Portraits     $      530.00
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-6253   Sp Filmarobics-Thanks!   $       39.36
+12/6/2023    12/5/2023 XXXX-XXXX-XXXX-6253   Hy-Vee Aisles Online 4   $      208.32
+12/7/2023    12/4/2023 XXXX-XXXX-XXXX-6555   Odp Bus Sol Llc# 10686   $        8.95
+12/7/2023    12/5/2023 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $        9.76
+12/7/2023    12/5/2023 XXXX-XXXX-XXXX-7128   Menards Iowa City Ia     $      343.86
+12/7/2023    12/5/2023 XXXX-XXXX-XXXX-0968   Campus Supply            $      417.00
+12/7/2023    12/5/2023 XXXX-XXXX-XXXX-8046   Wm Supercenter #1721     $      (69.71)
+12/7/2023    12/5/2023 XXXX-XXXX-XXXX-9547   Alphagraphics N Libert   $      440.74
+12/7/2023    12/5/2023 XXXX-XXXX-XXXX-4247   Van Meter Inc - Iowa C   $       55.38
+12/7/2023    12/5/2023 XXXX-XXXX-XXXX-5774   Menards Iowa City Ia     $       13.72
+12/8/2023    12/5/2023 XXXX-XXXX-XXXX-6555   N A E Y C Conference     $     (460.00)
+1/15/2024   11/30/2023 XXXX-XXXX-XXXX-3905   Wwbw Cc                  $    1,020.00
+                                             Debit Total              $ 174,679.06
+                                             Credit Total             $ (213,162.38)
+                                             Total                    $ (38,483.32)
+

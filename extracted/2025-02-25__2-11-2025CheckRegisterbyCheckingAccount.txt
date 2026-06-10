@@ -1,0 +1,121 @@
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 1
+02/11/2025 1:13 PM                                                                                                      User ID: 16976
+Checking Account ID: 1              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+409858          02/11/2025                               008904          CIT CHARTERS INC                                   10,659.93
+409859          02/11/2025                               000465          CITY OF IOWA CITY                                     287.89
+409860          02/11/2025                               002987          CITY OF IOWA CITY                                   5,994.24
+409861          02/11/2025                               107512          DANA DEGEETER                                         219.29
+409862          02/11/2025                               012004          GREATAMERICA FINANCIAL SVCS CORP                      273.00
+409863          02/11/2025                               007501          LINN COUNTY REC                                    43,076.42
+409864          02/11/2025                               005199          MIDAMERICAN ENERGY                                 39,793.99
+409865          02/11/2025                               012358          PITNEY BOWES GLOBAL FINANCIAL SVCS                    926.76
+                Check Type Total:      Check                         Void Total:         0.00 Total without Voids:         101,231.52
+                Checking Account Total: 1                            Void Total:         0.00    Total without Voids:      101,231.52
+Checking Account ID: 3                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201661          02/11/2025                               106546          AE OUTDOOR POWER                                      117.72
+201662          02/11/2025                               106442          CHRISTOPHER ANDERSON                                  120.00
+201663          02/11/2025                               107034          ZACH ARMSTRONG                                        480.00
+201664          02/11/2025                               008026          ATLANTIC COCA-COLA BOTTLING COMPANY                   814.80
+201665          02/11/2025                               020580          ANNA BASILE WEHNER                                    483.20
+201666          02/11/2025                               107561          BRENT BEHRENS                                         120.00
+201667          02/11/2025                               106840          RYAN BOBST                                            116.67
+201668          02/11/2025                               019601          CAREY BOSTIAN, II                                     100.00
+201669          02/11/2025                               015057          BSN SPORTS LLC                                      6,813.00
+201670          02/11/2025                               005587          RAY CARLEY                                            113.34
+201671          02/11/2025                               013446          CEDAR RAPIDS KENNEDY HS                               325.00
+201672          02/11/2025                               020192          JOSHUA CHRISTENSEN                                    183.46
+201673          02/11/2025                               107548          ZAC CLARK                                             161.96
+201674          02/11/2025                               010917          COLONIAL BOWLING LANES                              3,575.00
+201675          02/11/2025                               008774          COPYWORKS                                             624.00
+201676          02/11/2025                               104295          CALVIN CORRIN                                         140.85
+201677          02/11/2025                               106253          TRISHUL DAHYA                                          70.81
+201678          02/11/2025                               012513          DECKER SPORTING GOODS INC                           6,636.95
+201679          02/11/2025                               012513          DECKER SPORTING GOODS INC                           5,135.50
+201680          02/11/2025                               012127          MATTHEW DICICCO                                       171.34
+201681          02/11/2025                               107562          RYAN DIXON                                            174.00
+201682          02/11/2025                               009715          STACY DUNBAR                                          165.47
+201683          02/11/2025                               005647          ECISOA                                                170.00
+201684          02/11/2025                               000031          ELITE SPORTS                                          351.00
+201685          02/11/2025                               107559          EMBASSY SUITES MADISON                              9,834.00
+201686          02/11/2025                               014660          PATRICK ENSMINGER                                     240.00
+201687          02/11/2025                               005169          FAREWAY STORES                                        212.31
+201688          02/11/2025                               014712          KEVIN FERRIS                                          156.07
+201689          02/11/2025                               107538          JAYSON GERTH                                          400.00
+201690          02/11/2025                               013174          AARON GRANQUIST                                        74.59
+201691          02/11/2025                               016008          TROY GREENE                                           151.32
+201692          02/11/2025                               105173          PAUL HAGEMAN                                          120.00
+201693          02/11/2025                               106297          SPENCER HINTZ                                          72.11
+201694          02/11/2025                               003771          JAY HONOHAN                                           219.70
+201695          02/11/2025                               008064          SETH ICKOWITZ                                         152.99
+201696          02/11/2025                               005774          IOWA CITY COMM SCH DIST FOUNDATION                  1,000.00
+201697          02/11/2025                               000251          IOWA HIGH SCHOOL ATHLETIC ASSOC                       225.00
+201698          02/11/2025                               001834          J.W. PEPPER & SON, INC.                                 5.80
+201699          02/11/2025                               107560          DERECK KLAASSEN                                       120.00
+201700          02/11/2025                               009404          BLAIR KLINEFELTER                                      70.76
+201701          02/11/2025                               106941          ANDREW KLOSER                                          72.11
+201702          02/11/2025                               002449          PATRICK KNOBBE                                        119.21
+201703          02/11/2025                               107537          DAVID KOBBERDAHL                                      400.00
+201704          02/11/2025                               105195          MANDI KOWAL                                           240.00
+201705          02/11/2025                               014135          RICHARD KUNC                                          130.92
+IOWA CITY COMMUNITY SCHOOL DISTRICT      Check Register by Checking Account                                                    Page: 2
+02/11/2025 1:13 PM                                                                                                      User ID: 16976
+Checking Account ID: 3              Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+201706          02/11/2025                               017495          LINN-MAR HIGH SCHOOL                                  600.00
+201707          02/11/2025                               107541          ERIC LINS                                             300.00
+201708          02/11/2025                               012696          JASON MARLOW                                          120.00
+201709          02/11/2025                               011056          MARTIN BROS. DISTRIBUTING CO INC                    1,307.63
+201710          02/11/2025                               107552          JENNA MASSEY                                           59.40
+201711          02/11/2025                               011485          STEVEN MCDOWELL                                        81.08
+201712          02/11/2025                               105650          ADAM MCLAUGHLIN                                       392.39
+201713          02/11/2025                               017598          RICHARD MEDD                                          375.00
+201714          02/11/2025                               107416          MARCUS MILLARD                                         85.23
+201715          02/11/2025                               107558          ALEXANDER MILTON                                      302.38
+201716          02/11/2025                               017019          ANDREW MILTON                                         120.00
+201717          02/11/2025                               105750          MOUNT VERNON HIGH SCHOOL                              100.00
+201718          02/11/2025                               019782          NORTH DODGE ATHLETIC CLUB                           3,791.25
+201719          02/11/2025                               107556          CONNOR OLSON                                          132.97
+201720          02/11/2025                               107556          CONNOR OLSON                                          132.97
+201721          02/11/2025                               021048          ERIC OLSON                                            132.75
+201722          02/11/2025                               007348          KIM PATIK                                              82.64
+201723          02/11/2025                               105552          JAMAAL PEEPLES                                         83.77
+201724          02/11/2025                               020306          PERFORMANCE HEALTH & FITNESS                        1,910.76
+201725          02/11/2025                               012225          ANDREW PETERSEN                                       120.00
+201726          02/11/2025                               010693          JOSHUA RAGAR                                          120.00
+201727          02/11/2025                               107555          TRAVIS REICHTER                                       130.54
+201728          02/11/2025                               004941          RIDDELL ALL AMERICAN                                7,515.22
+201729          02/11/2025                               008663          PHIL RITCHIE                                           81.99
+201730          02/11/2025                               107539          MATTHEW SANDERS                                       375.00
+201731          02/11/2025                               000749          ROBERT (BOB) SAUNDERS                                 145.86
+201732          02/11/2025                               011576          MATTHEW SHULL                                         240.00
+201733          02/11/2025                               008622          SHEA STAMP                                            141.88
+201734          02/11/2025                               007320          TRACY STONE                                           336.17
+201735          02/11/2025                               105769          BRYAN SYLVESTER                                       148.90
+201736          02/11/2025                               107039          SYNERGY SPORTS TECHNOLOGY LLC                       3,000.00
+201737          02/11/2025                               106302          VAUGHN THADA                                          148.54
+201738          02/11/2025                               107540          JENNIFER TIEDE                                        300.00
+201739          02/11/2025                               017315          TRESONA MULTIMEDIA LLC                                270.00
+201740          02/11/2025                               107006          HENRY TROYKA                                          461.59
+201741          02/11/2025                               106328          ALEXANDER TUTTLE                                      218.19
+201742          02/11/2025                               107557          UNIV OF IA SPORTS MEDICINE                            930.00
+201743          02/11/2025                               008491          JEFF WACHTER                                          120.00
+201744          02/11/2025                               011575          MARK WARTH                                            310.20
+201745          02/11/2025                               008754          ROBERT WASHUT                                         500.00
+201746          02/11/2025                               002492          WEST MUSIC CO INC                                      11.99
+201747          02/11/2025                               012192          CHET WIELAND                                          112.26
+201748          02/11/2025                               107549          ASTOR WILLIAMS                                        120.00
+201749          02/11/2025                               010880          WINDSTAR LINES INC                                  3,090.00
+201750          02/11/2025                               015159          STEPHEN WORSTER                                       171.19
+                Check Type Total:      Check                         Void Total:         0.00  Total without Voids:         70,410.70
+                Checking Account Total: 3                            Void Total:          0.00   Total without Voids:       70,410.70
+Checking Account ID: 5                      Check Type: Check
+Check Number    Check Date   Cleared Void    Void Date   Entity ID       Entity Name                                          Amount
+9028275         02/11/2025                               010509          CENTURYLINK COMMUNICATIONS, LLC                        80.91
+9028276         02/11/2025                               012004          GREATAMERICA FINANCIAL SVCS CORP                      230.00
+                Check Type Total:      Check                         Void Total:       0.00   Total without Voids:             310.91
+                Checking Account Total: 5                            Void Total:          0.00   Total without Voids:          310.91
+
+                                       Grand Total:                  Void Total:          0.00   Total without Voids:      171,953.13
+
