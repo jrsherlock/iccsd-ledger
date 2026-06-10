@@ -7,12 +7,21 @@ published with school-board agendas (June 2024 – June 2026 meetings).
 ## Run it
 
 ```bash
+# stage the source PDFs so per-transaction "view source" links resolve
+# (on Vercel this is the buildCommand in vercel.json; site/docs/ is gitignored)
+mkdir -p site/docs && cp ICCSD_AP_Documents/*.pdf site/docs/
+
 python3 -m http.server 8431 --directory site
 # open http://localhost:8431
 ```
 
-The site is fully static (no build step, no dependencies) — `site/` can be
-deployed to any static host as-is.
+The site is otherwise fully static (no build step, no dependencies) — `site/`
+can be deployed to any static host as-is.
+
+Every transaction row carries `[doc, page]` — an index into the `docs` table
+in `transactions.json` plus a 1-based PDF page — so the app deep-links each
+line item to the exact page of the district document it was parsed from
+(`site/docs/<file>.pdf#page=N`).
 
 ## Rebuild the data
 
