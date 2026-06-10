@@ -645,6 +645,9 @@ def main():
         loc, n = max(votes.items(), key=lambda kv: kv[1])
         card_ev[c] = [loc, n, sum(votes.values())]
     print(f"Card evidence: {len(card_ev)} of {len({r['card'] for r in final_card if r.get('card')})} cards have coded purchases")
+    os.makedirs(OUTDIR, exist_ok=True)
+    with open(os.path.join(OUTDIR, "cards.json"), "w") as fh:
+        json.dump(card_ev, fh, separators=(",", ":"))   # tiny standalone copy for external consumers
 
     # Simbli (eboardsolutions) meeting ids, keyed by meeting date — the app links
     # each document to the board-meeting agenda it was published with
