@@ -167,6 +167,27 @@
   for (const r of ROWS) if (r.obj) { const f = objFamily(r.obj); objFams[f] = (objFams[f] || 0) + r.amount; }
   els.obj.innerHTML += Object.keys(objFams).sort((a, b) => objFams[b] - objFams[a]).map(o => `<option value="${esc(o)}">${esc(o)}</option>`).join("");
 
+  // ---------------- shareable URLs ----------------
+  // the active explore filters live in the hash (#explore?q=…&fund=…) so any
+  // filtered view can be bookmarked, shared, and opened by someone else
+  const FILTER_KEYS = ["q", "fund", "src", "fy", "loc", "obj", "amt", "month"];
+
+  function syncURL() {
+    if ((location.hash || "").split("?")[0] !== "#explore") return;
+    const p = new URLSearchParams();
+    for (const k of FILTER_KEYS) if (state[k]) p.set(k, state[k]);
+    const qs = p.toString();
+    history.replaceState(null, "", location.pathname + "#explore" + (qs ? "?" + qs : ""));
+  }
+
+  function applyHashParams(qs) {
+    const p = new URLSearchParams(qs);
+    for (const k of FILTER_KEYS) state[k] = p.get(k) || "";
+    els.q.value = state.q;
+    for (const k of ["fund", "src", "fy", "loc", "obj", "amt"]) els[k].value = state[k];
+    applyFilters();
+  }
+
   function applyFilters() {
     const q = state.q.trim().toLowerCase();
     const terms = q ? q.split(/\s+/) : [];
@@ -194,6 +215,7 @@
     sortFiltered();
     state.shown = 100;
     renderResults();
+    syncURL();
   }
 
   function sortFiltered() {
@@ -247,6 +269,22 @@
       th.classList.add("sorted");
       sortFiltered(); renderResults();
     });
+  });
+
+  const copyBtn = document.getElementById("copy-link");
+  copyBtn.addEventListener("click", async () => {
+    syncURL();
+    const url = location.href;
+    let ok = true;
+    try { await navigator.clipboard.writeText(url); }
+    catch {
+      const ta = document.createElement("textarea");
+      ta.value = url; document.body.appendChild(ta); ta.select();
+      try { ok = document.execCommand("copy"); } catch { ok = false; }
+      ta.remove();
+    }
+    copyBtn.textContent = ok ? "Link copied ✓" : "Copy failed";
+    setTimeout(() => { copyBtn.textContent = "Copy link"; }, 1800);
   });
 
   document.getElementById("export-csv").addEventListener("click", () => {
@@ -429,18 +467,20 @@
   // ---------------- routing ----------------
   function route() {
     const h = (location.hash || "#overview").slice(1);
-    const tab = ["overview", "explore", "vendors", "schools", "categories", "about"].includes(h) ? h : "overview";
+    const [name, params] = [h.split("?")[0], h.includes("?") ? h.slice(h.indexOf("?") + 1) : ""];
+    const tab = ["overview", "explore", "vendors", "schools", "categories", "about"].includes(name) ? name : "overview";
     document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
     document.getElementById("view-" + tab).classList.add("active");
     document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.tab === tab));
     if (tab === "categories") renderCategories();
+    if (tab === "explore" && params) applyHashParams(params);
     window.scrollTo({ top: 0 });
   }
   window.addEventListener("hashchange", route);
   route();
 
-  // initial explore render + vendors
-  applyFilters();
+  // initial explore render + vendors (skip if route() already applied a shared link)
+  if ((location.hash || "").split("?")[0] !== "#explore" || !location.hash.includes("?")) applyFilters();
   renderVendors();
 
   // dismiss loader
