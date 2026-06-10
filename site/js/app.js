@@ -105,7 +105,8 @@
     }
   }
   stackedBars(document.getElementById("chart-monthly"), months, series, monthFund,
-    (m, k) => gotoExplore({ month: m, fund: k === "__other" ? null : k }));
+    (m, k) => gotoExplore({ month: m, fund: k === "__other" ? null : k }),
+    { through: "2024-04", lines: ["PURCHASING-CARD SPENDING ONLY", "check-run reports begin May 2024"] });
   document.getElementById("legend-monthly").innerHTML = series.map(s =>
     `<div class="legend-item" data-f="${s.key}"><div class="legend-swatch" style="background:${s.color}"></div>${esc(s.label)}</div>`).join("");
   document.getElementById("legend-monthly").querySelectorAll(".legend-item").forEach(li =>

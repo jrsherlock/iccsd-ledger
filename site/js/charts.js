@@ -20,8 +20,10 @@ const tooltip = {
  * Stacked monthly bar chart.
  * series: [{key, label, color}], data: {month: {key: value}}, months: sorted array
  * onClick(month, key)
+ * annotation (optional): {through: "YYYY-MM", lines: [..]} shades months up to
+ * and including `through` and centers the label lines in the shaded region
  */
-function stackedBars(el, months, series, data, onClick) {
+function stackedBars(el, months, series, data, onClick, annotation) {
   const W = 1080, H = 320, padL = 56, padB = 38, padT = 14, padR = 6;
   const innerW = W - padL - padR, innerH = H - padT - padB;
   const totals = months.map(m => series.reduce((s, sr) => s + Math.max(0, (data[m] || {})[sr.key] || 0), 0));
@@ -35,6 +37,19 @@ function stackedBars(el, months, series, data, onClick) {
     const y = padT + innerH - (v / maxV) * innerH;
     g += `<line x1="${padL}" y1="${y}" x2="${W - padR}" y2="${y}" stroke="#d8cdb9" stroke-width="1" stroke-dasharray="1 3"/>`;
     g += `<text x="${padL - 8}" y="${y + 4}" text-anchor="end" font-size="10.5" fill="#8294a8" font-family="IBM Plex Mono">${moneyShort(v)}</text>`;
+  }
+  // annotated region (drawn before bars so they stay on top)
+  if (annotation) {
+    const n = months.filter(m => m <= annotation.through).length;
+    if (n > 0) {
+      const x1 = padL + n * bw;
+      g += `<rect x="${padL}" y="${padT}" width="${(n * bw).toFixed(1)}" height="${innerH}" fill="#8294a8" opacity="0.07"/>`;
+      g += `<line x1="${x1.toFixed(1)}" y1="${padT}" x2="${x1.toFixed(1)}" y2="${padT + innerH}" stroke="#8294a8" stroke-width="1" stroke-dasharray="2 4"/>`;
+      const cx = padL + n * bw / 2, cy = padT + innerH * 0.42;
+      annotation.lines.forEach((t, i) => {
+        g += `<text x="${cx.toFixed(1)}" y="${(cy + i * 16).toFixed(1)}" text-anchor="middle" font-size="10.5" fill="#8294a8" font-family="IBM Plex Mono" letter-spacing="1">${esc(t)}</text>`;
+      });
+    }
   }
   // bars
   months.forEach((m, i) => {
