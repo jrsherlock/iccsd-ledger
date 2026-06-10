@@ -366,7 +366,83 @@
       <a class="more-link" href="#explore" data-q="${esc(name)}">See all ${fmtNum.format(v.n)} transactions &rarr;</a>
     </div>`;
     el.querySelector(".vc-close").addEventListener("click", () => el.innerHTML = "");
-    el.querySelector(".more-link").addEventListener("click", () => gotoExplore({ q: name }));
+    el.querySelector(".more-link").addEventListener("click", e => { e.preventDefault(); gotoExplore({ q: name }); });
+    el.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  // ---------------- cards view ----------------
+  const CARD_EV = raw.cards || {};   // last4 -> [modal coded location, n at modal, total coded]
+  const cAgg = new Map();
+  for (const r of ROWS) {
+    if (r.src !== "c" || !r.ref) continue;
+    let c = cAgg.get(r.ref);
+    if (!c) cAgg.set(r.ref, c = { card: r.ref, total: 0, n: 0, first: r.date, last: r.date, byMonth: {}, merchants: {} });
+    c.total += r.amount; c.n++;
+    if (r.date < c.first) c.first = r.date;
+    if (r.date > c.last) c.last = r.date;
+    c.byMonth[r.month] = (c.byMonth[r.month] || 0) + r.amount;
+    c.merchants[r.group] = (c.merchants[r.group] || 0) + r.amount;
+  }
+  const cardsRanked = [...cAgg.values()].sort((a, b) => b.total - a.total);
+
+  function cardEvidence(card) {
+    const ev = CARD_EV[card];
+    if (!ev) return { kind: "none", html: `<span class="small" style="opacity:.55">no coded purchases</span>` };
+    const [loc, n, of] = ev;
+    if (of >= 5 && n / of >= 0.8)
+      return { kind: "strong", loc, n, of, html: `<strong>${esc(locName(loc))}</strong> <span class="small mono">${n}/${of} coded</span>` };
+    return { kind: "weak", loc, n, of, html: `<span class="small">mixed coding · ${of} coded purchase${of === 1 ? "" : "s"}</span>` };
+  }
+
+  const cbody = document.getElementById("cards-body");
+  const cmore = document.getElementById("cards-more");
+  let cShown = 50;
+
+  function renderCards() {
+    cbody.innerHTML = cardsRanked.slice(0, cShown).map((c, i) => `
+      <tr data-card="${c.card}" style="cursor:pointer">
+        <td class="num mono small">${i + 1}</td>
+        <td class="mono"><strong>····${c.card}</strong></td>
+        <td>${cardEvidence(c.card).html}</td>
+        <td class="num mono">${fmtNum.format(c.n)}</td>
+        <td class="num mono small">${c.first}</td>
+        <td class="num mono small">${c.last}</td>
+        <td class="td-amt">${money(c.total)}</td>
+      </tr>`).join("");
+    cmore.style.display = cardsRanked.length > cShown ? "block" : "none";
+    cmore.textContent = `Show more cards (${fmtNum.format(Math.max(cardsRanked.length - cShown, 0))} remaining)`;
+    cbody.querySelectorAll("tr").forEach(tr =>
+      tr.addEventListener("click", () => showCardDetail(tr.dataset.card)));
+  }
+  cmore.addEventListener("click", () => { cShown += 60; renderCards(); });
+
+  function showCardDetail(card) {
+    const c = cAgg.get(card);
+    if (!c) return;
+    const ev = cardEvidence(card);
+    const topMerch = Object.entries(c.merchants).sort((a, b) => b[1] - a[1]).slice(0, 6);
+    const evLine = ev.kind === "strong"
+      ? `The district's coded P-Card reports tie <strong>${ev.n} of ${ev.of}</strong> of this card's coded purchases to <strong>${esc(locName(ev.loc))}</strong>.`
+      : ev.kind === "weak"
+        ? `This card's ${ev.of} coded purchase${ev.of === 1 ? "" : "s"} spread across buildings — no single assignment is supported.`
+        : `None of this card's purchases appear in the district's coded P-Card reports (published only for spring 2026), so no assignment can be supported.`;
+    const el = document.getElementById("card-detail");
+    el.innerHTML = `<div class="vendor-card">
+      <button class="vc-close" title="close">×</button>
+      <h3 class="mono">Card ····${esc(card)}</h3>
+      <div class="vc-stats">
+        <div class="vc-stat"><div class="lab">Total spent</div><div class="val">${money(c.total)}</div></div>
+        <div class="vc-stat"><div class="lab">Swipes</div><div class="val">${fmtNum.format(c.n)}</div></div>
+        <div class="vc-stat"><div class="lab">First seen</div><div class="val">${c.first}</div></div>
+        <div class="vc-stat"><div class="lab">Last seen</div><div class="val">${c.last}</div></div>
+      </div>
+      ${sparkline(months, c.byMonth)}
+      <p class="small" style="margin-top:8px">${evLine}</p>
+      <div class="vc-accounts">Top merchants: ${topMerch.map(([m, amt]) => `<span>${esc(titleCase(m))} · ${moneyShort(amt)}</span>`).join("")}</div>
+      <a class="more-link" href="#explore" data-card="${esc(card)}">See all ${fmtNum.format(c.n)} swipes &rarr;</a>
+    </div>`;
+    el.querySelector(".vc-close").addEventListener("click", () => el.innerHTML = "");
+    el.querySelector(".more-link").addEventListener("click", e => { e.preventDefault(); gotoExplore({ q: card, src: "c" }); });
     el.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
@@ -468,7 +544,7 @@
   function route() {
     const h = (location.hash || "#overview").slice(1);
     const [name, params] = [h.split("?")[0], h.includes("?") ? h.slice(h.indexOf("?") + 1) : ""];
-    const tab = ["overview", "explore", "vendors", "schools", "categories", "about"].includes(name) ? name : "overview";
+    const tab = ["overview", "explore", "vendors", "cards", "schools", "categories", "about"].includes(name) ? name : "overview";
     document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
     document.getElementById("view-" + tab).classList.add("active");
     document.querySelectorAll(".tab").forEach(t => t.classList.toggle("active", t.dataset.tab === tab));
@@ -482,6 +558,7 @@
   // initial explore render + vendors (skip if route() already applied a shared link)
   if ((location.hash || "").split("?")[0] !== "#explore" || !location.hash.includes("?")) applyFilters();
   renderVendors();
+  renderCards();
 
   // dismiss loader
   setTimeout(() => document.getElementById("loader").classList.add("done"), 350);

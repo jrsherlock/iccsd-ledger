@@ -631,6 +631,21 @@ def main():
         if not os.path.exists(os.path.join(pdfdir, pdf)):
             print(f"  WARNING: referenced source PDF missing: {pdf}")
 
+    # per-card location evidence from the coded P-card rows: for each card last4,
+    # the modal coded location, how many coded rows hit it, and total coded rows.
+    # The apps label a card only when the coding is consistent — no guessed names.
+    card_locs = defaultdict(lambda: defaultdict(int))
+    for r in final_card:
+        if r.get("card") and r.get("acct"):
+            parts = r["acct"].split()
+            if len(parts) == 6:
+                card_locs[r["card"]][parts[1]] += 1
+    card_ev = {}
+    for c, votes in card_locs.items():
+        loc, n = max(votes.items(), key=lambda kv: kv[1])
+        card_ev[c] = [loc, n, sum(votes.values())]
+    print(f"Card evidence: {len(card_ev)} of {len({r['card'] for r in final_card if r.get('card')})} cards have coded purchases")
+
     # Simbli (eboardsolutions) meeting ids, keyed by meeting date — the app links
     # each document to the board-meeting agenda it was published with
     meetings = {}
@@ -643,7 +658,8 @@ def main():
 
     groups = [canon_merchant(v) for v in vendors]
     data = {"fields": ["src", "date", "vendor", "desc", "acct", "amount", "ref", "po", "doc", "page"],
-            "vendors": vendors, "groups": groups, "docs": docs, "meetings": meetings, "rows": rows}
+            "vendors": vendors, "groups": groups, "docs": docs, "meetings": meetings,
+            "cards": card_ev, "rows": rows}
     with open(os.path.join(OUTDIR, "transactions.json"), "w") as fh:
         json.dump(data, fh, separators=(",", ":"), ensure_ascii=False)
     sz = os.path.getsize(os.path.join(OUTDIR, "transactions.json"))

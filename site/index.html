@@ -35,6 +35,7 @@
       <a href="#overview" data-tab="overview" class="tab active">Overview</a>
       <a href="#explore" data-tab="explore" class="tab">Explore<span class="tab-hint mono">86k rows</span></a>
       <a href="#vendors" data-tab="vendors" class="tab">Vendors</a>
+      <a href="#cards" data-tab="cards" class="tab">Cards</a>
       <a href="#schools" data-tab="schools" class="tab">Schools</a>
       <a href="#categories" data-tab="categories" class="tab">Categories</a>
       <a href="#about" data-tab="about" class="tab">About the Data</a>
@@ -171,6 +172,22 @@
         <tbody id="vendor-body"></tbody>
       </table>
       <button id="vendor-more" class="btn btn-wide">Show more vendors</button>
+    </div>
+  </section>
+
+  <!-- ============ CARDS ============ -->
+  <section id="view-cards" class="view">
+    <div class="explore-head">
+      <h2>Purchasing Cards</h2>
+      <p class="panel-sub">The district's BMO Mastercards, known in the statements only by their last four digits &mdash; the published records include no roster of who holds which card. Where the district's own coded P-Card reports (spring&nbsp;2026) consistently tie a card's purchases to one building, that assignment is shown with its evidence. Everything else is left unlabeled rather than guessed.</p>
+    </div>
+    <div id="card-detail"></div>
+    <div class="table-wrap">
+      <table class="ledger-table" id="cards-table">
+        <thead><tr><th class="num mono">#</th><th>Card</th><th>Coded-purchase evidence</th><th class="num">Swipes</th><th class="num">First seen</th><th class="num">Last seen</th><th class="num">Total</th></tr></thead>
+        <tbody id="cards-body"></tbody>
+      </table>
+      <button id="cards-more" class="btn btn-wide">Show more cards</button>
     </div>
   </section>
 
