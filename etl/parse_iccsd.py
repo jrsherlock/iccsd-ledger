@@ -151,9 +151,12 @@ def parse_board_report(path):
     fund_totals = {}
     acct_totals = []
     rows_at_last_acct_total = -1
+    page = 1
 
     for raw in lines:
-        line = raw.rstrip()
+        # pdftotext form feeds prefix the first line of each new page
+        page += raw.count("\f")
+        line = raw.replace("\f", "").rstrip()
         if not line.strip():
             if last_kind == "vendor":
                 last_kind = None  # blank line ends vendor-name wrapping
@@ -212,6 +215,7 @@ def parse_board_report(path):
                     "acct": acct,
                     "fund": fund or acct.split()[0],
                     "amount": parse_amount(m.group("amt")),
+                    "page": page,
                 })
                 last_kind = "detail"
                 continue
@@ -269,7 +273,10 @@ def parse_bmo(path):
     fname = os.path.basename(path)
     has_narrative = False
     rows = []
+    page = 1
     for raw in open(path, encoding="utf-8", errors="replace"):
+        page += raw.count("\f")
+        raw = raw.replace("\f", "")
         if "Narrative Details" in raw:
             has_narrative = True
             continue
@@ -293,6 +300,7 @@ def parse_bmo(path):
                 "supplier": supplier.strip(),
                 "desc": desc.strip(),
                 "amount": amt,
+                "page": page,
             })
     return {"file": fname, "meeting": meeting_date_of(fname), "rows": rows,
             "narrative": has_narrative}
@@ -309,8 +317,10 @@ def parse_pcard(path):
     """Coded P-card lines: acct, tran date, supplier (fixed ~24 col), description, amount."""
     fname = os.path.basename(path)
     rows = []
+    page = 1
     for raw in open(path, encoding="utf-8", errors="replace"):
-        line = raw.rstrip()
+        page += raw.count("\f")
+        line = raw.replace("\f", "").rstrip()
         m = RE_PCARD.match(line)
         if not m:
             continue
@@ -327,6 +337,7 @@ def parse_pcard(path):
             "supplier": supplier.strip(),
             "desc": desc.strip(),
             "amount": parse_amount(m.group("amt")),
+            "page": page,
         })
     return {"file": fname, "meeting": meeting_date_of(fname), "rows": rows}
 
@@ -439,6 +450,7 @@ def main():
     for b in bmo_parsed.values():
         for r in b["rows"]:
             r["meeting"] = b["meeting"]
+            r["file"] = b["file"]
         card_rows.extend(b["rows"])
 
     # cross-file txn-level dedupe (overlapping statement exports)
@@ -465,6 +477,8 @@ def main():
     pcard_rows = []
     for f in by_type["pcard"]:
         p = parse_pcard(os.path.join(EXTRACTED, f))
+        for r in p["rows"]:
+            r["file"] = p["file"]
         pcard_rows.extend(p["rows"])
     print(f"P-card coded rows: {len(pcard_rows)}")
 
@@ -497,6 +511,7 @@ def main():
                 "post_date": None, "tran_date": p["tran_date"], "card": None,
                 "supplier": p["supplier"], "amount": p["amount"],
                 "acct": p["acct"], "desc": p["desc"], "meeting": None,
+                "file": p["file"], "page": p["page"],
             })
             gap_added += 1
         else:
@@ -585,19 +600,38 @@ def main():
             vendors.append(key)
         return vidx[key]
 
+    # source-document table: each row carries [doc index, pdf page] so the app
+    # can deep-link to the exact page of the district's published PDF
+    docs, didx = [], {}
+
+    def did(txtname):
+        pdf = txtname.replace(".txt", ".pdf")
+        if pdf not in didx:
+            didx[pdf] = len(docs)
+            docs.append(pdf)
+        return didx[pdf]
+
     rows = []
     for b in batches:
+        d = did(b["file"])
         for r in b["rows"]:
             rows.append(["a", b["batch_date"], vid(r["vendor"]), r["desc"],
-                         r["acct"], round(r["amount"], 2), r["invoice"], r["po"]])
+                         r["acct"], round(r["amount"], 2), r["invoice"], r["po"],
+                         d, r["page"]])
     for r in final_card:
         rows.append(["c", r["tran_date"], vid(r["supplier"]), r.get("desc", "") or "",
-                     r.get("acct") or "", round(r["amount"], 2), r.get("card") or "", ""])
+                     r.get("acct") or "", round(r["amount"], 2), r.get("card") or "", "",
+                     did(r["file"]), r["page"]])
     rows.sort(key=lambda x: x[1])
 
+    pdfdir = os.path.join(os.path.dirname(__file__), "..", "ICCSD_AP_Documents")
+    for pdf in docs:
+        if not os.path.exists(os.path.join(pdfdir, pdf)):
+            print(f"  WARNING: referenced source PDF missing: {pdf}")
+
     groups = [canon_merchant(v) for v in vendors]
-    data = {"fields": ["src", "date", "vendor", "desc", "acct", "amount", "ref", "po"],
-            "vendors": vendors, "groups": groups, "rows": rows}
+    data = {"fields": ["src", "date", "vendor", "desc", "acct", "amount", "ref", "po", "doc", "page"],
+            "vendors": vendors, "groups": groups, "docs": docs, "rows": rows}
     with open(os.path.join(OUTDIR, "transactions.json"), "w") as fh:
         json.dump(data, fh, separators=(",", ":"), ensure_ascii=False)
     sz = os.path.getsize(os.path.join(OUTDIR, "transactions.json"))

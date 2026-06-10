@@ -239,6 +239,11 @@ main { max-width: 1160px; margin: 0 auto; padding: 30px 20px 80px; }
 .td-tag { font-size: 11.5px; color: var(--ink-soft); white-space: nowrap; }
 .vendor-link { cursor: pointer; }
 .vendor-link:hover { color: var(--navy); text-decoration: underline; }
+.td-doc { text-align: right; white-space: nowrap; }
+.doc-link { font-family: var(--f-mono); font-size: 10px; letter-spacing: .05em; color: var(--navy); text-decoration: none; border: 1px solid var(--paper-deep); border-radius: 3px; padding: 2px 6px; }
+.doc-link:hover { border-color: var(--navy); background: rgba(35, 74, 119, .06); }
+.doc-pg { color: var(--ink-faint); }
+.val-table .doc-link { border: none; padding: 0; font-size: inherit; text-decoration: underline; }
 
 /* ---------------- vendor detail ---------------- */
 .vendor-card {
